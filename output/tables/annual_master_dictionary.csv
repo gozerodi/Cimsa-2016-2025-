@@ -1,0 +1,98 @@
+column,description,formula,unit,source_table
+year,Year the value belongs to,,,all financial tables
+view,own = own report; restated_in_YYYY = comparative column of the YYYY report,,,derived
+restated,True: comparative column of the following report; False: the year's own report,,,financial tables
+report_year,Year of the financial report the values were taken from,,,financial tables (source_file)
+basis,nominal (2016–2022 reports) / tms29 (2023+ reports; purchasing power at report date),,,financial tables
+cash,Financial item: cash,,TRY,financials_annual.csv
+cost_of_sales,Financial item: cost_of_sales,,TRY,cost_items_annual.csv
+depreciation,Financial item: depreciation,,TRY,cost_items_annual.csv
+depreciation_amortization_total,Financial item: depreciation_amortization_total,,TRY,financials_annual.csv
+direct_labor,Financial item: direct_labor,,TRY,cost_items_annual.csv
+discontinued_operations,Financial item: discontinued_operations,,TRY,financials_annual.csv
+energy_cost,Financial item: energy_cost,,TRY,cost_items_annual.csv
+enerjisa_electricity_purchases,Financial item: enerjisa_electricity_purchases,,TRY,financials_annual.csv
+enerjisa_purchases,Financial item: enerjisa_purchases,,TRY,financials_annual.csv
+enerjisa_services_purchases,Financial item: enerjisa_services_purchases,,TRY,financials_annual.csv
+finance_costs,Financial item: finance_costs,,TRY,financials_annual.csv
+finance_income,Financial item: finance_income,,TRY,financials_annual.csv
+financial_debt_total,Financial item: financial_debt_total,,TRY,financials_annual.csv
+fx_exports_try,Financial item: fx_exports_try,,TRY,financials_annual.csv
+fx_imports_try,Financial item: fx_imports_try,,TRY,financials_annual.csv
+fx_rate_eur_average,Financial item: fx_rate_eur_average,,TRY/EUR,financials_annual.csv
+fx_rate_eur_period_end,Financial item: fx_rate_eur_period_end,,TRY/EUR,financials_annual.csv
+fx_rate_usd_average,Financial item: fx_rate_usd_average,,TRY/USD,financials_annual.csv
+fx_rate_usd_period_end,Financial item: fx_rate_usd_period_end,,TRY/USD,financials_annual.csv
+net_income,Financial item: net_income,,TRY,financials_annual.csv
+net_income_minority,Financial item: net_income_minority,,TRY,financials_annual.csv
+net_income_parent,Financial item: net_income_parent,,TRY,financials_annual.csv
+net_monetary_position,Financial item: net_monetary_position,,TRY,financials_annual.csv
+operating_profit,Financial item: operating_profit,,TRY,financials_annual.csv
+other_production,Financial item: other_production,,TRY,cost_items_annual.csv
+raw_material,Financial item: raw_material,,TRY,cost_items_annual.csv
+revenue,Financial item: revenue,,TRY,cost_items_annual.csv
+revenue_deductions,Financial item: revenue_deductions,,TRY,financials_annual.csv
+revenue_domestic,Financial item: revenue_domestic,,TRY,financials_annual.csv
+revenue_export,Financial item: revenue_export,,TRY,financials_annual.csv
+segment_building_materials_cost_of_sales,Financial item: segment_building_materials_cost_of_sales,,TRY,financials_annual.csv
+segment_building_materials_gross_profit,Financial item: segment_building_materials_gross_profit,,TRY,financials_annual.csv
+segment_building_materials_revenue,Financial item: segment_building_materials_revenue,,TRY,financials_annual.csv
+segment_cement_cost_of_sales,Financial item: segment_cement_cost_of_sales,,TRY,financials_annual.csv
+segment_cement_gross_profit,Financial item: segment_cement_gross_profit,,TRY,financials_annual.csv
+segment_cement_revenue,Financial item: segment_cement_revenue,,TRY,financials_annual.csv
+segment_elimination_cost_of_sales,Financial item: segment_elimination_cost_of_sales,,TRY,financials_annual.csv
+segment_elimination_gross_profit,Financial item: segment_elimination_gross_profit,,TRY,financials_annual.csv
+segment_elimination_revenue,Financial item: segment_elimination_revenue,,TRY,financials_annual.csv
+segment_readymix_cost_of_sales,Financial item: segment_readymix_cost_of_sales,,TRY,financials_annual.csv
+segment_readymix_gross_profit,Financial item: segment_readymix_gross_profit,,TRY,financials_annual.csv
+segment_readymix_revenue,Financial item: segment_readymix_revenue,,TRY,financials_annual.csv
+segment_total_cost_of_sales,Financial item: segment_total_cost_of_sales,,TRY,financials_annual.csv
+segment_total_gross_profit,Financial item: segment_total_gross_profit,,TRY,financials_annual.csv
+segment_total_revenue,Financial item: segment_total_revenue,,TRY,financials_annual.csv
+segment_unallocated_cost_of_sales,Financial item: segment_unallocated_cost_of_sales,,TRY,financials_annual.csv
+segment_unallocated_gross_profit,Financial item: segment_unallocated_gross_profit,,TRY,financials_annual.csv
+segment_unallocated_revenue,Financial item: segment_unallocated_revenue,,TRY,financials_annual.csv
+total_production_cost,Financial item: total_production_cost,,TRY,cost_items_annual.csv
+total_energy_consumption,Physical indicator: total_energy_consumption,,MWh,esg_kpis_annual.csv (own) / esg_kpis_candidates.csv (restated)
+clinker_energy_consumption,Physical indicator: clinker_energy_consumption,,MWh,esg_kpis_annual.csv (own) / esg_kpis_candidates.csv (restated)
+thermal_energy_conventional,Physical indicator: thermal_energy_conventional,,MWh,esg_kpis_annual.csv (own) / esg_kpis_candidates.csv (restated)
+electricity_consumption,Physical indicator: electricity_consumption,,MWh,esg_kpis_annual.csv (own) / esg_kpis_candidates.csv (restated)
+self_generated_renewable_electricity,Physical indicator: self_generated_renewable_electricity,,MWh,esg_kpis_annual.csv (own) / esg_kpis_candidates.csv (restated)
+renewable_energy_consumption,Physical indicator: renewable_energy_consumption,,MWh,esg_kpis_annual.csv (own) / esg_kpis_candidates.csv (restated)
+irec_mwh,Physical indicator: irec_mwh,,MWh,esg_kpis_annual.csv (own) / esg_kpis_candidates.csv (restated)
+renewable_electricity_share,Physical indicator: renewable_electricity_share,,%,esg_kpis_annual.csv (own) / esg_kpis_candidates.csv (restated)
+alt_fuel_rate,Physical indicator: alt_fuel_rate,,%,esg_kpis_annual.csv (own) / esg_kpis_candidates.csv (restated)
+alt_fuel_rate_grey,Physical indicator: alt_fuel_rate_grey,,%,esg_kpis_annual.csv (own) / esg_kpis_candidates.csv (restated)
+alt_fuel_rate_white,Physical indicator: alt_fuel_rate_white,,%,esg_kpis_annual.csv (own) / esg_kpis_candidates.csv (restated)
+specific_heat_consumption,Physical indicator: specific_heat_consumption,,MJ/ton_clinker,esg_kpis_annual.csv (own) / esg_kpis_candidates.csv (restated)
+clinker_production,Physical indicator: clinker_production,,ton,esg_kpis_annual.csv (own) / esg_kpis_candidates.csv (restated)
+cement_production_total,Physical indicator: cement_production_total,,ton,esg_kpis_annual.csv (own) / esg_kpis_candidates.csv (restated)
+grey_cement_production,Physical indicator: grey_cement_production,,ton,esg_kpis_annual.csv (own) / esg_kpis_candidates.csv (restated)
+white_cement_production,Physical indicator: white_cement_production,,ton,esg_kpis_annual.csv (own) / esg_kpis_candidates.csv (restated)
+cac_production,Physical indicator: cac_production,,ton,esg_kpis_annual.csv (own) / esg_kpis_candidates.csv (restated)
+ready_mix_production,Physical indicator: ready_mix_production,,m3,esg_kpis_annual.csv (own) / esg_kpis_candidates.csv (restated)
+esg_source,"Source of the physical values; for own rows, restated items used where the own report has none are listed",,,esg_kpis_annual / esg_kpis_candidates
+esg_quality_flags,Physical values whose quality is not 'ok' (suspect / unit_corrected / definition_break),,,esg_kpis_annual
+gross_margin,Gross margin,(revenue − cost_of_sales) / revenue,ratio,derived
+energy_share_production_cost,Share of energy cost in total production cost,energy_cost / total_production_cost,ratio,derived
+energy_to_revenue,Energy cost to revenue,energy_cost / revenue,ratio,derived
+export_share,Share of export sales in gross sales (before deductions),revenue_export / (revenue_domestic + revenue_export),ratio,derived
+ebitda_proxy,EBITDA proxy (operating profit + depreciation adjustment in the cash flow statement),operating_profit + depreciation_amortization_total,TRY,derived
+net_debt,Net financial debt (incl. lease liabilities),financial_debt_total − cash,TRY,derived
+net_debt_to_ebitda,Net debt / EBITDA proxy,net_debt / ebitda_proxy,multiple,derived
+implied_energy_price_try_per_mwh,Implied energy price,energy_cost / total_energy_consumption,TRY/MWh,derived
+energy_cost_per_ton_clinker,Energy cost per ton of clinker,energy_cost / clinker_production,TRY/ton,derived
+electricity_share_proxy,Enerjisa electricity purchases to energy cost (rough indicator of the electricity share),enerjisa_electricity_purchases / energy_cost,ratio,derived
+segment_cement_gross_margin,cement segment gross margin,segment_cement_gross_profit / segment_cement_revenue,ratio,derived
+segment_cement_revenue_share,cement segment revenue share (relative to the sum of operating segments before elimination),segment_cement_revenue / (cement + readymix + building_materials segment revenues),ratio,derived
+segment_readymix_gross_margin,readymix segment gross margin,segment_readymix_gross_profit / segment_readymix_revenue,ratio,derived
+segment_readymix_revenue_share,readymix segment revenue share (relative to the sum of operating segments before elimination),segment_readymix_revenue / (cement + readymix + building_materials segment revenues),ratio,derived
+segment_building_materials_gross_margin,building_materials segment gross margin,segment_building_materials_gross_profit / segment_building_materials_revenue,ratio,derived
+segment_building_materials_revenue_share,building_materials segment revenue share (relative to the sum of operating segments before elimination),segment_building_materials_revenue / (cement + readymix + building_materials segment revenues),ratio,derived
+usd_try_rate_used,FX rate used for USD equivalents,nominal: annual average (year); tms29: year-end (report_year),TRY/USD,fx_rates_annual (EVDS)
+usd_rate_basis,Description of the FX rate used,,,derived
+revenue_usd,revenue in USD,(revenue) / usd_try_rate_used,USD,derived (EVDS rate)
+gross_profit_usd,revenue − cost_of_sales in USD,(revenue − cost_of_sales) / usd_try_rate_used,USD,derived (EVDS rate)
+energy_cost_usd,energy_cost in USD,(energy_cost) / usd_try_rate_used,USD,derived (EVDS rate)
+ebitda_proxy_usd,ebitda_proxy in USD,(ebitda_proxy) / usd_try_rate_used,USD,derived (EVDS rate)
+implied_energy_price_usd_per_mwh,implied_energy_price_try_per_mwh in USD,(implied_energy_price_try_per_mwh) / usd_try_rate_used,USD/MWh,derived (EVDS rate)

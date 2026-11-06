@@ -1,0 +1,377 @@
+year,period,item,value,unit,basis,restated,source_file,source_page,column_type,note
+2016,Q1,cost_of_sales,175376676.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_03.pdf,5,cumulative,report amounts in TRY
+2016,H1,cost_of_sales,391599785.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_06.pdf,7,cumulative,report amounts in TRY
+2016,Q2,cost_of_sales,216223109.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_06.pdf,7,last_3_months,report amounts in TRY; the report's '1 April – period end' (last 3 months) column
+2016,9M,cost_of_sales,576245217.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_09.pdf,5,cumulative,report amounts in TRY
+2016,Q3,cost_of_sales,184645432.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_09.pdf,5,last_3_months,report amounts in TRY; the report's '1 July – period end' (last 3 months) column
+2016,FY,cost_of_sales,794861516.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,7,cumulative,report amounts in TRY
+2017,Q1,cost_of_sales,191305071.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_03.pdf,5,cumulative,report amounts in TRY
+2017,H1,cost_of_sales,479414861.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_06.pdf,6,cumulative,report amounts in TRY
+2017,Q2,cost_of_sales,288109790.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_06.pdf,6,last_3_months,report amounts in TRY; the report's '1 April – period end' (last 3 months) column
+2017,9M,cost_of_sales,778740338.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_09.pdf,5,cumulative,report amounts in TRY
+2017,Q3,cost_of_sales,299325477.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_09.pdf,5,last_3_months,report amounts in TRY; the report's '1 July – period end' (last 3 months) column
+2017,FY,cost_of_sales,1095690025.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,9,cumulative,report amounts in TRY
+2018,Q1,cost_of_sales,266545874.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_03.pdf,5,cumulative,report amounts in TRY
+2018,H1,cost_of_sales,620476203.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_06.pdf,6,cumulative,report amounts in TRY
+2018,Q2,cost_of_sales,353930329.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_06.pdf,6,last_3_months,report amounts in TRY; the report's '1 April – period end' (last 3 months) column
+2018,9M,cost_of_sales,952791866.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_09.pdf,5,cumulative,report amounts in TRY
+2018,Q3,cost_of_sales,332315663.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_09.pdf,5,last_3_months,report amounts in TRY; the report's '1 July – period end' (last 3 months) column
+2018,FY,cost_of_sales,1293977441.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,9,cumulative,report amounts in TRY
+2019,Q1,cost_of_sales,268980133.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_03.pdf,5,cumulative,report amounts in TRY
+2019,H1,cost_of_sales,662336403.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_06.pdf,6,cumulative,report amounts in TRY
+2019,Q2,cost_of_sales,393356270.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_06.pdf,6,last_3_months,report amounts in TRY; the report's '1 April – period end' (last 3 months) column
+2019,9M,cost_of_sales,1051599792.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_09.pdf,5,cumulative,report amounts in TRY
+2019,Q3,cost_of_sales,389263389.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_09.pdf,5,last_3_months,report amounts in TRY; the report's '1 July – period end' (last 3 months) column
+2019,FY,cost_of_sales,1422037589.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,9,cumulative,report amounts in TRY
+2020,Q1,cost_of_sales,348023193.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_03.pdf,5,cumulative,report amounts in TRY
+2020,H1,cost_of_sales,798725684.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_06.pdf,7,cumulative,report amounts in TRY
+2020,Q2,cost_of_sales,450702491.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_06.pdf,7,last_3_months,report amounts in TRY; the report's '1 April – period end' (last 3 months) column
+2020,9M,cost_of_sales,1293086494.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_09.pdf,5,cumulative,report amounts in TRY
+2020,Q3,cost_of_sales,494360810.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_09.pdf,5,last_3_months,report amounts in TRY; the report's '1 July – period end' (last 3 months) column
+2020,FY,cost_of_sales,1608546273.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,12,cumulative,report amounts in TRY
+2021,Q1,cost_of_sales,500807982.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_03.pdf,5,cumulative,report amounts in TRY; line has 3 number cells; first 2 used (raw: 'Satışların maliyeti (-) 23 (500.807.982) (265.027.959) 1.577.651.788')
+2021,H1,cost_of_sales,1265035903.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_06.pdf,6,cumulative,report amounts in TRY
+2021,Q2,cost_of_sales,764227921.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_06.pdf,6,last_3_months,report amounts in TRY; the report's '1 April – period end' (last 3 months) column
+2021,9M,cost_of_sales,1983881338.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_09.pdf,5,cumulative,report amounts in TRY
+2021,Q3,cost_of_sales,718845435.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_09.pdf,5,last_3_months,report amounts in TRY; the report's '1 July – period end' (last 3 months) column
+2021,FY,cost_of_sales,3032410647.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,10,cumulative,report amounts in TRY
+2022,Q1,cost_of_sales,1178313430.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_03.pdf,5,cumulative,report amounts in TRY
+2022,H1,cost_of_sales,2911736239.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_06.pdf,7,cumulative,report amounts in TRY
+2022,Q2,cost_of_sales,1733422809.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_06.pdf,7,last_3_months,report amounts in TRY; the report's '1 April – period end' (last 3 months) column
+2022,9M,cost_of_sales,4899931047.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_09.pdf,5,cumulative,report amounts in TRY
+2022,Q3,cost_of_sales,1988194808.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_09.pdf,5,last_3_months,report amounts in TRY; the report's '1 July – period end' (last 3 months) column
+2022,FY,cost_of_sales,7102632857.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,10,cumulative,report amounts in TRY
+2023,Q1,cost_of_sales,1938969000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_03.pdf,5,cumulative,report amounts in TRY thousand
+2023,H1,cost_of_sales,4170531000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_06.pdf,7,cumulative,report amounts in TRY thousand
+2023,Q2,cost_of_sales,2231562000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_06.pdf,7,last_3_months,report amounts in TRY thousand; the report's '1 April – period end' (last 3 months) column
+2023,9M,cost_of_sales,6910179000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_09.pdf,5,cumulative,report amounts in TRY thousand
+2023,Q3,cost_of_sales,2739647000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_09.pdf,5,last_3_months,report amounts in TRY thousand; the report's '1 July – period end' (last 3 months) column
+2016,Q1,depreciation,14890559.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_03.pdf,30,cumulative,report amounts in TRY
+2016,H1,depreciation,29501034.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_06.pdf,37,cumulative,report amounts in TRY
+2016,Q2,depreciation,14610475.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_06.pdf,37,last_3_months,report amounts in TRY; the report's '1 April – period end' (last 3 months) column
+2016,9M,depreciation,44775648.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_09.pdf,35,cumulative,report amounts in TRY
+2016,Q3,depreciation,15274614.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_09.pdf,35,last_3_months,report amounts in TRY; the report's '1 July – period end' (last 3 months) column
+2016,FY,depreciation,56975398.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,56,cumulative,report amounts in TRY
+2017,Q1,depreciation,16561971.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_03.pdf,30,cumulative,report amounts in TRY
+2017,H1,depreciation,34425059.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_06.pdf,30,cumulative,report amounts in TRY
+2017,Q2,depreciation,17863088.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_06.pdf,30,last_3_months,report amounts in TRY; the report's '1 April – period end' (last 3 months) column
+2017,9M,depreciation,53751450.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_09.pdf,31,cumulative,report amounts in TRY
+2017,Q3,depreciation,19326391.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_09.pdf,31,last_3_months,report amounts in TRY; the report's '1 July – period end' (last 3 months) column
+2017,FY,depreciation,79193926.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,52,cumulative,report amounts in TRY
+2018,Q1,depreciation,24038559.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_03.pdf,42,cumulative,report amounts in TRY
+2018,H1,depreciation,48319849.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_06.pdf,45,cumulative,report amounts in TRY
+2018,Q2,depreciation,24281290.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_06.pdf,45,last_3_months,report amounts in TRY; the report's '1 April – period end' (last 3 months) column
+2018,9M,depreciation,77717222.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_09.pdf,42,cumulative,report amounts in TRY
+2018,Q3,depreciation,29397373.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_09.pdf,42,last_3_months,report amounts in TRY; the report's '1 July – period end' (last 3 months) column
+2018,FY,depreciation,106181039.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,58,cumulative,report amounts in TRY
+2019,Q1,depreciation,27611949.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_03.pdf,54,cumulative,report amounts in TRY
+2019,H1,depreciation,66652349.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_06.pdf,54,cumulative,report amounts in TRY
+2019,Q2,depreciation,39097188.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_06.pdf,54,last_3_months,report amounts in TRY; the report's '1 April – period end' (last 3 months) column
+2019,9M,depreciation,103020666.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_09.pdf,53,cumulative,report amounts in TRY
+2019,Q3,depreciation,36311529.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_09.pdf,53,last_3_months,report amounts in TRY; the report's '1 July – period end' (last 3 months) column
+2019,FY,depreciation,132132993.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,59,cumulative,report amounts in TRY
+2020,Q1,depreciation,34203575.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_03.pdf,47,cumulative,report amounts in TRY
+2020,H1,depreciation,71862982.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_06.pdf,49,cumulative,report amounts in TRY
+2020,Q2,depreciation,37659407.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_06.pdf,49,last_3_months,report amounts in TRY; the report's '1 April – period end' (last 3 months) column
+2020,9M,depreciation,106693498.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_09.pdf,47,cumulative,report amounts in TRY
+2020,Q3,depreciation,34830517.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_09.pdf,47,last_3_months,report amounts in TRY; the report's '1 July – period end' (last 3 months) column
+2020,FY,depreciation,118828795.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,62,cumulative,report amounts in TRY
+2021,Q1,depreciation,29286469.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_03.pdf,53,cumulative,report amounts in TRY
+2021,H1,depreciation,56982784.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_06.pdf,47,cumulative,report amounts in TRY
+2021,Q2,depreciation,27696315.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_06.pdf,47,last_3_months,report amounts in TRY; the report's '1 April – period end' (last 3 months) column
+2021,9M,depreciation,85611002.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_09.pdf,46,cumulative,report amounts in TRY
+2021,Q3,depreciation,28628218.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_09.pdf,46,last_3_months,report amounts in TRY; the report's '1 July – period end' (last 3 months) column
+2021,FY,depreciation,114433165.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,59,cumulative,report amounts in TRY
+2022,Q1,depreciation,27360661.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_03.pdf,43,cumulative,report amounts in TRY
+2022,H1,depreciation,55261231.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_06.pdf,47,cumulative,report amounts in TRY
+2022,Q2,depreciation,27900570.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_06.pdf,47,last_3_months,report amounts in TRY; the report's '1 April – period end' (last 3 months) column
+2022,9M,depreciation,96303504.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_09.pdf,45,cumulative,report amounts in TRY
+2022,Q3,depreciation,41042273.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_09.pdf,45,last_3_months,report amounts in TRY; the report's '1 July – period end' (last 3 months) column
+2022,FY,depreciation,129404058.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,59,cumulative,report amounts in TRY
+2023,Q1,depreciation,31420000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_03.pdf,41,cumulative,report amounts in TRY thousand
+2023,H1,depreciation,64677000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_06.pdf,45,cumulative,report amounts in TRY thousand
+2023,Q2,depreciation,33257000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_06.pdf,45,last_3_months,report amounts in TRY thousand; the report's '1 April – period end' (last 3 months) column
+2023,9M,depreciation,99081000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_09.pdf,43,cumulative,report amounts in TRY thousand
+2023,Q3,depreciation,34404000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_09.pdf,43,last_3_months,report amounts in TRY thousand; the report's '1 July – period end' (last 3 months) column
+2016,Q1,direct_labor,2624782.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_03.pdf,30,cumulative,report amounts in TRY
+2016,H1,direct_labor,28408749.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_06.pdf,37,cumulative,report amounts in TRY
+2016,Q2,direct_labor,14993721.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_06.pdf,37,last_3_months,report amounts in TRY; the report's '1 April – period end' (last 3 months) column
+2016,9M,direct_labor,42201402.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_09.pdf,35,cumulative,report amounts in TRY
+2016,Q3,direct_labor,13792653.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_09.pdf,35,last_3_months,report amounts in TRY; the report's '1 July – period end' (last 3 months) column
+2016,FY,direct_labor,56398631.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,56,cumulative,report amounts in TRY
+2017,Q1,direct_labor,3166584.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_03.pdf,30,cumulative,report amounts in TRY
+2017,H1,direct_labor,6370786.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_06.pdf,30,cumulative,"report amounts in TRY; label read garbled, identified by letter-order matching (raw: 'g D i i d r e e r k l t e r iş i çilik giderleri')"
+2017,Q2,direct_labor,3204201.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_06.pdf,30,last_3_months,"report amounts in TRY; label read garbled, identified by letter-order matching (raw: 'g D i i d r e e r k l t e r iş i çilik giderleri'); the report's '1 April – period end' (last 3 months) column"
+2017,9M,direct_labor,41501998.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_09.pdf,31,cumulative,report amounts in TRY
+2017,Q3,direct_labor,19093543.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_09.pdf,31,last_3_months,report amounts in TRY; the report's '1 July – period end' (last 3 months) column
+2017,FY,direct_labor,63324236.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,52,cumulative,report amounts in TRY
+2018,Q1,direct_labor,17099199.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_03.pdf,42,cumulative,report amounts in TRY
+2018,H1,direct_labor,37572948.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_06.pdf,45,cumulative,report amounts in TRY
+2018,Q2,direct_labor,20473749.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_06.pdf,45,last_3_months,report amounts in TRY; the report's '1 April – period end' (last 3 months) column
+2018,9M,direct_labor,89206226.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_09.pdf,42,cumulative,report amounts in TRY
+2018,Q3,direct_labor,51633278.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_09.pdf,42,last_3_months,report amounts in TRY; the report's '1 July – period end' (last 3 months) column
+2018,FY,direct_labor,71584320.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,58,cumulative,report amounts in TRY
+2019,Q1,direct_labor,19720566.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_03.pdf,54,cumulative,report amounts in TRY
+2019,H1,direct_labor,42029366.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_06.pdf,54,cumulative,report amounts in TRY
+2019,Q2,direct_labor,70272593.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_06.pdf,54,last_3_months,report amounts in TRY; the report's '1 April – period end' (last 3 months) column
+2019,9M,direct_labor,62516225.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_09.pdf,53,cumulative,report amounts in TRY
+2019,Q3,direct_labor,20543646.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_09.pdf,53,last_3_months,report amounts in TRY; the report's '1 July – period end' (last 3 months) column
+2019,FY,direct_labor,82344604.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,59,cumulative,report amounts in TRY
+2020,Q1,direct_labor,22660502.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_03.pdf,47,cumulative,report amounts in TRY
+2020,H1,direct_labor,47437161.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_06.pdf,49,cumulative,report amounts in TRY
+2020,Q2,direct_labor,24776659.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_06.pdf,49,last_3_months,report amounts in TRY; the report's '1 April – period end' (last 3 months) column
+2020,9M,direct_labor,82304282.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_09.pdf,47,cumulative,report amounts in TRY
+2020,Q3,direct_labor,27867121.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_09.pdf,47,last_3_months,report amounts in TRY; the report's '1 July – period end' (last 3 months) column
+2020,FY,direct_labor,102001277.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,62,cumulative,report amounts in TRY
+2021,Q1,direct_labor,28798672.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_03.pdf,53,cumulative,report amounts in TRY
+2021,H1,direct_labor,59314276.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_06.pdf,47,cumulative,"report amounts in TRY; label read garbled, identified by letter-order matching (raw: 'gDiidreerklte rişiçilik giderleri')"
+2021,Q2,direct_labor,30515605.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_06.pdf,47,last_3_months,"report amounts in TRY; label read garbled, identified by letter-order matching (raw: 'gDiidreerklte rişiçilik giderleri'); the report's '1 April – period end' (last 3 months) column"
+2021,9M,direct_labor,86950848.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_09.pdf,46,cumulative,"report amounts in TRY; label read garbled, identified by letter-order matching (raw: 'gDiidreerklte rişi çilik giderleri')"
+2021,Q3,direct_labor,27636572.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_09.pdf,46,last_3_months,"report amounts in TRY; label read garbled, identified by letter-order matching (raw: 'gDiidreerklte rişi çilik giderleri'); the report's '1 July – period end' (last 3 months) column"
+2021,FY,direct_labor,116650115.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,59,cumulative,report amounts in TRY
+2022,Q1,direct_labor,41388963.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_03.pdf,43,cumulative,report amounts in TRY
+2022,H1,direct_labor,84636413.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_06.pdf,47,cumulative,"report amounts in TRY; label read garbled, identified by letter-order matching (raw: 'gDiidreerklte rişiçilik giderleri')"
+2022,Q2,direct_labor,43247450.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_06.pdf,47,last_3_months,"report amounts in TRY; label read garbled, identified by letter-order matching (raw: 'gDiidreerklte rişiçilik giderleri'); the report's '1 April – period end' (last 3 months) column"
+2022,9M,direct_labor,139692505.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_09.pdf,45,cumulative,"report amounts in TRY; label read garbled, identified by letter-order matching (raw: 'gDiidreerklte rişi çilik giderleri')"
+2022,Q3,direct_labor,55056093.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_09.pdf,45,last_3_months,"report amounts in TRY; label read garbled, identified by letter-order matching (raw: 'gDiidreerklte rişi çilik giderleri'); the report's '1 July – period end' (last 3 months) column"
+2022,FY,direct_labor,193098773.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,59,cumulative,report amounts in TRY
+2023,Q1,direct_labor,80816000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_03.pdf,41,cumulative,report amounts in TRY thousand
+2023,H1,direct_labor,159134000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_06.pdf,45,cumulative,report amounts in TRY thousand
+2023,Q2,direct_labor,78319000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_06.pdf,45,last_3_months,report amounts in TRY thousand; the report's '1 April – period end' (last 3 months) column
+2023,9M,direct_labor,264024000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_09.pdf,43,cumulative,report amounts in TRY thousand
+2023,Q3,direct_labor,104890000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_09.pdf,43,last_3_months,report amounts in TRY thousand; the report's '1 July – period end' (last 3 months) column
+2016,Q1,energy_cost,64524595.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_03.pdf,30,cumulative,report amounts in TRY
+2016,H1,energy_cost,124314044.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_06.pdf,37,cumulative,report amounts in TRY
+2016,Q2,energy_cost,59789449.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_06.pdf,37,last_3_months,report amounts in TRY; the report's '1 April – period end' (last 3 months) column
+2016,9M,energy_cost,186696872.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_09.pdf,35,cumulative,report amounts in TRY
+2016,Q3,energy_cost,62382828.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_09.pdf,35,last_3_months,report amounts in TRY; the report's '1 July – period end' (last 3 months) column
+2016,FY,energy_cost,268194690.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,56,cumulative,report amounts in TRY
+2017,Q1,energy_cost,77576929.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_03.pdf,30,cumulative,report amounts in TRY
+2017,H1,energy_cost,165176325.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_06.pdf,30,cumulative,report amounts in TRY
+2017,Q2,energy_cost,87599396.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_06.pdf,30,last_3_months,report amounts in TRY; the report's '1 April – period end' (last 3 months) column
+2017,9M,energy_cost,253562919.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_09.pdf,31,cumulative,report amounts in TRY
+2017,Q3,energy_cost,88386593.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_09.pdf,31,last_3_months,report amounts in TRY; the report's '1 July – period end' (last 3 months) column
+2017,FY,energy_cost,347817990.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,52,cumulative,report amounts in TRY
+2018,Q1,energy_cost,102795423.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_03.pdf,42,cumulative,report amounts in TRY
+2018,H1,energy_cost,219274822.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_06.pdf,45,cumulative,"report amounts in TRY; label read garbled, identified by letter-order matching (raw: 'gEindeerrjlie grii derleri')"
+2018,Q2,energy_cost,116479399.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_06.pdf,45,last_3_months,"report amounts in TRY; label read garbled, identified by letter-order matching (raw: 'gEindeerrjlie grii derleri'); the report's '1 April – period end' (last 3 months) column"
+2018,9M,energy_cost,352746153.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_09.pdf,42,cumulative,"report amounts in TRY; label read garbled, identified by letter-order matching (raw: 'gEindeerrjlie grii derleri')"
+2018,Q3,energy_cost,133471331.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_09.pdf,42,last_3_months,"report amounts in TRY; label read garbled, identified by letter-order matching (raw: 'gEindeerrjlie grii derleri'); the report's '1 July – period end' (last 3 months) column"
+2018,FY,energy_cost,466365193.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,58,cumulative,report amounts in TRY
+2019,Q1,energy_cost,112245171.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_03.pdf,54,cumulative,report amounts in TRY
+2019,H1,energy_cost,248065323.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_06.pdf,54,cumulative,"report amounts in TRY; label read garbled, identified by letter-order matching (raw: 'gEindeerrjlie grii derleri')"
+2019,Q2,energy_cost,241193398.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_06.pdf,54,last_3_months,"report amounts in TRY; label read garbled, identified by letter-order matching (raw: 'gEindeerrjlie grii derleri'); the report's '1 April – period end' (last 3 months) column"
+2019,9M,energy_cost,373727383.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_09.pdf,53,cumulative,"report amounts in TRY; label read garbled, identified by letter-order matching (raw: 'gEindeerrjlie grii derleri')"
+2019,Q3,energy_cost,125662060.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_09.pdf,53,last_3_months,"report amounts in TRY; label read garbled, identified by letter-order matching (raw: 'gEindeerrjlie grii derleri'); the report's '1 July – period end' (last 3 months) column"
+2019,FY,energy_cost,486993011.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,59,cumulative,report amounts in TRY
+2020,Q1,energy_cost,127527463.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_03.pdf,47,cumulative,report amounts in TRY
+2020,H1,energy_cost,243080657.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_06.pdf,49,cumulative,"report amounts in TRY; label read garbled, identified by letter-order matching (raw: 'gEindeerrjlie grii derleri')"
+2020,Q2,energy_cost,115553194.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_06.pdf,49,last_3_months,"report amounts in TRY; label read garbled, identified by letter-order matching (raw: 'gEindeerrjlie grii derleri'); the report's '1 April – period end' (last 3 months) column"
+2020,9M,energy_cost,539383664.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_09.pdf,47,cumulative,"report amounts in TRY; label read garbled, identified by letter-order matching (raw: 'gEindeerrjlie grii derleri')"
+2020,Q3,energy_cost,213647481.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_09.pdf,47,last_3_months,"report amounts in TRY; label read garbled, identified by letter-order matching (raw: 'gEindeerrjlie grii derleri'); the report's '1 July – period end' (last 3 months) column"
+2020,FY,energy_cost,718315020.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,62,cumulative,report amounts in TRY
+2021,Q1,energy_cost,228973654.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_03.pdf,53,cumulative,report amounts in TRY
+2021,H1,energy_cost,538593560.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_06.pdf,47,cumulative,report amounts in TRY
+2021,Q2,energy_cost,309619905.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_06.pdf,47,last_3_months,report amounts in TRY; the report's '1 April – period end' (last 3 months) column
+2021,9M,energy_cost,883332234.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_09.pdf,46,cumulative,report amounts in TRY
+2021,Q3,energy_cost,344738674.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_09.pdf,46,last_3_months,report amounts in TRY; the report's '1 July – period end' (last 3 months) column
+2021,FY,energy_cost,1395817135.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,59,cumulative,report amounts in TRY
+2022,Q1,energy_cost,623033236.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_03.pdf,43,cumulative,report amounts in TRY
+2022,H1,energy_cost,1432523079.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_06.pdf,47,cumulative,report amounts in TRY
+2022,Q2,energy_cost,809489843.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_06.pdf,47,last_3_months,report amounts in TRY; the report's '1 April – period end' (last 3 months) column
+2022,9M,energy_cost,2558780625.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_09.pdf,45,cumulative,report amounts in TRY
+2022,Q3,energy_cost,1126257546.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_09.pdf,45,last_3_months,report amounts in TRY; the report's '1 July – period end' (last 3 months) column
+2022,FY,energy_cost,3632105128.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,59,cumulative,report amounts in TRY
+2023,Q1,energy_cost,874146000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_03.pdf,41,cumulative,report amounts in TRY thousand
+2023,H1,energy_cost,1742944000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_06.pdf,45,cumulative,report amounts in TRY thousand
+2023,Q2,energy_cost,868798000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_06.pdf,45,last_3_months,report amounts in TRY thousand; the report's '1 April – period end' (last 3 months) column
+2023,9M,energy_cost,2767312000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_09.pdf,43,cumulative,report amounts in TRY thousand
+2023,Q3,energy_cost,1024368000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_09.pdf,43,last_3_months,report amounts in TRY thousand; the report's '1 July – period end' (last 3 months) column
+2016,Q1,other_production,50907738.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_03.pdf,30,cumulative,report amounts in TRY
+2016,H1,other_production,92431686.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_06.pdf,37,cumulative,report amounts in TRY
+2016,Q2,other_production,52314194.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_06.pdf,37,last_3_months,report amounts in TRY; the report's '1 April – period end' (last 3 months) column
+2016,9M,other_production,122342007.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_09.pdf,35,cumulative,report amounts in TRY
+2016,Q3,other_production,29910321.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_09.pdf,35,last_3_months,report amounts in TRY; the report's '1 July – period end' (last 3 months) column
+2016,FY,other_production,183034674.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,56,cumulative,report amounts in TRY
+2017,Q1,other_production,62747641.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_03.pdf,30,cumulative,report amounts in TRY
+2017,H1,other_production,155562540.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_06.pdf,30,cumulative,report amounts in TRY
+2017,Q2,other_production,92814900.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_06.pdf,30,last_3_months,report amounts in TRY; the report's '1 April – period end' (last 3 months) column
+2017,9M,other_production,146652633.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_09.pdf,31,cumulative,report amounts in TRY
+2017,Q3,other_production,53313185.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_09.pdf,31,last_3_months,report amounts in TRY; the report's '1 July – period end' (last 3 months) column
+2017,FY,other_production,159444794.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,52,cumulative,report amounts in TRY
+2018,Q1,other_production,36688647.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_03.pdf,42,cumulative,report amounts in TRY
+2018,H1,other_production,62642804.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_06.pdf,45,cumulative,report amounts in TRY
+2018,Q2,other_production,25954157.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_06.pdf,45,last_3_months,report amounts in TRY; the report's '1 April – period end' (last 3 months) column
+2018,9M,other_production,93964876.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_09.pdf,42,cumulative,report amounts in TRY
+2018,Q3,other_production,31322072.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_09.pdf,42,last_3_months,report amounts in TRY; the report's '1 July – period end' (last 3 months) column
+2018,FY,other_production,134853580.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,58,cumulative,report amounts in TRY
+2019,Q1,other_production,6871925.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_03.pdf,54,cumulative,report amounts in TRY
+2019,H1,other_production,26461391.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_06.pdf,54,cumulative,report amounts in TRY
+2019,Q2,other_production,6740825.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_06.pdf,54,last_3_months,report amounts in TRY; the report's '1 April – period end' (last 3 months) column
+2019,9M,other_production,75608923.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_09.pdf,53,cumulative,report amounts in TRY
+2019,Q3,other_production,49147533.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_09.pdf,53,last_3_months,report amounts in TRY; the report's '1 July – period end' (last 3 months) column
+2019,FY,other_production,137249508.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,59,cumulative,report amounts in TRY
+2020,Q1,other_production,11837102.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_03.pdf,47,cumulative,report amounts in TRY
+2020,H1,other_production,30706884.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_06.pdf,49,cumulative,report amounts in TRY
+2020,Q2,other_production,18869782.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_06.pdf,49,last_3_months,report amounts in TRY; the report's '1 April – period end' (last 3 months) column
+2020,9M,other_production,197108046.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_09.pdf,47,cumulative,report amounts in TRY
+2020,Q3,other_production,90401161.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_09.pdf,47,last_3_months,report amounts in TRY; the report's '1 July – period end' (last 3 months) column
+2020,FY,other_production,258492522.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,62,cumulative,report amounts in TRY
+2021,Q1,other_production,182299421.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_03.pdf,53,cumulative,report amounts in TRY
+2021,H1,other_production,217562328.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_06.pdf,47,cumulative,report amounts in TRY
+2021,Q2,other_production,35262906.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_06.pdf,47,last_3_months,report amounts in TRY; the report's '1 April – period end' (last 3 months) column
+2021,9M,other_production,421383716.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_09.pdf,46,cumulative,report amounts in TRY
+2021,Q3,other_production,203821389.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_09.pdf,46,last_3_months,report amounts in TRY; the report's '1 July – period end' (last 3 months) column
+2021,FY,other_production,786258403.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,59,cumulative,report amounts in TRY
+2022,Q1,other_production,289794887.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_03.pdf,43,cumulative,report amounts in TRY
+2022,H1,other_production,627069249.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_06.pdf,47,cumulative,report amounts in TRY
+2022,Q2,other_production,337274361.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_06.pdf,47,last_3_months,report amounts in TRY; the report's '1 April – period end' (last 3 months) column
+2022,9M,other_production,779651152.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_09.pdf,45,cumulative,report amounts in TRY
+2022,Q3,other_production,152581904.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_09.pdf,45,last_3_months,report amounts in TRY; the report's '1 July – period end' (last 3 months) column
+2022,FY,other_production,584286248.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,59,cumulative,report amounts in TRY
+2023,Q1,other_production,294455000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_03.pdf,41,cumulative,report amounts in TRY thousand
+2023,H1,other_production,767464000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_06.pdf,45,cumulative,report amounts in TRY thousand
+2023,Q2,other_production,473008000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_06.pdf,45,last_3_months,report amounts in TRY thousand; the report's '1 April – period end' (last 3 months) column
+2023,9M,other_production,1100110000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_09.pdf,43,cumulative,report amounts in TRY thousand
+2023,Q3,other_production,332646000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_09.pdf,43,last_3_months,report amounts in TRY thousand; the report's '1 July – period end' (last 3 months) column
+2016,Q1,raw_material,51273477.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_03.pdf,30,cumulative,report amounts in TRY
+2016,H1,raw_material,114479407.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_06.pdf,37,cumulative,report amounts in TRY
+2016,Q2,raw_material,63205930.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_06.pdf,37,last_3_months,report amounts in TRY; the report's '1 April – period end' (last 3 months) column
+2016,9M,raw_material,181039711.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_09.pdf,35,cumulative,report amounts in TRY
+2016,Q3,raw_material,66560304.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_09.pdf,35,last_3_months,report amounts in TRY; the report's '1 July – period end' (last 3 months) column
+2016,FY,raw_material,236929339.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,56,cumulative,report amounts in TRY
+2017,Q1,raw_material,57880874.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_03.pdf,30,cumulative,report amounts in TRY
+2017,H1,raw_material,142031990.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_06.pdf,30,cumulative,report amounts in TRY
+2017,Q2,raw_material,84151116.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_06.pdf,30,last_3_months,report amounts in TRY; the report's '1 April – period end' (last 3 months) column
+2017,9M,raw_material,295722539.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_09.pdf,31,cumulative,report amounts in TRY
+2017,Q3,raw_material,107505128.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_09.pdf,31,last_3_months,report amounts in TRY; the report's '1 July – period end' (last 3 months) column
+2017,FY,raw_material,401630174.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,52,cumulative,report amounts in TRY
+2018,Q1,raw_material,109010026.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_03.pdf,42,cumulative,report amounts in TRY
+2018,H1,raw_material,261669388.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_06.pdf,45,cumulative,report amounts in TRY
+2018,Q2,raw_material,152659362.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_06.pdf,45,last_3_months,report amounts in TRY; the report's '1 April – period end' (last 3 months) column
+2018,9M,raw_material,356126540.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_09.pdf,42,cumulative,report amounts in TRY
+2018,Q3,raw_material,94457116.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_09.pdf,42,last_3_months,report amounts in TRY; the report's '1 July – period end' (last 3 months) column
+2018,FY,raw_material,503033981.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,58,cumulative,report amounts in TRY
+2019,Q1,raw_material,102554124.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_03.pdf,54,cumulative,report amounts in TRY
+2019,H1,raw_material,238348221.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_06.pdf,54,cumulative,report amounts in TRY
+2019,Q2,raw_material,135794097.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_06.pdf,54,last_3_months,report amounts in TRY; the report's '1 April – period end' (last 3 months) column
+2019,9M,raw_material,366607011.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_09.pdf,53,cumulative,report amounts in TRY
+2019,Q3,raw_material,128258790.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_09.pdf,53,last_3_months,report amounts in TRY; the report's '1 July – period end' (last 3 months) column
+2019,FY,raw_material,499646105.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,59,cumulative,report amounts in TRY
+2020,Q1,raw_material,140371967.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_03.pdf,47,cumulative,report amounts in TRY
+2020,H1,raw_material,308489274.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_06.pdf,49,cumulative,report amounts in TRY
+2020,Q2,raw_material,168117307.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_06.pdf,49,last_3_months,report amounts in TRY; the report's '1 April – period end' (last 3 months) column
+2020,9M,raw_material,269053356.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_09.pdf,47,cumulative,report amounts in TRY
+2020,Q3,raw_material,106219608.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_09.pdf,47,last_3_months,report amounts in TRY; the report's '1 July – period end' (last 3 months) column
+2020,FY,raw_material,341560956.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,62,cumulative,report amounts in TRY
+2021,Q1,raw_material,54271915.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_03.pdf,53,cumulative,report amounts in TRY
+2021,H1,raw_material,163721177.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_06.pdf,47,cumulative,report amounts in TRY
+2021,Q2,raw_material,109449262.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_06.pdf,47,last_3_months,report amounts in TRY; the report's '1 April – period end' (last 3 months) column
+2021,9M,raw_material,258698972.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_09.pdf,46,cumulative,report amounts in TRY
+2021,Q3,raw_material,94977795.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_09.pdf,46,last_3_months,report amounts in TRY; the report's '1 July – period end' (last 3 months) column
+2021,FY,raw_material,341224966.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,59,cumulative,report amounts in TRY
+2022,Q1,raw_material,153476279.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_03.pdf,43,cumulative,report amounts in TRY
+2022,H1,raw_material,432224994.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_06.pdf,47,cumulative,report amounts in TRY
+2022,Q2,raw_material,278748716.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_06.pdf,47,last_3_months,report amounts in TRY; the report's '1 April – period end' (last 3 months) column
+2022,9M,raw_material,639059601.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_09.pdf,45,cumulative,report amounts in TRY
+2022,Q3,raw_material,206834606.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_09.pdf,45,last_3_months,report amounts in TRY; the report's '1 July – period end' (last 3 months) column
+2022,FY,raw_material,1558255057.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,59,cumulative,report amounts in TRY
+2023,Q1,raw_material,430391000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_03.pdf,41,cumulative,report amounts in TRY thousand
+2023,H1,raw_material,643661000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_06.pdf,45,cumulative,report amounts in TRY thousand
+2023,Q2,raw_material,213270000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_06.pdf,45,last_3_months,report amounts in TRY thousand; the report's '1 April – period end' (last 3 months) column
+2023,9M,raw_material,1353264000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_09.pdf,43,cumulative,report amounts in TRY thousand
+2023,Q3,raw_material,709603000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_09.pdf,43,last_3_months,report amounts in TRY thousand; the report's '1 July – period end' (last 3 months) column
+2016,Q1,revenue,253664838.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_03.pdf,5,cumulative,report amounts in TRY
+2016,H1,revenue,586136444.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_06.pdf,7,cumulative,report amounts in TRY
+2016,Q2,revenue,332471606.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_06.pdf,7,last_3_months,report amounts in TRY; the report's '1 April – period end' (last 3 months) column
+2016,9M,revenue,880878625.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_09.pdf,5,cumulative,report amounts in TRY
+2016,Q3,revenue,294742181.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_09.pdf,5,last_3_months,report amounts in TRY; the report's '1 July – period end' (last 3 months) column
+2016,FY,revenue,1170309931.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,7,cumulative,report amounts in TRY
+2017,Q1,revenue,248492513.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_03.pdf,5,cumulative,report amounts in TRY; number split in the PDF text ('24 8.492.513'); combined value 248.492.513 used because it appears verbatim elsewhere in the report
+2017,H1,revenue,630189043.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_06.pdf,6,cumulative,report amounts in TRY
+2017,Q2,revenue,381696530.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_06.pdf,6,last_3_months,report amounts in TRY; the report's '1 April – period end' (last 3 months) column
+2017,9M,revenue,1054457524.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_09.pdf,5,cumulative,report amounts in TRY
+2017,Q3,revenue,424268481.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_09.pdf,5,last_3_months,report amounts in TRY; the report's '1 July – period end' (last 3 months) column
+2017,FY,revenue,1490579874.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,9,cumulative,report amounts in TRY
+2018,Q1,revenue,360735275.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_03.pdf,5,cumulative,report amounts in TRY
+2018,H1,revenue,853343771.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_06.pdf,6,cumulative,report amounts in TRY
+2018,Q2,revenue,492608496.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_06.pdf,6,last_3_months,report amounts in TRY; the report's '1 April – period end' (last 3 months) column
+2018,9M,revenue,1305193980.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_09.pdf,5,cumulative,report amounts in TRY
+2018,Q3,revenue,451850209.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_09.pdf,5,last_3_months,report amounts in TRY; the report's '1 July – period end' (last 3 months) column
+2018,FY,revenue,1699958055.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,9,cumulative,report amounts in TRY
+2019,Q1,revenue,336189944.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_03.pdf,5,cumulative,report amounts in TRY
+2019,H1,revenue,812064117.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_06.pdf,6,cumulative,report amounts in TRY
+2019,Q2,revenue,475874173.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_06.pdf,6,last_3_months,report amounts in TRY; the report's '1 April – period end' (last 3 months) column
+2019,9M,revenue,1284712635.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_09.pdf,5,cumulative,report amounts in TRY
+2019,Q3,revenue,472648518.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_09.pdf,5,last_3_months,report amounts in TRY; the report's '1 July – period end' (last 3 months) column
+2019,FY,revenue,1726195637.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,9,cumulative,report amounts in TRY
+2020,Q1,revenue,411677716.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_03.pdf,5,cumulative,report amounts in TRY
+2020,H1,revenue,971792688.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_06.pdf,7,cumulative,report amounts in TRY
+2020,Q2,revenue,560114972.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_06.pdf,7,last_3_months,report amounts in TRY; the report's '1 April – period end' (last 3 months) column
+2020,9M,revenue,1631927700.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_09.pdf,5,cumulative,report amounts in TRY
+2020,Q3,revenue,660135012.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_09.pdf,5,last_3_months,report amounts in TRY; the report's '1 July – period end' (last 3 months) column
+2020,FY,revenue,2076298962.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,12,cumulative,report amounts in TRY
+2021,Q1,revenue,639268757.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_03.pdf,5,cumulative,report amounts in TRY
+2021,H1,revenue,1641708428.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_06.pdf,6,cumulative,report amounts in TRY
+2021,Q2,revenue,1002439671.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_06.pdf,6,last_3_months,report amounts in TRY; the report's '1 April – period end' (last 3 months) column
+2021,9M,revenue,2532773081.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_09.pdf,5,cumulative,report amounts in TRY
+2021,Q3,revenue,891064653.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_09.pdf,5,last_3_months,report amounts in TRY; the report's '1 July – period end' (last 3 months) column
+2021,FY,revenue,3745370304.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,10,cumulative,report amounts in TRY
+2022,Q1,revenue,1354855706.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_03.pdf,5,cumulative,report amounts in TRY
+2022,H1,revenue,3595190391.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_06.pdf,7,cumulative,report amounts in TRY
+2022,Q2,revenue,2240334685.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_06.pdf,7,last_3_months,report amounts in TRY; the report's '1 April – period end' (last 3 months) column
+2022,9M,revenue,6026409808.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_09.pdf,5,cumulative,report amounts in TRY
+2022,Q3,revenue,2431219417.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_09.pdf,5,last_3_months,report amounts in TRY; the report's '1 July – period end' (last 3 months) column
+2022,FY,revenue,8582005230.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,10,cumulative,report amounts in TRY
+2023,Q1,revenue,2362872000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_03.pdf,5,cumulative,report amounts in TRY thousand
+2023,H1,revenue,5412054000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_06.pdf,7,cumulative,report amounts in TRY thousand
+2023,Q2,revenue,3049182000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_06.pdf,7,last_3_months,report amounts in TRY thousand; the report's '1 April – period end' (last 3 months) column
+2023,9M,revenue,9220159000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_09.pdf,5,cumulative,report amounts in TRY thousand
+2023,Q3,revenue,3808104000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_09.pdf,5,last_3_months,report amounts in TRY thousand; the report's '1 July – period end' (last 3 months) column
+2016,Q1,total_production_cost,184221151.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_03.pdf,30,cumulative,report amounts in TRY
+2016,H1,total_production_cost,389134920.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_06.pdf,37,cumulative,report amounts in TRY
+2016,Q2,total_production_cost,204913769.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_06.pdf,37,last_3_months,report amounts in TRY; the report's '1 April – period end' (last 3 months) column
+2016,9M,total_production_cost,577055640.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_09.pdf,35,cumulative,report amounts in TRY
+2016,Q3,total_production_cost,187920720.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_09.pdf,35,last_3_months,report amounts in TRY; the report's '1 July – period end' (last 3 months) column
+2016,FY,total_production_cost,808783518.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,56,cumulative,report amounts in TRY
+2017,Q1,total_production_cost,217933999.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_03.pdf,30,cumulative,report amounts in TRY
+2017,H1,total_production_cost,503566700.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_06.pdf,30,cumulative,report amounts in TRY
+2017,Q2,total_production_cost,285632701.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_06.pdf,30,last_3_months,report amounts in TRY; the report's '1 April – period end' (last 3 months) column
+2017,9M,total_production_cost,791191539.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_09.pdf,31,cumulative,report amounts in TRY
+2017,Q3,total_production_cost,287624840.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_09.pdf,31,last_3_months,report amounts in TRY; the report's '1 July – period end' (last 3 months) column
+2017,FY,total_production_cost,1051411120.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,52,cumulative,report amounts in TRY
+2018,Q1,total_production_cost,289631854.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_03.pdf,42,cumulative,report amounts in TRY
+2018,H1,total_production_cost,629479811.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_06.pdf,45,cumulative,report amounts in TRY
+2018,Q2,total_production_cost,339847957.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_06.pdf,45,last_3_months,report amounts in TRY; the report's '1 April – period end' (last 3 months) column
+2018,9M,total_production_cost,969760981.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_09.pdf,42,cumulative,report amounts in TRY
+2018,Q3,total_production_cost,340281170.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_09.pdf,42,last_3_months,report amounts in TRY; the report's '1 July – period end' (last 3 months) column
+2018,FY,total_production_cost,1282018113.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,58,cumulative,report amounts in TRY
+2019,Q1,total_production_cost,269003735.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_03.pdf,54,cumulative,report amounts in TRY
+2019,H1,total_production_cost,621556650.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_06.pdf,54,cumulative,report amounts in TRY
+2019,Q2,total_production_cost,352552915.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_06.pdf,54,last_3_months,report amounts in TRY; the report's '1 April – period end' (last 3 months) column
+2019,9M,total_production_cost,981480208.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_09.pdf,53,cumulative,report amounts in TRY
+2019,Q3,total_production_cost,359923558.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_09.pdf,53,last_3_months,report amounts in TRY; the report's '1 July – period end' (last 3 months) column
+2019,FY,total_production_cost,1338366221.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,59,cumulative,report amounts in TRY
+2020,Q1,total_production_cost,336600609.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_03.pdf,47,cumulative,report amounts in TRY
+2020,H1,total_production_cost,701576958.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_06.pdf,49,cumulative,report amounts in TRY
+2020,Q2,total_production_cost,364976349.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_06.pdf,49,last_3_months,report amounts in TRY; the report's '1 April – period end' (last 3 months) column
+2020,9M,total_production_cost,1194542846.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_09.pdf,47,cumulative,report amounts in TRY
+2020,Q3,total_production_cost,472965888.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_09.pdf,47,last_3_months,report amounts in TRY; the report's '1 July – period end' (last 3 months) column
+2020,FY,total_production_cost,1539198570.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,62,cumulative,report amounts in TRY
+2021,Q1,total_production_cost,523630131.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_03.pdf,53,cumulative,report amounts in TRY
+2021,H1,total_production_cost,1036174125.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_06.pdf,47,cumulative,report amounts in TRY
+2021,Q2,total_production_cost,512543993.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_06.pdf,47,last_3_months,report amounts in TRY; the report's '1 April – period end' (last 3 months) column
+2021,9M,total_production_cost,1735976772.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_09.pdf,46,cumulative,report amounts in TRY
+2021,Q3,total_production_cost,699802648.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_09.pdf,46,last_3_months,report amounts in TRY; the report's '1 July – period end' (last 3 months) column
+2021,FY,total_production_cost,2754383784.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,59,cumulative,report amounts in TRY
+2022,Q1,total_production_cost,1135054026.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_03.pdf,43,cumulative,report amounts in TRY
+2022,H1,total_production_cost,2631714966.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_06.pdf,47,cumulative,report amounts in TRY
+2022,Q2,total_production_cost,1496660940.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_06.pdf,47,last_3_months,report amounts in TRY; the report's '1 April – period end' (last 3 months) column
+2022,9M,total_production_cost,4213487387.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_09.pdf,45,cumulative,report amounts in TRY
+2022,Q3,total_production_cost,1581772422.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_09.pdf,45,last_3_months,report amounts in TRY; the report's '1 July – period end' (last 3 months) column
+2022,FY,total_production_cost,6097149264.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,59,cumulative,report amounts in TRY
+2023,Q1,total_production_cost,1711228000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_03.pdf,41,cumulative,report amounts in TRY thousand
+2023,H1,total_production_cost,3377880000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_06.pdf,45,cumulative,report amounts in TRY thousand
+2023,Q2,total_production_cost,1666652000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_06.pdf,45,last_3_months,report amounts in TRY thousand; the report's '1 April – period end' (last 3 months) column
+2023,9M,total_production_cost,5583791000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_09.pdf,43,cumulative,report amounts in TRY thousand
+2023,Q3,total_production_cost,2205911000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_09.pdf,43,last_3_months,report amounts in TRY thousand; the report's '1 July – period end' (last 3 months) column

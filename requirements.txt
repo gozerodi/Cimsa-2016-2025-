@@ -1,0 +1,10 @@
+pandas
+numpy
+pdfplumber
+matplotlib
+jupyter
+ipykernel
+requests
+python-dotenv
+openpyxl
+eptr2

@@ -1,0 +1,81 @@
+year,currency,rate_type,report_value,report_source_file,restated,evds_value,diff_pct,evds_next_first_business_day,diff_pct_vs_next_first_day,note
+2015,EUR,average,3.0187,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,True,3.018262,0.015,,,
+2016,EUR,average,3.3372,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,False,3.339806,-0.078,,,
+2016,EUR,average,3.3372,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,True,3.339806,-0.078,,,
+2017,EUR,average,4.1181,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,False,4.11672,0.034,,,
+2017,EUR,average,4.1181,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,True,4.11672,0.034,,,
+2018,EUR,average,5.6751,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,False,5.652379,0.402,,,
+2018,EUR,average,5.6751,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,True,5.652379,0.402,,,
+2019,EUR,average,6.3459,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,False,6.347714,-0.029,,,
+2019,EUR,average,6.3274,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,True,6.347714,-0.32,,,
+2020,EUR,average,8.0104,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,False,8.027764,-0.216,,,
+2020,EUR,average,7.6131,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,True,8.027764,-5.165,,,
+2021,EUR,average,10.5704,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,False,10.468652,0.972,,,
+2021,EUR,average,10.5704,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,True,10.468652,0.972,,,
+2022,EUR,average,17.2951,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,False,17.3818,-0.499,,,
+2022,EUR,average,17.2951,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,True,17.3818,-0.499,,,
+2023,EUR,average,25.6765,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,False,25.67501,0.006,,,
+2023,EUR,average,25.6765,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,True,25.67501,0.006,,,
+2024,EUR,average,35.411,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,False,35.490247,-0.223,,,
+2024,EUR,average,35.411,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,True,35.490247,-0.223,,,
+2025,EUR,average,49.8645,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,False,44.714067,11.519,,,
+2015,EUR,period_end,3.1776,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,True,3.1776,0.0,3.1838,-0.195,"EVDS year-end = last business day of the year; also compared with the value dated 04-01-2016 (in EVDS the rate for a date is the rate valid that day, announced on the previous business day)"
+2016,EUR,period_end,3.7099,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,False,3.6939,0.433,3.7099,0.0,"EVDS year-end = last business day of the year; also compared with the value dated 02-01-2017 (in EVDS the rate for a date is the rate valid that day, announced on the previous business day)"
+2016,EUR,period_end,3.7099,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,True,3.6939,0.433,3.7099,0.0,"EVDS year-end = last business day of the year; also compared with the value dated 02-01-2017 (in EVDS the rate for a date is the rate valid that day, announced on the previous business day)"
+2017,EUR,period_end,4.5155,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,False,4.5478,-0.71,4.5155,0.0,"EVDS year-end = last business day of the year; also compared with the value dated 01-01-2018 (in EVDS the rate for a date is the rate valid that day, announced on the previous business day)"
+2017,EUR,period_end,4.5155,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,True,4.5478,-0.71,4.5155,0.0,"EVDS year-end = last business day of the year; also compared with the value dated 01-01-2018 (in EVDS the rate for a date is the rate valid that day, announced on the previous business day)"
+2018,EUR,period_end,6.028,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,False,6.028,0.0,6.0422,-0.235,"EVDS year-end = last business day of the year; also compared with the value dated 02-01-2019 (in EVDS the rate for a date is the rate valid that day, announced on the previous business day)"
+2018,EUR,period_end,6.028,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,True,6.028,0.0,6.0422,-0.235,"EVDS year-end = last business day of the year; also compared with the value dated 02-01-2019 (in EVDS the rate for a date is the rate valid that day, announced on the previous business day)"
+2019,EUR,period_end,6.6506,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,False,6.6506,0.0,6.6621,-0.173,"EVDS year-end = last business day of the year; also compared with the value dated 02-01-2020 (in EVDS the rate for a date is the rate valid that day, announced on the previous business day)"
+2019,EUR,period_end,6.6506,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,True,6.6506,0.0,6.6621,-0.173,"EVDS year-end = last business day of the year; also compared with the value dated 02-01-2020 (in EVDS the rate for a date is the rate valid that day, announced on the previous business day)"
+2020,EUR,period_end,9.0079,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,False,9.0079,0.0,9.1164,-1.19,"EVDS year-end = last business day of the year; also compared with the value dated 04-01-2021 (in EVDS the rate for a date is the rate valid that day, announced on the previous business day)"
+2020,EUR,period_end,9.0079,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,True,9.0079,0.0,9.1164,-1.19,"EVDS year-end = last business day of the year; also compared with the value dated 04-01-2021 (in EVDS the rate for a date is the rate valid that day, announced on the previous business day)"
+2021,EUR,period_end,14.6823,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,False,14.6823,0.0,15.0867,-2.681,"EVDS year-end = last business day of the year; also compared with the value dated 03-01-2022 (in EVDS the rate for a date is the rate valid that day, announced on the previous business day)"
+2021,EUR,period_end,15.0867,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,True,14.6823,2.754,15.0867,0.0,"EVDS year-end = last business day of the year; also compared with the value dated 03-01-2022 (in EVDS the rate for a date is the rate valid that day, announced on the previous business day)"
+2022,EUR,period_end,19.9349,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,False,19.8816,0.268,19.9349,0.0,"EVDS year-end = last business day of the year; also compared with the value dated 02-01-2023 (in EVDS the rate for a date is the rate valid that day, announced on the previous business day)"
+2022,EUR,period_end,19.9349,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,True,19.8816,0.268,19.9349,0.0,"EVDS year-end = last business day of the year; also compared with the value dated 02-01-2023 (in EVDS the rate for a date is the rate valid that day, announced on the previous business day)"
+2023,EUR,period_end,32.5739,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,False,32.6937,-0.366,32.5739,0.0,"EVDS year-end = last business day of the year; also compared with the value dated 02-01-2024 (in EVDS the rate for a date is the rate valid that day, announced on the previous business day)"
+2023,EUR,period_end,32.5739,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,True,32.6937,-0.366,32.5739,0.0,"EVDS year-end = last business day of the year; also compared with the value dated 02-01-2024 (in EVDS the rate for a date is the rate valid that day, announced on the previous business day)"
+2024,EUR,period_end,36.7362,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,False,36.7429,-0.018,36.7362,0.0,"EVDS year-end = last business day of the year; also compared with the value dated 02-01-2025 (in EVDS the rate for a date is the rate valid that day, announced on the previous business day)"
+2024,EUR,period_end,36.7362,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,True,36.7429,-0.018,36.7362,0.0,"EVDS year-end = last business day of the year; also compared with the value dated 02-01-2025 (in EVDS the rate for a date is the rate valid that day, announced on the previous business day)"
+2025,EUR,period_end,50.4532,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,False,50.4532,0.0,50.2859,0.333,"EVDS year-end = last business day of the year; also compared with the value dated 02-01-2026 (in EVDS the rate for a date is the rate valid that day, announced on the previous business day)"
+2015,USD,average,2.7191,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,True,2.720016,-0.034,,,
+2016,USD,average,3.0174,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,False,3.021245,-0.127,,,
+2016,USD,average,3.0174,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,True,3.021245,-0.127,,,
+2017,USD,average,3.6437,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,False,3.645262,-0.043,,,
+2017,USD,average,3.6437,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,True,3.645262,-0.043,,,
+2018,USD,average,4.8256,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,False,4.803231,0.466,,,
+2018,USD,average,4.8256,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,True,4.803231,0.466,,,
+2019,USD,average,5.669,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,False,5.67083,-0.032,,,
+2019,USD,average,5.6316,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,True,5.67083,-0.692,,,
+2020,USD,average,6.9834,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,False,7.00903,-0.366,,,
+2020,USD,average,6.7339,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,True,7.00903,-3.925,,,
+2021,USD,average,8.9646,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,False,8.885368,0.892,,,
+2021,USD,average,8.9646,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,True,8.885368,0.892,,,
+2022,USD,average,16.4264,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,False,16.56377,-0.829,,,
+2022,USD,average,16.4264,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,True,16.56377,-0.829,,,
+2023,USD,average,23.7269,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,False,23.74379,-0.071,,,
+2023,USD,average,23.7269,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,True,23.74379,-0.071,,,
+2024,USD,average,32.7414,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,False,32.792145,-0.155,,,
+2024,USD,average,32.7414,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,True,32.792145,-0.155,,,
+2025,USD,average,42.5854,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,False,39.47607,7.876,,,
+2015,USD,period_end,2.9076,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,True,2.9076,0.0,2.9181,-0.36,"EVDS year-end = last business day of the year; also compared with the value dated 04-01-2016 (in EVDS the rate for a date is the rate valid that day, announced on the previous business day)"
+2016,USD,period_end,3.5192,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,False,3.5318,-0.357,3.5192,0.0,"EVDS year-end = last business day of the year; also compared with the value dated 02-01-2017 (in EVDS the rate for a date is the rate valid that day, announced on the previous business day)"
+2016,USD,period_end,3.5192,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,True,3.5318,-0.357,3.5192,0.0,"EVDS year-end = last business day of the year; also compared with the value dated 02-01-2017 (in EVDS the rate for a date is the rate valid that day, announced on the previous business day)"
+2017,USD,period_end,3.7719,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,False,3.8104,-1.01,3.7719,0.0,"EVDS year-end = last business day of the year; also compared with the value dated 01-01-2018 (in EVDS the rate for a date is the rate valid that day, announced on the previous business day)"
+2017,USD,period_end,3.7719,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,True,3.8104,-1.01,3.7719,0.0,"EVDS year-end = last business day of the year; also compared with the value dated 01-01-2018 (in EVDS the rate for a date is the rate valid that day, announced on the previous business day)"
+2018,USD,period_end,5.2609,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,False,5.2609,0.0,5.281,-0.381,"EVDS year-end = last business day of the year; also compared with the value dated 02-01-2019 (in EVDS the rate for a date is the rate valid that day, announced on the previous business day)"
+2018,USD,period_end,5.2609,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,True,5.2609,0.0,5.281,-0.381,"EVDS year-end = last business day of the year; also compared with the value dated 02-01-2019 (in EVDS the rate for a date is the rate valid that day, announced on the previous business day)"
+2019,USD,period_end,5.9402,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,False,5.9402,0.0,5.94,0.003,"EVDS year-end = last business day of the year; also compared with the value dated 02-01-2020 (in EVDS the rate for a date is the rate valid that day, announced on the previous business day)"
+2019,USD,period_end,5.9402,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,True,5.9402,0.0,5.94,0.003,"EVDS year-end = last business day of the year; also compared with the value dated 02-01-2020 (in EVDS the rate for a date is the rate valid that day, announced on the previous business day)"
+2020,USD,period_end,7.3405,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,False,7.3405,0.0,7.4194,-1.063,"EVDS year-end = last business day of the year; also compared with the value dated 04-01-2021 (in EVDS the rate for a date is the rate valid that day, announced on the previous business day)"
+2020,USD,period_end,7.3405,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,True,7.3405,0.0,7.4194,-1.063,"EVDS year-end = last business day of the year; also compared with the value dated 04-01-2021 (in EVDS the rate for a date is the rate valid that day, announced on the previous business day)"
+2021,USD,period_end,12.9775,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,False,12.9775,0.0,13.329,-2.637,"EVDS year-end = last business day of the year; also compared with the value dated 03-01-2022 (in EVDS the rate for a date is the rate valid that day, announced on the previous business day)"
+2021,USD,period_end,13.329,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,True,12.9775,2.709,13.329,0.0,"EVDS year-end = last business day of the year; also compared with the value dated 03-01-2022 (in EVDS the rate for a date is the rate valid that day, announced on the previous business day)"
+2022,USD,period_end,18.6983,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,False,18.6966,0.009,18.6983,0.0,"EVDS year-end = last business day of the year; also compared with the value dated 02-01-2023 (in EVDS the rate for a date is the rate valid that day, announced on the previous business day)"
+2022,USD,period_end,18.6983,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,True,18.6966,0.009,18.6983,0.0,"EVDS year-end = last business day of the year; also compared with the value dated 02-01-2023 (in EVDS the rate for a date is the rate valid that day, announced on the previous business day)"
+2023,USD,period_end,29.4382,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,False,29.3973,0.139,29.4382,0.0,"EVDS year-end = last business day of the year; also compared with the value dated 02-01-2024 (in EVDS the rate for a date is the rate valid that day, announced on the previous business day)"
+2023,USD,period_end,29.4382,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,True,29.3973,0.139,29.4382,0.0,"EVDS year-end = last business day of the year; also compared with the value dated 02-01-2024 (in EVDS the rate for a date is the rate valid that day, announced on the previous business day)"
+2024,USD,period_end,35.2803,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,False,35.2233,0.162,35.2803,0.0,"EVDS year-end = last business day of the year; also compared with the value dated 02-01-2025 (in EVDS the rate for a date is the rate valid that day, announced on the previous business day)"
+2024,USD,period_end,35.2803,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,True,35.2233,0.162,35.2803,0.0,"EVDS year-end = last business day of the year; also compared with the value dated 02-01-2025 (in EVDS the rate for a date is the rate valid that day, announced on the previous business day)"
+2025,USD,period_end,42.8623,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,False,42.8623,0.0,42.8457,0.039,"EVDS year-end = last business day of the year; also compared with the value dated 02-01-2026 (in EVDS the rate for a date is the rate valid that day, announced on the previous business day)"

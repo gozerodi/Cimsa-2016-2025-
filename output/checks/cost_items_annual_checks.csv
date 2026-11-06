@@ -1,0 +1,21 @@
+source_file,column,year,restated,basis,sum_of_five_items,total_production_cost,difference,unit,passed,note
+Data/FinancialStatements/2016/Cimsa_2016_12.pdf,current,2016,False,nominal,801532732,808783518,-7250786,TRY,False,note has lines other than the five items: Değer düĢüklüğü (*) (7.250.786) -
+Data/FinancialStatements/2016/Cimsa_2016_12.pdf,comparative,2015,True,nominal,780521561,780521561,0,TRY,True,note has lines other than the five items: Değer düĢüklüğü (*) (7.250.786) -
+Data/FinancialStatements/2017/Cimsa_2017_12.pdf,current,2017,False,nominal,1051411120,1051411120,0,TRY,True,note has lines other than the five items: Değer düşüklüğü (*) - (7.250.786)
+Data/FinancialStatements/2017/Cimsa_2017_12.pdf,comparative,2016,True,nominal,801532732,808783518,-7250786,TRY,False,note has lines other than the five items: Değer düşüklüğü (*) - (7.250.786)
+Data/FinancialStatements/2018/Cimsa_2018_12.pdf,current,2018,False,nominal,1282018113,1282018113,0,TRY,True,
+Data/FinancialStatements/2018/Cimsa_2018_12.pdf,comparative,2017,True,nominal,1051411120,1051411120,0,TRY,True,
+Data/FinancialStatements/2019/Cimsa_2019_12.pdf,current,2019,False,nominal,1338366221,1338366221,0,TRY,True,
+Data/FinancialStatements/2019/Cimsa_2019_12.pdf,comparative,2018,True,nominal,1282018113,1282018113,0,TRY,True,
+Data/FinancialStatements/2020/Cimsa_2020_12.pdf,current,2020,False,nominal,1539198570,1539198570,0,TRY,True,
+Data/FinancialStatements/2020/Cimsa_2020_12.pdf,comparative,2019,True,nominal,1226362604,1226362604,0,TRY,True,
+Data/FinancialStatements/2021/Cimsa_2021_12.pdf,current,2021,False,nominal,2754383784,2754383784,0,TRY,True,
+Data/FinancialStatements/2021/Cimsa_2021_12.pdf,comparative,2020,True,nominal,1539198570,1539198570,0,TRY,True,
+Data/FinancialStatements/2022/Cimsa_2022_12.pdf,current,2022,False,nominal,6097149264,6097149264,0,TRY,True,
+Data/FinancialStatements/2022/Cimsa_2022_12.pdf,comparative,2021,True,nominal,2754383784,2754383784,0,TRY,True,
+Data/FinancialStatements/2023/Cimsa_2023_12.pdf,current,2023,False,tms29,12365521000,12365521000,0,TRY,True,
+Data/FinancialStatements/2023/Cimsa_2023_12.pdf,comparative,2022,True,tms29,14967621000,14967621000,0,TRY,True,
+Data/FinancialStatements/2024/Cimsa_2024_12.pdf,current,2024,False,tms29,20975527000,20975527000,0,TRY,True,
+Data/FinancialStatements/2024/Cimsa_2024_12.pdf,comparative,2023,True,tms29,17853213000,17853213000,0,TRY,True,
+Data/FinancialStatements/2025/Cimsa_2025_12.pdf,current,2025,False,tms29,34249978000,34249978000,0,TRY,True,
+Data/FinancialStatements/2025/Cimsa_2025_12.pdf,comparative,2024,True,tms29,27455287000,27455287000,0,TRY,True,

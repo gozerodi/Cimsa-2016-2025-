@@ -1,0 +1,342 @@
+year,period,item,value,unit,basis,restated,source_file,source_page,note,value_preferred,preferred_source
+2016,Q1,cost_of_sales,175376676.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_03.pdf,,Q1 = 3-month report,175376676.0,derived
+2016,Q2,cost_of_sales,216223109.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_06.pdf − Data/FinancialStatements/2016/Cimsa_2016_03.pdf,,Q2 = H1 − Q1,216223109.0,last_3_months
+2016,Q3,cost_of_sales,184645432.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_09.pdf − Data/FinancialStatements/2016/Cimsa_2016_06.pdf,,Q3 = 9M − H1,184645432.0,last_3_months
+2016,Q4,cost_of_sales,218616299.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf − Data/FinancialStatements/2016/Cimsa_2016_09.pdf,,Q4 = FY − 9M,218616299.0,derived
+2017,Q1,cost_of_sales,191305071.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_03.pdf,,Q1 = 3-month report,191305071.0,derived
+2017,Q2,cost_of_sales,288109790.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_06.pdf − Data/FinancialStatements/2017/Cimsa_2017_03.pdf,,Q2 = H1 − Q1,288109790.0,last_3_months
+2017,Q3,cost_of_sales,299325477.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_09.pdf − Data/FinancialStatements/2017/Cimsa_2017_06.pdf,,Q3 = 9M − H1,299325477.0,last_3_months
+2017,Q4,cost_of_sales,316949687.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_12.pdf − Data/FinancialStatements/2017/Cimsa_2017_09.pdf,,Q4 = FY − 9M,316949687.0,derived
+2018,Q1,cost_of_sales,266545874.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_03.pdf,,Q1 = 3-month report,266545874.0,derived
+2018,Q2,cost_of_sales,353930329.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_06.pdf − Data/FinancialStatements/2018/Cimsa_2018_03.pdf,,Q2 = H1 − Q1,353930329.0,last_3_months
+2018,Q3,cost_of_sales,332315663.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_09.pdf − Data/FinancialStatements/2018/Cimsa_2018_06.pdf,,Q3 = 9M − H1,332315663.0,last_3_months
+2018,Q4,cost_of_sales,341185575.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_12.pdf − Data/FinancialStatements/2018/Cimsa_2018_09.pdf,,Q4 = FY − 9M,341185575.0,derived
+2019,Q1,cost_of_sales,268980133.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_03.pdf,,Q1 = 3-month report,268980133.0,derived
+2019,Q2,cost_of_sales,393356270.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_06.pdf − Data/FinancialStatements/2019/Cimsa_2019_03.pdf,,Q2 = H1 − Q1,393356270.0,derived
+2019,Q3,cost_of_sales,389263389.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_09.pdf − Data/FinancialStatements/2019/Cimsa_2019_06.pdf,,Q3 = 9M − H1,389263389.0,last_3_months
+2019,Q4,cost_of_sales,370437797.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_12.pdf − Data/FinancialStatements/2019/Cimsa_2019_09.pdf,,Q4 = FY − 9M,370437797.0,derived
+2020,Q1,cost_of_sales,348023193.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_03.pdf,,Q1 = 3-month report,348023193.0,derived
+2020,Q2,cost_of_sales,450702491.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_06.pdf − Data/FinancialStatements/2020/Cimsa_2020_03.pdf,,Q2 = H1 − Q1,450702491.0,last_3_months
+2020,Q3,cost_of_sales,494360810.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_09.pdf − Data/FinancialStatements/2020/Cimsa_2020_06.pdf,,Q3 = 9M − H1,494360810.0,last_3_months
+2020,Q4,cost_of_sales,315459779.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_12.pdf − Data/FinancialStatements/2020/Cimsa_2020_09.pdf,,Q4 = FY − 9M,315459779.0,derived
+2021,Q1,cost_of_sales,500807982.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_03.pdf,,Q1 = 3-month report,500807982.0,derived
+2021,Q2,cost_of_sales,764227921.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_06.pdf − Data/FinancialStatements/2021/Cimsa_2021_03.pdf,,Q2 = H1 − Q1,764227921.0,last_3_months
+2021,Q3,cost_of_sales,718845435.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_09.pdf − Data/FinancialStatements/2021/Cimsa_2021_06.pdf,,Q3 = 9M − H1,718845435.0,last_3_months
+2021,Q4,cost_of_sales,1048529309.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_12.pdf − Data/FinancialStatements/2021/Cimsa_2021_09.pdf,,Q4 = FY − 9M,1048529309.0,derived
+2022,Q1,cost_of_sales,1178313430.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_03.pdf,,Q1 = 3-month report,1178313430.0,derived
+2022,Q2,cost_of_sales,1733422809.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_06.pdf − Data/FinancialStatements/2022/Cimsa_2022_03.pdf,,Q2 = H1 − Q1,1733422809.0,last_3_months
+2022,Q3,cost_of_sales,1988194808.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_09.pdf − Data/FinancialStatements/2022/Cimsa_2022_06.pdf,,Q3 = 9M − H1,1988194808.0,last_3_months
+2022,Q4,cost_of_sales,2202701810.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_12.pdf − Data/FinancialStatements/2022/Cimsa_2022_09.pdf,,Q4 = FY − 9M,2202701810.0,derived
+2023,Q1,cost_of_sales,1938969000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_03.pdf,,Q1 = 3-month report,1938969000.0,derived
+2023,Q2,cost_of_sales,2231562000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_06.pdf − Data/FinancialStatements/2023/Cimsa_2023_03.pdf,,Q2 = H1 − Q1,2231562000.0,last_3_months
+2023,Q3,cost_of_sales,2739648000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_09.pdf − Data/FinancialStatements/2023/Cimsa_2023_06.pdf,,Q3 = 9M − H1,2739647000.0,last_3_months
+2016,Q1,depreciation,14890559.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_03.pdf,,Q1 = 3-month report,14890559.0,derived
+2016,Q2,depreciation,14610475.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_06.pdf − Data/FinancialStatements/2016/Cimsa_2016_03.pdf,,Q2 = H1 − Q1,14610475.0,last_3_months
+2016,Q3,depreciation,15274614.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_09.pdf − Data/FinancialStatements/2016/Cimsa_2016_06.pdf,,Q3 = 9M − H1,15274614.0,last_3_months
+2016,Q4,depreciation,12199750.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf − Data/FinancialStatements/2016/Cimsa_2016_09.pdf,,Q4 = FY − 9M,12199750.0,derived
+2017,Q1,depreciation,16561971.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_03.pdf,,Q1 = 3-month report,16561971.0,derived
+2017,Q2,depreciation,17863088.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_06.pdf − Data/FinancialStatements/2017/Cimsa_2017_03.pdf,,Q2 = H1 − Q1,17863088.0,last_3_months
+2017,Q3,depreciation,19326391.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_09.pdf − Data/FinancialStatements/2017/Cimsa_2017_06.pdf,,Q3 = 9M − H1,19326391.0,last_3_months
+2017,Q4,depreciation,25442476.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_12.pdf − Data/FinancialStatements/2017/Cimsa_2017_09.pdf,,Q4 = FY − 9M,25442476.0,derived
+2018,Q1,depreciation,24038559.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_03.pdf,,Q1 = 3-month report,24038559.0,derived
+2018,Q2,depreciation,24281290.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_06.pdf − Data/FinancialStatements/2018/Cimsa_2018_03.pdf,,Q2 = H1 − Q1,24281290.0,last_3_months
+2018,Q3,depreciation,29397373.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_09.pdf − Data/FinancialStatements/2018/Cimsa_2018_06.pdf,,Q3 = 9M − H1,29397373.0,last_3_months
+2018,Q4,depreciation,28463817.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_12.pdf − Data/FinancialStatements/2018/Cimsa_2018_09.pdf,,Q4 = FY − 9M,28463817.0,derived
+2019,Q1,depreciation,27611949.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_03.pdf,,Q1 = 3-month report,27611949.0,derived
+2019,Q2,depreciation,39040400.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_06.pdf − Data/FinancialStatements/2019/Cimsa_2019_03.pdf,,Q2 = H1 − Q1,39040400.0,derived
+2019,Q3,depreciation,36368317.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_09.pdf − Data/FinancialStatements/2019/Cimsa_2019_06.pdf,,Q3 = 9M − H1,36311529.0,last_3_months
+2019,Q4,depreciation,29112327.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_12.pdf − Data/FinancialStatements/2019/Cimsa_2019_09.pdf,,Q4 = FY − 9M,29112327.0,derived
+2020,Q1,depreciation,34203575.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_03.pdf,,Q1 = 3-month report,34203575.0,derived
+2020,Q2,depreciation,37659407.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_06.pdf − Data/FinancialStatements/2020/Cimsa_2020_03.pdf,,Q2 = H1 − Q1,37659407.0,last_3_months
+2020,Q3,depreciation,34830516.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_09.pdf − Data/FinancialStatements/2020/Cimsa_2020_06.pdf,,Q3 = 9M − H1,34830517.0,last_3_months
+2020,Q4,depreciation,12135297.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_12.pdf − Data/FinancialStatements/2020/Cimsa_2020_09.pdf,,Q4 = FY − 9M,12135297.0,derived
+2021,Q1,depreciation,29286469.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_03.pdf,,Q1 = 3-month report,29286469.0,derived
+2021,Q2,depreciation,27696315.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_06.pdf − Data/FinancialStatements/2021/Cimsa_2021_03.pdf,,Q2 = H1 − Q1,27696315.0,last_3_months
+2021,Q3,depreciation,28628218.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_09.pdf − Data/FinancialStatements/2021/Cimsa_2021_06.pdf,,Q3 = 9M − H1,28628218.0,last_3_months
+2021,Q4,depreciation,28822163.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_12.pdf − Data/FinancialStatements/2021/Cimsa_2021_09.pdf,,Q4 = FY − 9M,28822163.0,derived
+2022,Q1,depreciation,27360661.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_03.pdf,,Q1 = 3-month report,27360661.0,derived
+2022,Q2,depreciation,27900570.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_06.pdf − Data/FinancialStatements/2022/Cimsa_2022_03.pdf,,Q2 = H1 − Q1,27900570.0,last_3_months
+2022,Q3,depreciation,41042273.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_09.pdf − Data/FinancialStatements/2022/Cimsa_2022_06.pdf,,Q3 = 9M − H1,41042273.0,last_3_months
+2022,Q4,depreciation,33100554.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_12.pdf − Data/FinancialStatements/2022/Cimsa_2022_09.pdf,,Q4 = FY − 9M,33100554.0,derived
+2023,Q1,depreciation,31420000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_03.pdf,,Q1 = 3-month report,31420000.0,derived
+2023,Q2,depreciation,33257000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_06.pdf − Data/FinancialStatements/2023/Cimsa_2023_03.pdf,,Q2 = H1 − Q1,33257000.0,last_3_months
+2023,Q3,depreciation,34404000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_09.pdf − Data/FinancialStatements/2023/Cimsa_2023_06.pdf,,Q3 = 9M − H1,34404000.0,last_3_months
+2016,Q1,direct_labor,2624782.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_03.pdf,,Q1 = 3-month report,2624782.0,derived
+2016,Q2,direct_labor,25783967.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_06.pdf − Data/FinancialStatements/2016/Cimsa_2016_03.pdf,,Q2 = H1 − Q1,14993721.0,last_3_months
+2016,Q3,direct_labor,13792653.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_09.pdf − Data/FinancialStatements/2016/Cimsa_2016_06.pdf,,Q3 = 9M − H1,13792653.0,last_3_months
+2016,Q4,direct_labor,14197229.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf − Data/FinancialStatements/2016/Cimsa_2016_09.pdf,,Q4 = FY − 9M,14197229.0,derived
+2017,Q1,direct_labor,3166584.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_03.pdf,,Q1 = 3-month report,3166584.0,derived
+2017,Q2,direct_labor,3204202.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_06.pdf − Data/FinancialStatements/2017/Cimsa_2017_03.pdf,,Q2 = H1 − Q1,3204201.0,last_3_months
+2017,Q3,direct_labor,35131212.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_09.pdf − Data/FinancialStatements/2017/Cimsa_2017_06.pdf,,Q3 = 9M − H1,19093543.0,last_3_months
+2017,Q4,direct_labor,21822238.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_12.pdf − Data/FinancialStatements/2017/Cimsa_2017_09.pdf,,Q4 = FY − 9M,21822238.0,derived
+2018,Q1,direct_labor,17099199.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_03.pdf,,Q1 = 3-month report,17099199.0,derived
+2018,Q2,direct_labor,20473749.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_06.pdf − Data/FinancialStatements/2018/Cimsa_2018_03.pdf,,Q2 = H1 − Q1,20473749.0,last_3_months
+2018,Q3,direct_labor,51633278.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_09.pdf − Data/FinancialStatements/2018/Cimsa_2018_06.pdf,,Q3 = 9M − H1,51633278.0,last_3_months
+2018,Q4,direct_labor,-17621906.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_12.pdf − Data/FinancialStatements/2018/Cimsa_2018_09.pdf,,Q4 = FY − 9M,-17621906.0,derived
+2019,Q1,direct_labor,19720566.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_03.pdf,,Q1 = 3-month report,19720566.0,derived
+2019,Q2,direct_labor,22308800.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_06.pdf − Data/FinancialStatements/2019/Cimsa_2019_03.pdf,,Q2 = H1 − Q1,22308800.0,derived
+2019,Q3,direct_labor,20486859.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_09.pdf − Data/FinancialStatements/2019/Cimsa_2019_06.pdf,,Q3 = 9M − H1,20543646.0,last_3_months
+2019,Q4,direct_labor,19828379.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_12.pdf − Data/FinancialStatements/2019/Cimsa_2019_09.pdf,,Q4 = FY − 9M,19828379.0,derived
+2020,Q1,direct_labor,22660502.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_03.pdf,,Q1 = 3-month report,22660502.0,derived
+2020,Q2,direct_labor,24776659.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_06.pdf − Data/FinancialStatements/2020/Cimsa_2020_03.pdf,,Q2 = H1 − Q1,24776659.0,last_3_months
+2020,Q3,direct_labor,34867121.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_09.pdf − Data/FinancialStatements/2020/Cimsa_2020_06.pdf,,Q3 = 9M − H1,27867121.0,last_3_months
+2020,Q4,direct_labor,19696995.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_12.pdf − Data/FinancialStatements/2020/Cimsa_2020_09.pdf,,Q4 = FY − 9M,19696995.0,derived
+2021,Q1,direct_labor,28798672.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_03.pdf,,Q1 = 3-month report,28798672.0,derived
+2021,Q2,direct_labor,30515604.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_06.pdf − Data/FinancialStatements/2021/Cimsa_2021_03.pdf,,Q2 = H1 − Q1,30515605.0,last_3_months
+2021,Q3,direct_labor,27636572.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_09.pdf − Data/FinancialStatements/2021/Cimsa_2021_06.pdf,,Q3 = 9M − H1,27636572.0,last_3_months
+2021,Q4,direct_labor,29699267.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_12.pdf − Data/FinancialStatements/2021/Cimsa_2021_09.pdf,,Q4 = FY − 9M,29699267.0,derived
+2022,Q1,direct_labor,41388963.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_03.pdf,,Q1 = 3-month report,41388963.0,derived
+2022,Q2,direct_labor,43247450.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_06.pdf − Data/FinancialStatements/2022/Cimsa_2022_03.pdf,,Q2 = H1 − Q1,43247450.0,last_3_months
+2022,Q3,direct_labor,55056092.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_09.pdf − Data/FinancialStatements/2022/Cimsa_2022_06.pdf,,Q3 = 9M − H1,55056093.0,last_3_months
+2022,Q4,direct_labor,53406268.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_12.pdf − Data/FinancialStatements/2022/Cimsa_2022_09.pdf,,Q4 = FY − 9M,53406268.0,derived
+2023,Q1,direct_labor,80816000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_03.pdf,,Q1 = 3-month report,80816000.0,derived
+2023,Q2,direct_labor,78318000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_06.pdf − Data/FinancialStatements/2023/Cimsa_2023_03.pdf,,Q2 = H1 − Q1,78319000.0,last_3_months
+2023,Q3,direct_labor,104890000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_09.pdf − Data/FinancialStatements/2023/Cimsa_2023_06.pdf,,Q3 = 9M − H1,104890000.0,last_3_months
+2016,Q1,energy_cost,64524595.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_03.pdf,,Q1 = 3-month report,64524595.0,derived
+2016,Q2,energy_cost,59789449.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_06.pdf − Data/FinancialStatements/2016/Cimsa_2016_03.pdf,,Q2 = H1 − Q1,59789449.0,last_3_months
+2016,Q3,energy_cost,62382828.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_09.pdf − Data/FinancialStatements/2016/Cimsa_2016_06.pdf,,Q3 = 9M − H1,62382828.0,last_3_months
+2016,Q4,energy_cost,81497818.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf − Data/FinancialStatements/2016/Cimsa_2016_09.pdf,,Q4 = FY − 9M,81497818.0,derived
+2017,Q1,energy_cost,77576929.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_03.pdf,,Q1 = 3-month report,77576929.0,derived
+2017,Q2,energy_cost,87599396.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_06.pdf − Data/FinancialStatements/2017/Cimsa_2017_03.pdf,,Q2 = H1 − Q1,87599396.0,last_3_months
+2017,Q3,energy_cost,88386594.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_09.pdf − Data/FinancialStatements/2017/Cimsa_2017_06.pdf,,Q3 = 9M − H1,88386593.0,last_3_months
+2017,Q4,energy_cost,94255071.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_12.pdf − Data/FinancialStatements/2017/Cimsa_2017_09.pdf,,Q4 = FY − 9M,94255071.0,derived
+2018,Q1,energy_cost,102795423.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_03.pdf,,Q1 = 3-month report,102795423.0,derived
+2018,Q2,energy_cost,116479399.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_06.pdf − Data/FinancialStatements/2018/Cimsa_2018_03.pdf,,Q2 = H1 − Q1,116479399.0,last_3_months
+2018,Q3,energy_cost,133471331.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_09.pdf − Data/FinancialStatements/2018/Cimsa_2018_06.pdf,,Q3 = 9M − H1,133471331.0,last_3_months
+2018,Q4,energy_cost,113619040.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_12.pdf − Data/FinancialStatements/2018/Cimsa_2018_09.pdf,,Q4 = FY − 9M,113619040.0,derived
+2019,Q1,energy_cost,112245171.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_03.pdf,,Q1 = 3-month report,112245171.0,derived
+2019,Q2,energy_cost,135820152.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_06.pdf − Data/FinancialStatements/2019/Cimsa_2019_03.pdf,,Q2 = H1 − Q1,135820152.0,derived
+2019,Q3,energy_cost,125662060.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_09.pdf − Data/FinancialStatements/2019/Cimsa_2019_06.pdf,,Q3 = 9M − H1,125662060.0,last_3_months
+2019,Q4,energy_cost,113265628.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_12.pdf − Data/FinancialStatements/2019/Cimsa_2019_09.pdf,,Q4 = FY − 9M,113265628.0,derived
+2020,Q1,energy_cost,127527463.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_03.pdf,,Q1 = 3-month report,127527463.0,derived
+2020,Q2,energy_cost,115553194.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_06.pdf − Data/FinancialStatements/2020/Cimsa_2020_03.pdf,,Q2 = H1 − Q1,115553194.0,last_3_months
+2020,Q3,energy_cost,296303007.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_09.pdf − Data/FinancialStatements/2020/Cimsa_2020_06.pdf,,Q3 = 9M − H1,213647481.0,last_3_months
+2020,Q4,energy_cost,178931356.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_12.pdf − Data/FinancialStatements/2020/Cimsa_2020_09.pdf,,Q4 = FY − 9M,178931356.0,derived
+2021,Q1,energy_cost,228973654.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_03.pdf,,Q1 = 3-month report,228973654.0,derived
+2021,Q2,energy_cost,309619906.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_06.pdf − Data/FinancialStatements/2021/Cimsa_2021_03.pdf,,Q2 = H1 − Q1,309619905.0,last_3_months
+2021,Q3,energy_cost,344738674.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_09.pdf − Data/FinancialStatements/2021/Cimsa_2021_06.pdf,,Q3 = 9M − H1,344738674.0,last_3_months
+2021,Q4,energy_cost,512484901.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_12.pdf − Data/FinancialStatements/2021/Cimsa_2021_09.pdf,,Q4 = FY − 9M,512484901.0,derived
+2022,Q1,energy_cost,623033236.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_03.pdf,,Q1 = 3-month report,623033236.0,derived
+2022,Q2,energy_cost,809489843.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_06.pdf − Data/FinancialStatements/2022/Cimsa_2022_03.pdf,,Q2 = H1 − Q1,809489843.0,last_3_months
+2022,Q3,energy_cost,1126257546.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_09.pdf − Data/FinancialStatements/2022/Cimsa_2022_06.pdf,,Q3 = 9M − H1,1126257546.0,last_3_months
+2022,Q4,energy_cost,1073324503.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_12.pdf − Data/FinancialStatements/2022/Cimsa_2022_09.pdf,,Q4 = FY − 9M,1073324503.0,derived
+2023,Q1,energy_cost,874146000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_03.pdf,,Q1 = 3-month report,874146000.0,derived
+2023,Q2,energy_cost,868798000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_06.pdf − Data/FinancialStatements/2023/Cimsa_2023_03.pdf,,Q2 = H1 − Q1,868798000.0,last_3_months
+2023,Q3,energy_cost,1024368000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_09.pdf − Data/FinancialStatements/2023/Cimsa_2023_06.pdf,,Q3 = 9M − H1,1024368000.0,last_3_months
+2016,Q1,energy_share_production_cost,0.3502561711819942,ratio,nominal,False,derived,,energy_cost / total_production_cost,0.3502561711819942,derived
+2016,Q2,energy_share_production_cost,0.29177858223865866,ratio,nominal,False,derived,,energy_cost / total_production_cost,0.29177858223865866,last_3_months
+2016,Q3,energy_share_production_cost,0.3319635429238458,ratio,nominal,False,derived,,energy_cost / total_production_cost,0.3319635429238458,last_3_months
+2016,Q4,energy_share_production_cost,0.3516962167150212,ratio,nominal,False,derived,,energy_cost / total_production_cost,0.3516962167150212,derived
+2017,Q1,energy_share_production_cost,0.35596524340380686,ratio,nominal,False,derived,,energy_cost / total_production_cost,0.35596524340380686,derived
+2017,Q2,energy_share_production_cost,0.30668545895940674,ratio,nominal,False,derived,,energy_cost / total_production_cost,0.30668545895940674,last_3_months
+2017,Q3,energy_share_production_cost,0.30729819548025894,ratio,nominal,False,derived,,energy_cost / total_production_cost,0.3072981909351084,last_3_months
+2017,Q4,energy_share_production_cost,0.3622135991372609,ratio,nominal,False,derived,,energy_cost / total_production_cost,0.3622135991372609,derived
+2018,Q1,energy_share_production_cost,0.35491753265509257,ratio,nominal,False,derived,,energy_cost / total_production_cost,0.35491753265509257,derived
+2018,Q2,energy_share_production_cost,0.3427397358166258,ratio,nominal,False,derived,,energy_cost / total_production_cost,0.3427397358166258,last_3_months
+2018,Q3,energy_share_production_cost,0.39223836864085077,ratio,nominal,False,derived,,energy_cost / total_production_cost,0.39223836864085077,last_3_months
+2018,Q4,energy_share_production_cost,0.3638637147285398,ratio,nominal,False,derived,,energy_cost / total_production_cost,0.3638637147285398,derived
+2019,Q1,energy_share_production_cost,0.41726250009130916,ratio,nominal,False,derived,,energy_cost / total_production_cost,0.41726250009130916,derived
+2019,Q2,energy_share_production_cost,0.38524756489391104,ratio,nominal,False,derived,,energy_cost / total_production_cost,0.38524756489391104,derived
+2019,Q3,energy_share_production_cost,0.3491354128034042,ratio,nominal,False,derived,,energy_cost / total_production_cost,0.3491354128034042,last_3_months
+2019,Q4,energy_share_production_cost,0.3173720007906278,ratio,nominal,False,derived,,energy_cost / total_production_cost,0.3173720007906278,derived
+2020,Q1,energy_share_production_cost,0.3788687827359219,ratio,nominal,False,derived,,energy_cost / total_production_cost,0.3788687827359219,derived
+2020,Q2,energy_share_production_cost,0.3166046082618904,ratio,nominal,False,derived,,energy_cost / total_production_cost,0.3166046082618904,last_3_months
+2020,Q3,energy_share_production_cost,0.6010618872679483,ratio,nominal,False,derived,,energy_cost / total_production_cost,0.45171858356093536,last_3_months
+2020,Q4,energy_share_production_cost,0.5191596817930696,ratio,nominal,False,derived,,energy_cost / total_production_cost,0.5191596817930696,derived
+2021,Q1,energy_share_production_cost,0.43728128013320916,ratio,nominal,False,derived,,energy_cost / total_production_cost,0.43728128013320916,derived
+2021,Q2,energy_share_production_cost,0.604084546155076,ratio,nominal,False,derived,,energy_cost / total_production_cost,0.6040845453826243,last_3_months
+2021,Q3,energy_share_production_cost,0.4926227065271446,ratio,nominal,False,derived,,energy_cost / total_production_cost,0.49262270582319945,last_3_months
+2021,Q4,energy_share_production_cost,0.5032220860238932,ratio,nominal,False,derived,,energy_cost / total_production_cost,0.5032220860238932,derived
+2022,Q1,energy_share_production_cost,0.5489018335062053,ratio,nominal,False,derived,,energy_cost / total_production_cost,0.5489018335062053,derived
+2022,Q2,energy_share_production_cost,0.54086387996469,ratio,nominal,False,derived,,energy_cost / total_production_cost,0.54086387996469,last_3_months
+2022,Q3,energy_share_production_cost,0.7120224951753663,ratio,nominal,False,derived,,energy_cost / total_production_cost,0.7120224947252242,last_3_months
+2022,Q4,energy_share_production_cost,0.5698074140086236,ratio,nominal,False,derived,,energy_cost / total_production_cost,0.5698074140086236,derived
+2023,Q1,energy_share_production_cost,0.5108296498187267,ratio,nominal,False,derived,,energy_cost / total_production_cost,0.5108296498187267,derived
+2023,Q2,energy_share_production_cost,0.5212833872938082,ratio,nominal,False,derived,,energy_cost / total_production_cost,0.5212833872938082,last_3_months
+2023,Q3,energy_share_production_cost,0.4643741293279738,ratio,nominal,False,derived,,energy_cost / total_production_cost,0.4643741293279738,last_3_months
+2016,Q1,energy_to_revenue,0.25436948813536386,ratio,nominal,False,derived,,energy_cost / revenue,0.25436948813536386,derived
+2016,Q2,energy_to_revenue,0.17983324867748254,ratio,nominal,False,derived,,energy_cost / revenue,0.17983324867748254,last_3_months
+2016,Q3,energy_to_revenue,0.21165218968098767,ratio,nominal,False,derived,,energy_cost / revenue,0.21165218968098767,last_3_months
+2016,Q4,energy_to_revenue,0.2815791391965042,ratio,nominal,False,derived,,energy_cost / revenue,0.2815791391965042,derived
+2017,Q1,energy_to_revenue,0.3121902067125861,ratio,nominal,False,derived,,energy_cost / revenue,0.3121902067125861,derived
+2017,Q2,energy_to_revenue,0.22950011099131554,ratio,nominal,False,derived,,energy_cost / revenue,0.22950011099131554,last_3_months
+2017,Q3,energy_to_revenue,0.20832703337205952,ratio,nominal,False,derived,,energy_cost / revenue,0.20832703101506142,last_3_months
+2017,Q4,energy_to_revenue,0.21612070787016532,ratio,nominal,False,derived,,energy_cost / revenue,0.21612070787016532,derived
+2018,Q1,energy_to_revenue,0.2849608289624573,ratio,nominal,False,derived,,energy_cost / revenue,0.2849608289624573,derived
+2018,Q2,energy_to_revenue,0.23645430386568078,ratio,nominal,False,derived,,energy_cost / revenue,0.23645430386568078,last_3_months
+2018,Q3,energy_to_revenue,0.2953884458643683,ratio,nominal,False,derived,,energy_cost / revenue,0.2953884458643683,last_3_months
+2018,Q4,energy_to_revenue,0.2878150449733806,ratio,nominal,False,derived,,energy_cost / revenue,0.2878150449733806,derived
+2019,Q1,energy_to_revenue,0.33387426662589287,ratio,nominal,False,derived,,energy_cost / revenue,0.33387426662589287,derived
+2019,Q2,energy_to_revenue,0.2854119002587686,ratio,nominal,False,derived,,energy_cost / revenue,0.2854119002587686,derived
+2019,Q3,energy_to_revenue,0.26586788113022286,ratio,nominal,False,derived,,energy_cost / revenue,0.26586788113022286,last_3_months
+2019,Q4,energy_to_revenue,0.2565571663844036,ratio,nominal,False,derived,,energy_cost / revenue,0.2565571663844036,derived
+2020,Q1,energy_to_revenue,0.3097749964197722,ratio,nominal,False,derived,,energy_cost / revenue,0.3097749964197722,derived
+2020,Q2,energy_to_revenue,0.2063026338813882,ratio,nominal,False,derived,,energy_cost / revenue,0.2063026338813882,last_3_months
+2020,Q3,energy_to_revenue,0.4488521311758571,ratio,nominal,False,derived,,energy_cost / revenue,0.32364209914077396,last_3_months
+2020,Q4,energy_to_revenue,0.4026618535021286,ratio,nominal,False,derived,,energy_cost / revenue,0.4026618535021286,derived
+2021,Q1,energy_to_revenue,0.3581805797526251,ratio,nominal,False,derived,,energy_cost / revenue,0.3581805797526251,derived
+2021,Q2,energy_to_revenue,0.3088663736652936,ratio,nominal,False,derived,,energy_cost / revenue,0.3088663726677274,last_3_months
+2021,Q3,energy_to_revenue,0.3868840188412232,ratio,nominal,False,derived,,energy_cost / revenue,0.3868840188412232,last_3_months
+2021,Q4,energy_to_revenue,0.42263407113212564,ratio,nominal,False,derived,,energy_cost / revenue,0.42263407113212564,derived
+2022,Q1,energy_to_revenue,0.45985209586591946,ratio,nominal,False,derived,,energy_cost / revenue,0.45985209586591946,derived
+2022,Q2,energy_to_revenue,0.3613254075026741,ratio,nominal,False,derived,,energy_cost / revenue,0.3613254075026741,last_3_months
+2022,Q3,energy_to_revenue,0.4632480055583564,ratio,nominal,False,derived,,energy_cost / revenue,0.4632480055583564,last_3_months
+2022,Q4,energy_to_revenue,0.4199899928448064,ratio,nominal,False,derived,,energy_cost / revenue,0.4199899928448064,derived
+2023,Q1,energy_to_revenue,0.36995063634424546,ratio,nominal,False,derived,,energy_cost / revenue,0.36995063634424546,derived
+2023,Q2,energy_to_revenue,0.2849282200931266,ratio,nominal,False,derived,,energy_cost / revenue,0.2849282200931266,last_3_months
+2023,Q3,energy_to_revenue,0.2689967844899235,ratio,nominal,False,derived,,energy_cost / revenue,0.26899685512790616,last_3_months
+2016,Q1,gross_margin,0.3086283562879929,ratio,nominal,False,derived,,(revenue − cost_of_sales) / revenue,0.3086283562879929,derived
+2016,Q2,gross_margin,0.3496493983308758,ratio,nominal,False,derived,,(revenue − cost_of_sales) / revenue,0.3496493983308758,last_3_months
+2016,Q3,gross_margin,0.37353577498295026,ratio,nominal,False,derived,,(revenue − cost_of_sales) / revenue,0.37353577498295026,last_3_months
+2016,Q4,gross_margin,0.24466947953446336,ratio,nominal,False,derived,,(revenue − cost_of_sales) / revenue,0.24466947953446336,derived
+2017,Q1,gross_margin,0.23013748506780968,ratio,nominal,False,derived,,(revenue − cost_of_sales) / revenue,0.23013748506780968,derived
+2017,Q2,gross_margin,0.24518624782887075,ratio,nominal,False,derived,,(revenue − cost_of_sales) / revenue,0.24518624782887075,last_3_months
+2017,Q3,gross_margin,0.29449042197409897,ratio,nominal,False,derived,,(revenue − cost_of_sales) / revenue,0.29449042197409897,last_3_months
+2017,Q4,gross_margin,0.27325511522168033,ratio,nominal,False,derived,,(revenue − cost_of_sales) / revenue,0.27325511522168033,derived
+2018,Q1,gross_margin,0.26110393833816226,ratio,nominal,False,derived,,(revenue − cost_of_sales) / revenue,0.26110393833816226,derived
+2018,Q2,gross_margin,0.28151801709891744,ratio,nominal,False,derived,,(revenue − cost_of_sales) / revenue,0.28151801709891744,last_3_months
+2018,Q3,gross_margin,0.2645446292136162,ratio,nominal,False,derived,,(revenue − cost_of_sales) / revenue,0.2645446292136162,last_3_months
+2018,Q4,gross_margin,0.13572283648151115,ratio,nominal,False,derived,,(revenue − cost_of_sales) / revenue,0.13572283648151115,derived
+2019,Q1,gross_margin,0.19991618488148474,ratio,nominal,False,derived,,(revenue − cost_of_sales) / revenue,0.19991618488148474,derived
+2019,Q2,gross_margin,0.17340277678822466,ratio,nominal,False,derived,,(revenue − cost_of_sales) / revenue,0.17340277678822466,derived
+2019,Q3,gross_margin,0.17642101016806744,ratio,nominal,False,derived,,(revenue − cost_of_sales) / revenue,0.17642101016806744,last_3_months
+2019,Q4,gross_margin,0.16092398728411292,ratio,nominal,False,derived,,(revenue − cost_of_sales) / revenue,0.16092398728411292,derived
+2020,Q1,gross_margin,0.15462222152437322,ratio,nominal,False,derived,,(revenue − cost_of_sales) / revenue,0.15462222152437322,derived
+2020,Q2,gross_margin,0.19533932579827556,ratio,nominal,False,derived,,(revenue − cost_of_sales) / revenue,0.19533932579827556,last_3_months
+2020,Q3,gross_margin,0.25112166297278593,ratio,nominal,False,derived,,(revenue − cost_of_sales) / revenue,0.25112166297278593,last_3_months
+2020,Q4,gross_margin,0.2900986045312714,ratio,nominal,False,derived,,(revenue − cost_of_sales) / revenue,0.2900986045312714,derived
+2021,Q1,gross_margin,0.2165924323437568,ratio,nominal,False,derived,,(revenue − cost_of_sales) / revenue,0.2165924323437568,derived
+2021,Q2,gross_margin,0.23763200608607996,ratio,nominal,False,derived,,(revenue − cost_of_sales) / revenue,0.23763200608607996,last_3_months
+2021,Q3,gross_margin,0.19327353791913907,ratio,nominal,False,derived,,(revenue − cost_of_sales) / revenue,0.19327353791913907,last_3_months
+2021,Q4,gross_margin,0.13530289438902995,ratio,nominal,False,derived,,(revenue − cost_of_sales) / revenue,0.13530289438902995,derived
+2022,Q1,gross_margin,0.13030337859462063,ratio,nominal,False,derived,,(revenue − cost_of_sales) / revenue,0.13030337859462063,derived
+2022,Q2,gross_margin,0.2262661375525684,ratio,nominal,False,derived,,(revenue − cost_of_sales) / revenue,0.2262661375525684,last_3_months
+2022,Q3,gross_margin,0.18222321107762032,ratio,nominal,False,derived,,(revenue − cost_of_sales) / revenue,0.18222321107762032,last_3_months
+2022,Q4,gross_margin,0.13808665055591104,ratio,nominal,False,derived,,(revenue − cost_of_sales) / revenue,0.13808665055591104,derived
+2023,Q1,gross_margin,0.1794015926381116,ratio,nominal,False,derived,,(revenue − cost_of_sales) / revenue,0.1794015926381116,derived
+2023,Q2,gross_margin,0.2681440465016519,ratio,nominal,False,derived,,(revenue − cost_of_sales) / revenue,0.2681440465016519,last_3_months
+2023,Q3,gross_margin,0.2805744589500552,ratio,nominal,False,derived,,(revenue − cost_of_sales) / revenue,0.28057453262831056,last_3_months
+2016,Q1,other_production,50907738.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_03.pdf,,Q1 = 3-month report,50907738.0,derived
+2016,Q2,other_production,41523948.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_06.pdf − Data/FinancialStatements/2016/Cimsa_2016_03.pdf,,Q2 = H1 − Q1,52314194.0,last_3_months
+2016,Q3,other_production,29910321.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_09.pdf − Data/FinancialStatements/2016/Cimsa_2016_06.pdf,,Q3 = 9M − H1,29910321.0,last_3_months
+2016,Q4,other_production,60692667.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf − Data/FinancialStatements/2016/Cimsa_2016_09.pdf,,Q4 = FY − 9M,60692667.0,derived
+2017,Q1,other_production,62747641.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_03.pdf,,Q1 = 3-month report,62747641.0,derived
+2017,Q2,other_production,92814899.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_06.pdf − Data/FinancialStatements/2017/Cimsa_2017_03.pdf,,Q2 = H1 − Q1,92814900.0,last_3_months
+2017,Q3,other_production,-8909907.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_09.pdf − Data/FinancialStatements/2017/Cimsa_2017_06.pdf,,Q3 = 9M − H1,53313185.0,last_3_months
+2017,Q4,other_production,12792161.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_12.pdf − Data/FinancialStatements/2017/Cimsa_2017_09.pdf,,Q4 = FY − 9M,12792161.0,derived
+2018,Q1,other_production,36688647.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_03.pdf,,Q1 = 3-month report,36688647.0,derived
+2018,Q2,other_production,25954157.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_06.pdf − Data/FinancialStatements/2018/Cimsa_2018_03.pdf,,Q2 = H1 − Q1,25954157.0,last_3_months
+2018,Q3,other_production,31322072.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_09.pdf − Data/FinancialStatements/2018/Cimsa_2018_06.pdf,,Q3 = 9M − H1,31322072.0,last_3_months
+2018,Q4,other_production,40888704.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_12.pdf − Data/FinancialStatements/2018/Cimsa_2018_09.pdf,,Q4 = FY − 9M,40888704.0,derived
+2019,Q1,other_production,6871925.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_03.pdf,,Q1 = 3-month report,6871925.0,derived
+2019,Q2,other_production,19589466.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_06.pdf − Data/FinancialStatements/2019/Cimsa_2019_03.pdf,,Q2 = H1 − Q1,19589466.0,derived
+2019,Q3,other_production,49147532.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_09.pdf − Data/FinancialStatements/2019/Cimsa_2019_06.pdf,,Q3 = 9M − H1,49147533.0,last_3_months
+2019,Q4,other_production,61640585.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_12.pdf − Data/FinancialStatements/2019/Cimsa_2019_09.pdf,,Q4 = FY − 9M,61640585.0,derived
+2020,Q1,other_production,11837102.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_03.pdf,,Q1 = 3-month report,11837102.0,derived
+2020,Q2,other_production,18869782.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_06.pdf − Data/FinancialStatements/2020/Cimsa_2020_03.pdf,,Q2 = H1 − Q1,18869782.0,last_3_months
+2020,Q3,other_production,166401162.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_09.pdf − Data/FinancialStatements/2020/Cimsa_2020_06.pdf,,Q3 = 9M − H1,90401161.0,last_3_months
+2020,Q4,other_production,61384476.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_12.pdf − Data/FinancialStatements/2020/Cimsa_2020_09.pdf,,Q4 = FY − 9M,61384476.0,derived
+2021,Q1,other_production,182299421.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_03.pdf,,Q1 = 3-month report,182299421.0,derived
+2021,Q2,other_production,35262907.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_06.pdf − Data/FinancialStatements/2021/Cimsa_2021_03.pdf,,Q2 = H1 − Q1,35262906.0,last_3_months
+2021,Q3,other_production,203821388.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_09.pdf − Data/FinancialStatements/2021/Cimsa_2021_06.pdf,,Q3 = 9M − H1,203821389.0,last_3_months
+2021,Q4,other_production,364874687.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_12.pdf − Data/FinancialStatements/2021/Cimsa_2021_09.pdf,,Q4 = FY − 9M,364874687.0,derived
+2022,Q1,other_production,289794887.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_03.pdf,,Q1 = 3-month report,289794887.0,derived
+2022,Q2,other_production,337274362.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_06.pdf − Data/FinancialStatements/2022/Cimsa_2022_03.pdf,,Q2 = H1 − Q1,337274361.0,last_3_months
+2022,Q3,other_production,152581903.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_09.pdf − Data/FinancialStatements/2022/Cimsa_2022_06.pdf,,Q3 = 9M − H1,152581904.0,last_3_months
+2022,Q4,other_production,-195364904.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_12.pdf − Data/FinancialStatements/2022/Cimsa_2022_09.pdf,,Q4 = FY − 9M,-195364904.0,derived
+2023,Q1,other_production,294455000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_03.pdf,,Q1 = 3-month report,294455000.0,derived
+2023,Q2,other_production,473009000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_06.pdf − Data/FinancialStatements/2023/Cimsa_2023_03.pdf,,Q2 = H1 − Q1,473008000.0,last_3_months
+2023,Q3,other_production,332646000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_09.pdf − Data/FinancialStatements/2023/Cimsa_2023_06.pdf,,Q3 = 9M − H1,332646000.0,last_3_months
+2016,Q1,raw_material,51273477.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_03.pdf,,Q1 = 3-month report,51273477.0,derived
+2016,Q2,raw_material,63205930.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_06.pdf − Data/FinancialStatements/2016/Cimsa_2016_03.pdf,,Q2 = H1 − Q1,63205930.0,last_3_months
+2016,Q3,raw_material,66560304.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_09.pdf − Data/FinancialStatements/2016/Cimsa_2016_06.pdf,,Q3 = 9M − H1,66560304.0,last_3_months
+2016,Q4,raw_material,55889628.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf − Data/FinancialStatements/2016/Cimsa_2016_09.pdf,,Q4 = FY − 9M,55889628.0,derived
+2017,Q1,raw_material,57880874.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_03.pdf,,Q1 = 3-month report,57880874.0,derived
+2017,Q2,raw_material,84151116.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_06.pdf − Data/FinancialStatements/2017/Cimsa_2017_03.pdf,,Q2 = H1 − Q1,84151116.0,last_3_months
+2017,Q3,raw_material,153690549.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_09.pdf − Data/FinancialStatements/2017/Cimsa_2017_06.pdf,,Q3 = 9M − H1,107505128.0,last_3_months
+2017,Q4,raw_material,105907635.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_12.pdf − Data/FinancialStatements/2017/Cimsa_2017_09.pdf,,Q4 = FY − 9M,105907635.0,derived
+2018,Q1,raw_material,109010026.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_03.pdf,,Q1 = 3-month report,109010026.0,derived
+2018,Q2,raw_material,152659362.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_06.pdf − Data/FinancialStatements/2018/Cimsa_2018_03.pdf,,Q2 = H1 − Q1,152659362.0,last_3_months
+2018,Q3,raw_material,94457152.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_09.pdf − Data/FinancialStatements/2018/Cimsa_2018_06.pdf,,Q3 = 9M − H1,94457116.0,last_3_months
+2018,Q4,raw_material,146907441.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_12.pdf − Data/FinancialStatements/2018/Cimsa_2018_09.pdf,,Q4 = FY − 9M,146907441.0,derived
+2019,Q1,raw_material,102554124.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_03.pdf,,Q1 = 3-month report,102554124.0,derived
+2019,Q2,raw_material,135794097.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_06.pdf − Data/FinancialStatements/2019/Cimsa_2019_03.pdf,,Q2 = H1 − Q1,135794097.0,derived
+2019,Q3,raw_material,128258790.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_09.pdf − Data/FinancialStatements/2019/Cimsa_2019_06.pdf,,Q3 = 9M − H1,128258790.0,last_3_months
+2019,Q4,raw_material,133039094.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_12.pdf − Data/FinancialStatements/2019/Cimsa_2019_09.pdf,,Q4 = FY − 9M,133039094.0,derived
+2020,Q1,raw_material,140371967.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_03.pdf,,Q1 = 3-month report,140371967.0,derived
+2020,Q2,raw_material,168117307.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_06.pdf − Data/FinancialStatements/2020/Cimsa_2020_03.pdf,,Q2 = H1 − Q1,168117307.0,last_3_months
+2020,Q3,raw_material,-39435918.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_09.pdf − Data/FinancialStatements/2020/Cimsa_2020_06.pdf,,Q3 = 9M − H1,106219608.0,last_3_months
+2020,Q4,raw_material,72507600.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_12.pdf − Data/FinancialStatements/2020/Cimsa_2020_09.pdf,,Q4 = FY − 9M,72507600.0,derived
+2021,Q1,raw_material,54271915.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_03.pdf,,Q1 = 3-month report,54271915.0,derived
+2021,Q2,raw_material,109449262.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_06.pdf − Data/FinancialStatements/2021/Cimsa_2021_03.pdf,,Q2 = H1 − Q1,109449262.0,last_3_months
+2021,Q3,raw_material,94977795.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_09.pdf − Data/FinancialStatements/2021/Cimsa_2021_06.pdf,,Q3 = 9M − H1,94977795.0,last_3_months
+2021,Q4,raw_material,82525994.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_12.pdf − Data/FinancialStatements/2021/Cimsa_2021_09.pdf,,Q4 = FY − 9M,82525994.0,derived
+2022,Q1,raw_material,153476279.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_03.pdf,,Q1 = 3-month report,153476279.0,derived
+2022,Q2,raw_material,278748715.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_06.pdf − Data/FinancialStatements/2022/Cimsa_2022_03.pdf,,Q2 = H1 − Q1,278748716.0,last_3_months
+2022,Q3,raw_material,206834607.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_09.pdf − Data/FinancialStatements/2022/Cimsa_2022_06.pdf,,Q3 = 9M − H1,206834606.0,last_3_months
+2022,Q4,raw_material,919195456.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_12.pdf − Data/FinancialStatements/2022/Cimsa_2022_09.pdf,,Q4 = FY − 9M,919195456.0,derived
+2023,Q1,raw_material,430391000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_03.pdf,,Q1 = 3-month report,430391000.0,derived
+2023,Q2,raw_material,213270000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_06.pdf − Data/FinancialStatements/2023/Cimsa_2023_03.pdf,,Q2 = H1 − Q1,213270000.0,last_3_months
+2023,Q3,raw_material,709603000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_09.pdf − Data/FinancialStatements/2023/Cimsa_2023_06.pdf,,Q3 = 9M − H1,709603000.0,last_3_months
+2016,Q1,revenue,253664838.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_03.pdf,,Q1 = 3-month report,253664838.0,derived
+2016,Q2,revenue,332471606.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_06.pdf − Data/FinancialStatements/2016/Cimsa_2016_03.pdf,,Q2 = H1 − Q1,332471606.0,last_3_months
+2016,Q3,revenue,294742181.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_09.pdf − Data/FinancialStatements/2016/Cimsa_2016_06.pdf,,Q3 = 9M − H1,294742181.0,last_3_months
+2016,Q4,revenue,289431306.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf − Data/FinancialStatements/2016/Cimsa_2016_09.pdf,,Q4 = FY − 9M,289431306.0,derived
+2017,Q1,revenue,248492513.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_03.pdf,,Q1 = 3-month report,248492513.0,derived
+2017,Q2,revenue,381696530.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_06.pdf − Data/FinancialStatements/2017/Cimsa_2017_03.pdf,,Q2 = H1 − Q1,381696530.0,last_3_months
+2017,Q3,revenue,424268481.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_09.pdf − Data/FinancialStatements/2017/Cimsa_2017_06.pdf,,Q3 = 9M − H1,424268481.0,last_3_months
+2017,Q4,revenue,436122350.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_12.pdf − Data/FinancialStatements/2017/Cimsa_2017_09.pdf,,Q4 = FY − 9M,436122350.0,derived
+2018,Q1,revenue,360735275.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_03.pdf,,Q1 = 3-month report,360735275.0,derived
+2018,Q2,revenue,492608496.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_06.pdf − Data/FinancialStatements/2018/Cimsa_2018_03.pdf,,Q2 = H1 − Q1,492608496.0,last_3_months
+2018,Q3,revenue,451850209.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_09.pdf − Data/FinancialStatements/2018/Cimsa_2018_06.pdf,,Q3 = 9M − H1,451850209.0,last_3_months
+2018,Q4,revenue,394764075.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_12.pdf − Data/FinancialStatements/2018/Cimsa_2018_09.pdf,,Q4 = FY − 9M,394764075.0,derived
+2019,Q1,revenue,336189944.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_03.pdf,,Q1 = 3-month report,336189944.0,derived
+2019,Q2,revenue,475874173.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_06.pdf − Data/FinancialStatements/2019/Cimsa_2019_03.pdf,,Q2 = H1 − Q1,475874173.0,derived
+2019,Q3,revenue,472648518.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_09.pdf − Data/FinancialStatements/2019/Cimsa_2019_06.pdf,,Q3 = 9M − H1,472648518.0,last_3_months
+2019,Q4,revenue,441483002.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_12.pdf − Data/FinancialStatements/2019/Cimsa_2019_09.pdf,,Q4 = FY − 9M,441483002.0,derived
+2020,Q1,revenue,411677716.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_03.pdf,,Q1 = 3-month report,411677716.0,derived
+2020,Q2,revenue,560114972.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_06.pdf − Data/FinancialStatements/2020/Cimsa_2020_03.pdf,,Q2 = H1 − Q1,560114972.0,last_3_months
+2020,Q3,revenue,660135012.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_09.pdf − Data/FinancialStatements/2020/Cimsa_2020_06.pdf,,Q3 = 9M − H1,660135012.0,last_3_months
+2020,Q4,revenue,444371262.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_12.pdf − Data/FinancialStatements/2020/Cimsa_2020_09.pdf,,Q4 = FY − 9M,444371262.0,derived
+2021,Q1,revenue,639268757.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_03.pdf,,Q1 = 3-month report,639268757.0,derived
+2021,Q2,revenue,1002439671.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_06.pdf − Data/FinancialStatements/2021/Cimsa_2021_03.pdf,,Q2 = H1 − Q1,1002439671.0,last_3_months
+2021,Q3,revenue,891064653.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_09.pdf − Data/FinancialStatements/2021/Cimsa_2021_06.pdf,,Q3 = 9M − H1,891064653.0,last_3_months
+2021,Q4,revenue,1212597223.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_12.pdf − Data/FinancialStatements/2021/Cimsa_2021_09.pdf,,Q4 = FY − 9M,1212597223.0,derived
+2022,Q1,revenue,1354855706.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_03.pdf,,Q1 = 3-month report,1354855706.0,derived
+2022,Q2,revenue,2240334685.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_06.pdf − Data/FinancialStatements/2022/Cimsa_2022_03.pdf,,Q2 = H1 − Q1,2240334685.0,last_3_months
+2022,Q3,revenue,2431219417.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_09.pdf − Data/FinancialStatements/2022/Cimsa_2022_06.pdf,,Q3 = 9M − H1,2431219417.0,last_3_months
+2022,Q4,revenue,2555595422.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_12.pdf − Data/FinancialStatements/2022/Cimsa_2022_09.pdf,,Q4 = FY − 9M,2555595422.0,derived
+2023,Q1,revenue,2362872000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_03.pdf,,Q1 = 3-month report,2362872000.0,derived
+2023,Q2,revenue,3049182000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_06.pdf − Data/FinancialStatements/2023/Cimsa_2023_03.pdf,,Q2 = H1 − Q1,3049182000.0,last_3_months
+2023,Q3,revenue,3808105000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_09.pdf − Data/FinancialStatements/2023/Cimsa_2023_06.pdf,,Q3 = 9M − H1,3808104000.0,last_3_months
+2016,Q1,total_production_cost,184221151.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_03.pdf,,Q1 = 3-month report,184221151.0,derived
+2016,Q2,total_production_cost,204913769.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_06.pdf − Data/FinancialStatements/2016/Cimsa_2016_03.pdf,,Q2 = H1 − Q1,204913769.0,last_3_months
+2016,Q3,total_production_cost,187920720.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_09.pdf − Data/FinancialStatements/2016/Cimsa_2016_06.pdf,,Q3 = 9M − H1,187920720.0,last_3_months
+2016,Q4,total_production_cost,231727878.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf − Data/FinancialStatements/2016/Cimsa_2016_09.pdf,,Q4 = FY − 9M,231727878.0,derived
+2017,Q1,total_production_cost,217933999.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_03.pdf,,Q1 = 3-month report,217933999.0,derived
+2017,Q2,total_production_cost,285632701.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_06.pdf − Data/FinancialStatements/2017/Cimsa_2017_03.pdf,,Q2 = H1 − Q1,285632701.0,last_3_months
+2017,Q3,total_production_cost,287624839.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_09.pdf − Data/FinancialStatements/2017/Cimsa_2017_06.pdf,,Q3 = 9M − H1,287624840.0,last_3_months
+2017,Q4,total_production_cost,260219581.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_12.pdf − Data/FinancialStatements/2017/Cimsa_2017_09.pdf,,Q4 = FY − 9M,260219581.0,derived
+2018,Q1,total_production_cost,289631854.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_03.pdf,,Q1 = 3-month report,289631854.0,derived
+2018,Q2,total_production_cost,339847957.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_06.pdf − Data/FinancialStatements/2018/Cimsa_2018_03.pdf,,Q2 = H1 − Q1,339847957.0,last_3_months
+2018,Q3,total_production_cost,340281170.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_09.pdf − Data/FinancialStatements/2018/Cimsa_2018_06.pdf,,Q3 = 9M − H1,340281170.0,last_3_months
+2018,Q4,total_production_cost,312257132.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_12.pdf − Data/FinancialStatements/2018/Cimsa_2018_09.pdf,,Q4 = FY − 9M,312257132.0,derived
+2019,Q1,total_production_cost,269003735.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_03.pdf,,Q1 = 3-month report,269003735.0,derived
+2019,Q2,total_production_cost,352552915.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_06.pdf − Data/FinancialStatements/2019/Cimsa_2019_03.pdf,,Q2 = H1 − Q1,352552915.0,derived
+2019,Q3,total_production_cost,359923558.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_09.pdf − Data/FinancialStatements/2019/Cimsa_2019_06.pdf,,Q3 = 9M − H1,359923558.0,last_3_months
+2019,Q4,total_production_cost,356886013.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_12.pdf − Data/FinancialStatements/2019/Cimsa_2019_09.pdf,,Q4 = FY − 9M,356886013.0,derived
+2020,Q1,total_production_cost,336600609.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_03.pdf,,Q1 = 3-month report,336600609.0,derived
+2020,Q2,total_production_cost,364976349.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_06.pdf − Data/FinancialStatements/2020/Cimsa_2020_03.pdf,,Q2 = H1 − Q1,364976349.0,last_3_months
+2020,Q3,total_production_cost,492965888.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_09.pdf − Data/FinancialStatements/2020/Cimsa_2020_06.pdf,,Q3 = 9M − H1,472965888.0,last_3_months
+2020,Q4,total_production_cost,344655724.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_12.pdf − Data/FinancialStatements/2020/Cimsa_2020_09.pdf,,Q4 = FY − 9M,344655724.0,derived
+2021,Q1,total_production_cost,523630131.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_03.pdf,,Q1 = 3-month report,523630131.0,derived
+2021,Q2,total_production_cost,512543994.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_06.pdf − Data/FinancialStatements/2021/Cimsa_2021_03.pdf,,Q2 = H1 − Q1,512543993.0,last_3_months
+2021,Q3,total_production_cost,699802647.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_09.pdf − Data/FinancialStatements/2021/Cimsa_2021_06.pdf,,Q3 = 9M − H1,699802648.0,last_3_months
+2021,Q4,total_production_cost,1018407012.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_12.pdf − Data/FinancialStatements/2021/Cimsa_2021_09.pdf,,Q4 = FY − 9M,1018407012.0,derived
+2022,Q1,total_production_cost,1135054026.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_03.pdf,,Q1 = 3-month report,1135054026.0,derived
+2022,Q2,total_production_cost,1496660940.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_06.pdf − Data/FinancialStatements/2022/Cimsa_2022_03.pdf,,Q2 = H1 − Q1,1496660940.0,last_3_months
+2022,Q3,total_production_cost,1581772421.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_09.pdf − Data/FinancialStatements/2022/Cimsa_2022_06.pdf,,Q3 = 9M − H1,1581772422.0,last_3_months
+2022,Q4,total_production_cost,1883661877.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_12.pdf − Data/FinancialStatements/2022/Cimsa_2022_09.pdf,,Q4 = FY − 9M,1883661877.0,derived
+2023,Q1,total_production_cost,1711228000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_03.pdf,,Q1 = 3-month report,1711228000.0,derived
+2023,Q2,total_production_cost,1666652000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_06.pdf − Data/FinancialStatements/2023/Cimsa_2023_03.pdf,,Q2 = H1 − Q1,1666652000.0,last_3_months
+2023,Q3,total_production_cost,2205911000.0,TRY,nominal,False,Data/FinancialStatements/2023/Cimsa_2023_09.pdf − Data/FinancialStatements/2023/Cimsa_2023_06.pdf,,Q3 = 9M − H1,2205911000.0,last_3_months

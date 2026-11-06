@@ -1,0 +1,677 @@
+year,period,item,value,unit,basis,restated,source_file,source_page,note
+2016,FY,cash,32828414.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,5,statement of financial position (first occurrence)
+2016,FY,depreciation_amortization_total,58535454.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,10,cash flow statement
+2016,FY,enerjisa_electricity_purchases,117296636.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,63,purchases of goods and services from related parties; electricity supply lines (Toptan Satış / Enerji A.Ş. / Üretim Santralleri); lines summed: Enerjisa Enerji A.ġ.
+2016,FY,enerjisa_purchases,117296636.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,63,purchases of goods and services from related parties; all Enerjisa lines; lines summed: Enerjisa Enerji A.ġ.
+2016,FY,finance_costs,37072499.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,7,
+2016,FY,finance_income,12746874.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,7,
+2016,FY,financial_debt_total,787017435.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,39,borrowings note; total including IFRS 16 lease liabilities
+2016,FY,fx_exports_try,341957830.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,64,effects of exchange rate changes note; TRY equivalent column; comparative-year TRY equivalent is the largest value of the second block in the same line (TRY column)
+2016,FY,fx_imports_try,174014119.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,64,effects of exchange rate changes note; TRY equivalent column; comparative-year TRY equivalent is the largest value of the second block in the same line (TRY column)
+2016,FY,fx_rate_eur_average,3.3372,TRY/EUR,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,19,the report's FX rate table
+2016,FY,fx_rate_eur_period_end,3.7099,TRY/EUR,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,19,the report's FX rate table
+2016,FY,fx_rate_usd_average,3.0174,TRY/USD,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,19,the report's FX rate table
+2016,FY,fx_rate_usd_period_end,3.5192,TRY/USD,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,19,the report's FX rate table
+2016,FY,net_income,249060380.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,7,line has an unreadable (malformed) number; only the reliable value was taken
+2016,FY,net_income_minority,3040928.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,7,
+2016,FY,net_income_parent,246019452.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,7,
+2016,FY,operating_profit,306118679.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,7,line has an unreadable (malformed) number; only the reliable value was taken
+2016,FY,revenue,1170309931.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,7,income statement
+2016,FY,revenue_deductions,103929569.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,56,"total = sales discounts + other deductions (current / comparative TRY: sales discounts: 25,940,380 / 20,540,809; Diğer indirimler: 77,989,189 / 91,258,720)"
+2016,FY,revenue_domestic,878219293.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,56,
+2016,FY,revenue_export,396020207.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,56,
+2016,FY,segment_cement_cost_of_sales,592150631.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,36,
+2016,FY,segment_cement_gross_profit,382045050.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,36,
+2016,FY,segment_cement_revenue,974195681.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,36,
+2016,FY,segment_elimination_cost_of_sales,-72150597.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,36,inter-segment elimination (negative in revenue; negative in cost = cost reduction)
+2016,FY,segment_elimination_gross_profit,0.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,36,inter-segment elimination (negative in revenue; negative in cost = cost reduction); '-' in report
+2016,FY,segment_elimination_revenue,-72150597.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,36,inter-segment elimination (negative in revenue; negative in cost = cost reduction)
+2016,FY,segment_readymix_cost_of_sales,274861482.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,36,
+2016,FY,segment_readymix_gross_profit,-6596635.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,36,
+2016,FY,segment_readymix_revenue,268264847.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,36,
+2016,FY,segment_total_cost_of_sales,794861516.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,36,
+2016,FY,segment_total_gross_profit,375448415.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,36,
+2016,FY,segment_total_revenue,1170309931.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,36,
+2016,FY,segment_unallocated_cost_of_sales,0.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,36,'-' in report
+2016,FY,segment_unallocated_gross_profit,0.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,36,'-' in report
+2016,FY,segment_unallocated_revenue,0.0,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,36,'-' in report
+2015,FY,cash,224071872.0,TRY,nominal,True,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,5,statement of financial position (first occurrence); comparative column of the 2016 report
+2015,FY,depreciation_amortization_total,67862716.0,TRY,nominal,True,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,10,cash flow statement; comparative column of the 2016 report
+2015,FY,enerjisa_electricity_purchases,71430007.0,TRY,nominal,True,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,63,purchases of goods and services from related parties; electricity supply lines (Toptan Satış / Enerji A.Ş. / Üretim Santralleri); lines summed: Enerjisa Enerji A.ġ.; comparative column of the 2016 report
+2015,FY,enerjisa_purchases,71430007.0,TRY,nominal,True,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,63,purchases of goods and services from related parties; all Enerjisa lines; lines summed: Enerjisa Enerji A.ġ.; comparative column of the 2016 report
+2015,FY,finance_costs,22312449.0,TRY,nominal,True,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,7,comparative column of the 2016 report
+2015,FY,finance_income,7914665.0,TRY,nominal,True,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,7,comparative column of the 2016 report
+2015,FY,financial_debt_total,377657527.0,TRY,nominal,True,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,39,borrowings note; total including IFRS 16 lease liabilities; comparative column of the 2016 report
+2015,FY,fx_exports_try,321929546.0,TRY,nominal,True,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,64,effects of exchange rate changes note; TRY equivalent column; comparative-year TRY equivalent is the largest value of the second block in the same line (TRY column); comparative column of the 2016 report
+2015,FY,fx_imports_try,123844567.0,TRY,nominal,True,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,64,effects of exchange rate changes note; TRY equivalent column; comparative-year TRY equivalent is the largest value of the second block in the same line (TRY column); comparative column of the 2016 report
+2015,FY,fx_rate_eur_average,3.0187,TRY/EUR,nominal,True,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,19,the report's FX rate table; comparative column of the 2016 report
+2015,FY,fx_rate_eur_period_end,3.1776,TRY/EUR,nominal,True,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,19,the report's FX rate table; comparative column of the 2016 report
+2015,FY,fx_rate_usd_average,2.7191,TRY/USD,nominal,True,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,19,the report's FX rate table; comparative column of the 2016 report
+2015,FY,fx_rate_usd_period_end,2.9076,TRY/USD,nominal,True,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,19,the report's FX rate table; comparative column of the 2016 report
+2015,FY,net_income,,TRY,nominal,True,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,7,line has an unreadable (malformed) number; only the reliable value was taken; comparative column of the 2016 report; not found / unreadable in report
+2015,FY,net_income_minority,2271931.0,TRY,nominal,True,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,7,comparative column of the 2016 report
+2015,FY,net_income_parent,245279781.0,TRY,nominal,True,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,7,comparative column of the 2016 report
+2015,FY,operating_profit,,TRY,nominal,True,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,7,line has an unreadable (malformed) number; only the reliable value was taken; comparative column of the 2016 report; not found / unreadable in report
+2015,FY,revenue,1171145661.0,TRY,nominal,True,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,7,income statement; comparative column of the 2016 report
+2015,FY,revenue_deductions,111799529.0,TRY,nominal,True,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,56,"total = sales discounts + other deductions (current / comparative TRY: sales discounts: 25,940,380 / 20,540,809; Diğer indirimler: 77,989,189 / 91,258,720); comparative column of the 2016 report"
+2015,FY,revenue_domestic,907483822.0,TRY,nominal,True,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,56,comparative column of the 2016 report
+2015,FY,revenue_export,375461368.0,TRY,nominal,True,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,56,comparative column of the 2016 report
+2015,FY,segment_cement_cost_of_sales,647848126.0,TRY,nominal,True,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,36,comparative column of the 2016 report
+2015,FY,segment_cement_gross_profit,371587509.0,TRY,nominal,True,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,36,comparative column of the 2016 report
+2015,FY,segment_cement_revenue,1019435635.0,TRY,nominal,True,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,36,comparative column of the 2016 report
+2015,FY,segment_elimination_cost_of_sales,-67505658.0,TRY,nominal,True,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,36,inter-segment elimination (negative in revenue; negative in cost = cost reduction); comparative column of the 2016 report
+2015,FY,segment_elimination_gross_profit,0.0,TRY,nominal,True,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,36,inter-segment elimination (negative in revenue; negative in cost = cost reduction); '-' in report; comparative column of the 2016 report
+2015,FY,segment_elimination_revenue,-67505658.0,TRY,nominal,True,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,36,inter-segment elimination (negative in revenue; negative in cost = cost reduction); comparative column of the 2016 report
+2015,FY,segment_readymix_cost_of_sales,225903564.0,TRY,nominal,True,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,36,comparative column of the 2016 report
+2015,FY,segment_readymix_gross_profit,-6687880.0,TRY,nominal,True,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,36,comparative column of the 2016 report
+2015,FY,segment_readymix_revenue,219215684.0,TRY,nominal,True,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,36,comparative column of the 2016 report
+2015,FY,segment_total_cost_of_sales,806246032.0,TRY,nominal,True,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,36,comparative column of the 2016 report
+2015,FY,segment_total_gross_profit,364899629.0,TRY,nominal,True,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,36,comparative column of the 2016 report
+2015,FY,segment_total_revenue,1171145661.0,TRY,nominal,True,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,36,comparative column of the 2016 report
+2015,FY,segment_unallocated_cost_of_sales,0.0,TRY,nominal,True,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,36,'-' in report; comparative column of the 2016 report
+2015,FY,segment_unallocated_gross_profit,0.0,TRY,nominal,True,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,36,'-' in report; comparative column of the 2016 report
+2015,FY,segment_unallocated_revenue,0.0,TRY,nominal,True,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,36,'-' in report; comparative column of the 2016 report
+2017,FY,cash,204303367.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,7,statement of financial position (first occurrence)
+2017,FY,depreciation_amortization_total,81557843.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,12,cash flow statement
+2017,FY,enerjisa_electricity_purchases,70464737.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,61,purchases of goods and services from related parties; electricity supply lines (Toptan Satış / Enerji A.Ş. / Üretim Santralleri); lines summed: Enerjisa Enerji A.Ş. + Enerjisa Üretim Santralleri A.Ş.
+2017,FY,enerjisa_purchases,70464737.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,61,purchases of goods and services from related parties; all Enerjisa lines; lines summed: Enerjisa Enerji A.Ş. + Enerjisa Üretim Santralleri A.Ş.
+2017,FY,finance_costs,102315797.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,9,
+2017,FY,finance_income,2728922.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,9,
+2017,FY,financial_debt_total,1376837391.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,36,borrowings note; total including IFRS 16 lease liabilities
+2017,FY,fx_exports_try,444626813.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,62,effects of exchange rate changes note; TRY equivalent column; comparative-year TRY equivalent is the largest value of the second block in the same line (TRY column)
+2017,FY,fx_imports_try,127747710.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,62,effects of exchange rate changes note; TRY equivalent column; comparative-year TRY equivalent is the largest value of the second block in the same line (TRY column)
+2017,FY,fx_rate_eur_average,4.1181,TRY/EUR,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,21,the report's FX rate table
+2017,FY,fx_rate_eur_period_end,4.5155,TRY/EUR,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,20,the report's FX rate table
+2017,FY,fx_rate_usd_average,3.6437,TRY/USD,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,21,the report's FX rate table
+2017,FY,fx_rate_usd_period_end,3.7719,TRY/USD,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,20,the report's FX rate table
+2017,FY,net_income,247284753.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,9,
+2017,FY,net_income_minority,18932811.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,9,
+2017,FY,net_income_parent,228351942.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,9,
+2017,FY,operating_profit,329651870.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,9,
+2017,FY,revenue,1490579874.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,9,income statement
+2017,FY,revenue_deductions,162840935.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,52,"total = sales discounts + other deductions (current / comparative TRY: sales discounts: 37,195,060 / 25,940,380; Diğer indirimler: 125,645,875 / 77,989,189)"
+2017,FY,revenue_domestic,1092191085.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,52,
+2017,FY,revenue_export,561229724.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,52,
+2017,FY,segment_cement_cost_of_sales,846658000.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,33,
+2017,FY,segment_cement_gross_profit,410302339.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,33,
+2017,FY,segment_cement_revenue,1256960339.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,33,
+2017,FY,segment_elimination_cost_of_sales,-84298008.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,33,inter-segment elimination (negative in revenue; negative in cost = cost reduction)
+2017,FY,segment_elimination_gross_profit,0.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,33,inter-segment elimination (negative in revenue; negative in cost = cost reduction); '-' in report
+2017,FY,segment_elimination_revenue,-84298008.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,33,inter-segment elimination (negative in revenue; negative in cost = cost reduction)
+2017,FY,segment_readymix_cost_of_sales,333330033.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,33,
+2017,FY,segment_readymix_gross_profit,-15412490.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,33,
+2017,FY,segment_readymix_revenue,317917543.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,33,
+2017,FY,segment_total_cost_of_sales,1095690025.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,33,
+2017,FY,segment_total_gross_profit,394889849.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,33,
+2017,FY,segment_total_revenue,1490579874.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,33,
+2017,FY,segment_unallocated_cost_of_sales,0.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,33,'-' in report
+2017,FY,segment_unallocated_gross_profit,0.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,33,'-' in report
+2017,FY,segment_unallocated_revenue,0.0,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,33,'-' in report
+2016,FY,cash,32828414.0,TRY,nominal,True,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,7,statement of financial position (first occurrence); comparative column of the 2017 report
+2016,FY,depreciation_amortization_total,58535454.0,TRY,nominal,True,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,12,cash flow statement; comparative column of the 2017 report
+2016,FY,enerjisa_electricity_purchases,117296636.0,TRY,nominal,True,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,61,purchases of goods and services from related parties; electricity supply lines (Toptan Satış / Enerji A.Ş. / Üretim Santralleri); lines summed: Enerjisa Enerji A.Ş. + Enerjisa Üretim Santralleri A.Ş.; comparative column of the 2017 report
+2016,FY,enerjisa_purchases,117296636.0,TRY,nominal,True,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,61,purchases of goods and services from related parties; all Enerjisa lines; lines summed: Enerjisa Enerji A.Ş. + Enerjisa Üretim Santralleri A.Ş.; comparative column of the 2017 report
+2016,FY,finance_costs,37072499.0,TRY,nominal,True,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,9,comparative column of the 2017 report
+2016,FY,finance_income,12746874.0,TRY,nominal,True,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,9,comparative column of the 2017 report
+2016,FY,financial_debt_total,787017435.0,TRY,nominal,True,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,36,borrowings note; total including IFRS 16 lease liabilities; comparative column of the 2017 report
+2016,FY,fx_exports_try,341957830.0,TRY,nominal,True,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,62,effects of exchange rate changes note; TRY equivalent column; comparative-year TRY equivalent is the largest value of the second block in the same line (TRY column); comparative column of the 2017 report
+2016,FY,fx_imports_try,174014119.0,TRY,nominal,True,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,62,effects of exchange rate changes note; TRY equivalent column; comparative-year TRY equivalent is the largest value of the second block in the same line (TRY column); comparative column of the 2017 report
+2016,FY,fx_rate_eur_average,3.3372,TRY/EUR,nominal,True,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,21,the report's FX rate table; comparative column of the 2017 report
+2016,FY,fx_rate_eur_period_end,3.7099,TRY/EUR,nominal,True,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,20,the report's FX rate table; comparative column of the 2017 report
+2016,FY,fx_rate_usd_average,3.0174,TRY/USD,nominal,True,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,21,the report's FX rate table; comparative column of the 2017 report
+2016,FY,fx_rate_usd_period_end,3.5192,TRY/USD,nominal,True,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,20,the report's FX rate table; comparative column of the 2017 report
+2016,FY,net_income,249060380.0,TRY,nominal,True,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,9,comparative column of the 2017 report
+2016,FY,net_income_minority,3040928.0,TRY,nominal,True,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,9,comparative column of the 2017 report
+2016,FY,net_income_parent,246019452.0,TRY,nominal,True,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,9,comparative column of the 2017 report
+2016,FY,operating_profit,306118679.0,TRY,nominal,True,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,9,comparative column of the 2017 report
+2016,FY,revenue,1170309931.0,TRY,nominal,True,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,9,income statement; comparative column of the 2017 report
+2016,FY,revenue_deductions,103929569.0,TRY,nominal,True,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,52,"total = sales discounts + other deductions (current / comparative TRY: sales discounts: 37,195,060 / 25,940,380; Diğer indirimler: 125,645,875 / 77,989,189); comparative column of the 2017 report"
+2016,FY,revenue_domestic,878219293.0,TRY,nominal,True,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,52,comparative column of the 2017 report
+2016,FY,revenue_export,396020207.0,TRY,nominal,True,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,52,comparative column of the 2017 report
+2016,FY,segment_cement_cost_of_sales,592150631.0,TRY,nominal,True,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,33,comparative column of the 2017 report
+2016,FY,segment_cement_gross_profit,382045050.0,TRY,nominal,True,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,33,comparative column of the 2017 report
+2016,FY,segment_cement_revenue,974195681.0,TRY,nominal,True,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,33,comparative column of the 2017 report
+2016,FY,segment_elimination_cost_of_sales,-72150597.0,TRY,nominal,True,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,33,inter-segment elimination (negative in revenue; negative in cost = cost reduction); comparative column of the 2017 report
+2016,FY,segment_elimination_gross_profit,0.0,TRY,nominal,True,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,33,inter-segment elimination (negative in revenue; negative in cost = cost reduction); '-' in report; comparative column of the 2017 report
+2016,FY,segment_elimination_revenue,-72150597.0,TRY,nominal,True,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,33,inter-segment elimination (negative in revenue; negative in cost = cost reduction); comparative column of the 2017 report
+2016,FY,segment_readymix_cost_of_sales,274861482.0,TRY,nominal,True,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,33,comparative column of the 2017 report
+2016,FY,segment_readymix_gross_profit,-6596635.0,TRY,nominal,True,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,33,comparative column of the 2017 report
+2016,FY,segment_readymix_revenue,268264847.0,TRY,nominal,True,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,33,comparative column of the 2017 report
+2016,FY,segment_total_cost_of_sales,794861516.0,TRY,nominal,True,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,33,comparative column of the 2017 report
+2016,FY,segment_total_gross_profit,375448415.0,TRY,nominal,True,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,33,comparative column of the 2017 report
+2016,FY,segment_total_revenue,1170309931.0,TRY,nominal,True,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,33,comparative column of the 2017 report
+2016,FY,segment_unallocated_cost_of_sales,0.0,TRY,nominal,True,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,33,'-' in report; comparative column of the 2017 report
+2016,FY,segment_unallocated_gross_profit,0.0,TRY,nominal,True,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,33,'-' in report; comparative column of the 2017 report
+2016,FY,segment_unallocated_revenue,0.0,TRY,nominal,True,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,33,'-' in report; comparative column of the 2017 report
+2018,FY,cash,217427133.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,7,statement of financial position (first occurrence)
+2018,FY,depreciation_amortization_total,109016505.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,12,cash flow statement
+2018,FY,enerjisa_electricity_purchases,131156473.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,67,purchases of goods and services from related parties; electricity supply lines (Toptan Satış / Enerji A.Ş. / Üretim Santralleri); lines summed: Enerjisa Enerji A.Ş. + Enerjisa Üretim Santralleri A.Ş. -
+2018,FY,enerjisa_purchases,131156473.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,67,purchases of goods and services from related parties; all Enerjisa lines; lines summed: Enerjisa Enerji A.Ş. + Enerjisa Üretim Santralleri A.Ş. -
+2018,FY,finance_costs,218188378.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,9,
+2018,FY,finance_income,5141861.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,9,
+2018,FY,financial_debt_total,1480471752.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,43,borrowings note; total including IFRS 16 lease liabilities
+2018,FY,fx_exports_try,705508548.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,68,effects of exchange rate changes note; TRY equivalent column; comparative-year TRY equivalent is the largest value of the second block in the same line (TRY column)
+2018,FY,fx_imports_try,197975631.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,68,effects of exchange rate changes note; TRY equivalent column; comparative-year TRY equivalent is the largest value of the second block in the same line (TRY column)
+2018,FY,fx_rate_eur_average,5.6751,TRY/EUR,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,21,the report's FX rate table
+2018,FY,fx_rate_eur_period_end,6.028,TRY/EUR,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,21,the report's FX rate table
+2018,FY,fx_rate_usd_average,4.8256,TRY/USD,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,21,the report's FX rate table
+2018,FY,fx_rate_usd_period_end,5.2609,TRY/USD,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,21,the report's FX rate table
+2018,FY,net_income,153856849.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,9,
+2018,FY,net_income_minority,-1068683.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,9,
+2018,FY,net_income_parent,154925532.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,9,
+2018,FY,operating_profit,315687037.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,9,
+2018,FY,revenue,1699958055.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,9,income statement
+2018,FY,revenue_deductions,250477039.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,58,"total = sales discounts + other deductions (current / comparative TRY: sales discounts: 42,726,383 / 37,195,060; Diğer indirimler: 207,750,656 / 125,645,875)"
+2018,FY,revenue_domestic,1081030595.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,58,
+2018,FY,revenue_export,869404499.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,58,
+2018,FY,segment_cement_cost_of_sales,1035472144.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,39,
+2018,FY,segment_cement_gross_profit,414206409.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,39,
+2018,FY,segment_cement_revenue,1449678553.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,39,
+2018,FY,segment_elimination_cost_of_sales,-64896883.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,39,inter-segment elimination (negative in revenue; negative in cost = cost reduction)
+2018,FY,segment_elimination_gross_profit,0.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,39,inter-segment elimination (negative in revenue; negative in cost = cost reduction); '-' in report
+2018,FY,segment_elimination_revenue,-64896883.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,39,inter-segment elimination (negative in revenue; negative in cost = cost reduction)
+2018,FY,segment_readymix_cost_of_sales,323402180.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,39,
+2018,FY,segment_readymix_gross_profit,-8225795.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,39,
+2018,FY,segment_readymix_revenue,315176385.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,39,
+2018,FY,segment_total_cost_of_sales,1293977441.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,39,
+2018,FY,segment_total_gross_profit,405980614.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,39,
+2018,FY,segment_total_revenue,1699958055.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,39,
+2018,FY,segment_unallocated_cost_of_sales,0.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,39,'-' in report
+2018,FY,segment_unallocated_gross_profit,0.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,39,'-' in report
+2018,FY,segment_unallocated_revenue,0.0,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,39,'-' in report
+2017,FY,cash,204303367.0,TRY,nominal,True,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,7,statement of financial position (first occurrence); comparative column of the 2018 report
+2017,FY,depreciation_amortization_total,81557843.0,TRY,nominal,True,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,12,cash flow statement; comparative column of the 2018 report
+2017,FY,enerjisa_electricity_purchases,70464737.0,TRY,nominal,True,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,67,purchases of goods and services from related parties; electricity supply lines (Toptan Satış / Enerji A.Ş. / Üretim Santralleri); lines summed: Enerjisa Enerji A.Ş. + Enerjisa Üretim Santralleri A.Ş. -; comparative column of the 2018 report
+2017,FY,enerjisa_purchases,70464737.0,TRY,nominal,True,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,67,purchases of goods and services from related parties; all Enerjisa lines; lines summed: Enerjisa Enerji A.Ş. + Enerjisa Üretim Santralleri A.Ş. -; comparative column of the 2018 report
+2017,FY,finance_costs,102315797.0,TRY,nominal,True,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,9,comparative column of the 2018 report
+2017,FY,finance_income,2728922.0,TRY,nominal,True,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,9,comparative column of the 2018 report
+2017,FY,financial_debt_total,1376837391.0,TRY,nominal,True,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,43,borrowings note; total including IFRS 16 lease liabilities; comparative column of the 2018 report
+2017,FY,fx_exports_try,444626813.0,TRY,nominal,True,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,68,effects of exchange rate changes note; TRY equivalent column; comparative-year TRY equivalent is the largest value of the second block in the same line (TRY column); comparative column of the 2018 report
+2017,FY,fx_imports_try,127747710.0,TRY,nominal,True,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,68,effects of exchange rate changes note; TRY equivalent column; comparative-year TRY equivalent is the largest value of the second block in the same line (TRY column); comparative column of the 2018 report
+2017,FY,fx_rate_eur_average,4.1181,TRY/EUR,nominal,True,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,21,the report's FX rate table; comparative column of the 2018 report
+2017,FY,fx_rate_eur_period_end,4.5155,TRY/EUR,nominal,True,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,21,the report's FX rate table; comparative column of the 2018 report
+2017,FY,fx_rate_usd_average,3.6437,TRY/USD,nominal,True,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,21,the report's FX rate table; comparative column of the 2018 report
+2017,FY,fx_rate_usd_period_end,3.7719,TRY/USD,nominal,True,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,21,the report's FX rate table; comparative column of the 2018 report
+2017,FY,net_income,247284753.0,TRY,nominal,True,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,9,comparative column of the 2018 report
+2017,FY,net_income_minority,18932811.0,TRY,nominal,True,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,9,comparative column of the 2018 report
+2017,FY,net_income_parent,228351942.0,TRY,nominal,True,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,9,comparative column of the 2018 report
+2017,FY,operating_profit,329651870.0,TRY,nominal,True,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,9,comparative column of the 2018 report
+2017,FY,revenue,1490579874.0,TRY,nominal,True,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,9,income statement; comparative column of the 2018 report
+2017,FY,revenue_deductions,162840935.0,TRY,nominal,True,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,58,"total = sales discounts + other deductions (current / comparative TRY: sales discounts: 42,726,383 / 37,195,060; Diğer indirimler: 207,750,656 / 125,645,875); comparative column of the 2018 report"
+2017,FY,revenue_domestic,1092191085.0,TRY,nominal,True,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,58,comparative column of the 2018 report
+2017,FY,revenue_export,561229724.0,TRY,nominal,True,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,58,comparative column of the 2018 report
+2017,FY,segment_cement_cost_of_sales,846658000.0,TRY,nominal,True,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,39,"WARNING: column name not found in header: ['cement', 'readymix', 'unallocated', 'elimination', 'total']; comparative column of the 2018 report"
+2017,FY,segment_cement_gross_profit,410302339.0,TRY,nominal,True,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,39,"WARNING: column name not found in header: ['cement', 'readymix', 'unallocated', 'elimination', 'total']; comparative column of the 2018 report"
+2017,FY,segment_cement_revenue,1256960339.0,TRY,nominal,True,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,39,"WARNING: column name not found in header: ['cement', 'readymix', 'unallocated', 'elimination', 'total']; comparative column of the 2018 report"
+2017,FY,segment_elimination_cost_of_sales,-84298008.0,TRY,nominal,True,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,39,"inter-segment elimination (negative in revenue; negative in cost = cost reduction); WARNING: column name not found in header: ['cement', 'readymix', 'unallocated', 'elimination', 'total']; comparative column of the 2018 report"
+2017,FY,segment_elimination_gross_profit,0.0,TRY,nominal,True,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,39,"inter-segment elimination (negative in revenue; negative in cost = cost reduction); '-' in report; WARNING: column name not found in header: ['cement', 'readymix', 'unallocated', 'elimination', 'total']; comparative column of the 2018 report"
+2017,FY,segment_elimination_revenue,-84298008.0,TRY,nominal,True,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,39,"inter-segment elimination (negative in revenue; negative in cost = cost reduction); WARNING: column name not found in header: ['cement', 'readymix', 'unallocated', 'elimination', 'total']; comparative column of the 2018 report"
+2017,FY,segment_readymix_cost_of_sales,333330033.0,TRY,nominal,True,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,39,"WARNING: column name not found in header: ['cement', 'readymix', 'unallocated', 'elimination', 'total']; comparative column of the 2018 report"
+2017,FY,segment_readymix_gross_profit,-15412490.0,TRY,nominal,True,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,39,"WARNING: column name not found in header: ['cement', 'readymix', 'unallocated', 'elimination', 'total']; comparative column of the 2018 report"
+2017,FY,segment_readymix_revenue,317917543.0,TRY,nominal,True,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,39,"WARNING: column name not found in header: ['cement', 'readymix', 'unallocated', 'elimination', 'total']; comparative column of the 2018 report"
+2017,FY,segment_total_cost_of_sales,1095690025.0,TRY,nominal,True,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,39,"WARNING: column name not found in header: ['cement', 'readymix', 'unallocated', 'elimination', 'total']; comparative column of the 2018 report"
+2017,FY,segment_total_gross_profit,394889849.0,TRY,nominal,True,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,39,"WARNING: column name not found in header: ['cement', 'readymix', 'unallocated', 'elimination', 'total']; comparative column of the 2018 report"
+2017,FY,segment_total_revenue,1490579874.0,TRY,nominal,True,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,39,"WARNING: column name not found in header: ['cement', 'readymix', 'unallocated', 'elimination', 'total']; comparative column of the 2018 report"
+2017,FY,segment_unallocated_cost_of_sales,0.0,TRY,nominal,True,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,39,"'-' in report; WARNING: column name not found in header: ['cement', 'readymix', 'unallocated', 'elimination', 'total']; comparative column of the 2018 report"
+2017,FY,segment_unallocated_gross_profit,0.0,TRY,nominal,True,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,39,"'-' in report; WARNING: column name not found in header: ['cement', 'readymix', 'unallocated', 'elimination', 'total']; comparative column of the 2018 report"
+2017,FY,segment_unallocated_revenue,0.0,TRY,nominal,True,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,39,"'-' in report; WARNING: column name not found in header: ['cement', 'readymix', 'unallocated', 'elimination', 'total']; comparative column of the 2018 report"
+2019,FY,cash,267350543.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,7,statement of financial position (first occurrence)
+2019,FY,depreciation_amortization_total,142555454.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,12,cash flow statement
+2019,FY,enerjisa_electricity_purchases,186438421.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,68,purchases of goods and services from related parties; electricity supply lines (Toptan Satış / Enerji A.Ş. / Üretim Santralleri); lines summed: Enerjisa Enerji A.Ş.
+2019,FY,enerjisa_purchases,186438421.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,68,purchases of goods and services from related parties; all Enerjisa lines; lines summed: Enerjisa Enerji A.Ş.
+2019,FY,finance_costs,277872771.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,9,
+2019,FY,finance_income,6098730.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,9,
+2019,FY,financial_debt_total,1701171857.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,44,borrowings note; total including IFRS 16 lease liabilities
+2019,FY,fx_exports_try,940901942.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,69,effects of exchange rate changes note; TRY equivalent column; comparative-year TRY equivalent is the largest value of the second block in the same line (TRY column)
+2019,FY,fx_imports_try,202086746.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,69,effects of exchange rate changes note; TRY equivalent column; comparative-year TRY equivalent is the largest value of the second block in the same line (TRY column)
+2019,FY,fx_rate_eur_average,6.3459,TRY/EUR,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,21,the report's FX rate table
+2019,FY,fx_rate_eur_period_end,6.6506,TRY/EUR,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,21,the report's FX rate table
+2019,FY,fx_rate_usd_average,5.669,TRY/USD,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,21,the report's FX rate table
+2019,FY,fx_rate_usd_period_end,5.9402,TRY/USD,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,21,the report's FX rate table
+2019,FY,net_income,-15189673.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,9,
+2019,FY,net_income_minority,-28359153.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,9,
+2019,FY,net_income_parent,13169480.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,9,
+2019,FY,operating_profit,164154262.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,9,
+2019,FY,revenue,1726195637.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,9,income statement
+2019,FY,revenue_deductions,281457082.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,59,"total = sales discounts + other deductions (current / comparative TRY: sales discounts: 33,313,934 / 42,726,383; Diğer indirimler: 248,143,148 / 207,750,656)"
+2019,FY,revenue_domestic,860752184.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,59,
+2019,FY,revenue_export,1146900535.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,59,
+2019,FY,segment_cement_cost_of_sales,1625567772.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,40,
+2019,FY,segment_cement_gross_profit,247537754.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,40,
+2019,FY,segment_cement_revenue,1873105526.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,40,
+2019,FY,segment_elimination_cost_of_sales,-339078046.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,40,inter-segment elimination (negative in revenue; negative in cost = cost reduction)
+2019,FY,segment_elimination_gross_profit,0.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,40,inter-segment elimination (negative in revenue; negative in cost = cost reduction); '-' in report
+2019,FY,segment_elimination_revenue,-339078046.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,40,inter-segment elimination (negative in revenue; negative in cost = cost reduction)
+2019,FY,segment_readymix_cost_of_sales,135547863.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,40,
+2019,FY,segment_readymix_gross_profit,56620294.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,40,
+2019,FY,segment_readymix_revenue,192168157.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,40,
+2019,FY,segment_total_cost_of_sales,1422037589.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,40,
+2019,FY,segment_total_gross_profit,304158048.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,40,
+2019,FY,segment_total_revenue,1726195637.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,40,
+2019,FY,segment_unallocated_cost_of_sales,0.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,40,'-' in report
+2019,FY,segment_unallocated_gross_profit,0.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,40,'-' in report
+2019,FY,segment_unallocated_revenue,0.0,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,40,'-' in report
+2018,FY,cash,202067347.0,TRY,nominal,True,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,7,statement of financial position (first occurrence); comparative column of the 2019 report
+2018,FY,depreciation_amortization_total,109016505.0,TRY,nominal,True,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,12,cash flow statement; comparative column of the 2019 report
+2018,FY,enerjisa_electricity_purchases,131156473.0,TRY,nominal,True,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,68,purchases of goods and services from related parties; electricity supply lines (Toptan Satış / Enerji A.Ş. / Üretim Santralleri); lines summed: Enerjisa Enerji A.Ş.; comparative column of the 2019 report
+2018,FY,enerjisa_purchases,131156473.0,TRY,nominal,True,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,68,purchases of goods and services from related parties; all Enerjisa lines; lines summed: Enerjisa Enerji A.Ş.; comparative column of the 2019 report
+2018,FY,finance_costs,218188378.0,TRY,nominal,True,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,9,comparative column of the 2019 report
+2018,FY,finance_income,5141861.0,TRY,nominal,True,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,9,comparative column of the 2019 report
+2018,FY,financial_debt_total,1480471752.0,TRY,nominal,True,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,44,borrowings note; total including IFRS 16 lease liabilities; comparative column of the 2019 report
+2018,FY,fx_exports_try,705508548.0,TRY,nominal,True,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,69,effects of exchange rate changes note; TRY equivalent column; comparative-year TRY equivalent is the largest value of the second block in the same line (TRY column); comparative column of the 2019 report
+2018,FY,fx_imports_try,197975631.0,TRY,nominal,True,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,69,effects of exchange rate changes note; TRY equivalent column; comparative-year TRY equivalent is the largest value of the second block in the same line (TRY column); comparative column of the 2019 report
+2018,FY,fx_rate_eur_average,5.6751,TRY/EUR,nominal,True,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,21,the report's FX rate table; comparative column of the 2019 report
+2018,FY,fx_rate_eur_period_end,6.028,TRY/EUR,nominal,True,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,21,the report's FX rate table; comparative column of the 2019 report
+2018,FY,fx_rate_usd_average,4.8256,TRY/USD,nominal,True,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,21,the report's FX rate table; comparative column of the 2019 report
+2018,FY,fx_rate_usd_period_end,5.2609,TRY/USD,nominal,True,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,21,the report's FX rate table; comparative column of the 2019 report
+2018,FY,net_income,153856849.0,TRY,nominal,True,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,9,comparative column of the 2019 report
+2018,FY,net_income_minority,-1068683.0,TRY,nominal,True,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,9,comparative column of the 2019 report
+2018,FY,net_income_parent,154925532.0,TRY,nominal,True,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,9,comparative column of the 2019 report
+2018,FY,operating_profit,318761001.0,TRY,nominal,True,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,9,comparative column of the 2019 report
+2018,FY,revenue,1699958055.0,TRY,nominal,True,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,9,income statement; comparative column of the 2019 report
+2018,FY,revenue_deductions,250477039.0,TRY,nominal,True,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,59,"total = sales discounts + other deductions (current / comparative TRY: sales discounts: 33,313,934 / 42,726,383; Diğer indirimler: 248,143,148 / 207,750,656); comparative column of the 2019 report"
+2018,FY,revenue_domestic,1081030595.0,TRY,nominal,True,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,59,comparative column of the 2019 report
+2018,FY,revenue_export,869404499.0,TRY,nominal,True,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,59,comparative column of the 2019 report
+2018,FY,segment_cement_cost_of_sales,1035472144.0,TRY,nominal,True,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,40,comparative column of the 2019 report
+2018,FY,segment_cement_gross_profit,414206409.0,TRY,nominal,True,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,40,comparative column of the 2019 report
+2018,FY,segment_cement_revenue,1449678553.0,TRY,nominal,True,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,40,comparative column of the 2019 report
+2018,FY,segment_elimination_cost_of_sales,-64896883.0,TRY,nominal,True,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,40,inter-segment elimination (negative in revenue; negative in cost = cost reduction); comparative column of the 2019 report
+2018,FY,segment_elimination_gross_profit,0.0,TRY,nominal,True,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,40,inter-segment elimination (negative in revenue; negative in cost = cost reduction); '-' in report; comparative column of the 2019 report
+2018,FY,segment_elimination_revenue,-64896883.0,TRY,nominal,True,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,40,inter-segment elimination (negative in revenue; negative in cost = cost reduction); comparative column of the 2019 report
+2018,FY,segment_readymix_cost_of_sales,323402180.0,TRY,nominal,True,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,40,comparative column of the 2019 report
+2018,FY,segment_readymix_gross_profit,-8225795.0,TRY,nominal,True,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,40,comparative column of the 2019 report
+2018,FY,segment_readymix_revenue,315176385.0,TRY,nominal,True,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,40,comparative column of the 2019 report
+2018,FY,segment_total_cost_of_sales,1293977441.0,TRY,nominal,True,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,40,comparative column of the 2019 report
+2018,FY,segment_total_gross_profit,405980614.0,TRY,nominal,True,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,40,comparative column of the 2019 report
+2018,FY,segment_total_revenue,1699958055.0,TRY,nominal,True,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,40,comparative column of the 2019 report
+2018,FY,segment_unallocated_cost_of_sales,0.0,TRY,nominal,True,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,40,'-' in report; comparative column of the 2019 report
+2018,FY,segment_unallocated_gross_profit,0.0,TRY,nominal,True,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,40,'-' in report; comparative column of the 2019 report
+2018,FY,segment_unallocated_revenue,0.0,TRY,nominal,True,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,40,'-' in report; comparative column of the 2019 report
+2020,FY,cash,903961752.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,10,statement of financial position (first occurrence)
+2020,FY,depreciation_amortization_total,144361179.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,15,cash flow statement
+2020,FY,discontinued_operations,-31385662.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,12,
+2020,FY,enerjisa_electricity_purchases,285643963.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,71,purchases of goods and services from related parties; electricity supply lines (Toptan Satış / Enerji A.Ş. / Üretim Santralleri); lines summed: EnerjisaÜretimSantralleri.(3)
+2020,FY,enerjisa_purchases,285643963.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,71,purchases of goods and services from related parties; all Enerjisa lines; lines summed: EnerjisaÜretimSantralleri.(3)
+2020,FY,finance_costs,253079904.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,12,
+2020,FY,finance_income,31322385.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,12,
+2020,FY,financial_debt_total,1560902499.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,44,borrowings note; total including IFRS 16 lease liabilities
+2020,FY,fx_exports_try,1151063076.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,72,effects of exchange rate changes note; TRY equivalent column; comparative-year TRY equivalent is the largest value of the second block in the same line (TRY column)
+2020,FY,fx_imports_try,186349605.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,72,effects of exchange rate changes note; TRY equivalent column; comparative-year TRY equivalent is the largest value of the second block in the same line (TRY column)
+2020,FY,fx_rate_eur_average,8.0104,TRY/EUR,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,23,the report's FX rate table
+2020,FY,fx_rate_eur_period_end,9.0079,TRY/EUR,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,22,the report's FX rate table
+2020,FY,fx_rate_usd_average,6.9834,TRY/USD,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,23,the report's FX rate table
+2020,FY,fx_rate_usd_period_end,7.3405,TRY/USD,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,22,the report's FX rate table
+2020,FY,net_income,184430929.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,12,
+2020,FY,net_income_minority,8684687.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,12,
+2020,FY,net_income_parent,175746242.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,12,
+2020,FY,operating_profit,350919550.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,12,
+2020,FY,revenue,2076298962.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,12,income statement
+2020,FY,revenue_deductions,278170815.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,62,"total = sales discounts + other deductions (current / comparative TRY: sales discounts: 13,709,815 / 11,281,314; Diğer indirimler: 264,461,000 / 245,799,188)"
+2020,FY,revenue_domestic,1203520602.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,62,
+2020,FY,revenue_export,1150949175.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,62,
+2020,FY,segment_cement_cost_of_sales,1334717929.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,40,
+2020,FY,segment_cement_gross_profit,464436589.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,40,
+2020,FY,segment_cement_revenue,1799154518.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,40,
+2020,FY,segment_readymix_cost_of_sales,273828344.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,40,
+2020,FY,segment_readymix_gross_profit,3316100.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,40,
+2020,FY,segment_readymix_revenue,277144444.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,40,
+2020,FY,segment_total_cost_of_sales,1608546273.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,40,
+2020,FY,segment_total_gross_profit,467752689.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,40,
+2020,FY,segment_total_revenue,2076298962.0,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,40,
+2019,FY,cash,267350543.0,TRY,nominal,True,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,10,statement of financial position (first occurrence); comparative column of the 2020 report
+2019,FY,depreciation_amortization_total,142555454.0,TRY,nominal,True,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,15,cash flow statement; comparative column of the 2020 report
+2019,FY,discontinued_operations,-7880487.0,TRY,nominal,True,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,12,comparative column of the 2020 report
+2019,FY,enerjisa_electricity_purchases,186438421.0,TRY,nominal,True,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,71,purchases of goods and services from related parties; electricity supply lines (Toptan Satış / Enerji A.Ş. / Üretim Santralleri); lines summed: EnerjisaÜretimSantralleri.(3); comparative column of the 2020 report
+2019,FY,enerjisa_purchases,186438421.0,TRY,nominal,True,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,71,purchases of goods and services from related parties; all Enerjisa lines; lines summed: EnerjisaÜretimSantralleri.(3); comparative column of the 2020 report
+2019,FY,finance_costs,267228450.0,TRY,nominal,True,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,12,comparative column of the 2020 report
+2019,FY,finance_income,6098469.0,TRY,nominal,True,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,12,comparative column of the 2020 report
+2019,FY,financial_debt_total,1701171857.0,TRY,nominal,True,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,44,borrowings note; total including IFRS 16 lease liabilities; comparative column of the 2020 report
+2019,FY,fx_exports_try,940901942.0,TRY,nominal,True,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,72,effects of exchange rate changes note; TRY equivalent column; comparative-year TRY equivalent is the largest value of the second block in the same line (TRY column); comparative column of the 2020 report
+2019,FY,fx_imports_try,202086746.0,TRY,nominal,True,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,72,effects of exchange rate changes note; TRY equivalent column; comparative-year TRY equivalent is the largest value of the second block in the same line (TRY column); comparative column of the 2020 report
+2019,FY,fx_rate_eur_average,6.3274,TRY/EUR,nominal,True,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,23,the report's FX rate table; comparative column of the 2020 report
+2019,FY,fx_rate_eur_period_end,6.6506,TRY/EUR,nominal,True,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,22,the report's FX rate table; comparative column of the 2020 report
+2019,FY,fx_rate_usd_average,5.6316,TRY/USD,nominal,True,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,23,the report's FX rate table; comparative column of the 2020 report
+2019,FY,fx_rate_usd_period_end,5.9402,TRY/USD,nominal,True,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,22,the report's FX rate table; comparative column of the 2020 report
+2019,FY,net_income,-15189674.0,TRY,nominal,True,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,12,comparative column of the 2020 report
+2019,FY,net_income_minority,-28359153.0,TRY,nominal,True,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,12,comparative column of the 2020 report
+2019,FY,net_income_parent,13169479.0,TRY,nominal,True,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,12,comparative column of the 2020 report
+2019,FY,operating_profit,157790801.0,TRY,nominal,True,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,12,comparative column of the 2020 report
+2019,FY,revenue,1577651788.0,TRY,nominal,True,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,12,income statement; comparative column of the 2020 report
+2019,FY,revenue_deductions,257080502.0,TRY,nominal,True,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,62,"total = sales discounts + other deductions (current / comparative TRY: sales discounts: 13,709,815 / 11,281,314; Diğer indirimler: 264,461,000 / 245,799,188); comparative column of the 2020 report"
+2019,FY,revenue_domestic,843788085.0,TRY,nominal,True,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,62,comparative column of the 2020 report
+2019,FY,revenue_export,990944205.0,TRY,nominal,True,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,62,comparative column of the 2020 report
+2019,FY,segment_cement_cost_of_sales,1117119213.0,TRY,nominal,True,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,40,numbers on the line above the label; comparative column of the 2020 report
+2019,FY,segment_cement_gross_profit,268217220.0,TRY,nominal,True,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,40,comparative column of the 2020 report
+2019,FY,segment_cement_revenue,1385336433.0,TRY,nominal,True,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,40,numbers on the line above the label; comparative column of the 2020 report
+2019,FY,segment_readymix_cost_of_sales,186781716.0,TRY,nominal,True,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,40,numbers on the line above the label; comparative column of the 2020 report
+2019,FY,segment_readymix_gross_profit,5533639.0,TRY,nominal,True,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,40,comparative column of the 2020 report
+2019,FY,segment_readymix_revenue,192315355.0,TRY,nominal,True,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,40,numbers on the line above the label; comparative column of the 2020 report
+2019,FY,segment_total_cost_of_sales,1303900929.0,TRY,nominal,True,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,40,numbers on the line above the label; comparative column of the 2020 report
+2019,FY,segment_total_gross_profit,273750859.0,TRY,nominal,True,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,40,comparative column of the 2020 report
+2019,FY,segment_total_revenue,1577651788.0,TRY,nominal,True,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,40,numbers on the line above the label; comparative column of the 2020 report
+2021,FY,cash,257911803.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,8,statement of financial position (first occurrence)
+2021,FY,depreciation_amortization_total,132381163.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,13,cash flow statement
+2021,FY,discontinued_operations,289639030.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,10,
+2021,FY,enerjisa_electricity_purchases,450189669.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,69,purchases of goods and services from related parties; electricity supply lines (Toptan Satış / Enerji A.Ş. / Üretim Santralleri); lines summed: Enerjisa Enerji A.Ş.
+2021,FY,enerjisa_purchases,450189669.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,69,purchases of goods and services from related parties; all Enerjisa lines; lines summed: Enerjisa Enerji A.Ş.
+2021,FY,finance_costs,321201903.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,10,
+2021,FY,finance_income,37790324.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,10,
+2021,FY,financial_debt_total,1359469964.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,41,borrowings note; total including IFRS 16 lease liabilities
+2021,FY,fx_exports_try,2304626565.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,70,effects of exchange rate changes note; TRY equivalent column; comparative-year TRY equivalent is the largest value of the second block in the same line (TRY column)
+2021,FY,fx_imports_try,518900637.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,70,effects of exchange rate changes note; TRY equivalent column; comparative-year TRY equivalent is the largest value of the second block in the same line (TRY column)
+2021,FY,fx_rate_eur_average,10.5704,TRY/EUR,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,21,the report's FX rate table
+2021,FY,fx_rate_eur_period_end,14.6823,TRY/EUR,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,21,the report's FX rate table
+2021,FY,fx_rate_usd_average,8.9646,TRY/USD,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,21,the report's FX rate table
+2021,FY,fx_rate_usd_period_end,12.9775,TRY/USD,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,21,the report's FX rate table
+2021,FY,net_income,1050394723.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,10,
+2021,FY,net_income_minority,33793953.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,10,
+2021,FY,net_income_parent,1016600770.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,10,
+2021,FY,operating_profit,743689216.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,10,
+2021,FY,revenue,3745370304.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,10,income statement
+2021,FY,revenue_deductions,353406122.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,59,"total = sales discounts + other deductions (current / comparative TRY: sales discounts: 15,167,475 / 13,709,815; Satış masrafları ve diğer indirimler: 338,238,647 / 264,461,000)"
+2021,FY,revenue_domestic,1794149861.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,59,
+2021,FY,revenue_export,2304626565.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,59,
+2021,FY,segment_cement_cost_of_sales,2655676545.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,37,
+2021,FY,segment_cement_gross_profit,666054537.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,37,
+2021,FY,segment_cement_revenue,3321731082.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,37,
+2021,FY,segment_readymix_cost_of_sales,376734102.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,37,
+2021,FY,segment_readymix_gross_profit,46905120.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,37,
+2021,FY,segment_readymix_revenue,423639222.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,37,
+2021,FY,segment_total_cost_of_sales,3032410647.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,37,
+2021,FY,segment_total_gross_profit,712959657.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,37,
+2021,FY,segment_total_revenue,3745370304.0,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,37,
+2020,FY,cash,903961752.0,TRY,nominal,True,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,8,statement of financial position (first occurrence); comparative column of the 2021 report
+2020,FY,depreciation_amortization_total,144361179.0,TRY,nominal,True,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,13,cash flow statement; comparative column of the 2021 report
+2020,FY,discontinued_operations,-31385662.0,TRY,nominal,True,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,10,comparative column of the 2021 report
+2020,FY,enerjisa_electricity_purchases,285643963.0,TRY,nominal,True,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,69,purchases of goods and services from related parties; electricity supply lines (Toptan Satış / Enerji A.Ş. / Üretim Santralleri); lines summed: Enerjisa Enerji A.Ş.; comparative column of the 2021 report
+2020,FY,enerjisa_purchases,285643963.0,TRY,nominal,True,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,69,purchases of goods and services from related parties; all Enerjisa lines; lines summed: Enerjisa Enerji A.Ş.; comparative column of the 2021 report
+2020,FY,finance_costs,253079904.0,TRY,nominal,True,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,10,comparative column of the 2021 report
+2020,FY,finance_income,31322385.0,TRY,nominal,True,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,10,comparative column of the 2021 report
+2020,FY,financial_debt_total,1560902499.0,TRY,nominal,True,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,41,borrowings note; total including IFRS 16 lease liabilities; comparative column of the 2021 report
+2020,FY,fx_exports_try,1151063076.0,TRY,nominal,True,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,70,effects of exchange rate changes note; TRY equivalent column; comparative-year TRY equivalent is the largest value of the second block in the same line (TRY column); comparative column of the 2021 report
+2020,FY,fx_imports_try,186349605.0,TRY,nominal,True,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,70,effects of exchange rate changes note; TRY equivalent column; comparative-year TRY equivalent is the largest value of the second block in the same line (TRY column); comparative column of the 2021 report
+2020,FY,fx_rate_eur_average,7.6131,TRY/EUR,nominal,True,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,21,the report's FX rate table; comparative column of the 2021 report
+2020,FY,fx_rate_eur_period_end,9.0079,TRY/EUR,nominal,True,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,21,the report's FX rate table; comparative column of the 2021 report
+2020,FY,fx_rate_usd_average,6.7339,TRY/USD,nominal,True,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,21,the report's FX rate table; comparative column of the 2021 report
+2020,FY,fx_rate_usd_period_end,7.3405,TRY/USD,nominal,True,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,21,the report's FX rate table; comparative column of the 2021 report
+2020,FY,net_income,184430929.0,TRY,nominal,True,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,10,comparative column of the 2021 report
+2020,FY,net_income_minority,8684687.0,TRY,nominal,True,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,10,comparative column of the 2021 report
+2020,FY,net_income_parent,175746242.0,TRY,nominal,True,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,10,comparative column of the 2021 report
+2020,FY,operating_profit,350919550.0,TRY,nominal,True,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,10,comparative column of the 2021 report
+2020,FY,revenue,2076298962.0,TRY,nominal,True,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,10,income statement; comparative column of the 2021 report
+2020,FY,revenue_deductions,278170815.0,TRY,nominal,True,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,59,"total = sales discounts + other deductions (current / comparative TRY: sales discounts: 15,167,475 / 13,709,815; Satış masrafları ve diğer indirimler: 338,238,647 / 264,461,000); comparative column of the 2021 report"
+2020,FY,revenue_domestic,1203520602.0,TRY,nominal,True,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,59,comparative column of the 2021 report
+2020,FY,revenue_export,1150949175.0,TRY,nominal,True,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,59,comparative column of the 2021 report
+2020,FY,segment_cement_cost_of_sales,1334717929.0,TRY,nominal,True,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,37,numbers on the line above the label; comparative column of the 2021 report
+2020,FY,segment_cement_gross_profit,464436589.0,TRY,nominal,True,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,37,comparative column of the 2021 report
+2020,FY,segment_cement_revenue,1799154518.0,TRY,nominal,True,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,37,numbers on the line above the label; comparative column of the 2021 report
+2020,FY,segment_readymix_cost_of_sales,273828344.0,TRY,nominal,True,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,37,numbers on the line above the label; comparative column of the 2021 report
+2020,FY,segment_readymix_gross_profit,3316100.0,TRY,nominal,True,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,37,comparative column of the 2021 report
+2020,FY,segment_readymix_revenue,277144444.0,TRY,nominal,True,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,37,numbers on the line above the label; comparative column of the 2021 report
+2020,FY,segment_total_cost_of_sales,1608546273.0,TRY,nominal,True,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,37,numbers on the line above the label; comparative column of the 2021 report
+2020,FY,segment_total_gross_profit,467752689.0,TRY,nominal,True,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,37,comparative column of the 2021 report
+2020,FY,segment_total_revenue,2076298962.0,TRY,nominal,True,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,37,numbers on the line above the label; comparative column of the 2021 report
+2022,FY,cash,1602763980.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,8,statement of financial position (first occurrence)
+2022,FY,depreciation_amortization_total,157620945.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,13,cash flow statement
+2022,FY,discontinued_operations,0.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,10,'-' in report (recorded as zero)
+2022,FY,enerjisa_electricity_purchases,1325964354.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,69,purchases of goods and services from related parties; electricity supply lines (Toptan Satış / Enerji A.Ş. / Üretim Santralleri); lines summed: Enerjisa Enerji A.Ş.(1)
+2022,FY,enerjisa_purchases,1325964354.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,69,purchases of goods and services from related parties; all Enerjisa lines; lines summed: Enerjisa Enerji A.Ş.(1)
+2022,FY,finance_costs,355081345.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,10,
+2022,FY,finance_income,81610778.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,10,
+2022,FY,financial_debt_total,2847768328.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,39,borrowings note; total including IFRS 16 lease liabilities
+2022,FY,fx_exports_try,4757239052.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,71,effects of exchange rate changes note; TRY equivalent column; comparative-year TRY equivalent is the largest value of the second block in the same line (TRY column)
+2022,FY,fx_imports_try,1085063866.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,71,effects of exchange rate changes note; TRY equivalent column; comparative-year TRY equivalent is the largest value of the second block in the same line (TRY column)
+2022,FY,fx_rate_eur_average,17.2951,TRY/EUR,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,21,the report's FX rate table
+2022,FY,fx_rate_eur_period_end,19.9349,TRY/EUR,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,21,the report's FX rate table; period-end CBRT buying rate (the report gives buying/selling separately)
+2022,FY,fx_rate_usd_average,16.4264,TRY/USD,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,21,the report's FX rate table
+2022,FY,fx_rate_usd_period_end,18.6983,TRY/USD,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,21,the report's FX rate table; period-end CBRT buying rate (the report gives buying/selling separately)
+2022,FY,net_income,3562117462.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,10,
+2022,FY,net_income_minority,130544371.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,10,
+2022,FY,net_income_parent,3431573091.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,10,
+2022,FY,operating_profit,1299287824.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,10,
+2022,FY,revenue,8582005230.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,10,income statement
+2022,FY,revenue_deductions,1024621139.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,59,"total = sales discounts + other deductions (current / comparative TRY: sales discounts: 32,163,981 / 15,167,475; Satış masrafları ve diğer indirimler: 992,457,158 / 338,238,647)"
+2022,FY,revenue_domestic,4849387317.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,59,
+2022,FY,revenue_export,4757239052.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,59,
+2022,FY,segment_cement_cost_of_sales,6145704515.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,35,numbers on the line above the label
+2022,FY,segment_cement_gross_profit,1365089618.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,35,
+2022,FY,segment_cement_revenue,7510794133.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,35,numbers on the line above the label
+2022,FY,segment_readymix_cost_of_sales,956928342.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,35,numbers on the line above the label
+2022,FY,segment_readymix_gross_profit,114282755.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,35,
+2022,FY,segment_readymix_revenue,1071211097.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,35,numbers on the line above the label
+2022,FY,segment_total_cost_of_sales,7102632857.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,35,numbers on the line above the label
+2022,FY,segment_total_gross_profit,1479372373.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,35,
+2022,FY,segment_total_revenue,8582005230.0,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,35,numbers on the line above the label
+2021,FY,cash,257911803.0,TRY,nominal,True,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,8,statement of financial position (first occurrence); comparative column of the 2022 report
+2021,FY,depreciation_amortization_total,132381163.0,TRY,nominal,True,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,13,cash flow statement; comparative column of the 2022 report
+2021,FY,discontinued_operations,289639030.0,TRY,nominal,True,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,10,'-' in report (recorded as zero); comparative column of the 2022 report
+2021,FY,enerjisa_electricity_purchases,450189669.0,TRY,nominal,True,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,69,purchases of goods and services from related parties; electricity supply lines (Toptan Satış / Enerji A.Ş. / Üretim Santralleri); lines summed: Enerjisa Enerji A.Ş.(1); comparative column of the 2022 report
+2021,FY,enerjisa_purchases,450189669.0,TRY,nominal,True,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,69,purchases of goods and services from related parties; all Enerjisa lines; lines summed: Enerjisa Enerji A.Ş.(1); comparative column of the 2022 report
+2021,FY,finance_costs,321201903.0,TRY,nominal,True,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,10,comparative column of the 2022 report
+2021,FY,finance_income,37790324.0,TRY,nominal,True,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,10,comparative column of the 2022 report
+2021,FY,financial_debt_total,1359469964.0,TRY,nominal,True,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,39,borrowings note; total including IFRS 16 lease liabilities; comparative column of the 2022 report
+2021,FY,fx_exports_try,2304626565.0,TRY,nominal,True,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,71,effects of exchange rate changes note; TRY equivalent column; comparative-year TRY equivalent is the largest value of the second block in the same line (TRY column); comparative column of the 2022 report
+2021,FY,fx_imports_try,518900637.0,TRY,nominal,True,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,71,effects of exchange rate changes note; TRY equivalent column; comparative-year TRY equivalent is the largest value of the second block in the same line (TRY column); comparative column of the 2022 report
+2021,FY,fx_rate_eur_average,10.5704,TRY/EUR,nominal,True,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,21,the report's FX rate table; comparative column of the 2022 report
+2021,FY,fx_rate_eur_period_end,15.0867,TRY/EUR,nominal,True,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,21,the report's FX rate table; period-end CBRT buying rate (the report gives buying/selling separately); comparative column of the 2022 report
+2021,FY,fx_rate_usd_average,8.9646,TRY/USD,nominal,True,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,21,the report's FX rate table; comparative column of the 2022 report
+2021,FY,fx_rate_usd_period_end,13.329,TRY/USD,nominal,True,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,21,the report's FX rate table; period-end CBRT buying rate (the report gives buying/selling separately); comparative column of the 2022 report
+2021,FY,net_income,1050394723.0,TRY,nominal,True,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,10,comparative column of the 2022 report
+2021,FY,net_income_minority,33793953.0,TRY,nominal,True,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,10,comparative column of the 2022 report
+2021,FY,net_income_parent,1016600770.0,TRY,nominal,True,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,10,comparative column of the 2022 report
+2021,FY,operating_profit,743689216.0,TRY,nominal,True,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,10,comparative column of the 2022 report
+2021,FY,revenue,3745370304.0,TRY,nominal,True,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,10,income statement; comparative column of the 2022 report
+2021,FY,revenue_deductions,353406122.0,TRY,nominal,True,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,59,"total = sales discounts + other deductions (current / comparative TRY: sales discounts: 32,163,981 / 15,167,475; Satış masrafları ve diğer indirimler: 992,457,158 / 338,238,647); comparative column of the 2022 report"
+2021,FY,revenue_domestic,1794149861.0,TRY,nominal,True,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,59,comparative column of the 2022 report
+2021,FY,revenue_export,2304626565.0,TRY,nominal,True,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,59,comparative column of the 2022 report
+2021,FY,segment_cement_cost_of_sales,2655676545.0,TRY,nominal,True,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,35,numbers on the line above the label; comparative column of the 2022 report
+2021,FY,segment_cement_gross_profit,666054537.0,TRY,nominal,True,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,35,comparative column of the 2022 report
+2021,FY,segment_cement_revenue,3321731082.0,TRY,nominal,True,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,35,numbers on the line above the label; comparative column of the 2022 report
+2021,FY,segment_readymix_cost_of_sales,376734102.0,TRY,nominal,True,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,35,numbers on the line above the label; comparative column of the 2022 report
+2021,FY,segment_readymix_gross_profit,46905120.0,TRY,nominal,True,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,35,comparative column of the 2022 report
+2021,FY,segment_readymix_revenue,423639222.0,TRY,nominal,True,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,35,numbers on the line above the label; comparative column of the 2022 report
+2021,FY,segment_total_cost_of_sales,3032410647.0,TRY,nominal,True,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,35,numbers on the line above the label; comparative column of the 2022 report
+2021,FY,segment_total_gross_profit,712959657.0,TRY,nominal,True,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,35,comparative column of the 2022 report
+2021,FY,segment_total_revenue,3745370304.0,TRY,nominal,True,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,35,numbers on the line above the label; comparative column of the 2022 report
+2023,FY,cash,6306682000.0,TRY,tms29,False,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,9,statement of financial position (first occurrence)
+2023,FY,depreciation_amortization_total,1138327000.0,TRY,tms29,False,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,14,cash flow statement
+2023,FY,enerjisa_electricity_purchases,1623478000.0,TRY,tms29,False,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,79,purchases of goods and services from related parties; electricity supply lines (Toptan Satış / Enerji A.Ş. / Üretim Santralleri); lines summed: Enerjisa Elektrik Enerjisi Toptan Satış A.Ş.(2)
+2023,FY,enerjisa_purchases,1623478000.0,TRY,tms29,False,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,79,purchases of goods and services from related parties; all Enerjisa lines; lines summed: Enerjisa Elektrik Enerjisi Toptan Satış A.Ş.(2)
+2023,FY,finance_costs,1909498000.0,TRY,tms29,False,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,11,
+2023,FY,finance_income,630907000.0,TRY,tms29,False,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,11,
+2023,FY,financial_debt_total,8646659000.0,TRY,tms29,False,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,50,borrowings note; total including IFRS 16 lease liabilities
+2023,FY,fx_exports_try,8638691000.0,TRY,tms29,False,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,80,effects of exchange rate changes note; TRY equivalent column; comparative year from a separate table (next line group)
+2023,FY,fx_imports_try,1766439000.0,TRY,tms29,False,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,80,effects of exchange rate changes note; TRY equivalent column; comparative year from a separate table (next line group)
+2023,FY,fx_rate_eur_average,25.6765,TRY/EUR,tms29,False,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,24,the report's FX rate table
+2023,FY,fx_rate_eur_period_end,32.5739,TRY/EUR,tms29,False,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,24,the report's FX rate table; period-end CBRT buying rate (the report gives buying/selling separately)
+2023,FY,fx_rate_usd_average,23.7269,TRY/USD,tms29,False,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,24,the report's FX rate table
+2023,FY,fx_rate_usd_period_end,29.4382,TRY/USD,tms29,False,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,24,the report's FX rate table; period-end CBRT buying rate (the report gives buying/selling separately)
+2023,FY,net_income,3078544000.0,TRY,tms29,False,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,11,
+2023,FY,net_income_minority,587653000.0,TRY,tms29,False,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,11,
+2023,FY,net_income_parent,2490891000.0,TRY,tms29,False,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,11,
+2023,FY,net_monetary_position,391940000.0,TRY,tms29,False,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,11,
+2023,FY,operating_profit,3365070000.0,TRY,tms29,False,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,11,
+2023,FY,revenue,20504515000.0,TRY,tms29,False,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,11,income statement
+2023,FY,revenue_deductions,1611809000.0,TRY,tms29,False,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,69,"total = sales discounts + other deductions (current / comparative TRY: sales discounts: 34,947,000 / 69,488,000; Satış masrafları ve diğer indirimler: 1,576,862,000 / 2,058,064,000)"
+2023,FY,revenue_domestic,13477633000.0,TRY,tms29,False,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,69,
+2023,FY,revenue_export,8638691000.0,TRY,tms29,False,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,69,
+2023,FY,segment_cement_cost_of_sales,14116127000.0,TRY,tms29,False,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,45,
+2023,FY,segment_cement_gross_profit,3609974000.0,TRY,tms29,False,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,45,
+2023,FY,segment_cement_revenue,17726101000.0,TRY,tms29,False,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,45,
+2023,FY,segment_readymix_cost_of_sales,2359052000.0,TRY,tms29,False,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,45,
+2023,FY,segment_readymix_gross_profit,419362000.0,TRY,tms29,False,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,45,
+2023,FY,segment_readymix_revenue,2778414000.0,TRY,tms29,False,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,45,
+2023,FY,segment_total_cost_of_sales,16475179000.0,TRY,tms29,False,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,45,
+2023,FY,segment_total_gross_profit,4029336000.0,TRY,tms29,False,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,45,
+2023,FY,segment_total_revenue,20504515000.0,TRY,tms29,False,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,45,
+2022,FY,cash,6911575000.0,TRY,tms29,True,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,9,statement of financial position (first occurrence); comparative column of the 2023 report
+2022,FY,depreciation_amortization_total,1041789000.0,TRY,tms29,True,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,14,cash flow statement; comparative column of the 2023 report
+2022,FY,enerjisa_electricity_purchases,2184830000.0,TRY,tms29,True,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,79,purchases of goods and services from related parties; electricity supply lines (Toptan Satış / Enerji A.Ş. / Üretim Santralleri); lines summed: Enerjisa Elektrik Enerjisi Toptan Satış A.Ş.(2); comparative column of the 2023 report
+2022,FY,enerjisa_purchases,2184830000.0,TRY,tms29,True,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,79,purchases of goods and services from related parties; all Enerjisa lines; lines summed: Enerjisa Elektrik Enerjisi Toptan Satış A.Ş.(2); comparative column of the 2023 report
+2022,FY,finance_costs,983763000.0,TRY,tms29,True,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,11,comparative column of the 2023 report
+2022,FY,finance_income,147928000.0,TRY,tms29,True,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,11,comparative column of the 2023 report
+2022,FY,financial_debt_total,9901894000.0,TRY,tms29,True,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,50,borrowings note; total including IFRS 16 lease liabilities; comparative column of the 2023 report
+2022,FY,fx_exports_try,10218203000.0,TRY,tms29,True,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,80,effects of exchange rate changes note; TRY equivalent column; comparative year from a separate table (next line group); comparative column of the 2023 report
+2022,FY,fx_imports_try,2123211000.0,TRY,tms29,True,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,80,effects of exchange rate changes note; TRY equivalent column; comparative year from a separate table (next line group); comparative column of the 2023 report
+2022,FY,fx_rate_eur_average,17.2951,TRY/EUR,tms29,True,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,24,the report's FX rate table; comparative column of the 2023 report
+2022,FY,fx_rate_eur_period_end,19.9349,TRY/EUR,tms29,True,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,24,the report's FX rate table; period-end CBRT buying rate (the report gives buying/selling separately); comparative column of the 2023 report
+2022,FY,fx_rate_usd_average,16.4264,TRY/USD,tms29,True,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,24,the report's FX rate table; comparative column of the 2023 report
+2022,FY,fx_rate_usd_period_end,18.6983,TRY/USD,tms29,True,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,24,the report's FX rate table; period-end CBRT buying rate (the report gives buying/selling separately); comparative column of the 2023 report
+2022,FY,net_income,4231624000.0,TRY,tms29,True,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,11,comparative column of the 2023 report
+2022,FY,net_income_minority,154159000.0,TRY,tms29,True,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,11,comparative column of the 2023 report
+2022,FY,net_income_parent,4077465000.0,TRY,tms29,True,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,11,comparative column of the 2023 report
+2022,FY,net_monetary_position,334610000.0,TRY,tms29,True,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,11,comparative column of the 2023 report
+2022,FY,operating_profit,1583863000.0,TRY,tms29,True,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,11,comparative column of the 2023 report
+2022,FY,revenue,20820386000.0,TRY,tms29,True,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,11,income statement; comparative column of the 2023 report
+2022,FY,revenue_deductions,2127552000.0,TRY,tms29,True,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,69,"total = sales discounts + other deductions (current / comparative TRY: sales discounts: 34,947,000 / 69,488,000; Satış masrafları ve diğer indirimler: 1,576,862,000 / 2,058,064,000); comparative column of the 2023 report"
+2022,FY,revenue_domestic,12729735000.0,TRY,tms29,True,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,69,comparative column of the 2023 report
+2022,FY,revenue_export,10218203000.0,TRY,tms29,True,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,69,comparative column of the 2023 report
+2022,FY,segment_cement_cost_of_sales,16862977000.0,TRY,tms29,True,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,45,comparative column of the 2023 report
+2022,FY,segment_cement_gross_profit,2192342000.0,TRY,tms29,True,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,45,comparative column of the 2023 report
+2022,FY,segment_cement_revenue,19055319000.0,TRY,tms29,True,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,45,comparative column of the 2023 report
+2022,FY,segment_readymix_cost_of_sales,1576760000.0,TRY,tms29,True,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,45,comparative column of the 2023 report
+2022,FY,segment_readymix_gross_profit,188307000.0,TRY,tms29,True,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,45,comparative column of the 2023 report
+2022,FY,segment_readymix_revenue,1765067000.0,TRY,tms29,True,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,45,comparative column of the 2023 report
+2022,FY,segment_total_cost_of_sales,18439737000.0,TRY,tms29,True,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,45,comparative column of the 2023 report
+2022,FY,segment_total_gross_profit,2380649000.0,TRY,tms29,True,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,45,comparative column of the 2023 report
+2022,FY,segment_total_revenue,20820386000.0,TRY,tms29,True,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,45,comparative column of the 2023 report
+2024,FY,cash,7687489000.0,TRY,tms29,False,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,8,statement of financial position (first occurrence)
+2024,FY,depreciation_amortization_total,1959110000.0,TRY,tms29,False,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,13,cash flow statement
+2024,FY,enerjisa_electricity_purchases,989617000.0,TRY,tms29,False,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,75,purchases of goods and services from related parties; electricity supply lines (Toptan Satış / Enerji A.Ş. / Üretim Santralleri); lines summed: Enerjisa Elektrik Enerjisi Toptan Satış A.Ş.
+2024,FY,enerjisa_purchases,1161488000.0,TRY,tms29,False,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,75,purchases of goods and services from related parties; all Enerjisa lines; lines summed: Enerjisa Elektrik Enerjisi Toptan Satış A.Ş. + Enerjisa Müşteri Çözümleri A.Ş.
+2024,FY,enerjisa_services_purchases,171871000.0,TRY,tms29,False,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,75,purchases of goods and services from related parties; 'Müşteri Çözümleri' (customer solutions) lines (solar/WHR O&M service; not electricity); lines summed: Enerjisa Müşteri Çözümleri A.Ş.
+2024,FY,finance_costs,2420213000.0,TRY,tms29,False,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,10,
+2024,FY,finance_income,1338384000.0,TRY,tms29,False,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,10,
+2024,FY,financial_debt_total,21490215000.0,TRY,tms29,False,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,45,borrowings note; total including IFRS 16 lease liabilities
+2024,FY,fx_exports_try,8242228000.0,TRY,tms29,False,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,76,effects of exchange rate changes note; TRY equivalent column; comparative-year TRY equivalent is the largest value of the second block in the same line (TRY column)
+2024,FY,fx_imports_try,2391037000.0,TRY,tms29,False,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,76,effects of exchange rate changes note; TRY equivalent column; comparative-year TRY equivalent is the largest value of the second block in the same line (TRY column)
+2024,FY,fx_rate_eur_average,35.411,TRY/EUR,tms29,False,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,23,the report's FX rate table
+2024,FY,fx_rate_eur_period_end,36.7362,TRY/EUR,tms29,False,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,23,the report's FX rate table; period-end CBRT buying rate (the report gives buying/selling separately)
+2024,FY,fx_rate_usd_average,32.7414,TRY/USD,tms29,False,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,23,the report's FX rate table
+2024,FY,fx_rate_usd_period_end,35.2803,TRY/USD,tms29,False,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,23,the report's FX rate table; period-end CBRT buying rate (the report gives buying/selling separately)
+2024,FY,net_income,3054336000.0,TRY,tms29,False,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,10,
+2024,FY,net_income_minority,366496000.0,TRY,tms29,False,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,10,
+2024,FY,net_income_parent,2687840000.0,TRY,tms29,False,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,10,
+2024,FY,net_monetary_position,1253087000.0,TRY,tms29,False,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,10,
+2024,FY,operating_profit,3546731000.0,TRY,tms29,False,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,10,
+2024,FY,revenue,28150518000.0,TRY,tms29,False,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,10,income statement
+2024,FY,revenue_deductions,2706835000.0,TRY,tms29,False,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,65,"total = sales discounts + other deductions (current / comparative TRY: sales discounts: 367,670,000 / 50,456,000; Satış masrafları ve diğer indirimler: 2,339,165,000 / 2,276,658,000)"
+2024,FY,revenue_domestic,14039784000.0,TRY,tms29,False,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,65,
+2024,FY,revenue_export,16817569000.0,TRY,tms29,False,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,65,
+2024,FY,segment_building_materials_cost_of_sales,1094741000.0,TRY,tms29,False,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,40,
+2024,FY,segment_building_materials_gross_profit,200394000.0,TRY,tms29,False,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,40,
+2024,FY,segment_building_materials_revenue,1295135000.0,TRY,tms29,False,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,40,
+2024,FY,segment_cement_cost_of_sales,16550715000.0,TRY,tms29,False,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,40,
+2024,FY,segment_cement_gross_profit,4963149000.0,TRY,tms29,False,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,40,
+2024,FY,segment_cement_revenue,21513864000.0,TRY,tms29,False,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,40,
+2024,FY,segment_readymix_cost_of_sales,4460918000.0,TRY,tms29,False,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,40,
+2024,FY,segment_readymix_gross_profit,880601000.0,TRY,tms29,False,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,40,
+2024,FY,segment_readymix_revenue,5341519000.0,TRY,tms29,False,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,40,
+2024,FY,segment_total_cost_of_sales,22106374000.0,TRY,tms29,False,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,40,
+2024,FY,segment_total_gross_profit,6044144000.0,TRY,tms29,False,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,40,
+2024,FY,segment_total_revenue,28150518000.0,TRY,tms29,False,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,40,
+2023,FY,cash,9105525000.0,TRY,tms29,True,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,8,statement of financial position (first occurrence); comparative column of the 2024 report
+2023,FY,depreciation_amortization_total,1643501000.0,TRY,tms29,True,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,13,cash flow statement; comparative column of the 2024 report
+2023,FY,enerjisa_electricity_purchases,2343961000.0,TRY,tms29,True,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,75,purchases of goods and services from related parties; electricity supply lines (Toptan Satış / Enerji A.Ş. / Üretim Santralleri); lines summed: Enerjisa Elektrik Enerjisi Toptan Satış A.Ş.; comparative column of the 2024 report
+2023,FY,enerjisa_purchases,2343961000.0,TRY,tms29,True,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,75,purchases of goods and services from related parties; all Enerjisa lines; lines summed: Enerjisa Elektrik Enerjisi Toptan Satış A.Ş. + Enerjisa Müşteri Çözümleri A.Ş.; comparative column of the 2024 report
+2023,FY,enerjisa_services_purchases,0.0,TRY,tms29,True,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,75,purchases of goods and services from related parties; 'Müşteri Çözümleri' (customer solutions) lines (solar/WHR O&M service; not electricity); lines summed: Enerjisa Müşteri Çözümleri A.Ş.; comparative column of the 2024 report
+2023,FY,finance_costs,2756914000.0,TRY,tms29,True,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,10,comparative column of the 2024 report
+2023,FY,finance_income,910897000.0,TRY,tms29,True,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,10,comparative column of the 2024 report
+2023,FY,financial_debt_total,12483959000.0,TRY,tms29,True,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,45,borrowings note; total including IFRS 16 lease liabilities; comparative column of the 2024 report
+2023,FY,fx_exports_try,12472531000.0,TRY,tms29,True,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,76,effects of exchange rate changes note; TRY equivalent column; comparative-year TRY equivalent is the largest value of the second block in the same line (TRY column); comparative column of the 2024 report
+2023,FY,fx_imports_try,2550382000.0,TRY,tms29,True,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,76,effects of exchange rate changes note; TRY equivalent column; comparative-year TRY equivalent is the largest value of the second block in the same line (TRY column); comparative column of the 2024 report
+2023,FY,fx_rate_eur_average,25.6765,TRY/EUR,tms29,True,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,23,the report's FX rate table; comparative column of the 2024 report
+2023,FY,fx_rate_eur_period_end,32.5739,TRY/EUR,tms29,True,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,23,the report's FX rate table; period-end CBRT buying rate (the report gives buying/selling separately); comparative column of the 2024 report
+2023,FY,fx_rate_usd_average,23.7269,TRY/USD,tms29,True,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,23,the report's FX rate table; comparative column of the 2024 report
+2023,FY,fx_rate_usd_period_end,29.4382,TRY/USD,tms29,True,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,23,the report's FX rate table; period-end CBRT buying rate (the report gives buying/selling separately); comparative column of the 2024 report
+2023,FY,net_income,4444768000.0,TRY,tms29,True,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,10,comparative column of the 2024 report
+2023,FY,net_income_minority,848446000.0,TRY,tms29,True,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,10,comparative column of the 2024 report
+2023,FY,net_income_parent,3596322000.0,TRY,tms29,True,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,10,comparative column of the 2024 report
+2023,FY,net_monetary_position,565874000.0,TRY,tms29,True,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,10,comparative column of the 2024 report
+2023,FY,operating_profit,4858455000.0,TRY,tms29,True,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,10,comparative column of the 2024 report
+2023,FY,revenue,29604214000.0,TRY,tms29,True,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,10,income statement; comparative column of the 2024 report
+2023,FY,revenue_deductions,2327114000.0,TRY,tms29,True,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,65,"total = sales discounts + other deductions (current / comparative TRY: sales discounts: 367,670,000 / 50,456,000; Satış masrafları ve diğer indirimler: 2,339,165,000 / 2,276,658,000); comparative column of the 2024 report"
+2023,FY,revenue_domestic,19458872000.0,TRY,tms29,True,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,65,comparative column of the 2024 report
+2023,FY,revenue_export,12472456000.0,TRY,tms29,True,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,65,comparative column of the 2024 report
+2023,FY,segment_building_materials_cost_of_sales,0.0,TRY,tms29,True,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,40,'-' in report; comparative column of the 2024 report
+2023,FY,segment_building_materials_gross_profit,0.0,TRY,tms29,True,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,40,'-' in report; comparative column of the 2024 report
+2023,FY,segment_building_materials_revenue,0.0,TRY,tms29,True,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,40,'-' in report; comparative column of the 2024 report
+2023,FY,segment_cement_cost_of_sales,20380723000.0,TRY,tms29,True,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,40,comparative column of the 2024 report
+2023,FY,segment_cement_gross_profit,5212044000.0,TRY,tms29,True,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,40,comparative column of the 2024 report
+2023,FY,segment_cement_revenue,25592767000.0,TRY,tms29,True,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,40,comparative column of the 2024 report
+2023,FY,segment_readymix_cost_of_sales,3405975000.0,TRY,tms29,True,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,40,comparative column of the 2024 report
+2023,FY,segment_readymix_gross_profit,605472000.0,TRY,tms29,True,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,40,comparative column of the 2024 report
+2023,FY,segment_readymix_revenue,4011447000.0,TRY,tms29,True,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,40,comparative column of the 2024 report
+2023,FY,segment_total_cost_of_sales,23786698000.0,TRY,tms29,True,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,40,comparative column of the 2024 report
+2023,FY,segment_total_gross_profit,5817516000.0,TRY,tms29,True,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,40,comparative column of the 2024 report
+2023,FY,segment_total_revenue,29604214000.0,TRY,tms29,True,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,40,comparative column of the 2024 report
+2025,FY,cash,9736668000.0,TRY,tms29,False,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,8,statement of financial position (first occurrence)
+2025,FY,depreciation_amortization_total,4173642000.0,TRY,tms29,False,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,13,cash flow statement
+2025,FY,enerjisa_electricity_purchases,405277000.0,TRY,tms29,False,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,75,purchases of goods and services from related parties; electricity supply lines (Toptan Satış / Enerji A.Ş. / Üretim Santralleri); lines summed: Enerjisa Elektrik Enerjisi Toptan Satış A.Ş.
+2025,FY,enerjisa_purchases,1694184000.0,TRY,tms29,False,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,75,purchases of goods and services from related parties; all Enerjisa lines; lines summed: Enerjisa Elektrik Enerjisi Toptan Satış A.Ş. + Enerjisa Müşteri Çözümleri A.Ş.
+2025,FY,enerjisa_services_purchases,1288907000.0,TRY,tms29,False,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,75,purchases of goods and services from related parties; 'Müşteri Çözümleri' (customer solutions) lines (solar/WHR O&M service; not electricity); lines summed: Enerjisa Müşteri Çözümleri A.Ş.
+2025,FY,finance_costs,2284557000.0,TRY,tms29,False,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,10,
+2025,FY,finance_income,689894000.0,TRY,tms29,False,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,10,
+2025,FY,financial_debt_total,29218283000.0,TRY,tms29,False,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,44,borrowings note; total including IFRS 16 lease liabilities
+2025,FY,fx_exports_try,10905165000.0,TRY,tms29,False,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,76,effects of exchange rate changes note; TRY equivalent column; comparative-year TRY equivalent is the largest value of the second block in the same line (TRY column)
+2025,FY,fx_imports_try,2144723000.0,TRY,tms29,False,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,76,effects of exchange rate changes note; TRY equivalent column; comparative-year TRY equivalent is the largest value of the second block in the same line (TRY column)
+2025,FY,fx_rate_eur_average,49.8645,TRY/EUR,tms29,False,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,23,the report's FX rate table
+2025,FY,fx_rate_eur_period_end,50.4532,TRY/EUR,tms29,False,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,23,the report's FX rate table; period-end CBRT buying rate (the report gives buying/selling separately)
+2025,FY,fx_rate_usd_average,42.5854,TRY/USD,tms29,False,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,23,the report's FX rate table
+2025,FY,fx_rate_usd_period_end,42.8623,TRY/USD,tms29,False,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,23,the report's FX rate table; period-end CBRT buying rate (the report gives buying/selling separately)
+2025,FY,net_income,3806129000.0,TRY,tms29,False,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,10,
+2025,FY,net_income_minority,703967000.0,TRY,tms29,False,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,10,
+2025,FY,net_income_parent,3102162000.0,TRY,tms29,False,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,10,
+2025,FY,net_monetary_position,2242667000.0,TRY,tms29,False,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,10,
+2025,FY,operating_profit,4927024000.0,TRY,tms29,False,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,10,
+2025,FY,revenue,45906819000.0,TRY,tms29,False,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,10,income statement
+2025,FY,revenue_deductions,4897143000.0,TRY,tms29,False,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,64,"total = sales discounts + other deductions (current / comparative TRY: sales discounts: 2,022,365,000 / 481,250,000; Satış masrafları ve diğer indirimler: 2,874,778,000 / 3,061,781,000)"
+2025,FY,revenue_domestic,18386120000.0,TRY,tms29,False,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,64,
+2025,FY,revenue_export,32417842000.0,TRY,tms29,False,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,64,
+2025,FY,segment_building_materials_cost_of_sales,7703865000.0,TRY,tms29,False,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,39,'Yapı Malzemeleri ve Paketleme' (building materials and packaging) in report
+2025,FY,segment_building_materials_gross_profit,1372495000.0,TRY,tms29,False,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,39,'Yapı Malzemeleri ve Paketleme' (building materials and packaging) in report
+2025,FY,segment_building_materials_revenue,9076360000.0,TRY,tms29,False,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,39,'Yapı Malzemeleri ve Paketleme' (building materials and packaging) in report
+2025,FY,segment_cement_cost_of_sales,24782932000.0,TRY,tms29,False,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,39,
+2025,FY,segment_cement_gross_profit,6696468000.0,TRY,tms29,False,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,39,
+2025,FY,segment_cement_revenue,31479400000.0,TRY,tms29,False,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,39,
+2025,FY,segment_readymix_cost_of_sales,4428668000.0,TRY,tms29,False,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,39,
+2025,FY,segment_readymix_gross_profit,922391000.0,TRY,tms29,False,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,39,
+2025,FY,segment_readymix_revenue,5351059000.0,TRY,tms29,False,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,39,
+2025,FY,segment_total_cost_of_sales,36915465000.0,TRY,tms29,False,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,39,
+2025,FY,segment_total_gross_profit,8991354000.0,TRY,tms29,False,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,39,
+2025,FY,segment_total_revenue,45906819000.0,TRY,tms29,False,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,39,
+2024,FY,cash,10062308000.0,TRY,tms29,True,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,8,statement of financial position (first occurrence); comparative column of the 2025 report
+2024,FY,depreciation_amortization_total,2564317000.0,TRY,tms29,True,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,13,cash flow statement; comparative column of the 2025 report
+2024,FY,enerjisa_electricity_purchases,1295329000.0,TRY,tms29,True,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,75,purchases of goods and services from related parties; electricity supply lines (Toptan Satış / Enerji A.Ş. / Üretim Santralleri); lines summed: Enerjisa Elektrik Enerjisi Toptan Satış A.Ş.; comparative column of the 2025 report
+2024,FY,enerjisa_purchases,1520294000.0,TRY,tms29,True,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,75,purchases of goods and services from related parties; all Enerjisa lines; lines summed: Enerjisa Elektrik Enerjisi Toptan Satış A.Ş. + Enerjisa Müşteri Çözümleri A.Ş.; comparative column of the 2025 report
+2024,FY,enerjisa_services_purchases,224965000.0,TRY,tms29,True,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,75,purchases of goods and services from related parties; 'Müşteri Çözümleri' (customer solutions) lines (solar/WHR O&M service; not electricity); lines summed: Enerjisa Müşteri Çözümleri A.Ş.; comparative column of the 2025 report
+2024,FY,finance_costs,3167866000.0,TRY,tms29,True,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,10,comparative column of the 2025 report
+2024,FY,finance_income,1751838000.0,TRY,tms29,True,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,10,comparative column of the 2025 report
+2024,FY,financial_debt_total,28128972000.0,TRY,tms29,True,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,44,borrowings note; total including IFRS 16 lease liabilities; comparative column of the 2025 report
+2024,FY,fx_exports_try,10788417000.0,TRY,tms29,True,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,76,effects of exchange rate changes note; TRY equivalent column; comparative-year TRY equivalent is the largest value of the second block in the same line (TRY column); comparative column of the 2025 report
+2024,FY,fx_imports_try,3129676000.0,TRY,tms29,True,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,76,effects of exchange rate changes note; TRY equivalent column; comparative-year TRY equivalent is the largest value of the second block in the same line (TRY column); comparative column of the 2025 report
+2024,FY,fx_rate_eur_average,35.411,TRY/EUR,tms29,True,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,23,the report's FX rate table; comparative column of the 2025 report
+2024,FY,fx_rate_eur_period_end,36.7362,TRY/EUR,tms29,True,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,23,the report's FX rate table; period-end CBRT buying rate (the report gives buying/selling separately); comparative column of the 2025 report
+2024,FY,fx_rate_usd_average,32.7414,TRY/USD,tms29,True,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,23,the report's FX rate table; comparative column of the 2025 report
+2024,FY,fx_rate_usd_period_end,35.2803,TRY/USD,tms29,True,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,23,the report's FX rate table; period-end CBRT buying rate (the report gives buying/selling separately); comparative column of the 2025 report
+2024,FY,net_income,3997882000.0,TRY,tms29,True,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,10,comparative column of the 2025 report
+2024,FY,net_income_minority,479710000.0,TRY,tms29,True,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,10,comparative column of the 2025 report
+2024,FY,net_income_parent,3518172000.0,TRY,tms29,True,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,10,comparative column of the 2025 report
+2024,FY,net_monetary_position,1640191000.0,TRY,tms29,True,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,10,comparative column of the 2025 report
+2024,FY,operating_profit,4642387000.0,TRY,tms29,True,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,10,comparative column of the 2025 report
+2024,FY,revenue,36846776000.0,TRY,tms29,True,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,10,income statement; comparative column of the 2025 report
+2024,FY,revenue_deductions,3543031000.0,TRY,tms29,True,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,64,"total = sales discounts + other deductions (current / comparative TRY: sales discounts: 2,022,365,000 / 481,250,000; Satış masrafları ve diğer indirimler: 2,874,778,000 / 3,061,781,000); comparative column of the 2025 report"
+2024,FY,revenue_domestic,18376954000.0,TRY,tms29,True,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,64,comparative column of the 2025 report
+2024,FY,revenue_export,22012853000.0,TRY,tms29,True,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,64,comparative column of the 2025 report
+2024,FY,segment_building_materials_cost_of_sales,1432929000.0,TRY,tms29,True,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,39,'Yapı Malzemeleri ve Paketleme' (building materials and packaging) in report; comparative column of the 2025 report
+2024,FY,segment_building_materials_gross_profit,262299000.0,TRY,tms29,True,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,39,'Yapı Malzemeleri ve Paketleme' (building materials and packaging) in report; comparative column of the 2025 report
+2024,FY,segment_building_materials_revenue,1695228000.0,TRY,tms29,True,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,39,'Yapı Malzemeleri ve Paketleme' (building materials and packaging) in report; comparative column of the 2025 report
+2024,FY,segment_cement_cost_of_sales,21663562000.0,TRY,tms29,True,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,39,comparative column of the 2025 report
+2024,FY,segment_cement_gross_profit,6496364000.0,TRY,tms29,True,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,39,comparative column of the 2025 report
+2024,FY,segment_cement_revenue,28159926000.0,TRY,tms29,True,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,39,comparative column of the 2025 report
+2024,FY,segment_readymix_cost_of_sales,5838984000.0,TRY,tms29,True,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,39,comparative column of the 2025 report
+2024,FY,segment_readymix_gross_profit,1152638000.0,TRY,tms29,True,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,39,comparative column of the 2025 report
+2024,FY,segment_readymix_revenue,6991622000.0,TRY,tms29,True,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,39,comparative column of the 2025 report
+2024,FY,segment_total_cost_of_sales,28935475000.0,TRY,tms29,True,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,39,comparative column of the 2025 report
+2024,FY,segment_total_gross_profit,7911301000.0,TRY,tms29,True,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,39,comparative column of the 2025 report
+2024,FY,segment_total_revenue,36846776000.0,TRY,tms29,True,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,39,comparative column of the 2025 report

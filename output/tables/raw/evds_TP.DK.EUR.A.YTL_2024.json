@@ -1,0 +1,2574 @@
+{
+ "meta": {
+  "series": "TP.DK.EUR.A.YTL",
+  "url_without_key": "https://evds3.tcmb.gov.tr/igmevdsms-dis/series=TP.DK.EUR.A.YTL&startDate=01-01-2024&endDate=31-12-2024&type=json",
+  "fetched_on": "2026-10-29"
+ },
+ "response": {
+  "totalCount": 366,
+  "items": [
+   {
+    "Tarih": "01-01-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1704056400"
+    }
+   },
+   {
+    "Tarih": "02-01-2024",
+    "TP_DK_EUR_A_YTL": "32.57390000",
+    "UNIXTIME": {
+     "$numberLong": "1704142800"
+    }
+   },
+   {
+    "Tarih": "03-01-2024",
+    "TP_DK_EUR_A_YTL": "32.66710000",
+    "UNIXTIME": {
+     "$numberLong": "1704229200"
+    }
+   },
+   {
+    "Tarih": "04-01-2024",
+    "TP_DK_EUR_A_YTL": "32.54310000",
+    "UNIXTIME": {
+     "$numberLong": "1704315600"
+    }
+   },
+   {
+    "Tarih": "05-01-2024",
+    "TP_DK_EUR_A_YTL": "32.56900000",
+    "UNIXTIME": {
+     "$numberLong": "1704402000"
+    }
+   },
+   {
+    "Tarih": "06-01-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1704488400"
+    }
+   },
+   {
+    "Tarih": "07-01-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1704574800"
+    }
+   },
+   {
+    "Tarih": "08-01-2024",
+    "TP_DK_EUR_A_YTL": "32.49870000",
+    "UNIXTIME": {
+     "$numberLong": "1704661200"
+    }
+   },
+   {
+    "Tarih": "09-01-2024",
+    "TP_DK_EUR_A_YTL": "32.64010000",
+    "UNIXTIME": {
+     "$numberLong": "1704747600"
+    }
+   },
+   {
+    "Tarih": "10-01-2024",
+    "TP_DK_EUR_A_YTL": "32.70490000",
+    "UNIXTIME": {
+     "$numberLong": "1704834000"
+    }
+   },
+   {
+    "Tarih": "11-01-2024",
+    "TP_DK_EUR_A_YTL": "32.72400000",
+    "UNIXTIME": {
+     "$numberLong": "1704920400"
+    }
+   },
+   {
+    "Tarih": "12-01-2024",
+    "TP_DK_EUR_A_YTL": "32.88000000",
+    "UNIXTIME": {
+     "$numberLong": "1705006800"
+    }
+   },
+   {
+    "Tarih": "13-01-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1705093200"
+    }
+   },
+   {
+    "Tarih": "14-01-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1705179600"
+    }
+   },
+   {
+    "Tarih": "15-01-2024",
+    "TP_DK_EUR_A_YTL": "32.91240000",
+    "UNIXTIME": {
+     "$numberLong": "1705266000"
+    }
+   },
+   {
+    "Tarih": "16-01-2024",
+    "TP_DK_EUR_A_YTL": "32.90360000",
+    "UNIXTIME": {
+     "$numberLong": "1705352400"
+    }
+   },
+   {
+    "Tarih": "17-01-2024",
+    "TP_DK_EUR_A_YTL": "32.75100000",
+    "UNIXTIME": {
+     "$numberLong": "1705438800"
+    }
+   },
+   {
+    "Tarih": "18-01-2024",
+    "TP_DK_EUR_A_YTL": "32.69110000",
+    "UNIXTIME": {
+     "$numberLong": "1705525200"
+    }
+   },
+   {
+    "Tarih": "19-01-2024",
+    "TP_DK_EUR_A_YTL": "32.76180000",
+    "UNIXTIME": {
+     "$numberLong": "1705611600"
+    }
+   },
+   {
+    "Tarih": "20-01-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1705698000"
+    }
+   },
+   {
+    "Tarih": "21-01-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1705784400"
+    }
+   },
+   {
+    "Tarih": "22-01-2024",
+    "TP_DK_EUR_A_YTL": "32.77710000",
+    "UNIXTIME": {
+     "$numberLong": "1705870800"
+    }
+   },
+   {
+    "Tarih": "23-01-2024",
+    "TP_DK_EUR_A_YTL": "32.88100000",
+    "UNIXTIME": {
+     "$numberLong": "1705957200"
+    }
+   },
+   {
+    "Tarih": "24-01-2024",
+    "TP_DK_EUR_A_YTL": "32.90870000",
+    "UNIXTIME": {
+     "$numberLong": "1706043600"
+    }
+   },
+   {
+    "Tarih": "25-01-2024",
+    "TP_DK_EUR_A_YTL": "32.88370000",
+    "UNIXTIME": {
+     "$numberLong": "1706130000"
+    }
+   },
+   {
+    "Tarih": "26-01-2024",
+    "TP_DK_EUR_A_YTL": "32.91660000",
+    "UNIXTIME": {
+     "$numberLong": "1706216400"
+    }
+   },
+   {
+    "Tarih": "27-01-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1706302800"
+    }
+   },
+   {
+    "Tarih": "28-01-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1706389200"
+    }
+   },
+   {
+    "Tarih": "29-01-2024",
+    "TP_DK_EUR_A_YTL": "32.79040000",
+    "UNIXTIME": {
+     "$numberLong": "1706475600"
+    }
+   },
+   {
+    "Tarih": "30-01-2024",
+    "TP_DK_EUR_A_YTL": "32.80130000",
+    "UNIXTIME": {
+     "$numberLong": "1706562000"
+    }
+   },
+   {
+    "Tarih": "31-01-2024",
+    "TP_DK_EUR_A_YTL": "32.81440000",
+    "UNIXTIME": {
+     "$numberLong": "1706648400"
+    }
+   },
+   {
+    "Tarih": "01-02-2024",
+    "TP_DK_EUR_A_YTL": "32.78840000",
+    "UNIXTIME": {
+     "$numberLong": "1706734800"
+    }
+   },
+   {
+    "Tarih": "02-02-2024",
+    "TP_DK_EUR_A_YTL": "32.72170000",
+    "UNIXTIME": {
+     "$numberLong": "1706821200"
+    }
+   },
+   {
+    "Tarih": "03-02-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1706907600"
+    }
+   },
+   {
+    "Tarih": "04-02-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1706994000"
+    }
+   },
+   {
+    "Tarih": "05-02-2024",
+    "TP_DK_EUR_A_YTL": "33.05370000",
+    "UNIXTIME": {
+     "$numberLong": "1707080400"
+    }
+   },
+   {
+    "Tarih": "06-02-2024",
+    "TP_DK_EUR_A_YTL": "32.80520000",
+    "UNIXTIME": {
+     "$numberLong": "1707166800"
+    }
+   },
+   {
+    "Tarih": "07-02-2024",
+    "TP_DK_EUR_A_YTL": "32.76910000",
+    "UNIXTIME": {
+     "$numberLong": "1707253200"
+    }
+   },
+   {
+    "Tarih": "08-02-2024",
+    "TP_DK_EUR_A_YTL": "32.87710000",
+    "UNIXTIME": {
+     "$numberLong": "1707339600"
+    }
+   },
+   {
+    "Tarih": "09-02-2024",
+    "TP_DK_EUR_A_YTL": "32.90710000",
+    "UNIXTIME": {
+     "$numberLong": "1707426000"
+    }
+   },
+   {
+    "Tarih": "10-02-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1707512400"
+    }
+   },
+   {
+    "Tarih": "11-02-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1707598800"
+    }
+   },
+   {
+    "Tarih": "12-02-2024",
+    "TP_DK_EUR_A_YTL": "32.96340000",
+    "UNIXTIME": {
+     "$numberLong": "1707685200"
+    }
+   },
+   {
+    "Tarih": "13-02-2024",
+    "TP_DK_EUR_A_YTL": "33.02440000",
+    "UNIXTIME": {
+     "$numberLong": "1707771600"
+    }
+   },
+   {
+    "Tarih": "14-02-2024",
+    "TP_DK_EUR_A_YTL": "33.03400000",
+    "UNIXTIME": {
+     "$numberLong": "1707858000"
+    }
+   },
+   {
+    "Tarih": "15-02-2024",
+    "TP_DK_EUR_A_YTL": "32.85100000",
+    "UNIXTIME": {
+     "$numberLong": "1707944400"
+    }
+   },
+   {
+    "Tarih": "16-02-2024",
+    "TP_DK_EUR_A_YTL": "32.94730000",
+    "UNIXTIME": {
+     "$numberLong": "1708030800"
+    }
+   },
+   {
+    "Tarih": "17-02-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1708117200"
+    }
+   },
+   {
+    "Tarih": "18-02-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1708203600"
+    }
+   },
+   {
+    "Tarih": "19-02-2024",
+    "TP_DK_EUR_A_YTL": "33.08050000",
+    "UNIXTIME": {
+     "$numberLong": "1708290000"
+    }
+   },
+   {
+    "Tarih": "20-02-2024",
+    "TP_DK_EUR_A_YTL": "33.20360000",
+    "UNIXTIME": {
+     "$numberLong": "1708376400"
+    }
+   },
+   {
+    "Tarih": "21-02-2024",
+    "TP_DK_EUR_A_YTL": "33.26400000",
+    "UNIXTIME": {
+     "$numberLong": "1708462800"
+    }
+   },
+   {
+    "Tarih": "22-02-2024",
+    "TP_DK_EUR_A_YTL": "33.39310000",
+    "UNIXTIME": {
+     "$numberLong": "1708549200"
+    }
+   },
+   {
+    "Tarih": "23-02-2024",
+    "TP_DK_EUR_A_YTL": "33.60510000",
+    "UNIXTIME": {
+     "$numberLong": "1708635600"
+    }
+   },
+   {
+    "Tarih": "24-02-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1708722000"
+    }
+   },
+   {
+    "Tarih": "25-02-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1708808400"
+    }
+   },
+   {
+    "Tarih": "26-02-2024",
+    "TP_DK_EUR_A_YTL": "33.56200000",
+    "UNIXTIME": {
+     "$numberLong": "1708894800"
+    }
+   },
+   {
+    "Tarih": "27-02-2024",
+    "TP_DK_EUR_A_YTL": "33.64530000",
+    "UNIXTIME": {
+     "$numberLong": "1708981200"
+    }
+   },
+   {
+    "Tarih": "28-02-2024",
+    "TP_DK_EUR_A_YTL": "33.72840000",
+    "UNIXTIME": {
+     "$numberLong": "1709067600"
+    }
+   },
+   {
+    "Tarih": "29-02-2024",
+    "TP_DK_EUR_A_YTL": "33.65430000",
+    "UNIXTIME": {
+     "$numberLong": "1709154000"
+    }
+   },
+   {
+    "Tarih": "01-03-2024",
+    "TP_DK_EUR_A_YTL": "33.76860000",
+    "UNIXTIME": {
+     "$numberLong": "1709240400"
+    }
+   },
+   {
+    "Tarih": "02-03-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1709326800"
+    }
+   },
+   {
+    "Tarih": "03-03-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1709413200"
+    }
+   },
+   {
+    "Tarih": "04-03-2024",
+    "TP_DK_EUR_A_YTL": "33.77970000",
+    "UNIXTIME": {
+     "$numberLong": "1709499600"
+    }
+   },
+   {
+    "Tarih": "05-03-2024",
+    "TP_DK_EUR_A_YTL": "34.07910000",
+    "UNIXTIME": {
+     "$numberLong": "1709586000"
+    }
+   },
+   {
+    "Tarih": "06-03-2024",
+    "TP_DK_EUR_A_YTL": "34.22280000",
+    "UNIXTIME": {
+     "$numberLong": "1709672400"
+    }
+   },
+   {
+    "Tarih": "07-03-2024",
+    "TP_DK_EUR_A_YTL": "34.41860000",
+    "UNIXTIME": {
+     "$numberLong": "1709758800"
+    }
+   },
+   {
+    "Tarih": "08-03-2024",
+    "TP_DK_EUR_A_YTL": "34.62960000",
+    "UNIXTIME": {
+     "$numberLong": "1709845200"
+    }
+   },
+   {
+    "Tarih": "09-03-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1709931600"
+    }
+   },
+   {
+    "Tarih": "10-03-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1710018000"
+    }
+   },
+   {
+    "Tarih": "11-03-2024",
+    "TP_DK_EUR_A_YTL": "34.84780000",
+    "UNIXTIME": {
+     "$numberLong": "1710104400"
+    }
+   },
+   {
+    "Tarih": "12-03-2024",
+    "TP_DK_EUR_A_YTL": "34.94420000",
+    "UNIXTIME": {
+     "$numberLong": "1710190800"
+    }
+   },
+   {
+    "Tarih": "13-03-2024",
+    "TP_DK_EUR_A_YTL": "34.96750000",
+    "UNIXTIME": {
+     "$numberLong": "1710277200"
+    }
+   },
+   {
+    "Tarih": "14-03-2024",
+    "TP_DK_EUR_A_YTL": "35.01830000",
+    "UNIXTIME": {
+     "$numberLong": "1710363600"
+    }
+   },
+   {
+    "Tarih": "15-03-2024",
+    "TP_DK_EUR_A_YTL": "35.07390000",
+    "UNIXTIME": {
+     "$numberLong": "1710450000"
+    }
+   },
+   {
+    "Tarih": "16-03-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1710536400"
+    }
+   },
+   {
+    "Tarih": "17-03-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1710622800"
+    }
+   },
+   {
+    "Tarih": "18-03-2024",
+    "TP_DK_EUR_A_YTL": "34.97330000",
+    "UNIXTIME": {
+     "$numberLong": "1710709200"
+    }
+   },
+   {
+    "Tarih": "19-03-2024",
+    "TP_DK_EUR_A_YTL": "35.13550000",
+    "UNIXTIME": {
+     "$numberLong": "1710795600"
+    }
+   },
+   {
+    "Tarih": "20-03-2024",
+    "TP_DK_EUR_A_YTL": "35.02360000",
+    "UNIXTIME": {
+     "$numberLong": "1710882000"
+    }
+   },
+   {
+    "Tarih": "21-03-2024",
+    "TP_DK_EUR_A_YTL": "35.08200000",
+    "UNIXTIME": {
+     "$numberLong": "1710968400"
+    }
+   },
+   {
+    "Tarih": "22-03-2024",
+    "TP_DK_EUR_A_YTL": "35.27340000",
+    "UNIXTIME": {
+     "$numberLong": "1711054800"
+    }
+   },
+   {
+    "Tarih": "23-03-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1711141200"
+    }
+   },
+   {
+    "Tarih": "24-03-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1711227600"
+    }
+   },
+   {
+    "Tarih": "25-03-2024",
+    "TP_DK_EUR_A_YTL": "34.58750000",
+    "UNIXTIME": {
+     "$numberLong": "1711314000"
+    }
+   },
+   {
+    "Tarih": "26-03-2024",
+    "TP_DK_EUR_A_YTL": "34.68190000",
+    "UNIXTIME": {
+     "$numberLong": "1711400400"
+    }
+   },
+   {
+    "Tarih": "27-03-2024",
+    "TP_DK_EUR_A_YTL": "34.83360000",
+    "UNIXTIME": {
+     "$numberLong": "1711486800"
+    }
+   },
+   {
+    "Tarih": "28-03-2024",
+    "TP_DK_EUR_A_YTL": "34.82850000",
+    "UNIXTIME": {
+     "$numberLong": "1711573200"
+    }
+   },
+   {
+    "Tarih": "29-03-2024",
+    "TP_DK_EUR_A_YTL": "34.81890000",
+    "UNIXTIME": {
+     "$numberLong": "1711659600"
+    }
+   },
+   {
+    "Tarih": "30-03-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1711746000"
+    }
+   },
+   {
+    "Tarih": "31-03-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1711832400"
+    }
+   },
+   {
+    "Tarih": "01-04-2024",
+    "TP_DK_EUR_A_YTL": "34.80230000",
+    "UNIXTIME": {
+     "$numberLong": "1711918800"
+    }
+   },
+   {
+    "Tarih": "02-04-2024",
+    "TP_DK_EUR_A_YTL": "34.89920000",
+    "UNIXTIME": {
+     "$numberLong": "1712005200"
+    }
+   },
+   {
+    "Tarih": "03-04-2024",
+    "TP_DK_EUR_A_YTL": "34.50810000",
+    "UNIXTIME": {
+     "$numberLong": "1712091600"
+    }
+   },
+   {
+    "Tarih": "04-04-2024",
+    "TP_DK_EUR_A_YTL": "34.40970000",
+    "UNIXTIME": {
+     "$numberLong": "1712178000"
+    }
+   },
+   {
+    "Tarih": "05-04-2024",
+    "TP_DK_EUR_A_YTL": "34.56290000",
+    "UNIXTIME": {
+     "$numberLong": "1712264400"
+    }
+   },
+   {
+    "Tarih": "06-04-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1712350800"
+    }
+   },
+   {
+    "Tarih": "07-04-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1712437200"
+    }
+   },
+   {
+    "Tarih": "08-04-2024",
+    "TP_DK_EUR_A_YTL": "34.58920000",
+    "UNIXTIME": {
+     "$numberLong": "1712523600"
+    }
+   },
+   {
+    "Tarih": "09-04-2024",
+    "TP_DK_EUR_A_YTL": "34.65900000",
+    "UNIXTIME": {
+     "$numberLong": "1712610000"
+    }
+   },
+   {
+    "Tarih": "10-04-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1712696400"
+    }
+   },
+   {
+    "Tarih": "11-04-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1712782800"
+    }
+   },
+   {
+    "Tarih": "12-04-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1712869200"
+    }
+   },
+   {
+    "Tarih": "13-04-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1712955600"
+    }
+   },
+   {
+    "Tarih": "14-04-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1713042000"
+    }
+   },
+   {
+    "Tarih": "15-04-2024",
+    "TP_DK_EUR_A_YTL": "34.65900000",
+    "UNIXTIME": {
+     "$numberLong": "1713128400"
+    }
+   },
+   {
+    "Tarih": "16-04-2024",
+    "TP_DK_EUR_A_YTL": "34.44750000",
+    "UNIXTIME": {
+     "$numberLong": "1713214800"
+    }
+   },
+   {
+    "Tarih": "17-04-2024",
+    "TP_DK_EUR_A_YTL": "34.42660000",
+    "UNIXTIME": {
+     "$numberLong": "1713301200"
+    }
+   },
+   {
+    "Tarih": "18-04-2024",
+    "TP_DK_EUR_A_YTL": "34.52660000",
+    "UNIXTIME": {
+     "$numberLong": "1713387600"
+    }
+   },
+   {
+    "Tarih": "19-04-2024",
+    "TP_DK_EUR_A_YTL": "34.65590000",
+    "UNIXTIME": {
+     "$numberLong": "1713474000"
+    }
+   },
+   {
+    "Tarih": "20-04-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1713560400"
+    }
+   },
+   {
+    "Tarih": "21-04-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1713646800"
+    }
+   },
+   {
+    "Tarih": "22-04-2024",
+    "TP_DK_EUR_A_YTL": "34.62540000",
+    "UNIXTIME": {
+     "$numberLong": "1713733200"
+    }
+   },
+   {
+    "Tarih": "23-04-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1713819600"
+    }
+   },
+   {
+    "Tarih": "24-04-2024",
+    "TP_DK_EUR_A_YTL": "34.62070000",
+    "UNIXTIME": {
+     "$numberLong": "1713906000"
+    }
+   },
+   {
+    "Tarih": "25-04-2024",
+    "TP_DK_EUR_A_YTL": "34.70840000",
+    "UNIXTIME": {
+     "$numberLong": "1713992400"
+    }
+   },
+   {
+    "Tarih": "26-04-2024",
+    "TP_DK_EUR_A_YTL": "34.82310000",
+    "UNIXTIME": {
+     "$numberLong": "1714078800"
+    }
+   },
+   {
+    "Tarih": "27-04-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1714165200"
+    }
+   },
+   {
+    "Tarih": "28-04-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1714251600"
+    }
+   },
+   {
+    "Tarih": "29-04-2024",
+    "TP_DK_EUR_A_YTL": "34.82550000",
+    "UNIXTIME": {
+     "$numberLong": "1714338000"
+    }
+   },
+   {
+    "Tarih": "30-04-2024",
+    "TP_DK_EUR_A_YTL": "34.64870000",
+    "UNIXTIME": {
+     "$numberLong": "1714424400"
+    }
+   },
+   {
+    "Tarih": "01-05-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1714510800"
+    }
+   },
+   {
+    "Tarih": "02-05-2024",
+    "TP_DK_EUR_A_YTL": "34.62300000",
+    "UNIXTIME": {
+     "$numberLong": "1714597200"
+    }
+   },
+   {
+    "Tarih": "03-05-2024",
+    "TP_DK_EUR_A_YTL": "34.60730000",
+    "UNIXTIME": {
+     "$numberLong": "1714683600"
+    }
+   },
+   {
+    "Tarih": "04-05-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1714770000"
+    }
+   },
+   {
+    "Tarih": "05-05-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1714856400"
+    }
+   },
+   {
+    "Tarih": "06-05-2024",
+    "TP_DK_EUR_A_YTL": "34.63350000",
+    "UNIXTIME": {
+     "$numberLong": "1714942800"
+    }
+   },
+   {
+    "Tarih": "07-05-2024",
+    "TP_DK_EUR_A_YTL": "34.69930000",
+    "UNIXTIME": {
+     "$numberLong": "1715029200"
+    }
+   },
+   {
+    "Tarih": "08-05-2024",
+    "TP_DK_EUR_A_YTL": "34.67080000",
+    "UNIXTIME": {
+     "$numberLong": "1715115600"
+    }
+   },
+   {
+    "Tarih": "09-05-2024",
+    "TP_DK_EUR_A_YTL": "34.60750000",
+    "UNIXTIME": {
+     "$numberLong": "1715202000"
+    }
+   },
+   {
+    "Tarih": "10-05-2024",
+    "TP_DK_EUR_A_YTL": "34.53340000",
+    "UNIXTIME": {
+     "$numberLong": "1715288400"
+    }
+   },
+   {
+    "Tarih": "11-05-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1715374800"
+    }
+   },
+   {
+    "Tarih": "12-05-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1715461200"
+    }
+   },
+   {
+    "Tarih": "13-05-2024",
+    "TP_DK_EUR_A_YTL": "34.66000000",
+    "UNIXTIME": {
+     "$numberLong": "1715547600"
+    }
+   },
+   {
+    "Tarih": "14-05-2024",
+    "TP_DK_EUR_A_YTL": "34.65910000",
+    "UNIXTIME": {
+     "$numberLong": "1715634000"
+    }
+   },
+   {
+    "Tarih": "15-05-2024",
+    "TP_DK_EUR_A_YTL": "34.73880000",
+    "UNIXTIME": {
+     "$numberLong": "1715720400"
+    }
+   },
+   {
+    "Tarih": "16-05-2024",
+    "TP_DK_EUR_A_YTL": "34.89850000",
+    "UNIXTIME": {
+     "$numberLong": "1715806800"
+    }
+   },
+   {
+    "Tarih": "17-05-2024",
+    "TP_DK_EUR_A_YTL": "34.96220000",
+    "UNIXTIME": {
+     "$numberLong": "1715893200"
+    }
+   },
+   {
+    "Tarih": "18-05-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1715979600"
+    }
+   },
+   {
+    "Tarih": "19-05-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1716066000"
+    }
+   },
+   {
+    "Tarih": "20-05-2024",
+    "TP_DK_EUR_A_YTL": "34.92650000",
+    "UNIXTIME": {
+     "$numberLong": "1716152400"
+    }
+   },
+   {
+    "Tarih": "21-05-2024",
+    "TP_DK_EUR_A_YTL": "34.95650000",
+    "UNIXTIME": {
+     "$numberLong": "1716238800"
+    }
+   },
+   {
+    "Tarih": "22-05-2024",
+    "TP_DK_EUR_A_YTL": "34.94380000",
+    "UNIXTIME": {
+     "$numberLong": "1716325200"
+    }
+   },
+   {
+    "Tarih": "23-05-2024",
+    "TP_DK_EUR_A_YTL": "34.83940000",
+    "UNIXTIME": {
+     "$numberLong": "1716411600"
+    }
+   },
+   {
+    "Tarih": "24-05-2024",
+    "TP_DK_EUR_A_YTL": "34.84130000",
+    "UNIXTIME": {
+     "$numberLong": "1716498000"
+    }
+   },
+   {
+    "Tarih": "25-05-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1716584400"
+    }
+   },
+   {
+    "Tarih": "26-05-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1716670800"
+    }
+   },
+   {
+    "Tarih": "27-05-2024",
+    "TP_DK_EUR_A_YTL": "34.80890000",
+    "UNIXTIME": {
+     "$numberLong": "1716757200"
+    }
+   },
+   {
+    "Tarih": "28-05-2024",
+    "TP_DK_EUR_A_YTL": "34.88200000",
+    "UNIXTIME": {
+     "$numberLong": "1716843600"
+    }
+   },
+   {
+    "Tarih": "29-05-2024",
+    "TP_DK_EUR_A_YTL": "34.93830000",
+    "UNIXTIME": {
+     "$numberLong": "1716930000"
+    }
+   },
+   {
+    "Tarih": "30-05-2024",
+    "TP_DK_EUR_A_YTL": "34.91800000",
+    "UNIXTIME": {
+     "$numberLong": "1717016400"
+    }
+   },
+   {
+    "Tarih": "31-05-2024",
+    "TP_DK_EUR_A_YTL": "34.86540000",
+    "UNIXTIME": {
+     "$numberLong": "1717102800"
+    }
+   },
+   {
+    "Tarih": "01-06-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1717189200"
+    }
+   },
+   {
+    "Tarih": "02-06-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1717275600"
+    }
+   },
+   {
+    "Tarih": "03-06-2024",
+    "TP_DK_EUR_A_YTL": "34.82830000",
+    "UNIXTIME": {
+     "$numberLong": "1717362000"
+    }
+   },
+   {
+    "Tarih": "04-06-2024",
+    "TP_DK_EUR_A_YTL": "34.86070000",
+    "UNIXTIME": {
+     "$numberLong": "1717448400"
+    }
+   },
+   {
+    "Tarih": "05-06-2024",
+    "TP_DK_EUR_A_YTL": "35.10190000",
+    "UNIXTIME": {
+     "$numberLong": "1717534800"
+    }
+   },
+   {
+    "Tarih": "06-06-2024",
+    "TP_DK_EUR_A_YTL": "35.28690000",
+    "UNIXTIME": {
+     "$numberLong": "1717621200"
+    }
+   },
+   {
+    "Tarih": "07-06-2024",
+    "TP_DK_EUR_A_YTL": "34.99970000",
+    "UNIXTIME": {
+     "$numberLong": "1717707600"
+    }
+   },
+   {
+    "Tarih": "08-06-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1717794000"
+    }
+   },
+   {
+    "Tarih": "09-06-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1717880400"
+    }
+   },
+   {
+    "Tarih": "10-06-2024",
+    "TP_DK_EUR_A_YTL": "35.06410000",
+    "UNIXTIME": {
+     "$numberLong": "1717966800"
+    }
+   },
+   {
+    "Tarih": "11-06-2024",
+    "TP_DK_EUR_A_YTL": "34.80220000",
+    "UNIXTIME": {
+     "$numberLong": "1718053200"
+    }
+   },
+   {
+    "Tarih": "12-06-2024",
+    "TP_DK_EUR_A_YTL": "34.73450000",
+    "UNIXTIME": {
+     "$numberLong": "1718139600"
+    }
+   },
+   {
+    "Tarih": "13-06-2024",
+    "TP_DK_EUR_A_YTL": "34.73490000",
+    "UNIXTIME": {
+     "$numberLong": "1718226000"
+    }
+   },
+   {
+    "Tarih": "14-06-2024",
+    "TP_DK_EUR_A_YTL": "34.81060000",
+    "UNIXTIME": {
+     "$numberLong": "1718312400"
+    }
+   },
+   {
+    "Tarih": "15-06-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1718398800"
+    }
+   },
+   {
+    "Tarih": "16-06-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1718485200"
+    }
+   },
+   {
+    "Tarih": "17-06-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1718571600"
+    }
+   },
+   {
+    "Tarih": "18-06-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1718658000"
+    }
+   },
+   {
+    "Tarih": "19-06-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1718744400"
+    }
+   },
+   {
+    "Tarih": "20-06-2024",
+    "TP_DK_EUR_A_YTL": "34.73190000",
+    "UNIXTIME": {
+     "$numberLong": "1718830800"
+    }
+   },
+   {
+    "Tarih": "21-06-2024",
+    "TP_DK_EUR_A_YTL": "34.92900000",
+    "UNIXTIME": {
+     "$numberLong": "1718917200"
+    }
+   },
+   {
+    "Tarih": "22-06-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1719003600"
+    }
+   },
+   {
+    "Tarih": "23-06-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1719090000"
+    }
+   },
+   {
+    "Tarih": "24-06-2024",
+    "TP_DK_EUR_A_YTL": "35.04640000",
+    "UNIXTIME": {
+     "$numberLong": "1719176400"
+    }
+   },
+   {
+    "Tarih": "25-06-2024",
+    "TP_DK_EUR_A_YTL": "35.17020000",
+    "UNIXTIME": {
+     "$numberLong": "1719262800"
+    }
+   },
+   {
+    "Tarih": "26-06-2024",
+    "TP_DK_EUR_A_YTL": "35.28690000",
+    "UNIXTIME": {
+     "$numberLong": "1719349200"
+    }
+   },
+   {
+    "Tarih": "27-06-2024",
+    "TP_DK_EUR_A_YTL": "35.18010000",
+    "UNIXTIME": {
+     "$numberLong": "1719435600"
+    }
+   },
+   {
+    "Tarih": "28-06-2024",
+    "TP_DK_EUR_A_YTL": "35.12120000",
+    "UNIXTIME": {
+     "$numberLong": "1719522000"
+    }
+   },
+   {
+    "Tarih": "29-06-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1719608400"
+    }
+   },
+   {
+    "Tarih": "30-06-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1719694800"
+    }
+   },
+   {
+    "Tarih": "01-07-2024",
+    "TP_DK_EUR_A_YTL": "35.12840000",
+    "UNIXTIME": {
+     "$numberLong": "1719781200"
+    }
+   },
+   {
+    "Tarih": "02-07-2024",
+    "TP_DK_EUR_A_YTL": "35.09390000",
+    "UNIXTIME": {
+     "$numberLong": "1719867600"
+    }
+   },
+   {
+    "Tarih": "03-07-2024",
+    "TP_DK_EUR_A_YTL": "34.97590000",
+    "UNIXTIME": {
+     "$numberLong": "1719954000"
+    }
+   },
+   {
+    "Tarih": "04-07-2024",
+    "TP_DK_EUR_A_YTL": "34.94990000",
+    "UNIXTIME": {
+     "$numberLong": "1720040400"
+    }
+   },
+   {
+    "Tarih": "05-07-2024",
+    "TP_DK_EUR_A_YTL": "35.09330000",
+    "UNIXTIME": {
+     "$numberLong": "1720126800"
+    }
+   },
+   {
+    "Tarih": "06-07-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1720213200"
+    }
+   },
+   {
+    "Tarih": "07-07-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1720299600"
+    }
+   },
+   {
+    "Tarih": "08-07-2024",
+    "TP_DK_EUR_A_YTL": "35.32050000",
+    "UNIXTIME": {
+     "$numberLong": "1720386000"
+    }
+   },
+   {
+    "Tarih": "09-07-2024",
+    "TP_DK_EUR_A_YTL": "35.36040000",
+    "UNIXTIME": {
+     "$numberLong": "1720472400"
+    }
+   },
+   {
+    "Tarih": "10-07-2024",
+    "TP_DK_EUR_A_YTL": "35.42410000",
+    "UNIXTIME": {
+     "$numberLong": "1720558800"
+    }
+   },
+   {
+    "Tarih": "11-07-2024",
+    "TP_DK_EUR_A_YTL": "35.58120000",
+    "UNIXTIME": {
+     "$numberLong": "1720645200"
+    }
+   },
+   {
+    "Tarih": "12-07-2024",
+    "TP_DK_EUR_A_YTL": "35.62290000",
+    "UNIXTIME": {
+     "$numberLong": "1720731600"
+    }
+   },
+   {
+    "Tarih": "13-07-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1720818000"
+    }
+   },
+   {
+    "Tarih": "14-07-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1720904400"
+    }
+   },
+   {
+    "Tarih": "15-07-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1720990800"
+    }
+   },
+   {
+    "Tarih": "16-07-2024",
+    "TP_DK_EUR_A_YTL": "35.80820000",
+    "UNIXTIME": {
+     "$numberLong": "1721077200"
+    }
+   },
+   {
+    "Tarih": "17-07-2024",
+    "TP_DK_EUR_A_YTL": "35.98820000",
+    "UNIXTIME": {
+     "$numberLong": "1721163600"
+    }
+   },
+   {
+    "Tarih": "18-07-2024",
+    "TP_DK_EUR_A_YTL": "36.09840000",
+    "UNIXTIME": {
+     "$numberLong": "1721250000"
+    }
+   },
+   {
+    "Tarih": "19-07-2024",
+    "TP_DK_EUR_A_YTL": "36.11430000",
+    "UNIXTIME": {
+     "$numberLong": "1721336400"
+    }
+   },
+   {
+    "Tarih": "20-07-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1721422800"
+    }
+   },
+   {
+    "Tarih": "21-07-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1721509200"
+    }
+   },
+   {
+    "Tarih": "22-07-2024",
+    "TP_DK_EUR_A_YTL": "35.92510000",
+    "UNIXTIME": {
+     "$numberLong": "1721595600"
+    }
+   },
+   {
+    "Tarih": "23-07-2024",
+    "TP_DK_EUR_A_YTL": "35.86790000",
+    "UNIXTIME": {
+     "$numberLong": "1721682000"
+    }
+   },
+   {
+    "Tarih": "24-07-2024",
+    "TP_DK_EUR_A_YTL": "35.74440000",
+    "UNIXTIME": {
+     "$numberLong": "1721768400"
+    }
+   },
+   {
+    "Tarih": "25-07-2024",
+    "TP_DK_EUR_A_YTL": "35.56560000",
+    "UNIXTIME": {
+     "$numberLong": "1721854800"
+    }
+   },
+   {
+    "Tarih": "26-07-2024",
+    "TP_DK_EUR_A_YTL": "35.77590000",
+    "UNIXTIME": {
+     "$numberLong": "1721941200"
+    }
+   },
+   {
+    "Tarih": "27-07-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1722027600"
+    }
+   },
+   {
+    "Tarih": "28-07-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1722114000"
+    }
+   },
+   {
+    "Tarih": "29-07-2024",
+    "TP_DK_EUR_A_YTL": "35.77320000",
+    "UNIXTIME": {
+     "$numberLong": "1722200400"
+    }
+   },
+   {
+    "Tarih": "30-07-2024",
+    "TP_DK_EUR_A_YTL": "35.71100000",
+    "UNIXTIME": {
+     "$numberLong": "1722286800"
+    }
+   },
+   {
+    "Tarih": "31-07-2024",
+    "TP_DK_EUR_A_YTL": "35.76120000",
+    "UNIXTIME": {
+     "$numberLong": "1722373200"
+    }
+   },
+   {
+    "Tarih": "01-08-2024",
+    "TP_DK_EUR_A_YTL": "35.81450000",
+    "UNIXTIME": {
+     "$numberLong": "1722459600"
+    }
+   },
+   {
+    "Tarih": "02-08-2024",
+    "TP_DK_EUR_A_YTL": "35.70050000",
+    "UNIXTIME": {
+     "$numberLong": "1722546000"
+    }
+   },
+   {
+    "Tarih": "03-08-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1722632400"
+    }
+   },
+   {
+    "Tarih": "04-08-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1722718800"
+    }
+   },
+   {
+    "Tarih": "05-08-2024",
+    "TP_DK_EUR_A_YTL": "35.77260000",
+    "UNIXTIME": {
+     "$numberLong": "1722805200"
+    }
+   },
+   {
+    "Tarih": "06-08-2024",
+    "TP_DK_EUR_A_YTL": "36.39980000",
+    "UNIXTIME": {
+     "$numberLong": "1722891600"
+    }
+   },
+   {
+    "Tarih": "07-08-2024",
+    "TP_DK_EUR_A_YTL": "36.47830000",
+    "UNIXTIME": {
+     "$numberLong": "1722978000"
+    }
+   },
+   {
+    "Tarih": "08-08-2024",
+    "TP_DK_EUR_A_YTL": "36.57310000",
+    "UNIXTIME": {
+     "$numberLong": "1723064400"
+    }
+   },
+   {
+    "Tarih": "09-08-2024",
+    "TP_DK_EUR_A_YTL": "36.57020000",
+    "UNIXTIME": {
+     "$numberLong": "1723150800"
+    }
+   },
+   {
+    "Tarih": "10-08-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1723237200"
+    }
+   },
+   {
+    "Tarih": "11-08-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1723323600"
+    }
+   },
+   {
+    "Tarih": "12-08-2024",
+    "TP_DK_EUR_A_YTL": "36.53820000",
+    "UNIXTIME": {
+     "$numberLong": "1723410000"
+    }
+   },
+   {
+    "Tarih": "13-08-2024",
+    "TP_DK_EUR_A_YTL": "36.57770000",
+    "UNIXTIME": {
+     "$numberLong": "1723496400"
+    }
+   },
+   {
+    "Tarih": "14-08-2024",
+    "TP_DK_EUR_A_YTL": "36.59680000",
+    "UNIXTIME": {
+     "$numberLong": "1723582800"
+    }
+   },
+   {
+    "Tarih": "15-08-2024",
+    "TP_DK_EUR_A_YTL": "36.88600000",
+    "UNIXTIME": {
+     "$numberLong": "1723669200"
+    }
+   },
+   {
+    "Tarih": "16-08-2024",
+    "TP_DK_EUR_A_YTL": "36.97150000",
+    "UNIXTIME": {
+     "$numberLong": "1723755600"
+    }
+   },
+   {
+    "Tarih": "17-08-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1723842000"
+    }
+   },
+   {
+    "Tarih": "18-08-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1723928400"
+    }
+   },
+   {
+    "Tarih": "19-08-2024",
+    "TP_DK_EUR_A_YTL": "36.92810000",
+    "UNIXTIME": {
+     "$numberLong": "1724014800"
+    }
+   },
+   {
+    "Tarih": "20-08-2024",
+    "TP_DK_EUR_A_YTL": "37.14970000",
+    "UNIXTIME": {
+     "$numberLong": "1724101200"
+    }
+   },
+   {
+    "Tarih": "21-08-2024",
+    "TP_DK_EUR_A_YTL": "37.39630000",
+    "UNIXTIME": {
+     "$numberLong": "1724187600"
+    }
+   },
+   {
+    "Tarih": "22-08-2024",
+    "TP_DK_EUR_A_YTL": "37.63050000",
+    "UNIXTIME": {
+     "$numberLong": "1724274000"
+    }
+   },
+   {
+    "Tarih": "23-08-2024",
+    "TP_DK_EUR_A_YTL": "37.71580000",
+    "UNIXTIME": {
+     "$numberLong": "1724360400"
+    }
+   },
+   {
+    "Tarih": "24-08-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1724446800"
+    }
+   },
+   {
+    "Tarih": "25-08-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1724533200"
+    }
+   },
+   {
+    "Tarih": "26-08-2024",
+    "TP_DK_EUR_A_YTL": "37.68520000",
+    "UNIXTIME": {
+     "$numberLong": "1724619600"
+    }
+   },
+   {
+    "Tarih": "27-08-2024",
+    "TP_DK_EUR_A_YTL": "37.91710000",
+    "UNIXTIME": {
+     "$numberLong": "1724706000"
+    }
+   },
+   {
+    "Tarih": "28-08-2024",
+    "TP_DK_EUR_A_YTL": "37.91180000",
+    "UNIXTIME": {
+     "$numberLong": "1724792400"
+    }
+   },
+   {
+    "Tarih": "29-08-2024",
+    "TP_DK_EUR_A_YTL": "37.82610000",
+    "UNIXTIME": {
+     "$numberLong": "1724878800"
+    }
+   },
+   {
+    "Tarih": "30-08-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1724965200"
+    }
+   },
+   {
+    "Tarih": "31-08-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1725051600"
+    }
+   },
+   {
+    "Tarih": "01-09-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1725138000"
+    }
+   },
+   {
+    "Tarih": "02-09-2024",
+    "TP_DK_EUR_A_YTL": "37.67230000",
+    "UNIXTIME": {
+     "$numberLong": "1725224400"
+    }
+   },
+   {
+    "Tarih": "03-09-2024",
+    "TP_DK_EUR_A_YTL": "37.53460000",
+    "UNIXTIME": {
+     "$numberLong": "1725310800"
+    }
+   },
+   {
+    "Tarih": "04-09-2024",
+    "TP_DK_EUR_A_YTL": "37.43220000",
+    "UNIXTIME": {
+     "$numberLong": "1725397200"
+    }
+   },
+   {
+    "Tarih": "05-09-2024",
+    "TP_DK_EUR_A_YTL": "37.55010000",
+    "UNIXTIME": {
+     "$numberLong": "1725483600"
+    }
+   },
+   {
+    "Tarih": "06-09-2024",
+    "TP_DK_EUR_A_YTL": "37.61600000",
+    "UNIXTIME": {
+     "$numberLong": "1725570000"
+    }
+   },
+   {
+    "Tarih": "07-09-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1725656400"
+    }
+   },
+   {
+    "Tarih": "08-09-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1725742800"
+    }
+   },
+   {
+    "Tarih": "09-09-2024",
+    "TP_DK_EUR_A_YTL": "37.66830000",
+    "UNIXTIME": {
+     "$numberLong": "1725829200"
+    }
+   },
+   {
+    "Tarih": "10-09-2024",
+    "TP_DK_EUR_A_YTL": "37.54190000",
+    "UNIXTIME": {
+     "$numberLong": "1725915600"
+    }
+   },
+   {
+    "Tarih": "11-09-2024",
+    "TP_DK_EUR_A_YTL": "37.52310000",
+    "UNIXTIME": {
+     "$numberLong": "1726002000"
+    }
+   },
+   {
+    "Tarih": "12-09-2024",
+    "TP_DK_EUR_A_YTL": "37.48370000",
+    "UNIXTIME": {
+     "$numberLong": "1726088400"
+    }
+   },
+   {
+    "Tarih": "13-09-2024",
+    "TP_DK_EUR_A_YTL": "37.33430000",
+    "UNIXTIME": {
+     "$numberLong": "1726174800"
+    }
+   },
+   {
+    "Tarih": "14-09-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1726261200"
+    }
+   },
+   {
+    "Tarih": "15-09-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1726347600"
+    }
+   },
+   {
+    "Tarih": "16-09-2024",
+    "TP_DK_EUR_A_YTL": "37.49640000",
+    "UNIXTIME": {
+     "$numberLong": "1726434000"
+    }
+   },
+   {
+    "Tarih": "17-09-2024",
+    "TP_DK_EUR_A_YTL": "37.68520000",
+    "UNIXTIME": {
+     "$numberLong": "1726520400"
+    }
+   },
+   {
+    "Tarih": "18-09-2024",
+    "TP_DK_EUR_A_YTL": "37.82550000",
+    "UNIXTIME": {
+     "$numberLong": "1726606800"
+    }
+   },
+   {
+    "Tarih": "19-09-2024",
+    "TP_DK_EUR_A_YTL": "37.86930000",
+    "UNIXTIME": {
+     "$numberLong": "1726693200"
+    }
+   },
+   {
+    "Tarih": "20-09-2024",
+    "TP_DK_EUR_A_YTL": "37.91820000",
+    "UNIXTIME": {
+     "$numberLong": "1726779600"
+    }
+   },
+   {
+    "Tarih": "21-09-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1726866000"
+    }
+   },
+   {
+    "Tarih": "22-09-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1726952400"
+    }
+   },
+   {
+    "Tarih": "23-09-2024",
+    "TP_DK_EUR_A_YTL": "37.90580000",
+    "UNIXTIME": {
+     "$numberLong": "1727038800"
+    }
+   },
+   {
+    "Tarih": "24-09-2024",
+    "TP_DK_EUR_A_YTL": "37.86150000",
+    "UNIXTIME": {
+     "$numberLong": "1727125200"
+    }
+   },
+   {
+    "Tarih": "25-09-2024",
+    "TP_DK_EUR_A_YTL": "37.93050000",
+    "UNIXTIME": {
+     "$numberLong": "1727211600"
+    }
+   },
+   {
+    "Tarih": "26-09-2024",
+    "TP_DK_EUR_A_YTL": "38.14260000",
+    "UNIXTIME": {
+     "$numberLong": "1727298000"
+    }
+   },
+   {
+    "Tarih": "27-09-2024",
+    "TP_DK_EUR_A_YTL": "38.00920000",
+    "UNIXTIME": {
+     "$numberLong": "1727384400"
+    }
+   },
+   {
+    "Tarih": "28-09-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1727470800"
+    }
+   },
+   {
+    "Tarih": "29-09-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1727557200"
+    }
+   },
+   {
+    "Tarih": "30-09-2024",
+    "TP_DK_EUR_A_YTL": "38.01800000",
+    "UNIXTIME": {
+     "$numberLong": "1727643600"
+    }
+   },
+   {
+    "Tarih": "01-10-2024",
+    "TP_DK_EUR_A_YTL": "38.17140000",
+    "UNIXTIME": {
+     "$numberLong": "1727730000"
+    }
+   },
+   {
+    "Tarih": "02-10-2024",
+    "TP_DK_EUR_A_YTL": "37.88900000",
+    "UNIXTIME": {
+     "$numberLong": "1727816400"
+    }
+   },
+   {
+    "Tarih": "03-10-2024",
+    "TP_DK_EUR_A_YTL": "37.80800000",
+    "UNIXTIME": {
+     "$numberLong": "1727902800"
+    }
+   },
+   {
+    "Tarih": "04-10-2024",
+    "TP_DK_EUR_A_YTL": "37.65440000",
+    "UNIXTIME": {
+     "$numberLong": "1727989200"
+    }
+   },
+   {
+    "Tarih": "05-10-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1728075600"
+    }
+   },
+   {
+    "Tarih": "06-10-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1728162000"
+    }
+   },
+   {
+    "Tarih": "07-10-2024",
+    "TP_DK_EUR_A_YTL": "37.65160000",
+    "UNIXTIME": {
+     "$numberLong": "1728248400"
+    }
+   },
+   {
+    "Tarih": "08-10-2024",
+    "TP_DK_EUR_A_YTL": "37.49980000",
+    "UNIXTIME": {
+     "$numberLong": "1728334800"
+    }
+   },
+   {
+    "Tarih": "09-10-2024",
+    "TP_DK_EUR_A_YTL": "37.59320000",
+    "UNIXTIME": {
+     "$numberLong": "1728421200"
+    }
+   },
+   {
+    "Tarih": "10-10-2024",
+    "TP_DK_EUR_A_YTL": "37.48290000",
+    "UNIXTIME": {
+     "$numberLong": "1728507600"
+    }
+   },
+   {
+    "Tarih": "11-10-2024",
+    "TP_DK_EUR_A_YTL": "37.34630000",
+    "UNIXTIME": {
+     "$numberLong": "1728594000"
+    }
+   },
+   {
+    "Tarih": "12-10-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1728680400"
+    }
+   },
+   {
+    "Tarih": "13-10-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1728766800"
+    }
+   },
+   {
+    "Tarih": "14-10-2024",
+    "TP_DK_EUR_A_YTL": "37.37300000",
+    "UNIXTIME": {
+     "$numberLong": "1728853200"
+    }
+   },
+   {
+    "Tarih": "15-10-2024",
+    "TP_DK_EUR_A_YTL": "37.36440000",
+    "UNIXTIME": {
+     "$numberLong": "1728939600"
+    }
+   },
+   {
+    "Tarih": "16-10-2024",
+    "TP_DK_EUR_A_YTL": "37.29080000",
+    "UNIXTIME": {
+     "$numberLong": "1729026000"
+    }
+   },
+   {
+    "Tarih": "17-10-2024",
+    "TP_DK_EUR_A_YTL": "37.19380000",
+    "UNIXTIME": {
+     "$numberLong": "1729112400"
+    }
+   },
+   {
+    "Tarih": "18-10-2024",
+    "TP_DK_EUR_A_YTL": "37.03920000",
+    "UNIXTIME": {
+     "$numberLong": "1729198800"
+    }
+   },
+   {
+    "Tarih": "19-10-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1729285200"
+    }
+   },
+   {
+    "Tarih": "20-10-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1729371600"
+    }
+   },
+   {
+    "Tarih": "21-10-2024",
+    "TP_DK_EUR_A_YTL": "37.06210000",
+    "UNIXTIME": {
+     "$numberLong": "1729458000"
+    }
+   },
+   {
+    "Tarih": "22-10-2024",
+    "TP_DK_EUR_A_YTL": "37.08710000",
+    "UNIXTIME": {
+     "$numberLong": "1729544400"
+    }
+   },
+   {
+    "Tarih": "23-10-2024",
+    "TP_DK_EUR_A_YTL": "37.00350000",
+    "UNIXTIME": {
+     "$numberLong": "1729630800"
+    }
+   },
+   {
+    "Tarih": "24-10-2024",
+    "TP_DK_EUR_A_YTL": "36.87220000",
+    "UNIXTIME": {
+     "$numberLong": "1729717200"
+    }
+   },
+   {
+    "Tarih": "25-10-2024",
+    "TP_DK_EUR_A_YTL": "36.90950000",
+    "UNIXTIME": {
+     "$numberLong": "1729803600"
+    }
+   },
+   {
+    "Tarih": "26-10-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1729890000"
+    }
+   },
+   {
+    "Tarih": "27-10-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1729976400"
+    }
+   },
+   {
+    "Tarih": "28-10-2024",
+    "TP_DK_EUR_A_YTL": "36.99930000",
+    "UNIXTIME": {
+     "$numberLong": "1730062800"
+    }
+   },
+   {
+    "Tarih": "29-10-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1730149200"
+    }
+   },
+   {
+    "Tarih": "30-10-2024",
+    "TP_DK_EUR_A_YTL": "36.99930000",
+    "UNIXTIME": {
+     "$numberLong": "1730235600"
+    }
+   },
+   {
+    "Tarih": "31-10-2024",
+    "TP_DK_EUR_A_YTL": "37.04740000",
+    "UNIXTIME": {
+     "$numberLong": "1730322000"
+    }
+   },
+   {
+    "Tarih": "01-11-2024",
+    "TP_DK_EUR_A_YTL": "37.12350000",
+    "UNIXTIME": {
+     "$numberLong": "1730408400"
+    }
+   },
+   {
+    "Tarih": "02-11-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1730494800"
+    }
+   },
+   {
+    "Tarih": "03-11-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1730581200"
+    }
+   },
+   {
+    "Tarih": "04-11-2024",
+    "TP_DK_EUR_A_YTL": "37.18480000",
+    "UNIXTIME": {
+     "$numberLong": "1730667600"
+    }
+   },
+   {
+    "Tarih": "05-11-2024",
+    "TP_DK_EUR_A_YTL": "37.35280000",
+    "UNIXTIME": {
+     "$numberLong": "1730754000"
+    }
+   },
+   {
+    "Tarih": "06-11-2024",
+    "TP_DK_EUR_A_YTL": "37.33630000",
+    "UNIXTIME": {
+     "$numberLong": "1730840400"
+    }
+   },
+   {
+    "Tarih": "07-11-2024",
+    "TP_DK_EUR_A_YTL": "36.71540000",
+    "UNIXTIME": {
+     "$numberLong": "1730926800"
+    }
+   },
+   {
+    "Tarih": "08-11-2024",
+    "TP_DK_EUR_A_YTL": "36.75760000",
+    "UNIXTIME": {
+     "$numberLong": "1731013200"
+    }
+   },
+   {
+    "Tarih": "09-11-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1731099600"
+    }
+   },
+   {
+    "Tarih": "10-11-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1731186000"
+    }
+   },
+   {
+    "Tarih": "11-11-2024",
+    "TP_DK_EUR_A_YTL": "36.93210000",
+    "UNIXTIME": {
+     "$numberLong": "1731272400"
+    }
+   },
+   {
+    "Tarih": "12-11-2024",
+    "TP_DK_EUR_A_YTL": "36.63840000",
+    "UNIXTIME": {
+     "$numberLong": "1731358800"
+    }
+   },
+   {
+    "Tarih": "13-11-2024",
+    "TP_DK_EUR_A_YTL": "36.46420000",
+    "UNIXTIME": {
+     "$numberLong": "1731445200"
+    }
+   },
+   {
+    "Tarih": "14-11-2024",
+    "TP_DK_EUR_A_YTL": "36.43230000",
+    "UNIXTIME": {
+     "$numberLong": "1731531600"
+    }
+   },
+   {
+    "Tarih": "15-11-2024",
+    "TP_DK_EUR_A_YTL": "36.12550000",
+    "UNIXTIME": {
+     "$numberLong": "1731618000"
+    }
+   },
+   {
+    "Tarih": "16-11-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1731704400"
+    }
+   },
+   {
+    "Tarih": "17-11-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1731790800"
+    }
+   },
+   {
+    "Tarih": "18-11-2024",
+    "TP_DK_EUR_A_YTL": "36.27660000",
+    "UNIXTIME": {
+     "$numberLong": "1731877200"
+    }
+   },
+   {
+    "Tarih": "19-11-2024",
+    "TP_DK_EUR_A_YTL": "36.32270000",
+    "UNIXTIME": {
+     "$numberLong": "1731963600"
+    }
+   },
+   {
+    "Tarih": "20-11-2024",
+    "TP_DK_EUR_A_YTL": "36.48130000",
+    "UNIXTIME": {
+     "$numberLong": "1732050000"
+    }
+   },
+   {
+    "Tarih": "21-11-2024",
+    "TP_DK_EUR_A_YTL": "36.38260000",
+    "UNIXTIME": {
+     "$numberLong": "1732136400"
+    }
+   },
+   {
+    "Tarih": "22-11-2024",
+    "TP_DK_EUR_A_YTL": "36.27590000",
+    "UNIXTIME": {
+     "$numberLong": "1732222800"
+    }
+   },
+   {
+    "Tarih": "23-11-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1732309200"
+    }
+   },
+   {
+    "Tarih": "24-11-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1732395600"
+    }
+   },
+   {
+    "Tarih": "25-11-2024",
+    "TP_DK_EUR_A_YTL": "35.98490000",
+    "UNIXTIME": {
+     "$numberLong": "1732482000"
+    }
+   },
+   {
+    "Tarih": "26-11-2024",
+    "TP_DK_EUR_A_YTL": "36.16120000",
+    "UNIXTIME": {
+     "$numberLong": "1732568400"
+    }
+   },
+   {
+    "Tarih": "27-11-2024",
+    "TP_DK_EUR_A_YTL": "36.28910000",
+    "UNIXTIME": {
+     "$numberLong": "1732654800"
+    }
+   },
+   {
+    "Tarih": "28-11-2024",
+    "TP_DK_EUR_A_YTL": "36.33710000",
+    "UNIXTIME": {
+     "$numberLong": "1732741200"
+    }
+   },
+   {
+    "Tarih": "29-11-2024",
+    "TP_DK_EUR_A_YTL": "36.45090000",
+    "UNIXTIME": {
+     "$numberLong": "1732827600"
+    }
+   },
+   {
+    "Tarih": "30-11-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1732914000"
+    }
+   },
+   {
+    "Tarih": "01-12-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1733000400"
+    }
+   },
+   {
+    "Tarih": "02-12-2024",
+    "TP_DK_EUR_A_YTL": "36.54730000",
+    "UNIXTIME": {
+     "$numberLong": "1733086800"
+    }
+   },
+   {
+    "Tarih": "03-12-2024",
+    "TP_DK_EUR_A_YTL": "36.43130000",
+    "UNIXTIME": {
+     "$numberLong": "1733173200"
+    }
+   },
+   {
+    "Tarih": "04-12-2024",
+    "TP_DK_EUR_A_YTL": "36.44940000",
+    "UNIXTIME": {
+     "$numberLong": "1733259600"
+    }
+   },
+   {
+    "Tarih": "05-12-2024",
+    "TP_DK_EUR_A_YTL": "36.43900000",
+    "UNIXTIME": {
+     "$numberLong": "1733346000"
+    }
+   },
+   {
+    "Tarih": "06-12-2024",
+    "TP_DK_EUR_A_YTL": "36.51360000",
+    "UNIXTIME": {
+     "$numberLong": "1733432400"
+    }
+   },
+   {
+    "Tarih": "07-12-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1733518800"
+    }
+   },
+   {
+    "Tarih": "08-12-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1733605200"
+    }
+   },
+   {
+    "Tarih": "09-12-2024",
+    "TP_DK_EUR_A_YTL": "36.71740000",
+    "UNIXTIME": {
+     "$numberLong": "1733691600"
+    }
+   },
+   {
+    "Tarih": "10-12-2024",
+    "TP_DK_EUR_A_YTL": "36.71500000",
+    "UNIXTIME": {
+     "$numberLong": "1733778000"
+    }
+   },
+   {
+    "Tarih": "11-12-2024",
+    "TP_DK_EUR_A_YTL": "36.66020000",
+    "UNIXTIME": {
+     "$numberLong": "1733864400"
+    }
+   },
+   {
+    "Tarih": "12-12-2024",
+    "TP_DK_EUR_A_YTL": "36.55480000",
+    "UNIXTIME": {
+     "$numberLong": "1733950800"
+    }
+   },
+   {
+    "Tarih": "13-12-2024",
+    "TP_DK_EUR_A_YTL": "36.58730000",
+    "UNIXTIME": {
+     "$numberLong": "1734037200"
+    }
+   },
+   {
+    "Tarih": "14-12-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1734123600"
+    }
+   },
+   {
+    "Tarih": "15-12-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1734210000"
+    }
+   },
+   {
+    "Tarih": "16-12-2024",
+    "TP_DK_EUR_A_YTL": "36.52160000",
+    "UNIXTIME": {
+     "$numberLong": "1734296400"
+    }
+   },
+   {
+    "Tarih": "17-12-2024",
+    "TP_DK_EUR_A_YTL": "36.64980000",
+    "UNIXTIME": {
+     "$numberLong": "1734382800"
+    }
+   },
+   {
+    "Tarih": "18-12-2024",
+    "TP_DK_EUR_A_YTL": "36.64240000",
+    "UNIXTIME": {
+     "$numberLong": "1734469200"
+    }
+   },
+   {
+    "Tarih": "19-12-2024",
+    "TP_DK_EUR_A_YTL": "36.69590000",
+    "UNIXTIME": {
+     "$numberLong": "1734555600"
+    }
+   },
+   {
+    "Tarih": "20-12-2024",
+    "TP_DK_EUR_A_YTL": "36.41340000",
+    "UNIXTIME": {
+     "$numberLong": "1734642000"
+    }
+   },
+   {
+    "Tarih": "21-12-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1734728400"
+    }
+   },
+   {
+    "Tarih": "22-12-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1734814800"
+    }
+   },
+   {
+    "Tarih": "23-12-2024",
+    "TP_DK_EUR_A_YTL": "36.41620000",
+    "UNIXTIME": {
+     "$numberLong": "1734901200"
+    }
+   },
+   {
+    "Tarih": "24-12-2024",
+    "TP_DK_EUR_A_YTL": "36.54730000",
+    "UNIXTIME": {
+     "$numberLong": "1734987600"
+    }
+   },
+   {
+    "Tarih": "25-12-2024",
+    "TP_DK_EUR_A_YTL": "36.56930000",
+    "UNIXTIME": {
+     "$numberLong": "1735074000"
+    }
+   },
+   {
+    "Tarih": "26-12-2024",
+    "TP_DK_EUR_A_YTL": "36.65920000",
+    "UNIXTIME": {
+     "$numberLong": "1735160400"
+    }
+   },
+   {
+    "Tarih": "27-12-2024",
+    "TP_DK_EUR_A_YTL": "36.60760000",
+    "UNIXTIME": {
+     "$numberLong": "1735246800"
+    }
+   },
+   {
+    "Tarih": "28-12-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1735333200"
+    }
+   },
+   {
+    "Tarih": "29-12-2024",
+    "TP_DK_EUR_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1735419600"
+    }
+   },
+   {
+    "Tarih": "30-12-2024",
+    "TP_DK_EUR_A_YTL": "36.61340000",
+    "UNIXTIME": {
+     "$numberLong": "1735506000"
+    }
+   },
+   {
+    "Tarih": "31-12-2024",
+    "TP_DK_EUR_A_YTL": "36.74290000",
+    "UNIXTIME": {
+     "$numberLong": "1735592400"
+    }
+   }
+  ]
+ }
+}

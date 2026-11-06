@@ -1,0 +1,96 @@
+{
+ "meta": {
+  "series": "TP.FG.J0",
+  "url_without_key": "https://evds3.tcmb.gov.tr/igmevdsms-dis/series=TP.FG.J0&startDate=01-01-2018&endDate=31-12-2018&type=json",
+  "fetched_on": "2026-10-29"
+ },
+ "response": {
+  "totalCount": 12,
+  "items": [
+   {
+    "Tarih": "2018-1",
+    "TP_FG_J0": "330.75000000",
+    "UNIXTIME": {
+     "$numberLong": "1514761200"
+    }
+   },
+   {
+    "Tarih": "2018-2",
+    "TP_FG_J0": "333.17000000",
+    "UNIXTIME": {
+     "$numberLong": "1517439600"
+    }
+   },
+   {
+    "Tarih": "2018-3",
+    "TP_FG_J0": "336.48000000",
+    "UNIXTIME": {
+     "$numberLong": "1519858800"
+    }
+   },
+   {
+    "Tarih": "2018-4",
+    "TP_FG_J0": "342.78000000",
+    "UNIXTIME": {
+     "$numberLong": "1522533600"
+    }
+   },
+   {
+    "Tarih": "2018-5",
+    "TP_FG_J0": "348.34000000",
+    "UNIXTIME": {
+     "$numberLong": "1525125600"
+    }
+   },
+   {
+    "Tarih": "2018-6",
+    "TP_FG_J0": "357.44000000",
+    "UNIXTIME": {
+     "$numberLong": "1527804000"
+    }
+   },
+   {
+    "Tarih": "2018-7",
+    "TP_FG_J0": "359.41000000",
+    "UNIXTIME": {
+     "$numberLong": "1530396000"
+    }
+   },
+   {
+    "Tarih": "2018-8",
+    "TP_FG_J0": "367.66000000",
+    "UNIXTIME": {
+     "$numberLong": "1533074400"
+    }
+   },
+   {
+    "Tarih": "2018-9",
+    "TP_FG_J0": "390.84000000",
+    "UNIXTIME": {
+     "$numberLong": "1535752800"
+    }
+   },
+   {
+    "Tarih": "2018-10",
+    "TP_FG_J0": "401.27000000",
+    "UNIXTIME": {
+     "$numberLong": "1538344800"
+    }
+   },
+   {
+    "Tarih": "2018-11",
+    "TP_FG_J0": "395.48000000",
+    "UNIXTIME": {
+     "$numberLong": "1541026800"
+    }
+   },
+   {
+    "Tarih": "2018-12",
+    "TP_FG_J0": "393.88000000",
+    "UNIXTIME": {
+     "$numberLong": "1543618800"
+    }
+   }
+  ]
+ }
+}

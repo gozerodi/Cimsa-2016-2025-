@@ -1,0 +1,19 @@
+{
+ "meta": {
+  "series": "TP.FG.J0",
+  "url_without_key": "https://evds3.tcmb.gov.tr/igmevdsms-dis/series=TP.FG.J0&startDate=01-01-2026&endDate=29-10-2026&type=json",
+  "fetched_on": "2026-10-29"
+ },
+ "response": {
+  "totalCount": 1,
+  "items": [
+   {
+    "Tarih": "2026-1",
+    "TP_FG_J0": "3683.83000000",
+    "UNIXTIME": {
+     "$numberLong": "1767214800"
+    }
+   }
+  ]
+ }
+}

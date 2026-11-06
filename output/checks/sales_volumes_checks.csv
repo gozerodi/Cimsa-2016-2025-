@@ -1,0 +1,68 @@
+check,item,year,value_a,value_b,diff_pct,detail
+yoy_change_gt_30pct,clinker_sales,2017,411124.0,749028.0,82.2,2016 → 2017; source: 2016 / 2017 report
+yoy_change_gt_30pct,clinker_sales,2019,596205.0,3500000.0,487.0,2018 → 2019; source: 2018 / 2019 report
+yoy_change_gt_30pct,clinker_sales,2020,3500000.0,1400000.0,-60.0,2019 → 2020; source: 2019 / 2020 report
+yoy_change_gt_30pct,clinker_sales,2023,1700000.0,790000.0,-53.5,2022 → 2023; source: 2022 / 2023 report
+yoy_change_gt_30pct,ready_mix_sales,2019,2741393.0,1300000.0,-52.6,2018 → 2019; source: 2018 / 2019 report
+yoy_change_gt_30pct,ready_mix_sales,2020,1300000.0,2000000.0,53.8,2019 → 2020; source: 2019 / 2020 report
+yoy_change_gt_30pct,ready_mix_sales,2024,1800000.0,2480000.0,37.8,2023 → 2024; source: 2023 / 2024 report
+yoy_change_gt_30pct,sector_cement_clinker_exports,2020,23000000.0,31000000.0,34.8,2019 → 2020; source: 2019 / 2020 report
+yoy_change_gt_30pct,sector_cement_exports,2020,10300000.0,14800000.0,43.7,2019 → 2020; source: 2019 / 2020 report
+yoy_change_gt_30pct,white_cement_sales,2023,1260000.0,1720000.0,36.5,2022 → 2023; source: 2022 / 2023 report
+sales_vs_production,grey_cement_sales,2016,4550594.0,4534562.0,-0.4,passed: sales / production − 1 (threshold ±15%); production from esg_kpis_annual grey_cement_production ()
+sales_vs_production,grey_cement_sales,2017,5258542.0,5252544.0,-0.1,passed: sales / production − 1 (threshold ±15%); production from esg_kpis_annual grey_cement_production ()
+sales_vs_production,grey_cement_sales,2018,4556691.0,4562779.0,0.1,passed: sales / production − 1 (threshold ±15%); production from esg_kpis_annual grey_cement_production ()
+sales_vs_production,grey_cement_sales,2019,3500000.0,3500000.0,0.0,passed: sales / production − 1 (threshold ±15%); production from esg_kpis_annual grey_cement_production ()
+sales_vs_production,grey_cement_sales,2020,4300000.0,4400000.0,2.3,passed: sales / production − 1 (threshold ±15%); production from esg_kpis_annual grey_cement_production ()
+sales_vs_production,grey_cement_sales,2021,4200000.0,4220000.0,0.5,passed: sales / production − 1 (threshold ±15%); production from esg_kpis_annual grey_cement_production ()
+sales_vs_production,grey_cement_sales,2022,3490000.0,3450000.0,-1.1,passed: sales / production − 1 (threshold ±15%); production from esg_kpis_annual grey_cement_production ()
+sales_vs_production,grey_cement_sales,2023,3820000.0,3930000.0,2.9,passed: sales / production − 1 (threshold ±15%); production from esg_kpis_annual grey_cement_production ()
+sales_vs_production,white_cement_sales,2016,1026580.0,1059720.0,3.2,passed: sales / production − 1 (threshold ±15%); production from esg_kpis_annual white_cement_production ()
+sales_vs_production,white_cement_sales,2017,1088476.0,1127240.0,3.6,passed: sales / production − 1 (threshold ±15%); production from esg_kpis_annual white_cement_production ()
+sales_vs_production,white_cement_sales,2018,1215744.0,1273107.0,4.7,passed: sales / production − 1 (threshold ±15%); production from esg_kpis_annual white_cement_production ()
+sales_vs_production,white_cement_sales,2019,1200000.0,1200000.0,0.0,passed: sales / production − 1 (threshold ±15%); production from esg_kpis_annual white_cement_production ()
+sales_vs_production,white_cement_sales,2020,1300000.0,1300000.0,0.0,passed: sales / production − 1 (threshold ±15%); production from esg_kpis_annual white_cement_production ()
+sales_vs_production,white_cement_sales,2021,1390000.0,1390000.0,0.0,passed: sales / production − 1 (threshold ±15%); production from esg_kpis_annual white_cement_production ()
+sales_vs_production,white_cement_sales,2022,1250000.0,1260000.0,0.8,passed: sales / production − 1 (threshold ±15%); production from esg_kpis_annual white_cement_production ()
+sales_vs_production,white_cement_sales,2023,2910000.0,1720000.0,-40.9,warning: sales / production − 1 (threshold ±15%); production from esg_kpis_annual white_cement_production (white cement production is ~1.2–1.4 million tons in other years; the sales table on the same page shows 1.59 / 1.72 million tons)
+sales_vs_production,cac_sales,2018,33455.0,33000.0,-1.4,passed: sales / production − 1 (threshold ±15%); production from esg_kpis_annual cac_production ()
+sales_vs_production,cac_sales,2019,35000.0,35100.0,0.3,passed: sales / production − 1 (threshold ±15%); production from esg_kpis_annual cac_production ()
+sales_vs_production,cac_sales,2020,39000.0,40800.0,4.6,passed: sales / production − 1 (threshold ±15%); production from esg_kpis_annual cac_production ()
+sales_vs_production,cac_sales,2021,45700.0,46900.0,2.6,passed: sales / production − 1 (threshold ±15%); production from esg_kpis_annual cac_production ()
+sales_vs_production,cac_sales,2022,51430.0,53310.0,3.7,passed: sales / production − 1 (threshold ±15%); production from esg_kpis_annual cac_production ()
+sales_vs_production,cac_sales,2023,62660.0,59220.0,-5.5,passed: sales / production − 1 (threshold ±15%); production from esg_kpis_annual cac_production ()
+sales_vs_production,ready_mix_sales,2016,2823480.0,2823480.0,0.0,passed: sales / production − 1 (threshold ±15%); production from esg_kpis_annual ready_mix_production ()
+sales_vs_production,ready_mix_sales,2017,3440770.0,3440770.0,0.0,passed: sales / production − 1 (threshold ±15%); production from esg_kpis_annual ready_mix_production ()
+sales_vs_production,ready_mix_sales,2018,2741393.0,2741393.0,0.0,passed: sales / production − 1 (threshold ±15%); production from esg_kpis_annual ready_mix_production ()
+sales_vs_production,ready_mix_sales,2019,1300000.0,1300000.0,0.0,passed: sales / production − 1 (threshold ±15%); production from esg_kpis_annual ready_mix_production ()
+sales_vs_production,ready_mix_sales,2020,2000000.0,2000000.0,0.0,passed: sales / production − 1 (threshold ±15%); production from esg_kpis_annual ready_mix_production ()
+sales_vs_production,ready_mix_sales,2021,1940000.0,1940000.0,0.0,passed: sales / production − 1 (threshold ±15%); production from esg_kpis_annual ready_mix_production ()
+sales_vs_production,ready_mix_sales,2022,1650000.0,1650000.0,0.0,passed: sales / production − 1 (threshold ±15%); production from esg_kpis_annual ready_mix_production ()
+sales_vs_production,ready_mix_sales,2023,1800000.0,1800000.0,0.0,passed: sales / production − 1 (threshold ±15%); production from esg_kpis_annual ready_mix_production ()
+sales_vs_production,ready_mix_sales,2024,2480000.0,2480000.0,0.0,passed: sales / production − 1 (threshold ±15%); production from esg_kpis_annual ready_mix_production ()
+sales_vs_production,ready_mix_sales,2025,2900000.0,2900000.0,0.0,passed: sales / production − 1 (threshold ±15%); production from esg_kpis_annual ready_mix_production ()
+sales_vs_production,cement_sales_total,2023,6792660.0,6660000.0,-2.0,"passed: sales / production − 1 (threshold ±15%); production from esg_kpis_annual cement_production_total (grey_cement_production=3,820,000 + white_cement_production=2,910,000 + cac_production=62,660; at least one component is suspect)"
+sales_vs_production,cement_sales_total,2024,5310000.0,6870000.0,29.4,warning: sales / production − 1 (threshold ±15%); production from esg_kpis_annual cement_production_total ()
+sales_vs_production,cement_sales_total,2025,6800000.0,8100000.0,19.1,warning: sales / production − 1 (threshold ±15%); production from esg_kpis_annual cement_production_total ()
+clinker_sales_share_of_production,clinker_sales,2016,5538570.0,411124.0,7.4,info: clinker sold / clinker produced (%); most clinker is used in cement production
+clinker_sales_share_of_production,clinker_sales,2017,6101571.0,749028.0,12.3,info: clinker sold / clinker produced (%); most clinker is used in cement production
+clinker_sales_share_of_production,clinker_sales,2018,5790568.0,596205.0,10.3,info: clinker sold / clinker produced (%); most clinker is used in cement production
+clinker_sales_share_of_production,clinker_sales,2019,5200000.0,3500000.0,67.3,info: clinker sold / clinker produced (%); most clinker is used in cement production
+clinker_sales_share_of_production,clinker_sales,2020,6400000.0,1400000.0,21.9,info: clinker sold / clinker produced (%); most clinker is used in cement production
+clinker_sales_share_of_production,clinker_sales,2021,6920000.0,1700000.0,24.6,info: clinker sold / clinker produced (%); most clinker is used in cement production
+clinker_sales_share_of_production,clinker_sales,2022,5860000.0,1700000.0,29.0,info: clinker sold / clinker produced (%); most clinker is used in cement production
+clinker_sales_share_of_production,clinker_sales,2023,4970000.0,790000.0,15.9,info: clinker sold / clinker produced (%); most clinker is used in cement production
+quality_unit_corrected,clinker_sales,2016,,411124.0,,2016 report: report states unit 'milyon ton' but the value is ton-sized; taken as tons; performance table ('… Satışı' (sales) line)
+quality_unit_corrected,clinker_sales,2017,,749028.0,,2017 report: report states unit 'milyon ton' but the value is ton-sized; taken as tons; performance table ('… Satışı' (sales) line)
+quality_unit_corrected,clinker_sales,2018,,596205.0,,2018 report: report states unit 'milyon ton' but the value is ton-sized; taken as tons; performance table ('… Satışı' (sales) line)
+quality_partial_year,sector_cement_exports,2018,,6330000.0,,2018 report: partial year (10M); not comparable with a full year
+quality_partial_year,sector_cement_exports,2019,,10300000.0,,"2019 report: no year in the text; report year assumed; scope: TürkÇimento/TÇMB member plants; year/period verified manually: paragraph starts with 'TÇMB verilerine göre 2019 yılının ilk on bir ayında Türkiye çimento üretimi …' (according to TÇMB, Turkey's cement production in the first eleven months of 2019); partial year (11M); not comparable with a full year"
+quality_partial_year,sector_cement_exports,2020,,14800000.0,,2020 report: year/period verified manually: 'TürkÇimento üyesi fabrikalar dikkate alındığında 2020 … yılının ilk on bir ayında çimento ihracatı' (cement exports of TürkÇimento member plants in the first eleven months of 2020); partial year (11M); not comparable with a full year
+quality_partial_year,sector_cement_production,2018,,63290000.0,,2018 report: partial year (10M); not comparable with a full year
+quality_partial_year,sector_clinker_exports,2018,,4700000.0,,2018 report: partial year (10M); not comparable with a full year
+quality_partial_year,sector_clinker_exports,2019,,10800000.0,,"2019 report: no year in the text; report year assumed; scope: TürkÇimento/TÇMB member plants; year/period verified manually: same sentence: '… klinker ihracatı ise %108 artarak 10,8 milyon ton' (clinker exports up 108% to 10.8 million tons); partial year (11M); not comparable with a full year"
+quality_partial_year,sector_clinker_exports,2020,,12500000.0,,"2020 report: year/period verified manually: same sentence: '… klinker ihracatı ise %16 artarak 12,5 milyon ton' (clinker exports up 16% to 12.5 million tons); partial year (11M); not comparable with a full year"
+quality_partial_year,sector_clinker_production,2018,,61050000.0,,2018 report: scope: TürkÇimento/TÇMB member plants; partial year (10M); not comparable with a full year
+quality_partial_year,sector_domestic_consumption,2017,,66300000.0,,2017 report: partial year (11M); not comparable with a full year
+quality_partial_year,sector_domestic_consumption,2018,,56290000.0,,2018 report: scope: TürkÇimento/TÇMB member plants; partial year (10M); not comparable with a full year
+quality_partial_year,sector_domestic_consumption,2019,,42200000.0,,2019 report: decimal separator is a dot (ambiguous format); scope: TürkÇimento/TÇMB member plants; partial year (11M); not comparable with a full year

@@ -1,0 +1,36 @@
+check,year,view,indicator,status,detail
+esg_from_restated,2017,own,alt_fuel_rate_grey,restated value used,no value in own report; value from the 2018 report (8.70)
+esg_from_restated,2020,own,total_energy_consumption,restated value used,"no value in own report; value from the 2021 report (7,135,186.00)"
+esg_from_restated,2020,own,clinker_energy_consumption,restated value used,"no value in own report; value from the 2021 report (6,778,007.00)"
+esg_from_restated,2020,own,thermal_energy_conventional,restated value used,"no value in own report; value from the 2021 report (7,159,501.72)"
+esg_from_restated,2020,own,electricity_consumption,restated value used,"no value in own report; value from the 2021 report (686,426.00)"
+esg_from_restated,2020,own,self_generated_renewable_electricity,restated value used,"no value in own report; value from the 2021 report (46,913.00)"
+esg_from_restated,2020,own,renewable_energy_consumption,restated value used,"no value in own report; value from the 2021 report (43,259.00)"
+esg_from_restated,2020,own,alt_fuel_rate,restated value used,no value in own report; value from the 2021 report (6.10)
+esg_from_restated,2020,own,alt_fuel_rate_grey,restated value used,no value in own report; value from the 2021 report (7.82)
+esg_from_restated,2020,own,specific_heat_consumption,restated value used,"no value in own report; value from the 2021 report (3,563.00)"
+esg_from_restated,2021,own,renewable_electricity_share,restated value used,no value in own report; value from the 2022 report (4.80)
+esg_from_restated,2022,own,irec_mwh,restated value used,"no value in own report; value from the 2023 report (266,000.00)"
+esg_from_restated,2022,own,alt_fuel_rate_white,restated value used,no value in own report; value from the 2023 report (19.00)
+derived_not_computed,2015,restated_in_2016,ebitda_proxy,not computed,missing input: operating_profit
+derived_not_computed,2015,restated_in_2016,net_debt_to_ebitda,not computed,missing input: ebitda_proxy
+derived_not_computed,2015,restated_in_2016,implied_energy_price_try_per_mwh,not computed,missing input: total_energy_consumption
+derived_not_computed,2016,own,implied_energy_price_try_per_mwh,not computed,missing input: total_energy_consumption
+derived_not_computed,2016,restated_in_2017,implied_energy_price_try_per_mwh,not computed,missing input: total_energy_consumption
+derived_not_computed,2017,own,implied_energy_price_try_per_mwh,not computed,missing input: total_energy_consumption
+derived_not_computed,2017,restated_in_2018,implied_energy_price_try_per_mwh,not computed,missing input: total_energy_consumption
+derived_not_computed,2018,own,implied_energy_price_try_per_mwh,not computed,missing input: total_energy_consumption
+derived_not_computed,2018,restated_in_2019,implied_energy_price_try_per_mwh,not computed,missing input: total_energy_consumption
+derived_not_computed,2019,own,implied_energy_price_try_per_mwh,not computed,missing input: total_energy_consumption
+derived_not_computed,2019,restated_in_2020,implied_energy_price_try_per_mwh,not computed,missing input: total_energy_consumption
+derived_not_computed,2023,restated_in_2024,segment_building_materials_gross_margin,not computed,denominator is zero
+derived_not_computed,2015,restated_in_2016,ebitda_proxy_usd,not computed,missing input: ebitda_proxy
+derived_not_computed,2015,restated_in_2016,implied_energy_price_usd_per_mwh,not computed,missing input: implied_energy_price_try_per_mwh
+derived_not_computed,2016,own,implied_energy_price_usd_per_mwh,not computed,missing input: implied_energy_price_try_per_mwh
+derived_not_computed,2016,restated_in_2017,implied_energy_price_usd_per_mwh,not computed,missing input: implied_energy_price_try_per_mwh
+derived_not_computed,2017,own,implied_energy_price_usd_per_mwh,not computed,missing input: implied_energy_price_try_per_mwh
+derived_not_computed,2017,restated_in_2018,implied_energy_price_usd_per_mwh,not computed,missing input: implied_energy_price_try_per_mwh
+derived_not_computed,2018,own,implied_energy_price_usd_per_mwh,not computed,missing input: implied_energy_price_try_per_mwh
+derived_not_computed,2018,restated_in_2019,implied_energy_price_usd_per_mwh,not computed,missing input: implied_energy_price_try_per_mwh
+derived_not_computed,2019,own,implied_energy_price_usd_per_mwh,not computed,missing input: implied_energy_price_try_per_mwh
+derived_not_computed,2019,restated_in_2020,implied_energy_price_usd_per_mwh,not computed,missing input: implied_energy_price_try_per_mwh

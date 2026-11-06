@@ -1,0 +1,161 @@
+year,period,item,value,unit,basis,restated,source_file,source_page,note
+2016,FY,cost_of_sales,794861516,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,7,
+2016,FY,depreciation,56975398,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,56,
+2016,FY,direct_labor,56398631,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,56,
+2016,FY,energy_cost,268194690,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,56,
+2016,FY,other_production,183034674,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,56,
+2016,FY,raw_material,236929339,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,56,
+2016,FY,revenue,1170309931,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,7,
+2016,FY,total_production_cost,808783518,TRY,nominal,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,56,
+2015,FY,cost_of_sales,806246032,TRY,nominal,True,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,7,comparative column of the 2016 report
+2015,FY,depreciation,66133135,TRY,nominal,True,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,56,comparative column of the 2016 report
+2015,FY,direct_labor,49226013,TRY,nominal,True,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,56,comparative column of the 2016 report
+2015,FY,energy_cost,286781090,TRY,nominal,True,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,56,comparative column of the 2016 report
+2015,FY,other_production,189757809,TRY,nominal,True,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,56,comparative column of the 2016 report
+2015,FY,raw_material,188623514,TRY,nominal,True,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,56,comparative column of the 2016 report
+2015,FY,revenue,1171145661,TRY,nominal,True,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,7,comparative column of the 2016 report
+2015,FY,total_production_cost,780521561,TRY,nominal,True,Data/FinancialStatements/2016/Cimsa_2016_12.pdf,56,comparative column of the 2016 report
+2017,FY,cost_of_sales,1095690025,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,9,
+2017,FY,depreciation,79193926,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,52,
+2017,FY,direct_labor,63324236,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,52,
+2017,FY,energy_cost,347817990,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,52,
+2017,FY,other_production,159444794,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,52,
+2017,FY,raw_material,401630174,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,52,
+2017,FY,revenue,1490579874,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,9,
+2017,FY,total_production_cost,1051411120,TRY,nominal,False,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,52,
+2016,FY,cost_of_sales,794861516,TRY,nominal,True,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,9,comparative column of the 2017 report
+2016,FY,depreciation,56975398,TRY,nominal,True,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,52,comparative column of the 2017 report
+2016,FY,direct_labor,56398631,TRY,nominal,True,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,52,comparative column of the 2017 report
+2016,FY,energy_cost,268194690,TRY,nominal,True,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,52,comparative column of the 2017 report
+2016,FY,other_production,183034674,TRY,nominal,True,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,52,comparative column of the 2017 report
+2016,FY,raw_material,236929339,TRY,nominal,True,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,52,comparative column of the 2017 report
+2016,FY,revenue,1170309931,TRY,nominal,True,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,9,comparative column of the 2017 report
+2016,FY,total_production_cost,808783518,TRY,nominal,True,Data/FinancialStatements/2017/Cimsa_2017_12.pdf,52,comparative column of the 2017 report
+2018,FY,cost_of_sales,1293977441,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,9,
+2018,FY,depreciation,106181039,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,58,
+2018,FY,direct_labor,71584320,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,58,
+2018,FY,energy_cost,466365193,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,58,
+2018,FY,other_production,134853580,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,58,
+2018,FY,raw_material,503033981,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,58,
+2018,FY,revenue,1699958055,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,9,
+2018,FY,total_production_cost,1282018113,TRY,nominal,False,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,58,
+2017,FY,cost_of_sales,1095690025,TRY,nominal,True,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,9,comparative column of the 2018 report
+2017,FY,depreciation,79193926,TRY,nominal,True,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,58,comparative column of the 2018 report
+2017,FY,direct_labor,63324236,TRY,nominal,True,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,58,comparative column of the 2018 report
+2017,FY,energy_cost,347817990,TRY,nominal,True,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,58,comparative column of the 2018 report
+2017,FY,other_production,159444794,TRY,nominal,True,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,58,comparative column of the 2018 report
+2017,FY,raw_material,401630174,TRY,nominal,True,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,58,comparative column of the 2018 report
+2017,FY,revenue,1490579874,TRY,nominal,True,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,9,comparative column of the 2018 report
+2017,FY,total_production_cost,1051411120,TRY,nominal,True,Data/FinancialStatements/2018/Cimsa_2018_12.pdf,58,comparative column of the 2018 report
+2019,FY,cost_of_sales,1422037589,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,9,
+2019,FY,depreciation,132132993,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,59,
+2019,FY,direct_labor,82344604,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,59,
+2019,FY,energy_cost,486993011,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,59,
+2019,FY,other_production,137249508,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,59,
+2019,FY,raw_material,499646105,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,59,
+2019,FY,revenue,1726195637,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,9,
+2019,FY,total_production_cost,1338366221,TRY,nominal,False,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,59,
+2018,FY,cost_of_sales,1293977441,TRY,nominal,True,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,9,comparative column of the 2019 report
+2018,FY,depreciation,106181039,TRY,nominal,True,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,59,comparative column of the 2019 report
+2018,FY,direct_labor,71584320,TRY,nominal,True,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,59,comparative column of the 2019 report
+2018,FY,energy_cost,466365193,TRY,nominal,True,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,59,comparative column of the 2019 report
+2018,FY,other_production,134853580,TRY,nominal,True,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,59,comparative column of the 2019 report
+2018,FY,raw_material,503033981,TRY,nominal,True,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,59,comparative column of the 2019 report
+2018,FY,revenue,1699958055,TRY,nominal,True,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,9,comparative column of the 2019 report
+2018,FY,total_production_cost,1282018113,TRY,nominal,True,Data/FinancialStatements/2019/Cimsa_2019_12.pdf,59,comparative column of the 2019 report
+2020,FY,cost_of_sales,1608546273,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,12,"more than 2 numbers read in the line, first two used: 'Satışların maliyeti (-) 24 (1.608.546.273) (1.303.900.929)1.577.651.788'"
+2020,FY,depreciation,118828795,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,62,
+2020,FY,direct_labor,102001277,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,62,item named 'İşçilik giderleri' in the report (no 'direct' wording)
+2020,FY,energy_cost,718315020,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,62,
+2020,FY,other_production,258492522,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,62,
+2020,FY,raw_material,341560956,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,62,
+2020,FY,revenue,2076298962,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,12,
+2020,FY,total_production_cost,1539198570,TRY,nominal,False,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,62,
+2019,FY,cost_of_sales,1303900929,TRY,nominal,True,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,12,"more than 2 numbers read in the line, first two used: 'Satışların maliyeti (-) 24 (1.608.546.273) (1.303.900.929)1.577.651.788'; comparative column of the 2020 report"
+2019,FY,depreciation,124113866,TRY,nominal,True,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,62,comparative column of the 2020 report
+2019,FY,direct_labor,85735110,TRY,nominal,True,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,62,item named 'İşçilik giderleri' in the report (no 'direct' wording); comparative column of the 2020 report
+2019,FY,energy_cost,580656379,TRY,nominal,True,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,62,comparative column of the 2020 report
+2019,FY,other_production,211553123,TRY,nominal,True,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,62,comparative column of the 2020 report
+2019,FY,raw_material,224304126,TRY,nominal,True,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,62,comparative column of the 2020 report
+2019,FY,revenue,1577651788,TRY,nominal,True,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,12,comparative column of the 2020 report
+2019,FY,total_production_cost,1226362604,TRY,nominal,True,Data/FinancialStatements/2020/Cimsa_2020_12.pdf,62,comparative column of the 2020 report
+2021,FY,cost_of_sales,3032410647,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,10,
+2021,FY,depreciation,114433165,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,59,
+2021,FY,direct_labor,116650115,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,59,
+2021,FY,energy_cost,1395817135,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,59,
+2021,FY,other_production,786258403,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,59,
+2021,FY,raw_material,341224966,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,59,
+2021,FY,revenue,3745370304,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,10,
+2021,FY,total_production_cost,2754383784,TRY,nominal,False,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,59,
+2020,FY,cost_of_sales,1608546273,TRY,nominal,True,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,10,comparative column of the 2021 report
+2020,FY,depreciation,118828795,TRY,nominal,True,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,59,comparative column of the 2021 report
+2020,FY,direct_labor,102001277,TRY,nominal,True,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,59,comparative column of the 2021 report
+2020,FY,energy_cost,718315020,TRY,nominal,True,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,59,comparative column of the 2021 report
+2020,FY,other_production,258492522,TRY,nominal,True,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,59,comparative column of the 2021 report
+2020,FY,raw_material,341560956,TRY,nominal,True,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,59,comparative column of the 2021 report
+2020,FY,revenue,2076298962,TRY,nominal,True,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,10,comparative column of the 2021 report
+2020,FY,total_production_cost,1539198570,TRY,nominal,True,Data/FinancialStatements/2021/Cimsa_2021_12.pdf,59,comparative column of the 2021 report
+2022,FY,cost_of_sales,7102632857,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,10,
+2022,FY,depreciation,129404058,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,59,
+2022,FY,direct_labor,193098773,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,59,
+2022,FY,energy_cost,3632105128,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,59,
+2022,FY,other_production,584286248,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,59,
+2022,FY,raw_material,1558255057,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,59,
+2022,FY,revenue,8582005230,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,10,
+2022,FY,total_production_cost,6097149264,TRY,nominal,False,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,59,
+2021,FY,cost_of_sales,3032410647,TRY,nominal,True,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,10,comparative column of the 2022 report
+2021,FY,depreciation,114433165,TRY,nominal,True,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,59,comparative column of the 2022 report
+2021,FY,direct_labor,116650115,TRY,nominal,True,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,59,comparative column of the 2022 report
+2021,FY,energy_cost,1395817135,TRY,nominal,True,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,59,comparative column of the 2022 report
+2021,FY,other_production,240258403,TRY,nominal,True,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,59,comparative column of the 2022 report
+2021,FY,raw_material,887224966,TRY,nominal,True,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,59,comparative column of the 2022 report
+2021,FY,revenue,3745370304,TRY,nominal,True,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,10,comparative column of the 2022 report
+2021,FY,total_production_cost,2754383784,TRY,nominal,True,Data/FinancialStatements/2022/Cimsa_2022_12.pdf,59,comparative column of the 2022 report
+2023,FY,cost_of_sales,16475179000,TRY,tms29,False,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,11,
+2023,FY,depreciation,918454000,TRY,tms29,False,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,69,
+2023,FY,direct_labor,687148000,TRY,tms29,False,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,69,
+2023,FY,energy_cost,5015484000,TRY,tms29,False,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,69,
+2023,FY,other_production,2132256000,TRY,tms29,False,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,69,
+2023,FY,raw_material,3612179000,TRY,tms29,False,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,69,
+2023,FY,revenue,20504515000,TRY,tms29,False,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,11,
+2023,FY,total_production_cost,12365521000,TRY,tms29,False,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,69,
+2022,FY,cost_of_sales,18439737000,TRY,tms29,True,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,11,comparative column of the 2023 report
+2022,FY,depreciation,852541000,TRY,tms29,True,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,69,comparative column of the 2023 report
+2022,FY,direct_labor,594651000,TRY,tms29,True,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,69,comparative column of the 2023 report
+2022,FY,energy_cost,7871428000,TRY,tms29,True,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,69,comparative column of the 2023 report
+2022,FY,other_production,1552035000,TRY,tms29,True,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,69,comparative column of the 2023 report
+2022,FY,raw_material,4096966000,TRY,tms29,True,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,69,comparative column of the 2023 report
+2022,FY,revenue,20820386000,TRY,tms29,True,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,11,comparative column of the 2023 report
+2022,FY,total_production_cost,14967621000,TRY,tms29,True,Data/FinancialStatements/2023/Cimsa_2023_12.pdf,69,comparative column of the 2023 report
+2024,FY,cost_of_sales,22106374000,TRY,tms29,False,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,10,
+2024,FY,depreciation,1650524000,TRY,tms29,False,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,65,
+2024,FY,direct_labor,1447856000,TRY,tms29,False,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,65,
+2024,FY,energy_cost,6268803000,TRY,tms29,False,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,65,
+2024,FY,other_production,3803269000,TRY,tms29,False,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,65,
+2024,FY,raw_material,7805075000,TRY,tms29,False,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,65,
+2024,FY,revenue,28150518000,TRY,tms29,False,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,10,
+2024,FY,total_production_cost,20975527000,TRY,tms29,False,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,65,
+2023,FY,cost_of_sales,23786698000,TRY,tms29,True,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,10,comparative column of the 2024 report
+2023,FY,depreciation,1326056000,TRY,tms29,True,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,65,comparative column of the 2024 report
+2023,FY,direct_labor,992097000,TRY,tms29,True,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,65,comparative column of the 2024 report
+2023,FY,energy_cost,7241305000,TRY,tms29,True,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,65,comparative column of the 2024 report
+2023,FY,other_production,3078527000,TRY,tms29,True,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,65,comparative column of the 2024 report
+2023,FY,raw_material,5215228000,TRY,tms29,True,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,65,comparative column of the 2024 report
+2023,FY,revenue,29604214000,TRY,tms29,True,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,10,comparative column of the 2024 report
+2023,FY,total_production_cost,17853213000,TRY,tms29,True,Data/FinancialStatements/2024/Cimsa_2024_12.pdf,65,comparative column of the 2024 report
+2025,FY,cost_of_sales,36915465000,TRY,tms29,False,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,10,
+2025,FY,depreciation,3624737000,TRY,tms29,False,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,64,
+2025,FY,direct_labor,2956549000,TRY,tms29,False,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,64,
+2025,FY,energy_cost,7207512000,TRY,tms29,False,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,64,
+2025,FY,other_production,8810941000,TRY,tms29,False,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,64,
+2025,FY,raw_material,11650239000,TRY,tms29,False,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,64,
+2025,FY,revenue,45906819000,TRY,tms29,False,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,10,
+2025,FY,total_production_cost,34249978000,TRY,tms29,False,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,64,
+2024,FY,cost_of_sales,28935475000,TRY,tms29,True,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,10,comparative column of the 2025 report
+2024,FY,depreciation,2160404000,TRY,tms29,True,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,64,comparative column of the 2025 report
+2024,FY,direct_labor,1895127000,TRY,tms29,True,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,64,comparative column of the 2025 report
+2024,FY,energy_cost,7096595000,TRY,tms29,True,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,64,comparative column of the 2025 report
+2024,FY,other_production,6086942000,TRY,tms29,True,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,64,comparative column of the 2025 report
+2024,FY,raw_material,10216219000,TRY,tms29,True,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,64,comparative column of the 2025 report
+2024,FY,revenue,36846776000,TRY,tms29,True,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,10,comparative column of the 2025 report
+2024,FY,total_production_cost,27455287000,TRY,tms29,True,Data/FinancialStatements/2025/Cimsa_2025_12.pdf,64,comparative column of the 2025 report

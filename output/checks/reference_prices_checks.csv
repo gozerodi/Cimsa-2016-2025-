@@ -1,0 +1,63 @@
+check,year,status,value,detail
+ptf_missing_hours_days,2016,passed,1.0,8783 hours (expected 8784); 366/366 days; empty prices 0; days with other than 24 hours: 2016-03-27=23
+ptf_missing_hours_days,2017,passed,0.0,8760 hours (expected 8760); 365/365 days; empty prices 0
+ptf_missing_hours_days,2018,passed,0.0,8760 hours (expected 8760); 365/365 days; empty prices 0
+ptf_missing_hours_days,2019,passed,0.0,8760 hours (expected 8760); 365/365 days; empty prices 0
+ptf_missing_hours_days,2020,passed,0.0,8784 hours (expected 8784); 366/366 days; empty prices 0
+ptf_missing_hours_days,2021,passed,0.0,8760 hours (expected 8760); 365/365 days; empty prices 0
+ptf_missing_hours_days,2022,passed,0.0,8760 hours (expected 8760); 365/365 days; empty prices 0
+ptf_missing_hours_days,2023,passed,0.0,8760 hours (expected 8760); 365/365 days; empty prices 0
+ptf_missing_hours_days,2024,passed,0.0,8784 hours (expected 8784); 366/366 days; empty prices 0
+ptf_missing_hours_days,2025,passed,0.0,8760 hours (expected 8760); 365/365 days; empty prices 0
+fx_monthly_match,2016,passed,0.0,PTF months 12; months without an FX rate: none; FX days per month 18–23
+fx_monthly_match,2017,passed,0.0,PTF months 12; months without an FX rate: none; FX days per month 20–23
+fx_monthly_match,2018,passed,0.0,PTF months 12; months without an FX rate: none; FX days per month 18–23
+fx_monthly_match,2019,passed,0.0,PTF months 12; months without an FX rate: none; FX days per month 17–22
+fx_monthly_match,2020,passed,0.0,PTF months 12; months without an FX rate: none; FX days per month 17–23
+fx_monthly_match,2021,passed,0.0,PTF months 12; months without an FX rate: none; FX days per month 17–23
+fx_monthly_match,2022,passed,0.0,PTF months 12; months without an FX rate: none; FX days per month 18–23
+fx_monthly_match,2023,passed,0.0,PTF months 12; months without an FX rate: none; FX days per month 19–23
+fx_monthly_match,2024,passed,0.0,PTF months 12; months without an FX rate: none; FX days per month 17–22
+fx_monthly_match,2025,passed,0.0,PTF months 12; months without an FX rate: none; FX days per month 19–23
+coal_missing_months,2016,passed,0.0,coal_australia_usd_t: 12/12 months
+coal_missing_months,2016,passed,0.0,coal_south_africa_usd_t: 12/12 months
+coal_missing_months,2017,passed,0.0,coal_australia_usd_t: 12/12 months
+coal_missing_months,2017,passed,0.0,coal_south_africa_usd_t: 12/12 months
+coal_missing_months,2018,passed,0.0,coal_australia_usd_t: 12/12 months
+coal_missing_months,2018,passed,0.0,coal_south_africa_usd_t: 12/12 months
+coal_missing_months,2019,passed,0.0,coal_australia_usd_t: 12/12 months
+coal_missing_months,2019,passed,0.0,coal_south_africa_usd_t: 12/12 months
+coal_missing_months,2020,passed,0.0,coal_australia_usd_t: 12/12 months
+coal_missing_months,2020,passed,0.0,coal_south_africa_usd_t: 12/12 months
+coal_missing_months,2021,passed,0.0,coal_australia_usd_t: 12/12 months
+coal_missing_months,2021,passed,0.0,coal_south_africa_usd_t: 12/12 months
+coal_missing_months,2022,passed,0.0,coal_australia_usd_t: 12/12 months
+coal_missing_months,2022,passed,0.0,coal_south_africa_usd_t: 12/12 months
+coal_missing_months,2023,passed,0.0,coal_australia_usd_t: 12/12 months
+coal_missing_months,2023,passed,0.0,coal_south_africa_usd_t: 12/12 months
+coal_missing_months,2024,passed,0.0,coal_australia_usd_t: 12/12 months
+coal_missing_months,2024,passed,0.0,coal_south_africa_usd_t: 12/12 months
+coal_missing_months,2025,passed,0.0,coal_australia_usd_t: 12/12 months
+coal_missing_months,2025,passed,0.0,coal_south_africa_usd_t: 12/12 months
+ptf_usd_vs_epias_priceUsd,2016,info,-0.051,EVDS conversion 46.22 vs EPİAŞ priceUsd average 46.24 USD/MWh (difference %)
+ptf_usd_vs_epias_priceUsd,2017,info,0.02,EVDS conversion 45.02 vs EPİAŞ priceUsd average 45.01 USD/MWh (difference %)
+ptf_usd_vs_epias_priceUsd,2018,info,-0.045,EVDS conversion 47.41 vs EPİAŞ priceUsd average 47.43 USD/MWh (difference %)
+ptf_usd_vs_epias_priceUsd,2019,info,-0.116,EVDS conversion 45.98 vs EPİAŞ priceUsd average 46.03 USD/MWh (difference %)
+ptf_usd_vs_epias_priceUsd,2020,info,-0.149,EVDS conversion 40.07 vs EPİAŞ priceUsd average 40.13 USD/MWh (difference %)
+ptf_usd_vs_epias_priceUsd,2021,info,-0.301,EVDS conversion 55.32 vs EPİAŞ priceUsd average 55.49 USD/MWh (difference %)
+ptf_usd_vs_epias_priceUsd,2022,info,-0.041,EVDS conversion 147.26 vs EPİAŞ priceUsd average 147.33 USD/MWh (difference %)
+ptf_usd_vs_epias_priceUsd,2023,info,-0.065,EVDS conversion 96.71 vs EPİAŞ priceUsd average 96.78 USD/MWh (difference %)
+ptf_usd_vs_epias_priceUsd,2024,info,-0.056,EVDS conversion 68.01 vs EPİAŞ priceUsd average 68.05 USD/MWh (difference %)
+ptf_usd_vs_epias_priceUsd,2025,info,-0.066,EVDS conversion 66.36 vs EPİAŞ priceUsd average 66.40 USD/MWh (difference %)
+electricity_weight_source,2016,warning,0.0962,no data; nearest year (2020) used; annual_master own 2020: electricity_consumption 2021 report; total_energy_consumption 2021 report
+electricity_weight_source,2017,warning,0.0962,no data; nearest year (2020) used; annual_master own 2020: electricity_consumption 2021 report; total_energy_consumption 2021 report
+electricity_weight_source,2018,warning,0.0962,no data; nearest year (2020) used; annual_master own 2020: electricity_consumption 2021 report; total_energy_consumption 2021 report
+electricity_weight_source,2019,warning,0.0962,no data; nearest year (2020) used; annual_master own 2020: electricity_consumption 2021 report; total_energy_consumption 2021 report
+electricity_weight_source,2020,info,0.0962,same year; annual_master own 2020: electricity_consumption 2021 report; total_energy_consumption 2021 report
+electricity_weight_source,2021,info,0.09183,same year; annual_master own 2021: own report
+electricity_weight_source,2022,info,0.09232,same year; annual_master own 2022: own report
+electricity_weight_source,2023,info,0.10063,same year; annual_master own 2023: own report
+electricity_weight_source,2024,info,0.10094,same year; annual_master own 2024: own report
+electricity_weight_source,2025,info,0.11053,same year; annual_master own 2025: own report
+coal_series_note,,info,,"Coal, Australian: from February 2022 the Newcastle 6000 kcal/kg futures price; spot before that."
+coal_series_note,,info,,"Coal, South African: June–November 2022, some months of 2023 and January–May 2024 are World Bank estimates based on similar indicators."

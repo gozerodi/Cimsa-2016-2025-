@@ -1,0 +1,292 @@
+check,year,period,item,lhs,rhs,difference,passed,note
+a_fy_vs_cost_items_annual,2016,FY,cost_of_sales,794861516.0,794861516.0,0.0,True,
+a_fy_vs_cost_items_annual,2017,FY,cost_of_sales,1095690025.0,1095690025.0,0.0,True,
+a_fy_vs_cost_items_annual,2018,FY,cost_of_sales,1293977441.0,1293977441.0,0.0,True,
+a_fy_vs_cost_items_annual,2019,FY,cost_of_sales,1422037589.0,1422037589.0,0.0,True,
+a_fy_vs_cost_items_annual,2020,FY,cost_of_sales,1608546273.0,1608546273.0,0.0,True,
+a_fy_vs_cost_items_annual,2021,FY,cost_of_sales,3032410647.0,3032410647.0,0.0,True,
+a_fy_vs_cost_items_annual,2022,FY,cost_of_sales,7102632857.0,7102632857.0,0.0,True,
+a_fy_vs_cost_items_annual,2016,FY,depreciation,56975398.0,56975398.0,0.0,True,
+a_fy_vs_cost_items_annual,2017,FY,depreciation,79193926.0,79193926.0,0.0,True,
+a_fy_vs_cost_items_annual,2018,FY,depreciation,106181039.0,106181039.0,0.0,True,
+a_fy_vs_cost_items_annual,2019,FY,depreciation,132132993.0,132132993.0,0.0,True,
+a_fy_vs_cost_items_annual,2020,FY,depreciation,118828795.0,118828795.0,0.0,True,
+a_fy_vs_cost_items_annual,2021,FY,depreciation,114433165.0,114433165.0,0.0,True,
+a_fy_vs_cost_items_annual,2022,FY,depreciation,129404058.0,129404058.0,0.0,True,
+a_fy_vs_cost_items_annual,2016,FY,direct_labor,56398631.0,56398631.0,0.0,True,
+a_fy_vs_cost_items_annual,2017,FY,direct_labor,63324236.0,63324236.0,0.0,True,
+a_fy_vs_cost_items_annual,2018,FY,direct_labor,71584320.0,71584320.0,0.0,True,
+a_fy_vs_cost_items_annual,2019,FY,direct_labor,82344604.0,82344604.0,0.0,True,
+a_fy_vs_cost_items_annual,2020,FY,direct_labor,102001277.0,102001277.0,0.0,True,
+a_fy_vs_cost_items_annual,2021,FY,direct_labor,116650115.0,116650115.0,0.0,True,
+a_fy_vs_cost_items_annual,2022,FY,direct_labor,193098773.0,193098773.0,0.0,True,
+a_fy_vs_cost_items_annual,2016,FY,energy_cost,268194690.0,268194690.0,0.0,True,
+a_fy_vs_cost_items_annual,2017,FY,energy_cost,347817990.0,347817990.0,0.0,True,
+a_fy_vs_cost_items_annual,2018,FY,energy_cost,466365193.0,466365193.0,0.0,True,
+a_fy_vs_cost_items_annual,2019,FY,energy_cost,486993011.0,486993011.0,0.0,True,
+a_fy_vs_cost_items_annual,2020,FY,energy_cost,718315020.0,718315020.0,0.0,True,
+a_fy_vs_cost_items_annual,2021,FY,energy_cost,1395817135.0,1395817135.0,0.0,True,
+a_fy_vs_cost_items_annual,2022,FY,energy_cost,3632105128.0,3632105128.0,0.0,True,
+a_fy_vs_cost_items_annual,2016,FY,other_production,183034674.0,183034674.0,0.0,True,
+a_fy_vs_cost_items_annual,2017,FY,other_production,159444794.0,159444794.0,0.0,True,
+a_fy_vs_cost_items_annual,2018,FY,other_production,134853580.0,134853580.0,0.0,True,
+a_fy_vs_cost_items_annual,2019,FY,other_production,137249508.0,137249508.0,0.0,True,
+a_fy_vs_cost_items_annual,2020,FY,other_production,258492522.0,258492522.0,0.0,True,
+a_fy_vs_cost_items_annual,2021,FY,other_production,786258403.0,786258403.0,0.0,True,
+a_fy_vs_cost_items_annual,2022,FY,other_production,584286248.0,584286248.0,0.0,True,
+a_fy_vs_cost_items_annual,2016,FY,raw_material,236929339.0,236929339.0,0.0,True,
+a_fy_vs_cost_items_annual,2017,FY,raw_material,401630174.0,401630174.0,0.0,True,
+a_fy_vs_cost_items_annual,2018,FY,raw_material,503033981.0,503033981.0,0.0,True,
+a_fy_vs_cost_items_annual,2019,FY,raw_material,499646105.0,499646105.0,0.0,True,
+a_fy_vs_cost_items_annual,2020,FY,raw_material,341560956.0,341560956.0,0.0,True,
+a_fy_vs_cost_items_annual,2021,FY,raw_material,341224966.0,341224966.0,0.0,True,
+a_fy_vs_cost_items_annual,2022,FY,raw_material,1558255057.0,1558255057.0,0.0,True,
+a_fy_vs_cost_items_annual,2016,FY,revenue,1170309931.0,1170309931.0,0.0,True,
+a_fy_vs_cost_items_annual,2017,FY,revenue,1490579874.0,1490579874.0,0.0,True,
+a_fy_vs_cost_items_annual,2018,FY,revenue,1699958055.0,1699958055.0,0.0,True,
+a_fy_vs_cost_items_annual,2019,FY,revenue,1726195637.0,1726195637.0,0.0,True,
+a_fy_vs_cost_items_annual,2020,FY,revenue,2076298962.0,2076298962.0,0.0,True,
+a_fy_vs_cost_items_annual,2021,FY,revenue,3745370304.0,3745370304.0,0.0,True,
+a_fy_vs_cost_items_annual,2022,FY,revenue,8582005230.0,8582005230.0,0.0,True,
+a_fy_vs_cost_items_annual,2016,FY,total_production_cost,808783518.0,808783518.0,0.0,True,
+a_fy_vs_cost_items_annual,2017,FY,total_production_cost,1051411120.0,1051411120.0,0.0,True,
+a_fy_vs_cost_items_annual,2018,FY,total_production_cost,1282018113.0,1282018113.0,0.0,True,
+a_fy_vs_cost_items_annual,2019,FY,total_production_cost,1338366221.0,1338366221.0,0.0,True,
+a_fy_vs_cost_items_annual,2020,FY,total_production_cost,1539198570.0,1539198570.0,0.0,True,
+a_fy_vs_cost_items_annual,2021,FY,total_production_cost,2754383784.0,2754383784.0,0.0,True,
+a_fy_vs_cost_items_annual,2022,FY,total_production_cost,6097149264.0,6097149264.0,0.0,True,
+b_derived_vs_reported_last_3_months,2016,Q2,cost_of_sales,216223109.0,216223109.0,0.0,True,report: Data/FinancialStatements/2016/Cimsa_2016_06.pdf
+b_derived_vs_reported_last_3_months,2016,Q3,cost_of_sales,184645432.0,184645432.0,0.0,True,report: Data/FinancialStatements/2016/Cimsa_2016_09.pdf
+b_derived_vs_reported_last_3_months,2017,Q2,cost_of_sales,288109790.0,288109790.0,0.0,True,report: Data/FinancialStatements/2017/Cimsa_2017_06.pdf
+b_derived_vs_reported_last_3_months,2017,Q3,cost_of_sales,299325477.0,299325477.0,0.0,True,report: Data/FinancialStatements/2017/Cimsa_2017_09.pdf
+b_derived_vs_reported_last_3_months,2018,Q2,cost_of_sales,353930329.0,353930329.0,0.0,True,report: Data/FinancialStatements/2018/Cimsa_2018_06.pdf
+b_derived_vs_reported_last_3_months,2018,Q3,cost_of_sales,332315663.0,332315663.0,0.0,True,report: Data/FinancialStatements/2018/Cimsa_2018_09.pdf
+b_derived_vs_reported_last_3_months,2019,Q2,cost_of_sales,393356270.0,393356270.0,0.0,True,report: Data/FinancialStatements/2019/Cimsa_2019_06.pdf
+b_derived_vs_reported_last_3_months,2019,Q3,cost_of_sales,389263389.0,389263389.0,0.0,True,report: Data/FinancialStatements/2019/Cimsa_2019_09.pdf
+b_derived_vs_reported_last_3_months,2020,Q2,cost_of_sales,450702491.0,450702491.0,0.0,True,report: Data/FinancialStatements/2020/Cimsa_2020_06.pdf
+b_derived_vs_reported_last_3_months,2020,Q3,cost_of_sales,494360810.0,494360810.0,0.0,True,report: Data/FinancialStatements/2020/Cimsa_2020_09.pdf
+b_derived_vs_reported_last_3_months,2021,Q2,cost_of_sales,764227921.0,764227921.0,0.0,True,report: Data/FinancialStatements/2021/Cimsa_2021_06.pdf
+b_derived_vs_reported_last_3_months,2021,Q3,cost_of_sales,718845435.0,718845435.0,0.0,True,report: Data/FinancialStatements/2021/Cimsa_2021_09.pdf
+b_derived_vs_reported_last_3_months,2022,Q2,cost_of_sales,1733422809.0,1733422809.0,0.0,True,report: Data/FinancialStatements/2022/Cimsa_2022_06.pdf
+b_derived_vs_reported_last_3_months,2022,Q3,cost_of_sales,1988194808.0,1988194808.0,0.0,True,report: Data/FinancialStatements/2022/Cimsa_2022_09.pdf
+b_derived_vs_reported_last_3_months,2023,Q2,cost_of_sales,2231562000.0,2231562000.0,0.0,True,report: Data/FinancialStatements/2023/Cimsa_2023_06.pdf
+b_derived_vs_reported_last_3_months,2023,Q3,cost_of_sales,2739648000.0,2739647000.0,1000.0,True,report: Data/FinancialStatements/2023/Cimsa_2023_09.pdf
+b_derived_vs_reported_last_3_months,2016,Q2,depreciation,14610475.0,14610475.0,0.0,True,report: Data/FinancialStatements/2016/Cimsa_2016_06.pdf
+b_derived_vs_reported_last_3_months,2016,Q3,depreciation,15274614.0,15274614.0,0.0,True,report: Data/FinancialStatements/2016/Cimsa_2016_09.pdf
+b_derived_vs_reported_last_3_months,2017,Q2,depreciation,17863088.0,17863088.0,0.0,True,report: Data/FinancialStatements/2017/Cimsa_2017_06.pdf
+b_derived_vs_reported_last_3_months,2017,Q3,depreciation,19326391.0,19326391.0,0.0,True,report: Data/FinancialStatements/2017/Cimsa_2017_09.pdf
+b_derived_vs_reported_last_3_months,2018,Q2,depreciation,24281290.0,24281290.0,0.0,True,report: Data/FinancialStatements/2018/Cimsa_2018_06.pdf
+b_derived_vs_reported_last_3_months,2018,Q3,depreciation,29397373.0,29397373.0,0.0,True,report: Data/FinancialStatements/2018/Cimsa_2018_09.pdf
+b_derived_vs_reported_last_3_months,2019,Q2,depreciation,39040400.0,39097188.0,-56788.0,False,"report: Data/FinancialStatements/2019/Cimsa_2019_06.pdf; difference: the report's last-3-months column may be wrong, or the prior quarter's value may have been reclassified in this report (see check d)"
+b_derived_vs_reported_last_3_months,2019,Q3,depreciation,36368317.0,36311529.0,56788.0,False,"report: Data/FinancialStatements/2019/Cimsa_2019_09.pdf; difference: the report's last-3-months column may be wrong, or the prior quarter's value may have been reclassified in this report (see check d)"
+b_derived_vs_reported_last_3_months,2020,Q2,depreciation,37659407.0,37659407.0,0.0,True,report: Data/FinancialStatements/2020/Cimsa_2020_06.pdf
+b_derived_vs_reported_last_3_months,2020,Q3,depreciation,34830516.0,34830517.0,-1.0,True,report: Data/FinancialStatements/2020/Cimsa_2020_09.pdf
+b_derived_vs_reported_last_3_months,2021,Q2,depreciation,27696315.0,27696315.0,0.0,True,report: Data/FinancialStatements/2021/Cimsa_2021_06.pdf
+b_derived_vs_reported_last_3_months,2021,Q3,depreciation,28628218.0,28628218.0,0.0,True,report: Data/FinancialStatements/2021/Cimsa_2021_09.pdf
+b_derived_vs_reported_last_3_months,2022,Q2,depreciation,27900570.0,27900570.0,0.0,True,report: Data/FinancialStatements/2022/Cimsa_2022_06.pdf
+b_derived_vs_reported_last_3_months,2022,Q3,depreciation,41042273.0,41042273.0,0.0,True,report: Data/FinancialStatements/2022/Cimsa_2022_09.pdf
+b_derived_vs_reported_last_3_months,2023,Q2,depreciation,33257000.0,33257000.0,0.0,True,report: Data/FinancialStatements/2023/Cimsa_2023_06.pdf
+b_derived_vs_reported_last_3_months,2023,Q3,depreciation,34404000.0,34404000.0,0.0,True,report: Data/FinancialStatements/2023/Cimsa_2023_09.pdf
+b_derived_vs_reported_last_3_months,2016,Q2,direct_labor,25783967.0,14993721.0,10790246.0,False,"report: Data/FinancialStatements/2016/Cimsa_2016_06.pdf; difference: the report's last-3-months column may be wrong, or the prior quarter's value may have been reclassified in this report (see check d)"
+b_derived_vs_reported_last_3_months,2016,Q3,direct_labor,13792653.0,13792653.0,0.0,True,report: Data/FinancialStatements/2016/Cimsa_2016_09.pdf
+b_derived_vs_reported_last_3_months,2017,Q2,direct_labor,3204202.0,3204201.0,1.0,True,report: Data/FinancialStatements/2017/Cimsa_2017_06.pdf
+b_derived_vs_reported_last_3_months,2017,Q3,direct_labor,35131212.0,19093543.0,16037669.0,False,"report: Data/FinancialStatements/2017/Cimsa_2017_09.pdf; difference: the report's last-3-months column may be wrong, or the prior quarter's value may have been reclassified in this report (see check d)"
+b_derived_vs_reported_last_3_months,2018,Q2,direct_labor,20473749.0,20473749.0,0.0,True,report: Data/FinancialStatements/2018/Cimsa_2018_06.pdf
+b_derived_vs_reported_last_3_months,2018,Q3,direct_labor,51633278.0,51633278.0,0.0,True,report: Data/FinancialStatements/2018/Cimsa_2018_09.pdf
+b_derived_vs_reported_last_3_months,2019,Q2,direct_labor,22308800.0,70272593.0,-47963793.0,False,"report: Data/FinancialStatements/2019/Cimsa_2019_06.pdf; difference: the report's last-3-months column may be wrong, or the prior quarter's value may have been reclassified in this report (see check d)"
+b_derived_vs_reported_last_3_months,2019,Q3,direct_labor,20486859.0,20543646.0,-56787.0,False,"report: Data/FinancialStatements/2019/Cimsa_2019_09.pdf; difference: the report's last-3-months column may be wrong, or the prior quarter's value may have been reclassified in this report (see check d)"
+b_derived_vs_reported_last_3_months,2020,Q2,direct_labor,24776659.0,24776659.0,0.0,True,report: Data/FinancialStatements/2020/Cimsa_2020_06.pdf
+b_derived_vs_reported_last_3_months,2020,Q3,direct_labor,34867121.0,27867121.0,7000000.0,False,"report: Data/FinancialStatements/2020/Cimsa_2020_09.pdf; difference: the report's last-3-months column may be wrong, or the prior quarter's value may have been reclassified in this report (see check d)"
+b_derived_vs_reported_last_3_months,2021,Q2,direct_labor,30515604.0,30515605.0,-1.0,True,report: Data/FinancialStatements/2021/Cimsa_2021_06.pdf
+b_derived_vs_reported_last_3_months,2021,Q3,direct_labor,27636572.0,27636572.0,0.0,True,report: Data/FinancialStatements/2021/Cimsa_2021_09.pdf
+b_derived_vs_reported_last_3_months,2022,Q2,direct_labor,43247450.0,43247450.0,0.0,True,report: Data/FinancialStatements/2022/Cimsa_2022_06.pdf
+b_derived_vs_reported_last_3_months,2022,Q3,direct_labor,55056092.0,55056093.0,-1.0,True,report: Data/FinancialStatements/2022/Cimsa_2022_09.pdf
+b_derived_vs_reported_last_3_months,2023,Q2,direct_labor,78318000.0,78319000.0,-1000.0,True,report: Data/FinancialStatements/2023/Cimsa_2023_06.pdf
+b_derived_vs_reported_last_3_months,2023,Q3,direct_labor,104890000.0,104890000.0,0.0,True,report: Data/FinancialStatements/2023/Cimsa_2023_09.pdf
+b_derived_vs_reported_last_3_months,2016,Q2,energy_cost,59789449.0,59789449.0,0.0,True,report: Data/FinancialStatements/2016/Cimsa_2016_06.pdf
+b_derived_vs_reported_last_3_months,2016,Q3,energy_cost,62382828.0,62382828.0,0.0,True,report: Data/FinancialStatements/2016/Cimsa_2016_09.pdf
+b_derived_vs_reported_last_3_months,2017,Q2,energy_cost,87599396.0,87599396.0,0.0,True,report: Data/FinancialStatements/2017/Cimsa_2017_06.pdf
+b_derived_vs_reported_last_3_months,2017,Q3,energy_cost,88386594.0,88386593.0,1.0,True,report: Data/FinancialStatements/2017/Cimsa_2017_09.pdf
+b_derived_vs_reported_last_3_months,2018,Q2,energy_cost,116479399.0,116479399.0,0.0,True,report: Data/FinancialStatements/2018/Cimsa_2018_06.pdf
+b_derived_vs_reported_last_3_months,2018,Q3,energy_cost,133471331.0,133471331.0,0.0,True,report: Data/FinancialStatements/2018/Cimsa_2018_09.pdf
+b_derived_vs_reported_last_3_months,2019,Q2,energy_cost,135820152.0,241193398.0,-105373246.0,False,"report: Data/FinancialStatements/2019/Cimsa_2019_06.pdf; difference: the report's last-3-months column may be wrong, or the prior quarter's value may have been reclassified in this report (see check d)"
+b_derived_vs_reported_last_3_months,2019,Q3,energy_cost,125662060.0,125662060.0,0.0,True,report: Data/FinancialStatements/2019/Cimsa_2019_09.pdf
+b_derived_vs_reported_last_3_months,2020,Q2,energy_cost,115553194.0,115553194.0,0.0,True,report: Data/FinancialStatements/2020/Cimsa_2020_06.pdf
+b_derived_vs_reported_last_3_months,2020,Q3,energy_cost,296303007.0,213647481.0,82655526.0,False,"report: Data/FinancialStatements/2020/Cimsa_2020_09.pdf; difference: the report's last-3-months column may be wrong, or the prior quarter's value may have been reclassified in this report (see check d)"
+b_derived_vs_reported_last_3_months,2021,Q2,energy_cost,309619906.0,309619905.0,1.0,True,report: Data/FinancialStatements/2021/Cimsa_2021_06.pdf
+b_derived_vs_reported_last_3_months,2021,Q3,energy_cost,344738674.0,344738674.0,0.0,True,report: Data/FinancialStatements/2021/Cimsa_2021_09.pdf
+b_derived_vs_reported_last_3_months,2022,Q2,energy_cost,809489843.0,809489843.0,0.0,True,report: Data/FinancialStatements/2022/Cimsa_2022_06.pdf
+b_derived_vs_reported_last_3_months,2022,Q3,energy_cost,1126257546.0,1126257546.0,0.0,True,report: Data/FinancialStatements/2022/Cimsa_2022_09.pdf
+b_derived_vs_reported_last_3_months,2023,Q2,energy_cost,868798000.0,868798000.0,0.0,True,report: Data/FinancialStatements/2023/Cimsa_2023_06.pdf
+b_derived_vs_reported_last_3_months,2023,Q3,energy_cost,1024368000.0,1024368000.0,0.0,True,report: Data/FinancialStatements/2023/Cimsa_2023_09.pdf
+b_derived_vs_reported_last_3_months,2016,Q2,other_production,41523948.0,52314194.0,-10790246.0,False,"report: Data/FinancialStatements/2016/Cimsa_2016_06.pdf; difference: the report's last-3-months column may be wrong, or the prior quarter's value may have been reclassified in this report (see check d)"
+b_derived_vs_reported_last_3_months,2016,Q3,other_production,29910321.0,29910321.0,0.0,True,report: Data/FinancialStatements/2016/Cimsa_2016_09.pdf
+b_derived_vs_reported_last_3_months,2017,Q2,other_production,92814899.0,92814900.0,-1.0,True,report: Data/FinancialStatements/2017/Cimsa_2017_06.pdf
+b_derived_vs_reported_last_3_months,2017,Q3,other_production,-8909907.0,53313185.0,-62223092.0,False,"report: Data/FinancialStatements/2017/Cimsa_2017_09.pdf; difference: the report's last-3-months column may be wrong, or the prior quarter's value may have been reclassified in this report (see check d)"
+b_derived_vs_reported_last_3_months,2018,Q2,other_production,25954157.0,25954157.0,0.0,True,report: Data/FinancialStatements/2018/Cimsa_2018_06.pdf
+b_derived_vs_reported_last_3_months,2018,Q3,other_production,31322072.0,31322072.0,0.0,True,report: Data/FinancialStatements/2018/Cimsa_2018_09.pdf
+b_derived_vs_reported_last_3_months,2019,Q2,other_production,19589466.0,6740825.0,12848641.0,False,"report: Data/FinancialStatements/2019/Cimsa_2019_06.pdf; difference: the report's last-3-months column may be wrong, or the prior quarter's value may have been reclassified in this report (see check d)"
+b_derived_vs_reported_last_3_months,2019,Q3,other_production,49147532.0,49147533.0,-1.0,True,report: Data/FinancialStatements/2019/Cimsa_2019_09.pdf
+b_derived_vs_reported_last_3_months,2020,Q2,other_production,18869782.0,18869782.0,0.0,True,report: Data/FinancialStatements/2020/Cimsa_2020_06.pdf
+b_derived_vs_reported_last_3_months,2020,Q3,other_production,166401162.0,90401161.0,76000001.0,False,"report: Data/FinancialStatements/2020/Cimsa_2020_09.pdf; difference: the report's last-3-months column may be wrong, or the prior quarter's value may have been reclassified in this report (see check d)"
+b_derived_vs_reported_last_3_months,2021,Q2,other_production,35262907.0,35262906.0,1.0,True,report: Data/FinancialStatements/2021/Cimsa_2021_06.pdf
+b_derived_vs_reported_last_3_months,2021,Q3,other_production,203821388.0,203821389.0,-1.0,True,report: Data/FinancialStatements/2021/Cimsa_2021_09.pdf
+b_derived_vs_reported_last_3_months,2022,Q2,other_production,337274362.0,337274361.0,1.0,True,report: Data/FinancialStatements/2022/Cimsa_2022_06.pdf
+b_derived_vs_reported_last_3_months,2022,Q3,other_production,152581903.0,152581904.0,-1.0,True,report: Data/FinancialStatements/2022/Cimsa_2022_09.pdf
+b_derived_vs_reported_last_3_months,2023,Q2,other_production,473009000.0,473008000.0,1000.0,True,report: Data/FinancialStatements/2023/Cimsa_2023_06.pdf
+b_derived_vs_reported_last_3_months,2023,Q3,other_production,332646000.0,332646000.0,0.0,True,report: Data/FinancialStatements/2023/Cimsa_2023_09.pdf
+b_derived_vs_reported_last_3_months,2016,Q2,raw_material,63205930.0,63205930.0,0.0,True,report: Data/FinancialStatements/2016/Cimsa_2016_06.pdf
+b_derived_vs_reported_last_3_months,2016,Q3,raw_material,66560304.0,66560304.0,0.0,True,report: Data/FinancialStatements/2016/Cimsa_2016_09.pdf
+b_derived_vs_reported_last_3_months,2017,Q2,raw_material,84151116.0,84151116.0,0.0,True,report: Data/FinancialStatements/2017/Cimsa_2017_06.pdf
+b_derived_vs_reported_last_3_months,2017,Q3,raw_material,153690549.0,107505128.0,46185421.0,False,"report: Data/FinancialStatements/2017/Cimsa_2017_09.pdf; difference: the report's last-3-months column may be wrong, or the prior quarter's value may have been reclassified in this report (see check d)"
+b_derived_vs_reported_last_3_months,2018,Q2,raw_material,152659362.0,152659362.0,0.0,True,report: Data/FinancialStatements/2018/Cimsa_2018_06.pdf
+b_derived_vs_reported_last_3_months,2018,Q3,raw_material,94457152.0,94457116.0,36.0,False,"report: Data/FinancialStatements/2018/Cimsa_2018_09.pdf; difference: the report's last-3-months column may be wrong, or the prior quarter's value may have been reclassified in this report (see check d)"
+b_derived_vs_reported_last_3_months,2019,Q2,raw_material,135794097.0,135794097.0,0.0,True,report: Data/FinancialStatements/2019/Cimsa_2019_06.pdf
+b_derived_vs_reported_last_3_months,2019,Q3,raw_material,128258790.0,128258790.0,0.0,True,report: Data/FinancialStatements/2019/Cimsa_2019_09.pdf
+b_derived_vs_reported_last_3_months,2020,Q2,raw_material,168117307.0,168117307.0,0.0,True,report: Data/FinancialStatements/2020/Cimsa_2020_06.pdf
+b_derived_vs_reported_last_3_months,2020,Q3,raw_material,-39435918.0,106219608.0,-145655526.0,False,"report: Data/FinancialStatements/2020/Cimsa_2020_09.pdf; difference: the report's last-3-months column may be wrong, or the prior quarter's value may have been reclassified in this report (see check d)"
+b_derived_vs_reported_last_3_months,2021,Q2,raw_material,109449262.0,109449262.0,0.0,True,report: Data/FinancialStatements/2021/Cimsa_2021_06.pdf
+b_derived_vs_reported_last_3_months,2021,Q3,raw_material,94977795.0,94977795.0,0.0,True,report: Data/FinancialStatements/2021/Cimsa_2021_09.pdf
+b_derived_vs_reported_last_3_months,2022,Q2,raw_material,278748715.0,278748716.0,-1.0,True,report: Data/FinancialStatements/2022/Cimsa_2022_06.pdf
+b_derived_vs_reported_last_3_months,2022,Q3,raw_material,206834607.0,206834606.0,1.0,True,report: Data/FinancialStatements/2022/Cimsa_2022_09.pdf
+b_derived_vs_reported_last_3_months,2023,Q2,raw_material,213270000.0,213270000.0,0.0,True,report: Data/FinancialStatements/2023/Cimsa_2023_06.pdf
+b_derived_vs_reported_last_3_months,2023,Q3,raw_material,709603000.0,709603000.0,0.0,True,report: Data/FinancialStatements/2023/Cimsa_2023_09.pdf
+b_derived_vs_reported_last_3_months,2016,Q2,revenue,332471606.0,332471606.0,0.0,True,report: Data/FinancialStatements/2016/Cimsa_2016_06.pdf
+b_derived_vs_reported_last_3_months,2016,Q3,revenue,294742181.0,294742181.0,0.0,True,report: Data/FinancialStatements/2016/Cimsa_2016_09.pdf
+b_derived_vs_reported_last_3_months,2017,Q2,revenue,381696530.0,381696530.0,0.0,True,report: Data/FinancialStatements/2017/Cimsa_2017_06.pdf
+b_derived_vs_reported_last_3_months,2017,Q3,revenue,424268481.0,424268481.0,0.0,True,report: Data/FinancialStatements/2017/Cimsa_2017_09.pdf
+b_derived_vs_reported_last_3_months,2018,Q2,revenue,492608496.0,492608496.0,0.0,True,report: Data/FinancialStatements/2018/Cimsa_2018_06.pdf
+b_derived_vs_reported_last_3_months,2018,Q3,revenue,451850209.0,451850209.0,0.0,True,report: Data/FinancialStatements/2018/Cimsa_2018_09.pdf
+b_derived_vs_reported_last_3_months,2019,Q2,revenue,475874173.0,475874173.0,0.0,True,report: Data/FinancialStatements/2019/Cimsa_2019_06.pdf
+b_derived_vs_reported_last_3_months,2019,Q3,revenue,472648518.0,472648518.0,0.0,True,report: Data/FinancialStatements/2019/Cimsa_2019_09.pdf
+b_derived_vs_reported_last_3_months,2020,Q2,revenue,560114972.0,560114972.0,0.0,True,report: Data/FinancialStatements/2020/Cimsa_2020_06.pdf
+b_derived_vs_reported_last_3_months,2020,Q3,revenue,660135012.0,660135012.0,0.0,True,report: Data/FinancialStatements/2020/Cimsa_2020_09.pdf
+b_derived_vs_reported_last_3_months,2021,Q2,revenue,1002439671.0,1002439671.0,0.0,True,report: Data/FinancialStatements/2021/Cimsa_2021_06.pdf
+b_derived_vs_reported_last_3_months,2021,Q3,revenue,891064653.0,891064653.0,0.0,True,report: Data/FinancialStatements/2021/Cimsa_2021_09.pdf
+b_derived_vs_reported_last_3_months,2022,Q2,revenue,2240334685.0,2240334685.0,0.0,True,report: Data/FinancialStatements/2022/Cimsa_2022_06.pdf
+b_derived_vs_reported_last_3_months,2022,Q3,revenue,2431219417.0,2431219417.0,0.0,True,report: Data/FinancialStatements/2022/Cimsa_2022_09.pdf
+b_derived_vs_reported_last_3_months,2023,Q2,revenue,3049182000.0,3049182000.0,0.0,True,report: Data/FinancialStatements/2023/Cimsa_2023_06.pdf
+b_derived_vs_reported_last_3_months,2023,Q3,revenue,3808105000.0,3808104000.0,1000.0,True,report: Data/FinancialStatements/2023/Cimsa_2023_09.pdf
+b_derived_vs_reported_last_3_months,2016,Q2,total_production_cost,204913769.0,204913769.0,0.0,True,report: Data/FinancialStatements/2016/Cimsa_2016_06.pdf
+b_derived_vs_reported_last_3_months,2016,Q3,total_production_cost,187920720.0,187920720.0,0.0,True,report: Data/FinancialStatements/2016/Cimsa_2016_09.pdf
+b_derived_vs_reported_last_3_months,2017,Q2,total_production_cost,285632701.0,285632701.0,0.0,True,report: Data/FinancialStatements/2017/Cimsa_2017_06.pdf
+b_derived_vs_reported_last_3_months,2017,Q3,total_production_cost,287624839.0,287624840.0,-1.0,True,report: Data/FinancialStatements/2017/Cimsa_2017_09.pdf
+b_derived_vs_reported_last_3_months,2018,Q2,total_production_cost,339847957.0,339847957.0,0.0,True,report: Data/FinancialStatements/2018/Cimsa_2018_06.pdf
+b_derived_vs_reported_last_3_months,2018,Q3,total_production_cost,340281170.0,340281170.0,0.0,True,report: Data/FinancialStatements/2018/Cimsa_2018_09.pdf
+b_derived_vs_reported_last_3_months,2019,Q2,total_production_cost,352552915.0,352552915.0,0.0,True,report: Data/FinancialStatements/2019/Cimsa_2019_06.pdf
+b_derived_vs_reported_last_3_months,2019,Q3,total_production_cost,359923558.0,359923558.0,0.0,True,report: Data/FinancialStatements/2019/Cimsa_2019_09.pdf
+b_derived_vs_reported_last_3_months,2020,Q2,total_production_cost,364976349.0,364976349.0,0.0,True,report: Data/FinancialStatements/2020/Cimsa_2020_06.pdf
+b_derived_vs_reported_last_3_months,2020,Q3,total_production_cost,492965888.0,472965888.0,20000000.0,False,"report: Data/FinancialStatements/2020/Cimsa_2020_09.pdf; difference: the report's last-3-months column may be wrong, or the prior quarter's value may have been reclassified in this report (see check d)"
+b_derived_vs_reported_last_3_months,2021,Q2,total_production_cost,512543994.0,512543993.0,1.0,True,report: Data/FinancialStatements/2021/Cimsa_2021_06.pdf
+b_derived_vs_reported_last_3_months,2021,Q3,total_production_cost,699802647.0,699802648.0,-1.0,True,report: Data/FinancialStatements/2021/Cimsa_2021_09.pdf
+b_derived_vs_reported_last_3_months,2022,Q2,total_production_cost,1496660940.0,1496660940.0,0.0,True,report: Data/FinancialStatements/2022/Cimsa_2022_06.pdf
+b_derived_vs_reported_last_3_months,2022,Q3,total_production_cost,1581772421.0,1581772422.0,-1.0,True,report: Data/FinancialStatements/2022/Cimsa_2022_09.pdf
+b_derived_vs_reported_last_3_months,2023,Q2,total_production_cost,1666652000.0,1666652000.0,0.0,True,report: Data/FinancialStatements/2023/Cimsa_2023_06.pdf
+b_derived_vs_reported_last_3_months,2023,Q3,total_production_cost,2205911000.0,2205911000.0,0.0,True,report: Data/FinancialStatements/2023/Cimsa_2023_09.pdf
+c_negative_quarter,2018,Q4,direct_labor,-17621906.0,,,False,Q4 = FY − 9M; source: Data/FinancialStatements/2018/Cimsa_2018_12.pdf − Data/FinancialStatements/2018/Cimsa_2018_09.pdf
+c_negative_quarter,2017,Q3,other_production,-8909907.0,,,False,Q3 = 9M − H1; source: Data/FinancialStatements/2017/Cimsa_2017_09.pdf − Data/FinancialStatements/2017/Cimsa_2017_06.pdf
+c_negative_quarter,2022,Q4,other_production,-195364904.0,,,False,Q4 = FY − 9M; source: Data/FinancialStatements/2022/Cimsa_2022_12.pdf − Data/FinancialStatements/2022/Cimsa_2022_09.pdf
+c_negative_quarter,2020,Q3,raw_material,-39435918.0,,,False,Q3 = 9M − H1; source: Data/FinancialStatements/2020/Cimsa_2020_09.pdf − Data/FinancialStatements/2020/Cimsa_2020_06.pdf
+d_five_items_vs_total_production_cost,2016,9M,five_items (cumulative),577055640.0,577055640.0,0.0,True,Data/FinancialStatements/2016/Cimsa_2016_09.pdf
+d_five_items_vs_total_production_cost,2016,FY,five_items (cumulative),801532732.0,808783518.0,-7250786.0,False,Data/FinancialStatements/2016/Cimsa_2016_12.pdf
+d_five_items_vs_total_production_cost,2016,H1,five_items (cumulative),389134920.0,389134920.0,0.0,True,Data/FinancialStatements/2016/Cimsa_2016_06.pdf
+d_five_items_vs_total_production_cost,2016,Q1,five_items (cumulative),184221151.0,184221151.0,0.0,True,Data/FinancialStatements/2016/Cimsa_2016_03.pdf
+d_five_items_vs_total_production_cost,2016,Q2,five_items (last_3_months),204913769.0,204913769.0,0.0,True,Data/FinancialStatements/2016/Cimsa_2016_06.pdf
+d_five_items_vs_total_production_cost,2016,Q3,five_items (last_3_months),187920720.0,187920720.0,0.0,True,Data/FinancialStatements/2016/Cimsa_2016_09.pdf
+d_five_items_vs_total_production_cost,2017,9M,five_items (cumulative),791191539.0,791191539.0,0.0,True,Data/FinancialStatements/2017/Cimsa_2017_09.pdf
+d_five_items_vs_total_production_cost,2017,FY,five_items (cumulative),1051411120.0,1051411120.0,0.0,True,Data/FinancialStatements/2017/Cimsa_2017_12.pdf
+d_five_items_vs_total_production_cost,2017,H1,five_items (cumulative),503566700.0,503566700.0,0.0,True,Data/FinancialStatements/2017/Cimsa_2017_06.pdf
+d_five_items_vs_total_production_cost,2017,Q1,five_items (cumulative),217933999.0,217933999.0,0.0,True,Data/FinancialStatements/2017/Cimsa_2017_03.pdf
+d_five_items_vs_total_production_cost,2017,Q2,five_items (last_3_months),285632701.0,285632701.0,0.0,True,Data/FinancialStatements/2017/Cimsa_2017_06.pdf
+d_five_items_vs_total_production_cost,2017,Q3,five_items (last_3_months),287624840.0,287624840.0,0.0,True,Data/FinancialStatements/2017/Cimsa_2017_09.pdf
+d_five_items_vs_total_production_cost,2018,9M,five_items (cumulative),969761017.0,969760981.0,36.0,False,Data/FinancialStatements/2018/Cimsa_2018_09.pdf
+d_five_items_vs_total_production_cost,2018,FY,five_items (cumulative),1282018113.0,1282018113.0,0.0,True,Data/FinancialStatements/2018/Cimsa_2018_12.pdf
+d_five_items_vs_total_production_cost,2018,H1,five_items (cumulative),629479811.0,629479811.0,0.0,True,Data/FinancialStatements/2018/Cimsa_2018_06.pdf
+d_five_items_vs_total_production_cost,2018,Q1,five_items (cumulative),289631854.0,289631854.0,0.0,True,Data/FinancialStatements/2018/Cimsa_2018_03.pdf
+d_five_items_vs_total_production_cost,2018,Q2,five_items (last_3_months),339847957.0,339847957.0,0.0,True,Data/FinancialStatements/2018/Cimsa_2018_06.pdf
+d_five_items_vs_total_production_cost,2018,Q3,five_items (last_3_months),340281170.0,340281170.0,0.0,True,Data/FinancialStatements/2018/Cimsa_2018_09.pdf
+d_five_items_vs_total_production_cost,2019,9M,five_items (cumulative),981480208.0,981480208.0,0.0,True,Data/FinancialStatements/2019/Cimsa_2019_09.pdf
+d_five_items_vs_total_production_cost,2019,FY,five_items (cumulative),1338366221.0,1338366221.0,0.0,True,Data/FinancialStatements/2019/Cimsa_2019_12.pdf
+d_five_items_vs_total_production_cost,2019,H1,five_items (cumulative),621556650.0,621556650.0,0.0,True,Data/FinancialStatements/2019/Cimsa_2019_06.pdf
+d_five_items_vs_total_production_cost,2019,Q1,five_items (cumulative),269003735.0,269003735.0,0.0,True,Data/FinancialStatements/2019/Cimsa_2019_03.pdf
+d_five_items_vs_total_production_cost,2019,Q2,five_items (last_3_months),493098101.0,352552915.0,140545186.0,False,Data/FinancialStatements/2019/Cimsa_2019_06.pdf
+d_five_items_vs_total_production_cost,2019,Q3,five_items (last_3_months),359923558.0,359923558.0,0.0,True,Data/FinancialStatements/2019/Cimsa_2019_09.pdf
+d_five_items_vs_total_production_cost,2020,9M,five_items (cumulative),1194542846.0,1194542846.0,0.0,True,Data/FinancialStatements/2020/Cimsa_2020_09.pdf
+d_five_items_vs_total_production_cost,2020,FY,five_items (cumulative),1539198570.0,1539198570.0,0.0,True,Data/FinancialStatements/2020/Cimsa_2020_12.pdf
+d_five_items_vs_total_production_cost,2020,H1,five_items (cumulative),701576958.0,701576958.0,0.0,True,Data/FinancialStatements/2020/Cimsa_2020_06.pdf
+d_five_items_vs_total_production_cost,2020,Q1,five_items (cumulative),336600609.0,336600609.0,0.0,True,Data/FinancialStatements/2020/Cimsa_2020_03.pdf
+d_five_items_vs_total_production_cost,2020,Q2,five_items (last_3_months),364976349.0,364976349.0,0.0,True,Data/FinancialStatements/2020/Cimsa_2020_06.pdf
+d_five_items_vs_total_production_cost,2020,Q3,five_items (last_3_months),472965888.0,472965888.0,0.0,True,Data/FinancialStatements/2020/Cimsa_2020_09.pdf
+d_five_items_vs_total_production_cost,2021,9M,five_items (cumulative),1735976772.0,1735976772.0,0.0,True,Data/FinancialStatements/2021/Cimsa_2021_09.pdf
+d_five_items_vs_total_production_cost,2021,FY,five_items (cumulative),2754383784.0,2754383784.0,0.0,True,Data/FinancialStatements/2021/Cimsa_2021_12.pdf
+d_five_items_vs_total_production_cost,2021,H1,five_items (cumulative),1036174125.0,1036174125.0,0.0,True,Data/FinancialStatements/2021/Cimsa_2021_06.pdf
+d_five_items_vs_total_production_cost,2021,Q1,five_items (cumulative),523630131.0,523630131.0,0.0,True,Data/FinancialStatements/2021/Cimsa_2021_03.pdf
+d_five_items_vs_total_production_cost,2021,Q2,five_items (last_3_months),512543993.0,512543993.0,0.0,True,Data/FinancialStatements/2021/Cimsa_2021_06.pdf
+d_five_items_vs_total_production_cost,2021,Q3,five_items (last_3_months),699802648.0,699802648.0,0.0,True,Data/FinancialStatements/2021/Cimsa_2021_09.pdf
+d_five_items_vs_total_production_cost,2022,9M,five_items (cumulative),4213487387.0,4213487387.0,0.0,True,Data/FinancialStatements/2022/Cimsa_2022_09.pdf
+d_five_items_vs_total_production_cost,2022,FY,five_items (cumulative),6097149264.0,6097149264.0,0.0,True,Data/FinancialStatements/2022/Cimsa_2022_12.pdf
+d_five_items_vs_total_production_cost,2022,H1,five_items (cumulative),2631714966.0,2631714966.0,0.0,True,Data/FinancialStatements/2022/Cimsa_2022_06.pdf
+d_five_items_vs_total_production_cost,2022,Q1,five_items (cumulative),1135054026.0,1135054026.0,0.0,True,Data/FinancialStatements/2022/Cimsa_2022_03.pdf
+d_five_items_vs_total_production_cost,2022,Q2,five_items (last_3_months),1496660940.0,1496660940.0,0.0,True,Data/FinancialStatements/2022/Cimsa_2022_06.pdf
+d_five_items_vs_total_production_cost,2022,Q3,five_items (last_3_months),1581772422.0,1581772422.0,0.0,True,Data/FinancialStatements/2022/Cimsa_2022_09.pdf
+d_five_items_vs_total_production_cost,2023,9M,five_items (cumulative),5583791000.0,5583791000.0,0.0,True,Data/FinancialStatements/2023/Cimsa_2023_09.pdf
+d_five_items_vs_total_production_cost,2023,H1,five_items (cumulative),3377880000.0,3377880000.0,0.0,True,Data/FinancialStatements/2023/Cimsa_2023_06.pdf
+d_five_items_vs_total_production_cost,2023,Q1,five_items (cumulative),1711228000.0,1711228000.0,0.0,True,Data/FinancialStatements/2023/Cimsa_2023_03.pdf
+d_five_items_vs_total_production_cost,2023,Q2,five_items (last_3_months),1666652000.0,1666652000.0,0.0,True,Data/FinancialStatements/2023/Cimsa_2023_06.pdf
+d_five_items_vs_total_production_cost,2023,Q3,five_items (last_3_months),2205911000.0,2205911000.0,0.0,True,Data/FinancialStatements/2023/Cimsa_2023_09.pdf
+e_preferred_quarters_sum_vs_annual,2016,FY,cost_of_sales,794861516.0,794861516.0,0.0,True,quarters taken from the last-3-months column: 2
+e_preferred_quarters_sum_vs_annual,2016,FY,depreciation,56975398.0,56975398.0,0.0,True,quarters taken from the last-3-months column: 2
+e_preferred_quarters_sum_vs_annual,2016,FY,direct_labor,45608385.0,56398631.0,-10790246.0,False,quarters taken from the last-3-months column: 2; the difference arises because the quarters come from different reports with different classifications (within-year reclassification)
+e_preferred_quarters_sum_vs_annual,2016,FY,energy_cost,268194690.0,268194690.0,0.0,True,quarters taken from the last-3-months column: 2
+e_preferred_quarters_sum_vs_annual,2016,FY,other_production,193824920.0,183034674.0,10790246.0,False,quarters taken from the last-3-months column: 2; the difference arises because the quarters come from different reports with different classifications (within-year reclassification)
+e_preferred_quarters_sum_vs_annual,2016,FY,raw_material,236929339.0,236929339.0,0.0,True,quarters taken from the last-3-months column: 2
+e_preferred_quarters_sum_vs_annual,2016,FY,revenue,1170309931.0,1170309931.0,0.0,True,quarters taken from the last-3-months column: 2
+e_preferred_quarters_sum_vs_annual,2016,FY,total_production_cost,808783518.0,808783518.0,0.0,True,quarters taken from the last-3-months column: 2
+e_preferred_quarters_sum_vs_annual,2017,FY,cost_of_sales,1095690025.0,1095690025.0,0.0,True,quarters taken from the last-3-months column: 2
+e_preferred_quarters_sum_vs_annual,2017,FY,depreciation,79193926.0,79193926.0,0.0,True,quarters taken from the last-3-months column: 2
+e_preferred_quarters_sum_vs_annual,2017,FY,direct_labor,47286566.0,63324236.0,-16037670.0,False,quarters taken from the last-3-months column: 2; the difference arises because the quarters come from different reports with different classifications (within-year reclassification)
+e_preferred_quarters_sum_vs_annual,2017,FY,energy_cost,347817989.0,347817990.0,-1.0,True,quarters taken from the last-3-months column: 2
+e_preferred_quarters_sum_vs_annual,2017,FY,other_production,221667887.0,159444794.0,62223093.0,False,quarters taken from the last-3-months column: 2; the difference arises because the quarters come from different reports with different classifications (within-year reclassification)
+e_preferred_quarters_sum_vs_annual,2017,FY,raw_material,355444753.0,401630174.0,-46185421.0,False,quarters taken from the last-3-months column: 2; the difference arises because the quarters come from different reports with different classifications (within-year reclassification)
+e_preferred_quarters_sum_vs_annual,2017,FY,revenue,1490579874.0,1490579874.0,0.0,True,quarters taken from the last-3-months column: 2
+e_preferred_quarters_sum_vs_annual,2017,FY,total_production_cost,1051411121.0,1051411120.0,1.0,True,quarters taken from the last-3-months column: 2
+e_preferred_quarters_sum_vs_annual,2018,FY,cost_of_sales,1293977441.0,1293977441.0,0.0,True,quarters taken from the last-3-months column: 2
+e_preferred_quarters_sum_vs_annual,2018,FY,depreciation,106181039.0,106181039.0,0.0,True,quarters taken from the last-3-months column: 2
+e_preferred_quarters_sum_vs_annual,2018,FY,direct_labor,71584320.0,71584320.0,0.0,True,quarters taken from the last-3-months column: 2
+e_preferred_quarters_sum_vs_annual,2018,FY,energy_cost,466365193.0,466365193.0,0.0,True,quarters taken from the last-3-months column: 2
+e_preferred_quarters_sum_vs_annual,2018,FY,other_production,134853580.0,134853580.0,0.0,True,quarters taken from the last-3-months column: 2
+e_preferred_quarters_sum_vs_annual,2018,FY,raw_material,503033945.0,503033981.0,-36.0,True,quarters taken from the last-3-months column: 2
+e_preferred_quarters_sum_vs_annual,2018,FY,revenue,1699958055.0,1699958055.0,0.0,True,quarters taken from the last-3-months column: 2
+e_preferred_quarters_sum_vs_annual,2018,FY,total_production_cost,1282018113.0,1282018113.0,0.0,True,quarters taken from the last-3-months column: 2
+e_preferred_quarters_sum_vs_annual,2019,FY,cost_of_sales,1422037589.0,1422037589.0,0.0,True,quarters taken from the last-3-months column: 1
+e_preferred_quarters_sum_vs_annual,2019,FY,depreciation,132076205.0,132132993.0,-56788.0,False,quarters taken from the last-3-months column: 1; the difference arises because the quarters come from different reports with different classifications (within-year reclassification)
+e_preferred_quarters_sum_vs_annual,2019,FY,direct_labor,82401391.0,82344604.0,56787.0,False,quarters taken from the last-3-months column: 1; the difference arises because the quarters come from different reports with different classifications (within-year reclassification)
+e_preferred_quarters_sum_vs_annual,2019,FY,energy_cost,486993011.0,486993011.0,0.0,True,quarters taken from the last-3-months column: 1
+e_preferred_quarters_sum_vs_annual,2019,FY,other_production,137249509.0,137249508.0,1.0,True,quarters taken from the last-3-months column: 1
+e_preferred_quarters_sum_vs_annual,2019,FY,raw_material,499646105.0,499646105.0,0.0,True,quarters taken from the last-3-months column: 1
+e_preferred_quarters_sum_vs_annual,2019,FY,revenue,1726195637.0,1726195637.0,0.0,True,quarters taken from the last-3-months column: 1
+e_preferred_quarters_sum_vs_annual,2019,FY,total_production_cost,1338366221.0,1338366221.0,0.0,True,quarters taken from the last-3-months column: 1
+e_preferred_quarters_sum_vs_annual,2020,FY,cost_of_sales,1608546273.0,1608546273.0,0.0,True,quarters taken from the last-3-months column: 2
+e_preferred_quarters_sum_vs_annual,2020,FY,depreciation,118828796.0,118828795.0,1.0,True,quarters taken from the last-3-months column: 2
+e_preferred_quarters_sum_vs_annual,2020,FY,direct_labor,95001277.0,102001277.0,-7000000.0,False,quarters taken from the last-3-months column: 2; the difference arises because the quarters come from different reports with different classifications (within-year reclassification)
+e_preferred_quarters_sum_vs_annual,2020,FY,energy_cost,635659494.0,718315020.0,-82655526.0,False,quarters taken from the last-3-months column: 2; the difference arises because the quarters come from different reports with different classifications (within-year reclassification)
+e_preferred_quarters_sum_vs_annual,2020,FY,other_production,182492521.0,258492522.0,-76000001.0,False,quarters taken from the last-3-months column: 2; the difference arises because the quarters come from different reports with different classifications (within-year reclassification)
+e_preferred_quarters_sum_vs_annual,2020,FY,raw_material,487216482.0,341560956.0,145655526.0,False,quarters taken from the last-3-months column: 2; the difference arises because the quarters come from different reports with different classifications (within-year reclassification)
+e_preferred_quarters_sum_vs_annual,2020,FY,revenue,2076298962.0,2076298962.0,0.0,True,quarters taken from the last-3-months column: 2
+e_preferred_quarters_sum_vs_annual,2020,FY,total_production_cost,1519198570.0,1539198570.0,-20000000.0,False,quarters taken from the last-3-months column: 2; the difference arises because the quarters come from different reports with different classifications (within-year reclassification)
+e_preferred_quarters_sum_vs_annual,2021,FY,cost_of_sales,3032410647.0,3032410647.0,0.0,True,quarters taken from the last-3-months column: 2
+e_preferred_quarters_sum_vs_annual,2021,FY,depreciation,114433165.0,114433165.0,0.0,True,quarters taken from the last-3-months column: 2
+e_preferred_quarters_sum_vs_annual,2021,FY,direct_labor,116650116.0,116650115.0,1.0,True,quarters taken from the last-3-months column: 2
+e_preferred_quarters_sum_vs_annual,2021,FY,energy_cost,1395817134.0,1395817135.0,-1.0,True,quarters taken from the last-3-months column: 2
+e_preferred_quarters_sum_vs_annual,2021,FY,other_production,786258403.0,786258403.0,0.0,True,quarters taken from the last-3-months column: 2
+e_preferred_quarters_sum_vs_annual,2021,FY,raw_material,341224966.0,341224966.0,0.0,True,quarters taken from the last-3-months column: 2
+e_preferred_quarters_sum_vs_annual,2021,FY,revenue,3745370304.0,3745370304.0,0.0,True,quarters taken from the last-3-months column: 2
+e_preferred_quarters_sum_vs_annual,2021,FY,total_production_cost,2754383784.0,2754383784.0,0.0,True,quarters taken from the last-3-months column: 2
+e_preferred_quarters_sum_vs_annual,2022,FY,cost_of_sales,7102632857.0,7102632857.0,0.0,True,quarters taken from the last-3-months column: 2
+e_preferred_quarters_sum_vs_annual,2022,FY,depreciation,129404058.0,129404058.0,0.0,True,quarters taken from the last-3-months column: 2
+e_preferred_quarters_sum_vs_annual,2022,FY,direct_labor,193098774.0,193098773.0,1.0,True,quarters taken from the last-3-months column: 2
+e_preferred_quarters_sum_vs_annual,2022,FY,energy_cost,3632105128.0,3632105128.0,0.0,True,quarters taken from the last-3-months column: 2
+e_preferred_quarters_sum_vs_annual,2022,FY,other_production,584286248.0,584286248.0,0.0,True,quarters taken from the last-3-months column: 2
+e_preferred_quarters_sum_vs_annual,2022,FY,raw_material,1558255057.0,1558255057.0,0.0,True,quarters taken from the last-3-months column: 2
+e_preferred_quarters_sum_vs_annual,2022,FY,revenue,8582005230.0,8582005230.0,0.0,True,quarters taken from the last-3-months column: 2
+e_preferred_quarters_sum_vs_annual,2022,FY,total_production_cost,6097149265.0,6097149264.0,1.0,True,quarters taken from the last-3-months column: 2

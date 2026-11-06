@@ -1,0 +1,328 @@
+item,year,year_uncertain,value,unit,report_year,source_file,source_page,scope,raw_text,note
+alt_fuel_rate,2018,True,6.8,%,2018,Data/IntegratedReports/2018.pdf,32,unspecified,"Alternatif yakıt kullanım oranı: %6,8 Gerekli yatırım ihtiyaçlarının tamamlanarak Çimsa",grey/white split not stated in the line; single value; assumed to belong to the report year
+alt_fuel_rate,2018,True,6.8,%,2018,Data/IntegratedReports/2018.pdf,33,unspecified,"Alternatif yakıt kullanım oranı: %6,8 Gerekli yatırım ihtiyaçlarının tamamlanarak Çimsa",grey/white split not stated in the line; single value; assumed to belong to the report year
+alt_fuel_rate,2018,False,6.81,%,2019,Data/IntegratedReports/2019.pdf,108,unspecified,"Alternatif Yakıt Kullanım Oranı (%) 6,81 7,51",grey/white split not stated in the line
+alt_fuel_rate,2018,False,,%,2019,Data/IntegratedReports/2019.pdf,108,unspecified,"Alternatif Yakıt Kullanım Oranı (%) 02 0,72",grey/white split not stated in the line; malformed ('02')
+alt_fuel_rate,2019,False,7.51,%,2019,Data/IntegratedReports/2019.pdf,108,unspecified,"Alternatif Yakıt Kullanım Oranı (%) 6,81 7,51",grey/white split not stated in the line
+alt_fuel_rate,2019,False,0.72,%,2019,Data/IntegratedReports/2019.pdf,108,unspecified,"Alternatif Yakıt Kullanım Oranı (%) 02 0,72",grey/white split not stated in the line
+alt_fuel_rate,2019,False,7.51,%,2020,Data/IntegratedReports/2020.pdf,126,unspecified,"Doğum İzninden Dönem Çalışan Sayısı 2 4 Alternatif Yakıt Kullanım Oranı (%) 7,51 7,821",grey/white split not stated in the line
+alt_fuel_rate,2019,False,0.72,%,2020,Data/IntegratedReports/2020.pdf,126,unspecified,"Doğum İzninden Döndükten Sonra Son 12 Aydır İşten Ayrılmayan Çalışan Sayısı 1 3 Alternatif Yakıt Kullanım Oranı (%) 0,72 6,102",grey/white split not stated in the line
+alt_fuel_rate,2020,False,7.821,%,2020,Data/IntegratedReports/2020.pdf,126,unspecified,"Doğum İzninden Dönem Çalışan Sayısı 2 4 Alternatif Yakıt Kullanım Oranı (%) 7,51 7,821",grey/white split not stated in the line
+alt_fuel_rate,2020,False,6.102,%,2020,Data/IntegratedReports/2020.pdf,126,unspecified,"Doğum İzninden Döndükten Sonra Son 12 Aydır İşten Ayrılmayan Çalışan Sayısı 1 3 Alternatif Yakıt Kullanım Oranı (%) 0,72 6,102",grey/white split not stated in the line
+alt_fuel_rate,2020,False,6.1,%,2021,Data/IntegratedReports/2021.pdf,131,grey+white,"Alternatif Yakıt Kullanım Oranı (Gri+Beyaz Üretim) % 6,10 12,00",
+alt_fuel_rate,2021,True,16.0,%,2021,Data/IntegratedReports/2021.pdf,6,unspecified,"Çimsa’nın %100 kurucu ortağı olduğu Cimsa Americas, yatırım döneminin » 75.000, 50.000 ve 25.000 ton kapasiteli 3 ayrı beyaz » Alternatif yakıt kullanım oranı %16",grey/white split not stated in the line; single value; assumed to belong to the report year
+alt_fuel_rate,2021,False,12.0,%,2021,Data/IntegratedReports/2021.pdf,131,grey+white,"Alternatif Yakıt Kullanım Oranı (Gri+Beyaz Üretim) % 6,10 12,00",
+alt_fuel_rate,2021,False,12.0,%,2022,Data/IntegratedReports/2022.pdf,123,grey+white,"Alternatif Yakıt Kullanım Oranı (Gri+Beyaz Üretim) % 12,0 19,3",
+alt_fuel_rate,2022,False,19.3,%,2022,Data/IntegratedReports/2022.pdf,123,grey+white,"Alternatif Yakıt Kullanım Oranı (Gri+Beyaz Üretim) % 12,0 19,3",
+alt_fuel_rate_grey,2015,False,7.79,%,2016,Data/IntegratedReports/2016.pdf,193,grey,"Gri Çimento Alternatif Yakıt Kullanım Oranı (%) 7,79 8,67",
+alt_fuel_rate_grey,2016,False,8.67,%,2016,Data/IntegratedReports/2016.pdf,193,grey,"Gri Çimento Alternatif Yakıt Kullanım Oranı (%) 7,79 8,67",
+alt_fuel_rate_grey,2017,False,8.7,%,2018,Data/IntegratedReports/2018.pdf,217,grey,"Alternatif Yakıt Kullanım Oranı Miktarı (gri) (%) 8,7 6,8",
+alt_fuel_rate_grey,2018,False,6.8,%,2018,Data/IntegratedReports/2018.pdf,217,grey,"Alternatif Yakıt Kullanım Oranı Miktarı (gri) (%) 8,7 6,8",
+alt_fuel_rate_grey,2020,False,7.82,%,2021,Data/IntegratedReports/2021.pdf,131,grey,"Alternatif Yakıt Kullanım Oranı (Gri Üretim) % 7,82 12,37 Spesifik Uçucu Organik Bileşik (UOB) Emisyonu gr/ton klinker 26,36 13,46",
+alt_fuel_rate_grey,2021,False,12.37,%,2021,Data/IntegratedReports/2021.pdf,131,grey,"Alternatif Yakıt Kullanım Oranı (Gri Üretim) % 7,82 12,37 Spesifik Uçucu Organik Bileşik (UOB) Emisyonu gr/ton klinker 26,36 13,46",
+alt_fuel_rate_grey,2021,False,12.4,%,2022,Data/IntegratedReports/2022.pdf,123,grey,"Hammadde Alternatif Yakıt Kullanım Oranı (Gri Üretim) % 12,4 25,5",
+alt_fuel_rate_grey,2022,False,25.5,%,2022,Data/IntegratedReports/2022.pdf,123,grey,"Hammadde Alternatif Yakıt Kullanım Oranı (Gri Üretim) % 12,4 25,5",
+alt_fuel_rate_grey,2022,False,26.0,%,2023,Data/IntegratedReports/2023.pdf,86,grey,"Cüruf bin ton 86,94 31,88 Alternatif Yakıt Kullanım Oranı (Gri Üretim) % 26 29",
+alt_fuel_rate_grey,2023,False,29.0,%,2023,Data/IntegratedReports/2023.pdf,86,grey,"Cüruf bin ton 86,94 31,88 Alternatif Yakıt Kullanım Oranı (Gri Üretim) % 26 29",
+alt_fuel_rate_grey,2023,False,29.0,%,2024,Data/IntegratedReports/2024.pdf,98,grey,Gri Çimento % 29 10,
+alt_fuel_rate_grey,2024,False,10.0,%,2024,Data/IntegratedReports/2024.pdf,98,grey,Gri Çimento % 29 10,
+alt_fuel_rate_grey,2024,False,10.0,%,2025,Data/IntegratedReports/2025.pdf,177,grey,Gri Çimento % 10 28,
+alt_fuel_rate_grey,2025,False,28.0,%,2025,Data/IntegratedReports/2025.pdf,177,grey,Gri Çimento % 10 28,
+alt_fuel_rate_white,2022,False,19.0,%,2023,Data/IntegratedReports/2023.pdf,86,white,"Diğer Doğal Ham Maddeler bin ton 0,00 0,00 Alternatif Yakıt Kullanım Oranı (Beyaz Üretim)1 % 19 28",
+alt_fuel_rate_white,2023,False,28.0,%,2023,Data/IntegratedReports/2023.pdf,86,white,"Diğer Doğal Ham Maddeler bin ton 0,00 0,00 Alternatif Yakıt Kullanım Oranı (Beyaz Üretim)1 % 19 28",
+alt_fuel_rate_white,2023,False,28.0,%,2024,Data/IntegratedReports/2024.pdf,98,white,*Beyaz Çimento % 28 28,footnote: the white cement rate may refer to the Buñol plant only
+alt_fuel_rate_white,2024,False,28.0,%,2024,Data/IntegratedReports/2024.pdf,98,white,*Beyaz Çimento % 28 28,footnote: the white cement rate may refer to the Buñol plant only
+alt_fuel_rate_white,2024,False,,%,2025,Data/IntegratedReports/2025.pdf,177,white,Beyaz Çimento % 281 15,percentage above 100 ('281'): a footnote digit may be attached
+alt_fuel_rate_white,2025,False,15.0,%,2025,Data/IntegratedReports/2025.pdf,177,white,Beyaz Çimento % 281 15,
+cac_production,2015,False,29751.0,ton,2016,Data/IntegratedReports/2016.pdf,192,unspecified,Kalsiyum Aluminatlı Çimento Üretimi (ton) 29.751 27.490,
+cac_production,2016,False,27490.0,ton,2016,Data/IntegratedReports/2016.pdf,192,unspecified,Kalsiyum Aluminatlı Çimento Üretimi (ton) 29.751 27.490,
+cac_production,2016,False,27490.0,ton,2017,Data/IntegratedReports/2017.pdf,196,unspecified,Kalsiyum Aluminatlı Çimento Üretimi (ton) 27.490 31.256,
+cac_production,2017,False,31256.0,ton,2017,Data/IntegratedReports/2017.pdf,196,unspecified,Kalsiyum Aluminatlı Çimento Üretimi (ton) 27.490 31.256,
+cac_production,2017,False,31256.0,ton,2018,Data/IntegratedReports/2018.pdf,216,unspecified,Kalsiyum Aluminatlı Çimento Üretimi (ton) 31.256 33.455,
+cac_production,2018,False,33455.0,ton,2018,Data/IntegratedReports/2018.pdf,216,unspecified,Kalsiyum Aluminatlı Çimento Üretimi (ton) 31.256 33.455,
+cac_production,2018,False,33.0,bin ton,2019,Data/IntegratedReports/2019.pdf,108,total production,Kalsiyum Alüminatlı Çimento (bin ton) 33 35 Alternatif Hammadde 91.511 49.330,
+cac_production,2019,False,35.0,bin ton,2019,Data/IntegratedReports/2019.pdf,108,total production,Kalsiyum Alüminatlı Çimento (bin ton) 33 35 Alternatif Hammadde 91.511 49.330,
+cac_production,2019,False,35.0,bin ton,2020,Data/IntegratedReports/2020.pdf,129,total production,Kadın 0 0 Kalsiyum Aluminatlı Çimento (bin ton) 35 39,
+cac_production,2020,False,39.0,bin ton,2020,Data/IntegratedReports/2020.pdf,129,total production,Kadın 0 0 Kalsiyum Aluminatlı Çimento (bin ton) 35 39,
+cac_production,2020,False,39.2,bin ton,2021,Data/IntegratedReports/2021.pdf,134,total production,"Kalsiyum Alüminatlı Çimento bin ton 39,20 45,70 » Doğum izni sonrası işe dönen çalışan oranı",
+cac_production,2021,False,45.7,bin ton,2021,Data/IntegratedReports/2021.pdf,134,total production,"Kalsiyum Alüminatlı Çimento bin ton 39,20 45,70 » Doğum izni sonrası işe dönen çalışan oranı",
+cac_production,2021,True,45656.0,ton,2021,Data/IntegratedReports/2021.pdf,137,unspecified,Kalsiyum Alüminatlı Çimento Üretimi 45.656 ton · Alternatif Enerji –,single value; assumed to belong to the report year
+cac_production,2021,False,45.7,bin ton,2022,Data/IntegratedReports/2022.pdf,124,total production,"Atıksu Kanalı m3 - - ✓ Kalsiyum Alüminatlı Çimento bin ton 45,70 51,43",
+cac_production,2022,False,51.43,bin ton,2022,Data/IntegratedReports/2022.pdf,124,total production,"Atıksu Kanalı m3 - - ✓ Kalsiyum Alüminatlı Çimento bin ton 45,70 51,43",
+cac_production,2022,True,51.43,bin ton,2022,Data/IntegratedReports/2022.pdf,127,unspecified,"Kalsiyum Alüminat Çimentosu Üretimi 51,43 bin ton",single value; assumed to belong to the report year
+cac_production,2022,False,51.45,bin ton,2023,Data/IntegratedReports/2023.pdf,88,total production,"Atıksu Kanalı milyon L 49,3 53,2 Kalsiyum Alüminatlı Çimento bin ton 51,45 62,66",
+cac_production,2023,False,62.66,bin ton,2023,Data/IntegratedReports/2023.pdf,88,total production,"Atıksu Kanalı milyon L 49,3 53,2 Kalsiyum Alüminatlı Çimento bin ton 51,45 62,66",
+cac_production,2023,True,62.66,bin ton,2023,Data/IntegratedReports/2023.pdf,164,unspecified,"gerçekleştirilen üretim miktarları Kalsiyum Alüminatlı çimento üretimi 62,66 bin ton Geri Dönüşüme Gönderilen Su (%) %3,75",single value; assumed to belong to the report year
+cement_production_total,2023,False,5.22,milyon ton,2024,Data/IntegratedReports/2024.pdf,97,total production,"Çimento milyon ton 5,22 5,31",
+cement_production_total,2024,False,5.31,milyon ton,2024,Data/IntegratedReports/2024.pdf,97,total production,"Çimento milyon ton 5,22 5,31",
+cement_production_total,2024,False,5.3,milyon ton,2025,Data/IntegratedReports/2025.pdf,176,total production,"Çimento milyon ton 5,3 6,8",
+cement_production_total,2025,False,6.8,milyon ton,2025,Data/IntegratedReports/2025.pdf,176,total production,"Çimento milyon ton 5,3 6,8",
+clinker_production,2015,False,5394206.0,ton,2016,Data/IntegratedReports/2016.pdf,192,unspecified,Klinker Üretimi (ton) 5.394.206 5.538.570,
+clinker_production,2016,False,5538570.0,ton,2016,Data/IntegratedReports/2016.pdf,192,unspecified,Klinker Üretimi (ton) 5.394.206 5.538.570,
+clinker_production,2016,False,5538570.0,ton,2017,Data/IntegratedReports/2017.pdf,196,unspecified,Klinker Üretimi (ton) 5.538.570 6.101.571,
+clinker_production,2017,False,6101571.0,ton,2017,Data/IntegratedReports/2017.pdf,196,unspecified,Klinker Üretimi (ton) 5.538.570 6.101.571,
+clinker_production,2017,False,6101571.0,ton,2018,Data/IntegratedReports/2018.pdf,216,unspecified,Klinker Üretimi (ton) 6.101.571 5.790.568,
+clinker_production,2018,False,5790568.0,ton,2018,Data/IntegratedReports/2018.pdf,216,unspecified,Klinker Üretimi (ton) 6.101.571 5.790.568,
+clinker_production,2018,False,5.7,milyon ton,2019,Data/IntegratedReports/2019.pdf,108,total production,"Klinker (milyon ton) 5,7 5,2 Doğal Katkı (çimentoya katılan) 405.582 335.544",
+clinker_production,2019,False,5.2,milyon ton,2019,Data/IntegratedReports/2019.pdf,108,total production,"Klinker (milyon ton) 5,7 5,2 Doğal Katkı (çimentoya katılan) 405.582 335.544",
+clinker_production,2019,False,5.2,milyon ton,2020,Data/IntegratedReports/2020.pdf,129,total production,"Erkek 0 0 Klinker (milyon ton) 5,2 6,4",
+clinker_production,2020,False,6.4,milyon ton,2020,Data/IntegratedReports/2020.pdf,129,total production,"Erkek 0 0 Klinker (milyon ton) 5,2 6,4",
+clinker_production,2020,False,4.96,milyon ton,2021,Data/IntegratedReports/2021.pdf,130,grey cement,"Üretilen Klinker milyon ton 4,96 5,28",
+clinker_production,2020,False,1.39,milyon ton,2021,Data/IntegratedReports/2021.pdf,130,white cement,"50 yaş üstü Saat 2.225 1.100 Üretilen Klinker milyon ton 1,39 1,58",
+clinker_production,2020,False,37.01,bin ton,2021,Data/IntegratedReports/2021.pdf,130,CAC,"Üretilen Klinker bin ton 37,01 54,80",
+clinker_production,2020,False,6.39,milyon ton,2021,Data/IntegratedReports/2021.pdf,134,total production,"Klinker milyon ton 6,39 6,92 » Doğum iznine ayrılan çalışan sayısı",
+clinker_production,2021,False,5.28,milyon ton,2021,Data/IntegratedReports/2021.pdf,130,grey cement,"Üretilen Klinker milyon ton 4,96 5,28",
+clinker_production,2021,False,1.58,milyon ton,2021,Data/IntegratedReports/2021.pdf,130,white cement,"50 yaş üstü Saat 2.225 1.100 Üretilen Klinker milyon ton 1,39 1,58",
+clinker_production,2021,False,54.8,bin ton,2021,Data/IntegratedReports/2021.pdf,130,CAC,"Üretilen Klinker bin ton 37,01 54,80",
+clinker_production,2021,False,6.92,milyon ton,2021,Data/IntegratedReports/2021.pdf,134,total production,"Klinker milyon ton 6,39 6,92 » Doğum iznine ayrılan çalışan sayısı",
+clinker_production,2021,True,6916879.0,ton,2021,Data/IntegratedReports/2021.pdf,137,unspecified,Klinker Üretimi 6.916.879 ton EM-CM-130 a.1,single value; assumed to belong to the report year
+clinker_production,2021,False,5.28,milyon ton,2022,Data/IntegratedReports/2022.pdf,123,grey cement,"Üretilen Klinker milyon ton 5,28 4,29 Kapsam 1 Toplam Brüt Sera Gazı Emisyonu milyon ton CO 2 /yıl 6,09 5,09 ✓",
+clinker_production,2021,False,1.58,milyon ton,2022,Data/IntegratedReports/2022.pdf,123,white cement,"Üretilen Klinker milyon ton 1,58 1,52 Gri Kapsam 1 Net Sera Gazı Emisyonu milyon ton CO 2 /yıl 4,36 3,29 ✓",
+clinker_production,2021,False,54.8,bin ton,2022,Data/IntegratedReports/2022.pdf,123,CAC,"Üretilen Klinker bin ton 54,80 52,68 Beyaz Çimentomsu Brüt Spesifik CO 2 Emisyonu kg CO 2 /ton 913 920 ✓",
+clinker_production,2021,False,6.92,milyon ton,2022,Data/IntegratedReports/2022.pdf,124,total production,"Geri Kazanılan Su m3 17.885 21.900 ✓ Klinker milyon ton 6,92 5,86",
+clinker_production,2022,False,4.29,milyon ton,2022,Data/IntegratedReports/2022.pdf,123,grey cement,"Üretilen Klinker milyon ton 5,28 4,29 Kapsam 1 Toplam Brüt Sera Gazı Emisyonu milyon ton CO 2 /yıl 6,09 5,09 ✓",
+clinker_production,2022,False,1.52,milyon ton,2022,Data/IntegratedReports/2022.pdf,123,white cement,"Üretilen Klinker milyon ton 1,58 1,52 Gri Kapsam 1 Net Sera Gazı Emisyonu milyon ton CO 2 /yıl 4,36 3,29 ✓",
+clinker_production,2022,False,52.68,bin ton,2022,Data/IntegratedReports/2022.pdf,123,CAC,"Üretilen Klinker bin ton 54,80 52,68 Beyaz Çimentomsu Brüt Spesifik CO 2 Emisyonu kg CO 2 /ton 913 920 ✓",
+clinker_production,2022,False,5.86,milyon ton,2022,Data/IntegratedReports/2022.pdf,124,total production,"Geri Kazanılan Su m3 17.885 21.900 ✓ Klinker milyon ton 6,92 5,86",
+clinker_production,2022,True,5.86,milyon ton,2022,Data/IntegratedReports/2022.pdf,127,unspecified,"EM-CM-000.A Klinker Üretimi 5,86 milyon ton gerçekleştirilen su çekişinin oranı %100",single value; assumed to belong to the report year
+clinker_production,2022,False,3.51,milyon ton,2023,Data/IntegratedReports/2023.pdf,86,grey cement,"Üretilen Klinker milyon ton 3,51 3,60",
+clinker_production,2022,False,1.9,milyon ton,2023,Data/IntegratedReports/2023.pdf,86,white cement,"Üretilen Klinker milyon ton 1,90 1,68 I-REC Yenilenebilir Enerji Sertifikası Kanalıyla Sağlanan Sera Gazı",
+clinker_production,2022,False,52.68,bin ton,2023,Data/IntegratedReports/2023.pdf,86,CAC,"Üretilen Klinker bin ton 52,68 69,72 Operasyonel Performans",
+clinker_production,2022,False,5.89,milyon ton,2023,Data/IntegratedReports/2023.pdf,88,total production,"Tesis İçi Geri Kazanılan Atıksu milyon L 57,6 90,1 Klinker milyon ton 5,89 4,97",
+clinker_production,2023,False,3.6,milyon ton,2023,Data/IntegratedReports/2023.pdf,86,grey cement,"Üretilen Klinker milyon ton 3,51 3,60",
+clinker_production,2023,False,1.68,milyon ton,2023,Data/IntegratedReports/2023.pdf,86,white cement,"Üretilen Klinker milyon ton 1,90 1,68 I-REC Yenilenebilir Enerji Sertifikası Kanalıyla Sağlanan Sera Gazı",
+clinker_production,2023,False,69.72,bin ton,2023,Data/IntegratedReports/2023.pdf,86,CAC,"Üretilen Klinker bin ton 52,68 69,72 Operasyonel Performans",
+clinker_production,2023,False,4.97,milyon ton,2023,Data/IntegratedReports/2023.pdf,88,total production,"Tesis İçi Geri Kazanılan Atıksu milyon L 57,6 90,1 Klinker milyon ton 5,89 4,97",
+clinker_production,2023,True,4.97,milyon ton,2023,Data/IntegratedReports/2023.pdf,164,unspecified,"EM-CM-000.A Klinker üretimi 4,97 milyon ton",single value; assumed to belong to the report year
+clinker_production,2023,False,3.6,milyon ton,2024,Data/IntegratedReports/2024.pdf,97,grey cement,"Üretilen Klinker milyon ton 3,60 3,69",
+clinker_production,2023,False,1.68,milyon ton,2024,Data/IntegratedReports/2024.pdf,97,white cement,"Sürdürülebilirlik Odaklı Ar-Ge Yatırım Tutarının Toplam Ar-Ge Üretilen Klinker milyon ton 1,68 1,70",
+clinker_production,2023,False,69.72,bin ton,2024,Data/IntegratedReports/2024.pdf,97,CAC,"Üretilen Klinker bin ton 69,72 74,87",
+clinker_production,2024,False,3.69,milyon ton,2024,Data/IntegratedReports/2024.pdf,97,grey cement,"Üretilen Klinker milyon ton 3,60 3,69",
+clinker_production,2024,False,1.7,milyon ton,2024,Data/IntegratedReports/2024.pdf,97,white cement,"Sürdürülebilirlik Odaklı Ar-Ge Yatırım Tutarının Toplam Ar-Ge Üretilen Klinker milyon ton 1,68 1,70",
+clinker_production,2024,False,74.87,bin ton,2024,Data/IntegratedReports/2024.pdf,97,CAC,"Üretilen Klinker bin ton 69,72 74,87",
+clinker_production,2024,False,5.69,milyon ton,2025,Data/IntegratedReports/2025.pdf,177,cement (total),"Üretilen Klinker milyon ton 5,69 6,24",
+clinker_production,2025,False,6.24,milyon ton,2025,Data/IntegratedReports/2025.pdf,177,cement (total),"Üretilen Klinker milyon ton 5,69 6,24",
+electricity_consumption,2015,False,2332.0,tj,2016,Data/IntegratedReports/2016.pdf,193,grey+white,Elektrik Tüketimi (gri+beyaz) (TJ) 2.332 2.302,
+electricity_consumption,2016,False,2302.0,tj,2016,Data/IntegratedReports/2016.pdf,193,grey+white,Elektrik Tüketimi (gri+beyaz) (TJ) 2.332 2.302,
+electricity_consumption,2020,False,686426.0,mwh,2021,Data/IntegratedReports/2021.pdf,130,unspecified,Elektrik Tüketimi MWh 686.426 704.238,
+electricity_consumption,2021,False,704238.0,mwh,2021,Data/IntegratedReports/2021.pdf,130,unspecified,Elektrik Tüketimi MWh 686.426 704.238,
+electricity_consumption,2021,False,704238.0,mwh,2022,Data/IntegratedReports/2022.pdf,123,unspecified,"Elektrik Tüketimi MWh 704.238 594.500 ✓ Spesifik SO Emisyonu gr/ton klinker 111,62 185,58 ✓",
+electricity_consumption,2022,False,594500.0,mwh,2022,Data/IntegratedReports/2022.pdf,123,unspecified,"Elektrik Tüketimi MWh 704.238 594.500 ✓ Spesifik SO Emisyonu gr/ton klinker 111,62 185,58 ✓",
+electricity_consumption,2022,False,644064.0,mwh,2023,Data/IntegratedReports/2023.pdf,86,unspecified,Elektrik Tüketimi MWh 644.064 639.370 2 2,more numbers in the line than in the header; first 2 used
+electricity_consumption,2023,False,639370.0,mwh,2023,Data/IntegratedReports/2023.pdf,86,unspecified,Elektrik Tüketimi MWh 644.064 639.370 2 2,more numbers in the line than in the header; first 2 used
+electricity_consumption,2023,False,639370.0,mwh,2024,Data/IntegratedReports/2024.pdf,98,unspecified,Elektrik MWh 639.370 642.063,
+electricity_consumption,2024,False,642063.0,mwh,2024,Data/IntegratedReports/2024.pdf,98,unspecified,Elektrik MWh 639.370 642.063,
+electricity_consumption,2024,False,670731.0,mwh,2025,Data/IntegratedReports/2025.pdf,177,unspecified,Elektrik MWh 670.731 794.563,
+electricity_consumption,2025,False,794563.0,mwh,2025,Data/IntegratedReports/2025.pdf,177,unspecified,Elektrik MWh 670.731 794.563,
+grey_cement_production,2015,False,4892570.0,ton,2016,Data/IntegratedReports/2016.pdf,192,unspecified,Gri Çimento Üretimi (ton) 4.892.570 4.550.594,
+grey_cement_production,2016,False,4550594.0,ton,2016,Data/IntegratedReports/2016.pdf,192,unspecified,Gri Çimento Üretimi (ton) 4.892.570 4.550.594,
+grey_cement_production,2016,False,4550594.0,ton,2017,Data/IntegratedReports/2017.pdf,196,unspecified,Gri Çimento Üretimi (ton) 4.550.594 5.258.542,
+grey_cement_production,2017,False,5258542.0,ton,2017,Data/IntegratedReports/2017.pdf,196,unspecified,Gri Çimento Üretimi (ton) 4.550.594 5.258.542,
+grey_cement_production,2017,False,5258542.0,ton,2018,Data/IntegratedReports/2018.pdf,216,unspecified,Gri Çimento Üretimi (ton) 5.258.542 4.556.691,
+grey_cement_production,2018,False,4556691.0,ton,2018,Data/IntegratedReports/2018.pdf,216,unspecified,Gri Çimento Üretimi (ton) 5.258.542 4.556.691,
+grey_cement_production,2018,False,4.5,milyon ton,2019,Data/IntegratedReports/2019.pdf,108,total production,"Gri Çimento (milyon ton) 4,5 3,5 Doğal Hammadde Miktarı 7.002.546 6.223.906",
+grey_cement_production,2019,False,3.5,milyon ton,2019,Data/IntegratedReports/2019.pdf,108,total production,"Gri Çimento (milyon ton) 4,5 3,5 Doğal Hammadde Miktarı 7.002.546 6.223.906",
+grey_cement_production,2019,False,3.5,milyon ton,2020,Data/IntegratedReports/2020.pdf,129,total production,"Hazır Beton Tesislerinde Kayıp Gün Oranı Gri Çimento (milyon ton) 3,5 4,3",
+grey_cement_production,2020,False,4.3,milyon ton,2020,Data/IntegratedReports/2020.pdf,129,total production,"Hazır Beton Tesislerinde Kayıp Gün Oranı Gri Çimento (milyon ton) 3,5 4,3",
+grey_cement_production,2020,False,4.34,milyon ton,2021,Data/IntegratedReports/2021.pdf,134,total production,"Gri Çimento milyon ton 4,34 4,20 » STEM rollerinde kadın çalışan oranı (%)",
+grey_cement_production,2021,False,4.2,milyon ton,2021,Data/IntegratedReports/2021.pdf,134,total production,"Gri Çimento milyon ton 4,34 4,20 » STEM rollerinde kadın çalışan oranı (%)",
+grey_cement_production,2021,True,4200489.0,ton,2021,Data/IntegratedReports/2021.pdf,137,unspecified,Gri Çimento Üretim 4.200.489 ton · Tüketilen toplam enerji,single value; assumed to belong to the report year
+grey_cement_production,2021,False,4.2,milyon ton,2022,Data/IntegratedReports/2022.pdf,124,total production,"Gri Çimento milyon ton 4,20 3,49",
+grey_cement_production,2022,False,3.49,milyon ton,2022,Data/IntegratedReports/2022.pdf,124,total production,"Gri Çimento milyon ton 4,20 3,49",
+grey_cement_production,2022,True,3.49,milyon ton,2022,Data/IntegratedReports/2022.pdf,127,unspecified,"Gri Çimento Üretim 3,49 milyon ton",single value; assumed to belong to the report year
+grey_cement_production,2022,False,3.75,milyon ton,2023,Data/IntegratedReports/2023.pdf,88,total production,"Kaynak Bazında Deşarj Edilen Su Miktarı milyon L 49,3 53,2 Gri Çimento milyon ton 3,75 3,82",
+grey_cement_production,2023,False,3.82,milyon ton,2023,Data/IntegratedReports/2023.pdf,88,total production,"Kaynak Bazında Deşarj Edilen Su Miktarı milyon L 49,3 53,2 Gri Çimento milyon ton 3,75 3,82",
+grey_cement_production,2023,True,3.82,milyon ton,2023,Data/IntegratedReports/2023.pdf,164,unspecified,"Gri çimento üretim 3,82 milyon ton EM-CM-140 a.1",single value; assumed to belong to the report year
+irec_mwh,2022,False,266000.0,mwh,2023,Data/IntegratedReports/2023.pdf,86,I-REC,"Yenilenebilir Enerji Sertifikası Standardına (I-REC) Uygun Tedarik / Alternatif Ham Madde bin ton 59,73 45,52 MWh 266.000 300.000",label and numbers on different lines; numbers taken from the line after the label
+irec_mwh,2023,False,300000.0,mwh,2023,Data/IntegratedReports/2023.pdf,86,I-REC,"Yenilenebilir Enerji Sertifikası Standardına (I-REC) Uygun Tedarik / Alternatif Ham Madde bin ton 59,73 45,52 MWh 266.000 300.000",label and numbers on different lines; numbers taken from the line after the label
+irec_mwh,2023,False,300000.0,mwh,2024,Data/IntegratedReports/2024.pdf,98,I-REC,"Yenilenebilir enerji sertifikası standardına uygun tedarik edilen / elektrik (I-REC,GO) MWh 300.000 362.650 Yakıt ve Enerji ile İlgili Faaliyetler ton CO 2 e/yıl 311.138 316.658",label and numbers on different lines; numbers taken from the line after the label
+irec_mwh,2024,False,362650.0,mwh,2024,Data/IntegratedReports/2024.pdf,98,I-REC,"Yenilenebilir enerji sertifikası standardına uygun tedarik edilen / elektrik (I-REC,GO) MWh 300.000 362.650 Yakıt ve Enerji ile İlgili Faaliyetler ton CO 2 e/yıl 311.138 316.658",label and numbers on different lines; numbers taken from the line after the label
+irec_mwh,2024,False,362650.0,mwh,2025,Data/IntegratedReports/2025.pdf,177,I-REC,Yenilenebilir Enerji Sertifikası Standardına Uygun Tedarik Edilen / MWh 362.650 320.000,label and numbers on different lines; numbers taken from the line after the label
+irec_mwh,2025,False,320000.0,mwh,2025,Data/IntegratedReports/2025.pdf,177,I-REC,Yenilenebilir Enerji Sertifikası Standardına Uygun Tedarik Edilen / MWh 362.650 320.000,label and numbers on different lines; numbers taken from the line after the label
+ready_mix_production,2015,False,2410243.0,m3,2016,Data/IntegratedReports/2016.pdf,192,unspecified,Hazır Beton Üretimi (m3) 2.410.243 2.823.480,
+ready_mix_production,2016,False,2823480.0,m3,2016,Data/IntegratedReports/2016.pdf,192,unspecified,Hazır Beton Üretimi (m3) 2.410.243 2.823.480,
+ready_mix_production,2016,False,2823480.0,m3,2017,Data/IntegratedReports/2017.pdf,196,unspecified,Hazır Beton Üretimi (m3) 2.823.480 3.440.770,
+ready_mix_production,2017,False,3440770.0,m3,2017,Data/IntegratedReports/2017.pdf,196,unspecified,Hazır Beton Üretimi (m3) 2.823.480 3.440.770,
+ready_mix_production,2017,False,3440770.0,m3,2018,Data/IntegratedReports/2018.pdf,216,unspecified,Hazır Beton Üretimi (m3) 3.440.770 2.741.393,
+ready_mix_production,2018,False,2741393.0,m3,2018,Data/IntegratedReports/2018.pdf,216,unspecified,Hazır Beton Üretimi (m3) 3.440.770 2.741.393,
+ready_mix_production,2018,False,2.7,milyon m3,2019,Data/IntegratedReports/2019.pdf,108,total production,"Hazır Beton (milyon m3) 2,7 1,3 Alternatif Katkı (çimentoya katılan) 103.284 82.318",
+ready_mix_production,2019,False,1.3,milyon m3,2019,Data/IntegratedReports/2019.pdf,108,total production,"Hazır Beton (milyon m3) 2,7 1,3 Alternatif Katkı (çimentoya katılan) 103.284 82.318",
+ready_mix_production,2019,False,1.3,milyon m3,2020,Data/IntegratedReports/2020.pdf,129,total production,"Daimi Alt İşveren Çalışanları 20,71 215,38 Hazır Beton (milyon m3) 1,3 2,0",
+ready_mix_production,2020,False,2.0,milyon m3,2020,Data/IntegratedReports/2020.pdf,129,total production,"Daimi Alt İşveren Çalışanları 20,71 215,38 Hazır Beton (milyon m3) 1,3 2,0",
+ready_mix_production,2020,False,1.99,milyon m3,2021,Data/IntegratedReports/2021.pdf,134,total production,"Hazır Beton milyon m3 1,99 1,94 » Babalık iznine ayrılan çalışan sayısı",
+ready_mix_production,2021,False,1.94,milyon m3,2021,Data/IntegratedReports/2021.pdf,134,total production,"Hazır Beton milyon m3 1,99 1,94 » Babalık iznine ayrılan çalışan sayısı",
+ready_mix_production,2021,True,1939153.0,m3,2021,Data/IntegratedReports/2021.pdf,137,unspecified,Hazır Beton Üretimi 1.939.153 m3,single value; assumed to belong to the report year
+ready_mix_production,2021,False,1.94,milyon m3,2022,Data/IntegratedReports/2022.pdf,124,total production,"Hazır Beton milyon m3 1,94 1,65",
+ready_mix_production,2022,False,1.65,milyon m3,2022,Data/IntegratedReports/2022.pdf,124,total production,"Hazır Beton milyon m3 1,94 1,65",
+ready_mix_production,2022,True,1.65,milyon m3,2022,Data/IntegratedReports/2022.pdf,127,unspecified,"Hazır Beton Üretimi 1,65 milyon m3",single value; assumed to belong to the report year
+ready_mix_production,2022,False,1.65,milyon m3,2023,Data/IntegratedReports/2023.pdf,88,total production,"Su Performans Parametreleri Hazır Beton milyon m3 1,65 1,80",
+ready_mix_production,2023,False,1.8,milyon m3,2023,Data/IntegratedReports/2023.pdf,88,total production,"Su Performans Parametreleri Hazır Beton milyon m3 1,65 1,80",
+ready_mix_production,2023,True,1.8,milyon m3,2023,Data/IntegratedReports/2023.pdf,164,unspecified,"Hazır Beton üretimi 1,80 milyon m3 Yüksek veya çok yüksek su sorunu yaşanan Stresli bölgelerde çekilen hacimin toplam su çekimine oranı %98,6’dır.",single value; assumed to belong to the report year
+ready_mix_production,2023,False,1.8,milyon m3,2024,Data/IntegratedReports/2024.pdf,97,total production,"Hazır Beton milyon m3 1,80 2,48",
+ready_mix_production,2024,False,2.48,milyon m3,2024,Data/IntegratedReports/2024.pdf,97,total production,"Hazır Beton milyon m3 1,80 2,48",
+ready_mix_production,2024,True,2.48,milyon m3,2024,Data/IntegratedReports/2024.pdf,172,unspecified,"Hazır Beton Üretimi 2,48 milyon m3",single value; assumed to belong to the report year
+ready_mix_production,2024,False,2.5,milyon m3,2025,Data/IntegratedReports/2025.pdf,176,total production,"Hazır Beton milyon m3 2,5 2,9",
+ready_mix_production,2025,False,2.9,milyon m3,2025,Data/IntegratedReports/2025.pdf,176,total production,"Hazır Beton milyon m3 2,5 2,9",
+ready_mix_production,2025,True,2.9,milyon m3,2025,Data/IntegratedReports/2025.pdf,180,unspecified,"EM-CM-000.A Hazır Beton Üretimi 2,9 milyon m3 Tüketilen toplam su Toplam Yıllık Su Tüketimi 2797 milyon L, 2797 bin m3",single value; assumed to belong to the report year
+renewable_electricity_share,2020,False,0.66,%,2021,Data/IntegratedReports/2021.pdf,131,unspecified,"Yenilenebilir Enerji Tüketimi ve Üretimi % 0,66 0,47 Toplam SO Emisyonu ton 110,83 768,98",
+renewable_electricity_share,2021,False,0.47,%,2021,Data/IntegratedReports/2021.pdf,131,unspecified,"Yenilenebilir Enerji Tüketimi ve Üretimi % 0,66 0,47 Toplam SO Emisyonu ton 110,83 768,98",
+renewable_electricity_share,2021,False,4.8,%,2022,Data/IntegratedReports/2022.pdf,123,unspecified,"Yenilenebilir Elektrik Enerjisi Tüketimi % 4,8 58,2 Spesifik Cd+TI Emisyonu gr/ton klinker 0,0257 0,0157 ✓",
+renewable_electricity_share,2022,False,58.2,%,2022,Data/IntegratedReports/2022.pdf,123,unspecified,"Yenilenebilir Elektrik Enerjisi Tüketimi % 4,8 58,2 Spesifik Cd+TI Emisyonu gr/ton klinker 0,0257 0,0157 ✓",
+renewable_electricity_share,2022,False,48.0,%,2023,Data/IntegratedReports/2023.pdf,86,unspecified,Yenilenebilir Elektrik Enerjisi Kullanım Oranı % 48 54,
+renewable_electricity_share,2023,False,54.0,%,2023,Data/IntegratedReports/2023.pdf,86,unspecified,Yenilenebilir Elektrik Enerjisi Kullanım Oranı % 48 54,
+renewable_electricity_share,2023,False,7.0,%,2024,Data/IntegratedReports/2024.pdf,98,location-based,Yenilenebilir Elektrik Enerjisi Kullanım Oranı (Lokasyon Bazlı) % 7 8 Evden İşe Ulaşım ton CO,
+renewable_electricity_share,2023,False,54.0,%,2024,Data/IntegratedReports/2024.pdf,98,market-based,Yenilenebilir Elektrik Enerjisi Kullanım Oranı (Pazar Bazlı) % 54 63 İş Seyahatleri ton CO,
+renewable_electricity_share,2024,False,8.0,%,2024,Data/IntegratedReports/2024.pdf,98,location-based,Yenilenebilir Elektrik Enerjisi Kullanım Oranı (Lokasyon Bazlı) % 7 8 Evden İşe Ulaşım ton CO,
+renewable_electricity_share,2024,False,63.0,%,2024,Data/IntegratedReports/2024.pdf,98,market-based,Yenilenebilir Elektrik Enerjisi Kullanım Oranı (Pazar Bazlı) % 54 63 İş Seyahatleri ton CO,
+renewable_electricity_share,2024,False,,%,2025,Data/IntegratedReports/2025.pdf,163,unspecified,Yenilenebilir Enerji Yüzdesi %655 %66 Sürdürülebilir bina tasarımı ve Sürdürülebilir bina tasarımı ve inşaat sertifikalarında kredi almaya hak,percentage above 100 ('%655'): a footnote digit may be attached
+renewable_electricity_share,2024,False,7.0,%,2025,Data/IntegratedReports/2025.pdf,177,location-based,Klinker Kullanım Oranı - Gri % 80 80 Yenilenebilir Elektrik Enerjisi Kullanım Oranı (Lokasyon Bazlı) % 7 10,
+renewable_electricity_share,2024,False,65.0,%,2025,Data/IntegratedReports/2025.pdf,177,market-based,Yenilenebilir Elektrik Enerjisi Kullanım Oranı (Pazar Bazlı) % 65 66,
+renewable_electricity_share,2025,False,66.0,%,2025,Data/IntegratedReports/2025.pdf,163,unspecified,Yenilenebilir Enerji Yüzdesi %655 %66 Sürdürülebilir bina tasarımı ve Sürdürülebilir bina tasarımı ve inşaat sertifikalarında kredi almaya hak,
+renewable_electricity_share,2025,False,10.0,%,2025,Data/IntegratedReports/2025.pdf,177,location-based,Klinker Kullanım Oranı - Gri % 80 80 Yenilenebilir Elektrik Enerjisi Kullanım Oranı (Lokasyon Bazlı) % 7 10,
+renewable_electricity_share,2025,False,66.0,%,2025,Data/IntegratedReports/2025.pdf,177,market-based,Yenilenebilir Elektrik Enerjisi Kullanım Oranı (Pazar Bazlı) % 65 66,
+renewable_electricity_share,,True,6.3,%,2022,Data/IntegratedReports/2022.pdf,31,unspecified,"Yenilenebilir elektrik enerjisi tüketimi (%) 6,3 58,2 70 >80","no year header on the page; no year assigned (order: 6,3, 58,2, 70)"
+renewable_electricity_share,,True,58.2,%,2022,Data/IntegratedReports/2022.pdf,31,unspecified,"Yenilenebilir elektrik enerjisi tüketimi (%) 6,3 58,2 70 >80","no year header on the page; no year assigned (order: 6,3, 58,2, 70)"
+renewable_electricity_share,,True,70.0,%,2022,Data/IntegratedReports/2022.pdf,31,unspecified,"Yenilenebilir elektrik enerjisi tüketimi (%) 6,3 58,2 70 >80","no year header on the page; no year assigned (order: 6,3, 58,2, 70)"
+renewable_energy_consumption,2020,False,43259.0,mwh,2021,Data/IntegratedReports/2021.pdf,131,unspecified,"Yenilenebilir Enerji Kaynaklarından Sağlanan Enerji Tüketimi MWh 43.259 34.039 Spesifik Toz Emisyonu gr/ton klinker 11,45 13,39",
+renewable_energy_consumption,2021,False,34039.0,mwh,2021,Data/IntegratedReports/2021.pdf,131,unspecified,"Yenilenebilir Enerji Kaynaklarından Sağlanan Enerji Tüketimi MWh 43.259 34.039 Spesifik Toz Emisyonu gr/ton klinker 11,45 13,39",
+renewable_energy_consumption,2021,True,34039.32,mwh,2021,Data/IntegratedReports/2021.pdf,137,unspecified,"· Yenilenebilir Enerji Kullanımı 34.039,32 MWh (122.542 GJ)",single value; assumed to belong to the report year
+renewable_energy_consumption,2021,False,34039.0,mwh,2022,Data/IntegratedReports/2022.pdf,123,unspecified,Yenilenebilir Enerji Kaynaklarından Sağlanan Enerji Tüketimi MWh 34.039 345.804 ✓,
+renewable_energy_consumption,2022,False,345804.0,mwh,2022,Data/IntegratedReports/2022.pdf,123,unspecified,Yenilenebilir Enerji Kaynaklarından Sağlanan Enerji Tüketimi MWh 34.039 345.804 ✓,
+renewable_energy_consumption,2022,True,345804.0,mwh,2022,Data/IntegratedReports/2022.pdf,127,unspecified,Yenilenebilir enerji . Yenilenebilir Enerji Kullanımı 345.804 MWh,single value; assumed to belong to the report year
+renewable_energy_consumption,2022,False,311065.0,mwh,2023,Data/IntegratedReports/2023.pdf,86,unspecified,Yenilenebilir Enerji Kaynaklarından Sağlanan Enerji Tüketimi MWh 311.065 343.453,
+renewable_energy_consumption,2023,False,343453.0,mwh,2023,Data/IntegratedReports/2023.pdf,86,unspecified,Yenilenebilir Enerji Kaynaklarından Sağlanan Enerji Tüketimi MWh 311.065 343.453,
+renewable_energy_consumption,2023,True,343453.0,mwh,2023,Data/IntegratedReports/2023.pdf,164,unspecified,Yenilenebilir enerji . Yenilenebilir Enerji Kullanımı 343.453 MWh,single value; assumed to belong to the report year
+renewable_energy_consumption,2024,True,362650.0,mwh,2024,Data/IntegratedReports/2024.pdf,172,unspecified,"Yenilenebilir enerji yüzdesi (%) Yenilenebilir Enerji Kullanımı 362.650 MWh, %63 Fiyatlandırmada Dürüstlük ve Şeffaflık",single value; assumed to belong to the report year
+renewable_energy_consumption,2025,True,521.0,bin mwh,2025,Data/IntegratedReports/2025.pdf,180,unspecified,"Yenilenebilir enerji yüzdesi (%) . Yenilenebilir Enerji Kullanımı 521 bin MWh, %66 Kartelleşme, fiyat sabitleme ve tekelleşme",single value; assumed to belong to the report year
+self_generated_renewable_electricity,2015,False,48065.0,mwh/yr,2016,Data/IntegratedReports/2016.pdf,193,waste heat (WHR),Atık Isıdan Enerji Kazanımı (mwh/yr) 48.065 51.911,
+self_generated_renewable_electricity,2015,False,173035.0,tj,2016,Data/IntegratedReports/2016.pdf,193,waste heat (WHR),Atık Isıdan Enerji Kazanımı (TJ) 173.035 186.880,
+self_generated_renewable_electricity,2016,False,51911.0,mwh/yr,2016,Data/IntegratedReports/2016.pdf,193,waste heat (WHR),Atık Isıdan Enerji Kazanımı (mwh/yr) 48.065 51.911,
+self_generated_renewable_electricity,2016,False,186880.0,tj,2016,Data/IntegratedReports/2016.pdf,193,waste heat (WHR),Atık Isıdan Enerji Kazanımı (TJ) 173.035 186.880,
+self_generated_renewable_electricity,2016,False,51911.0,mwh/yil,2017,Data/IntegratedReports/2017.pdf,198,waste heat (WHR),Atık Isıdan Elektrik Enerjisi Üretim Miktarı (mwh/yıl) 51.911 44.085,
+self_generated_renewable_electricity,2016,False,186880.0,tj/yil,2017,Data/IntegratedReports/2017.pdf,198,waste heat (WHR),Atık Isıdan Elektrik Enerjisi Üretim Miktarı (TJ/yıl) 186.880 158.706,
+self_generated_renewable_electricity,2017,False,44085.0,mwh/yil,2017,Data/IntegratedReports/2017.pdf,198,waste heat (WHR),Atık Isıdan Elektrik Enerjisi Üretim Miktarı (mwh/yıl) 51.911 44.085,
+self_generated_renewable_electricity,2017,False,158706.0,tj/yil,2017,Data/IntegratedReports/2017.pdf,198,waste heat (WHR),Atık Isıdan Elektrik Enerjisi Üretim Miktarı (TJ/yıl) 186.880 158.706,
+self_generated_renewable_electricity,2017,False,44085.0,mwh/yil,2018,Data/IntegratedReports/2018.pdf,217,waste heat (WHR),Atık Isıdan Elektrik Enerjisi Üretim Miktarı (mwh/yıl) 44.085 44.016,
+self_generated_renewable_electricity,2017,False,158706.0,tj/yil,2018,Data/IntegratedReports/2018.pdf,217,waste heat (WHR),Atık Isıdan Elektrik Enerjisi Üretim Miktarı (TJ/yıl) 158.706 158.458,
+self_generated_renewable_electricity,2018,False,44016.0,mwh/yil,2018,Data/IntegratedReports/2018.pdf,217,waste heat (WHR),Atık Isıdan Elektrik Enerjisi Üretim Miktarı (mwh/yıl) 44.085 44.016,
+self_generated_renewable_electricity,2018,False,158458.0,tj/yil,2018,Data/IntegratedReports/2018.pdf,217,waste heat (WHR),Atık Isıdan Elektrik Enerjisi Üretim Miktarı (TJ/yıl) 158.706 158.458,
+self_generated_renewable_electricity,2018,False,44016.0,mwh/yil,2019,Data/IntegratedReports/2019.pdf,108,waste heat (WHR),Atık Isıdan Elektrik Enerjisi Üretim Miktarı (mwh/yıl)* 44.016 46.504,
+self_generated_renewable_electricity,2018,False,158458.0,tj/yil,2019,Data/IntegratedReports/2019.pdf,108,waste heat (WHR),Atık Isıdan Elektrik Enerjisi Üretim Miktarı (TJ/yıl)* 158.458 167.414,
+self_generated_renewable_electricity,2019,False,46504.0,mwh/yil,2019,Data/IntegratedReports/2019.pdf,108,waste heat (WHR),Atık Isıdan Elektrik Enerjisi Üretim Miktarı (mwh/yıl)* 44.016 46.504,
+self_generated_renewable_electricity,2019,False,167414.0,tj/yil,2019,Data/IntegratedReports/2019.pdf,108,waste heat (WHR),Atık Isıdan Elektrik Enerjisi Üretim Miktarı (TJ/yıl)* 158.458 167.414,
+self_generated_renewable_electricity,2019,False,46504.0,mwh/yil,2020,Data/IntegratedReports/2020.pdf,127,waste heat (WHR),"Atık Isıdan Elektrik Enerjisi Üretim Miktarı (mwh/yıl)* 46.504 43.259 Toplam Toz Emisyonu (ton) 74,465 72,555",
+self_generated_renewable_electricity,2019,False,167414.0,tj/yil,2020,Data/IntegratedReports/2020.pdf,127,waste heat (WHR),"Atık Isıdan Elektrik Enerjisi Üretim Miktarı (TJ/yıl)* 167.414 155.732 Spesifik Toz Emisyonu (gr/ton klinker) 14,265 11,445",
+self_generated_renewable_electricity,2020,False,43259.0,mwh/yil,2020,Data/IntegratedReports/2020.pdf,127,waste heat (WHR),"Atık Isıdan Elektrik Enerjisi Üretim Miktarı (mwh/yıl)* 46.504 43.259 Toplam Toz Emisyonu (ton) 74,465 72,555",
+self_generated_renewable_electricity,2020,False,155732.0,tj/yil,2020,Data/IntegratedReports/2020.pdf,127,waste heat (WHR),"Atık Isıdan Elektrik Enerjisi Üretim Miktarı (TJ/yıl)* 167.414 155.732 Spesifik Toz Emisyonu (gr/ton klinker) 14,265 11,445",
+self_generated_renewable_electricity,2020,False,46913.0,mwh,2021,Data/IntegratedReports/2021.pdf,131,total (WHR+PV),"Toplam Yenilenebilir Enerji Üretimi MWh 46.913 34.039 Toplam Toz Emisyonu ton 72,56 92,28",
+self_generated_renewable_electricity,2020,False,43259.0,mwh,2021,Data/IntegratedReports/2021.pdf,131,waste heat (WHR),Atık Isıdan Elektrik Enerjisi Üretim Miktarı MWh 43.259 34.039 Toplam NO Emisyonu ton 8.278 23.600,
+self_generated_renewable_electricity,2020,False,156.0,tj,2021,Data/IntegratedReports/2021.pdf,131,waste heat (WHR),Atık Isıdan Elektrik Enerjisi Üretim Miktarı TJ 156 122 Spesifik NO Emisyonu gr/ton klinker 1.305 3.425,
+self_generated_renewable_electricity,2021,False,34039.0,mwh,2021,Data/IntegratedReports/2021.pdf,131,total (WHR+PV),"Toplam Yenilenebilir Enerji Üretimi MWh 46.913 34.039 Toplam Toz Emisyonu ton 72,56 92,28",
+self_generated_renewable_electricity,2021,False,34039.0,mwh,2021,Data/IntegratedReports/2021.pdf,131,waste heat (WHR),Atık Isıdan Elektrik Enerjisi Üretim Miktarı MWh 43.259 34.039 Toplam NO Emisyonu ton 8.278 23.600,
+self_generated_renewable_electricity,2021,False,122.0,tj,2021,Data/IntegratedReports/2021.pdf,131,waste heat (WHR),Atık Isıdan Elektrik Enerjisi Üretim Miktarı TJ 156 122 Spesifik NO Emisyonu gr/ton klinker 1.305 3.425,
+self_generated_renewable_electricity,2021,False,34039.0,mwh,2022,Data/IntegratedReports/2022.pdf,123,total (WHR+PV),Toplam Yenilenebilir Enerji Üretimi MWh 34.039 45.804 ✓,
+self_generated_renewable_electricity,2021,False,34039.0,mwh,2022,Data/IntegratedReports/2022.pdf,123,waste heat (WHR),Atık Isıdan Elektrik Enerjisi Üretim Miktarı MWh 34.039 45.804,
+self_generated_renewable_electricity,2021,False,122.0,tj,2022,Data/IntegratedReports/2022.pdf,123,waste heat (WHR),"Atık Isıdan Elektrik Enerjisi Üretim Miktarı TJ 122 165 Toplam Cd+TI Emisyonu ton 0,02 0,08 ✓",
+self_generated_renewable_electricity,2022,False,45804.0,mwh,2022,Data/IntegratedReports/2022.pdf,123,total (WHR+PV),Toplam Yenilenebilir Enerji Üretimi MWh 34.039 45.804 ✓,
+self_generated_renewable_electricity,2022,False,45804.0,mwh,2022,Data/IntegratedReports/2022.pdf,123,waste heat (WHR),Atık Isıdan Elektrik Enerjisi Üretim Miktarı MWh 34.039 45.804,
+self_generated_renewable_electricity,2022,False,165.0,tj,2022,Data/IntegratedReports/2022.pdf,123,waste heat (WHR),"Atık Isıdan Elektrik Enerjisi Üretim Miktarı TJ 122 165 Toplam Cd+TI Emisyonu ton 0,02 0,08 ✓",
+self_generated_renewable_electricity,2022,False,45083.0,mwh,2023,Data/IntegratedReports/2023.pdf,86,total (WHR+PV),Toplam Yenilenebilir Enerji Üretimi MWh 45.083 43.453,
+self_generated_renewable_electricity,2022,False,45065.0,mwh,2023,Data/IntegratedReports/2023.pdf,86,waste heat (WHR),Atık Isıdan Elektrik Enerjisi Üretim Miktarı MWh 45.065 41.694,
+self_generated_renewable_electricity,2022,False,18.0,mwh,2023,Data/IntegratedReports/2023.pdf,86,solar (PV),Güneş Enerjisi Üretim Miktarı MWh 18 1.760,
+self_generated_renewable_electricity,2023,False,43453.0,mwh,2023,Data/IntegratedReports/2023.pdf,86,total (WHR+PV),Toplam Yenilenebilir Enerji Üretimi MWh 45.083 43.453,
+self_generated_renewable_electricity,2023,False,41694.0,mwh,2023,Data/IntegratedReports/2023.pdf,86,waste heat (WHR),Atık Isıdan Elektrik Enerjisi Üretim Miktarı MWh 45.065 41.694,
+self_generated_renewable_electricity,2023,False,1760.0,mwh,2023,Data/IntegratedReports/2023.pdf,86,solar (PV),Güneş Enerjisi Üretim Miktarı MWh 18 1.760,
+self_generated_renewable_electricity,2023,False,43453.0,mwh,2024,Data/IntegratedReports/2024.pdf,98,total (WHR+PV),Toplam Yenilenebilir Enerji Üretimi MWh 43.453 49.537 Sera Gazı Emisyonu Yoğunluğu t C,
+self_generated_renewable_electricity,2023,False,41694.0,mwh,2024,Data/IntegratedReports/2024.pdf,98,waste heat (WHR),Atık Isıdan Elektrik Enerjisi Üretim Miktarı MWh 41.694 38.890,
+self_generated_renewable_electricity,2023,False,1760.0,mwh,2024,Data/IntegratedReports/2024.pdf,98,solar (PV),Güneş Enerjisi MWh 1.760 10.648 Kapsam 3 Emisyonları,
+self_generated_renewable_electricity,2024,False,49537.0,mwh,2024,Data/IntegratedReports/2024.pdf,98,total (WHR+PV),Toplam Yenilenebilir Enerji Üretimi MWh 43.453 49.537 Sera Gazı Emisyonu Yoğunluğu t C,
+self_generated_renewable_electricity,2024,False,38890.0,mwh,2024,Data/IntegratedReports/2024.pdf,98,waste heat (WHR),Atık Isıdan Elektrik Enerjisi Üretim Miktarı MWh 41.694 38.890,
+self_generated_renewable_electricity,2024,False,10648.0,mwh,2024,Data/IntegratedReports/2024.pdf,98,solar (PV),Güneş Enerjisi MWh 1.760 10.648 Kapsam 3 Emisyonları,
+self_generated_renewable_electricity,2024,False,49537.0,mwh,2025,Data/IntegratedReports/2025.pdf,177,total (WHR+PV),Toplam Yenilenebilir Enerji Üretimi MWh 49.537 83.274,
+self_generated_renewable_electricity,2024,False,38890.0,mwh,2025,Data/IntegratedReports/2025.pdf,177,waste heat (WHR),Atık Isıdan Elektrik Enerjisi Üretim Miktarı MWh 38.890 50.847,
+self_generated_renewable_electricity,2024,False,10648.0,mwh,2025,Data/IntegratedReports/2025.pdf,177,solar (PV),Güneş Enerjisi MWh 10.648 32.427,
+self_generated_renewable_electricity,2025,False,83274.0,mwh,2025,Data/IntegratedReports/2025.pdf,177,total (WHR+PV),Toplam Yenilenebilir Enerji Üretimi MWh 49.537 83.274,
+self_generated_renewable_electricity,2025,False,50847.0,mwh,2025,Data/IntegratedReports/2025.pdf,177,waste heat (WHR),Atık Isıdan Elektrik Enerjisi Üretim Miktarı MWh 38.890 50.847,
+self_generated_renewable_electricity,2025,False,32427.0,mwh,2025,Data/IntegratedReports/2025.pdf,177,solar (PV),Güneş Enerjisi MWh 10.648 32.427,
+specific_electricity_consumption,2017,False,71.9,kwh/ton,2018,Data/IntegratedReports/2018.pdf,217,grey,"Enerji Yoğunluğu (gri klinker) (kWh/ton) 71,9 66,5",
+specific_electricity_consumption,2018,False,66.5,kwh/ton,2018,Data/IntegratedReports/2018.pdf,217,grey,"Enerji Yoğunluğu (gri klinker) (kWh/ton) 71,9 66,5",
+specific_heat_consumption,2018,False,,mj/ton klinker,2019,Data/IntegratedReports/2019.pdf,108,unspecified,Spesifik Isıl Tüketim (MJ/ton klinker) 3.6313 3.6383,malformed ('3.6313'): a footnote digit may be attached at the end
+specific_heat_consumption,2019,False,,mj/ton klinker,2019,Data/IntegratedReports/2019.pdf,108,unspecified,Spesifik Isıl Tüketim (MJ/ton klinker) 3.6313 3.6383,malformed ('3.6383'): a footnote digit may be attached at the end
+specific_heat_consumption,2019,False,,mj/ton klinker,2020,Data/IntegratedReports/2020.pdf,127,unspecified,Spesifik Isıl Tüketim (MJ/ton klinker) 3.6383 27.3193 Kirletici Hava Emisyonları,malformed ('3.6383'): a footnote digit may be attached at the end
+specific_heat_consumption,2020,False,,mj/ton klinker,2020,Data/IntegratedReports/2020.pdf,127,unspecified,Spesifik Isıl Tüketim (MJ/ton klinker) 3.6383 27.3193 Kirletici Hava Emisyonları,malformed ('27.3193'): a footnote digit may be attached at the end
+specific_heat_consumption,2020,False,3563.0,mj/ton klinker,2021,Data/IntegratedReports/2021.pdf,131,unspecified,"Spesifik Isıl Tüketim MJ/ton klinker 3.563 3.620 Toplam Uçucu Organik Bileşik (UOB) Emisyonu ton 167,15 92,71",
+specific_heat_consumption,2021,False,3620.0,mj/ton klinker,2021,Data/IntegratedReports/2021.pdf,131,unspecified,"Spesifik Isıl Tüketim MJ/ton klinker 3.563 3.620 Toplam Uçucu Organik Bileşik (UOB) Emisyonu ton 167,15 92,71",
+specific_heat_consumption,2021,False,3620.0,mj/ton klinker,2022,Data/IntegratedReports/2022.pdf,123,unspecified,Birim 2021 2022 Dış Güvence Spesifik Isıl Tüketim MJ/ton klinker 3.620 3.782,
+specific_heat_consumption,2022,False,3782.0,mj/ton klinker,2022,Data/IntegratedReports/2022.pdf,123,unspecified,Birim 2021 2022 Dış Güvence Spesifik Isıl Tüketim MJ/ton klinker 3.620 3.782,
+specific_heat_consumption,2022,False,3020.0,mj/ton klinker,2023,Data/IntegratedReports/2023.pdf,86,unspecified,"Uçucu Kül bin ton 12,14 33,61 Spesifik Isıl Tüketim MJ/ton klinker 3.020 3.627",
+specific_heat_consumption,2023,False,3627.0,mj/ton klinker,2023,Data/IntegratedReports/2023.pdf,86,unspecified,"Uçucu Kül bin ton 12,14 33,61 Spesifik Isıl Tüketim MJ/ton klinker 3.020 3.627",
+thermal_energy_alternative,2015,False,864.0,tj,2016,Data/IntegratedReports/2016.pdf,193,unspecified,Alternatif Enerji Tüketimi (TJ) 864 983,
+thermal_energy_alternative,2016,False,983.0,tj,2016,Data/IntegratedReports/2016.pdf,193,unspecified,Alternatif Enerji Tüketimi (TJ) 864 983,
+thermal_energy_conventional,2015,False,12361.0,tj,2016,Data/IntegratedReports/2016.pdf,193,unspecified,Konvansiyonel Enerji Tüketimi (TJ) 12.361 12.741,
+thermal_energy_conventional,2016,False,12741.0,tj,2016,Data/IntegratedReports/2016.pdf,193,unspecified,Konvansiyonel Enerji Tüketimi (TJ) 12.361 12.741,
+thermal_energy_conventional,2016,False,12741.0,tj,2017,Data/IntegratedReports/2017.pdf,197,grey,Konvansiyonel Enerji Tüketimi (gri) (TJ) 12.741 11.134,
+thermal_energy_conventional,2017,False,11134.0,tj,2017,Data/IntegratedReports/2017.pdf,197,grey,Konvansiyonel Enerji Tüketimi (gri) (TJ) 12.741 11.134,
+thermal_energy_conventional,2017,False,11134.0,tj,2018,Data/IntegratedReports/2018.pdf,217,grey,Konvansiyonel Enerji Tüketimi (gri) (TJ) 11.134 14.122,
+thermal_energy_conventional,2018,False,14122.0,tj,2018,Data/IntegratedReports/2018.pdf,217,grey,Konvansiyonel Enerji Tüketimi (gri) (TJ) 11.134 14.122,
+thermal_energy_conventional,2018,False,,tj,2019,Data/IntegratedReports/2019.pdf,108,unspecified,Konvansiyonel Enerji Tüketimi (TJ) 14.1221 18.1143,malformed ('14.1221'): a footnote digit may be attached at the end
+thermal_energy_conventional,2019,False,,tj,2019,Data/IntegratedReports/2019.pdf,108,unspecified,Konvansiyonel Enerji Tüketimi (TJ) 14.1221 18.1143,malformed ('18.1143'): a footnote digit may be attached at the end
+thermal_energy_conventional,2019,False,,tj,2020,Data/IntegratedReports/2020.pdf,126,unspecified,Toplu Sözleşme Kapsamında Çalışan İşgücü (Sayı) 635 623 Konvansiyonel Enerji Tüketimi (TJ) 18.1143 23.7323,malformed ('18.1143'): a footnote digit may be attached at the end
+thermal_energy_conventional,2020,False,,tj,2020,Data/IntegratedReports/2020.pdf,126,unspecified,Toplu Sözleşme Kapsamında Çalışan İşgücü (Sayı) 635 623 Konvansiyonel Enerji Tüketimi (TJ) 18.1143 23.7323,malformed ('23.7323'): a footnote digit may be attached at the end
+thermal_energy_conventional,2020,False,25774.0,tj,2021,Data/IntegratedReports/2021.pdf,130,unspecified,Konvansiyonel Enerji Tüketimi TJ 25.774 28.108,
+thermal_energy_conventional,2021,False,28108.0,tj,2021,Data/IntegratedReports/2021.pdf,130,unspecified,Konvansiyonel Enerji Tüketimi TJ 25.774 28.108,
+thermal_energy_conventional,2021,False,28108.0,tj,2022,Data/IntegratedReports/2022.pdf,123,unspecified,Konvansiyonel Enerji Tüketimi TJ 28.108 23.182,
+thermal_energy_conventional,2022,False,23182.0,tj,2022,Data/IntegratedReports/2022.pdf,123,unspecified,Konvansiyonel Enerji Tüketimi TJ 28.108 23.182,
+thermal_energy_conventional,2022,False,23654.0,tj,2023,Data/IntegratedReports/2023.pdf,86,unspecified,Konvansiyonel Enerji Tüketimi TJ 23.654 22.871 2 2,more numbers in the line than in the header; first 2 used
+thermal_energy_conventional,2023,False,22871.0,tj,2023,Data/IntegratedReports/2023.pdf,86,unspecified,Konvansiyonel Enerji Tüketimi TJ 23.654 22.871 2 2,more numbers in the line than in the header; first 2 used
+thermal_energy_conventional,2023,False,22871.0,mwh,2024,Data/IntegratedReports/2024.pdf,98,unspecified,"Konvansiyonel Enerji Tüketimi MWh 22.871 22.900 2 bazlı) kg CO 2 e/ton 40,5 36,8",more numbers in the line than in the header; first 2 used
+thermal_energy_conventional,2024,False,22900.0,mwh,2024,Data/IntegratedReports/2024.pdf,98,unspecified,"Konvansiyonel Enerji Tüketimi MWh 22.871 22.900 2 bazlı) kg CO 2 e/ton 40,5 36,8",more numbers in the line than in the header; first 2 used
+total_energy_consumption,2016,False,281349000.0,kwh,2017,Data/IntegratedReports/2017.pdf,198,unspecified,Toplam Enerji Tüketimi (kWh) 281.349.000 252.006.000,
+total_energy_consumption,2017,False,252006000.0,kwh,2017,Data/IntegratedReports/2017.pdf,198,unspecified,Toplam Enerji Tüketimi (kWh) 281.349.000 252.006.000,
+total_energy_consumption,2017,False,252006000.0,kwh,2018,Data/IntegratedReports/2018.pdf,217,unspecified,Toplam Enerji Tüketimi (kWh) 252.006.000 301.987.000,
+total_energy_consumption,2018,False,301987000.0,kwh,2018,Data/IntegratedReports/2018.pdf,217,unspecified,Toplam Enerji Tüketimi (kWh) 252.006.000 301.987.000,
+total_energy_consumption,2018,False,,kwh,2019,Data/IntegratedReports/2019.pdf,108,clinker production,Klinker Üretimindeki Toplam Enerji Tüketimi (kWh) 301.987.0001 347.823.0003,malformed ('301.987.0001'): a footnote digit may be attached at the end
+total_energy_consumption,2019,False,,kwh,2019,Data/IntegratedReports/2019.pdf,108,clinker production,Klinker Üretimindeki Toplam Enerji Tüketimi (kWh) 301.987.0001 347.823.0003,malformed ('347.823.0003'): a footnote digit may be attached at the end
+total_energy_consumption,2019,False,,kwh,2020,Data/IntegratedReports/2020.pdf,127,clinker production,"Klinker Üretimindeki Toplam Enerji Tüketimi (kWh) 347.823.0003 344.843.2443 Spesifik NO Emisyonu (gr/ton klinker) 1.486,625 1305,095",malformed ('347.823.0003'): a footnote digit may be attached at the end
+total_energy_consumption,2020,False,,kwh,2020,Data/IntegratedReports/2020.pdf,127,clinker production,"Klinker Üretimindeki Toplam Enerji Tüketimi (kWh) 347.823.0003 344.843.2443 Spesifik NO Emisyonu (gr/ton klinker) 1.486,625 1305,095",malformed ('344.843.2443'): a footnote digit may be attached at the end
+total_energy_consumption,2020,False,7135186.0,mwh,2021,Data/IntegratedReports/2021.pdf,130,unspecified,Toplam Enerji Tüketimi MWh 7.135.186 7.669.074,
+total_energy_consumption,2020,False,6778007.0,mwh,2021,Data/IntegratedReports/2021.pdf,130,clinker production,"Kişi Başı İSG Eğitimi (Çimsa Çalışanları) Saat/Kişi 46,35 14,85 Klinker Üretimindeki Toplam Enerji Tüketimi MWh 6.778.007 7.547.707",
+total_energy_consumption,2021,False,7669074.0,mwh,2021,Data/IntegratedReports/2021.pdf,130,unspecified,Toplam Enerji Tüketimi MWh 7.135.186 7.669.074,
+total_energy_consumption,2021,False,7547707.0,mwh,2021,Data/IntegratedReports/2021.pdf,130,clinker production,"Kişi Başı İSG Eğitimi (Çimsa Çalışanları) Saat/Kişi 46,35 14,85 Klinker Üretimindeki Toplam Enerji Tüketimi MWh 6.778.007 7.547.707",
+total_energy_consumption,2021,True,7669074.0,mwh,2021,Data/IntegratedReports/2021.pdf,137,unspecified,· Toplam enerji tüketimi 7.669.074 MWh (27.608.666 GJ),single value; assumed to belong to the report year
+total_energy_consumption,2021,False,7669074.0,mwh,2022,Data/IntegratedReports/2022.pdf,123,unspecified,Toplam Enerji Tüketimi MWh 7.669.074 6.439.517 ✓,
+total_energy_consumption,2021,False,7547707.0,mwh,2022,Data/IntegratedReports/2022.pdf,123,clinker production,"Klinker Üretimindeki Toplam Enerji Tüketimi MWh 7.547.707 6.185.239 Toplam Kirletici Ağır Metal Emisyonu ton 1,63 8,19 ✓",
+total_energy_consumption,2022,False,6439517.0,mwh,2022,Data/IntegratedReports/2022.pdf,123,unspecified,Toplam Enerji Tüketimi MWh 7.669.074 6.439.517 ✓,
+total_energy_consumption,2022,False,6185239.0,mwh,2022,Data/IntegratedReports/2022.pdf,123,clinker production,"Klinker Üretimindeki Toplam Enerji Tüketimi MWh 7.547.707 6.185.239 Toplam Kirletici Ağır Metal Emisyonu ton 1,63 8,19 ✓",
+total_energy_consumption,2022,True,6439517.0,mwh,2022,Data/IntegratedReports/2022.pdf,127,unspecified,Tüketilen toplam enerji . Toplam Enerji Tüketimi 6.439.517 MWh,single value; assumed to belong to the report year
+total_energy_consumption,2022,False,6610806.0,mwh,2023,Data/IntegratedReports/2023.pdf,86,unspecified,Toplam Enerji Tüketimi MWh 6.610.806 6.353.919 2 2,more numbers in the line than in the header; first 2 used
+total_energy_consumption,2022,False,6310634.0,mwh,2023,Data/IntegratedReports/2023.pdf,86,clinker production,Klinker Üretimindeki Toplam Enerji Tüketimi MWh 6.310.634 6.060.003 2 2,more numbers in the line than in the header; first 2 used
+total_energy_consumption,2023,False,6353919.0,mwh,2023,Data/IntegratedReports/2023.pdf,86,unspecified,Toplam Enerji Tüketimi MWh 6.610.806 6.353.919 2 2,more numbers in the line than in the header; first 2 used
+total_energy_consumption,2023,False,6060003.0,mwh,2023,Data/IntegratedReports/2023.pdf,86,clinker production,Klinker Üretimindeki Toplam Enerji Tüketimi MWh 6.310.634 6.060.003 2 2,more numbers in the line than in the header; first 2 used
+total_energy_consumption,2023,True,6353919.0,mwh,2023,Data/IntegratedReports/2023.pdf,164,unspecified,. Toplam enerji tüketimi 6.353.919 MWh,single value; assumed to belong to the report year
+total_energy_consumption,2023,False,6353919.0,mwh,2024,Data/IntegratedReports/2024.pdf,98,unspecified,Toplam Enerji Tüketimi MWh 6.353.919 6.360.983 Kapsam 2 Toplam S,
+total_energy_consumption,2023,False,6060003.0,mwh,2024,Data/IntegratedReports/2024.pdf,98,clinker production,"Klinker Üretimindeki Toplam Enerji Tüketimi MWh 6.060.003 5.808.601 Kapsam 2 Çimentomsu Spesifik CO 2 Emisyonu (Pazar bazlı) kg CO 2 e/ton 18,7 13,7",
+total_energy_consumption,2024,False,6360983.0,mwh,2024,Data/IntegratedReports/2024.pdf,98,unspecified,Toplam Enerji Tüketimi MWh 6.353.919 6.360.983 Kapsam 2 Toplam S,
+total_energy_consumption,2024,False,5808601.0,mwh,2024,Data/IntegratedReports/2024.pdf,98,clinker production,"Klinker Üretimindeki Toplam Enerji Tüketimi MWh 6.060.003 5.808.601 Kapsam 2 Çimentomsu Spesifik CO 2 Emisyonu (Pazar bazlı) kg CO 2 e/ton 18,7 13,7",
+total_energy_consumption,2024,True,6360983.0,mwh,2024,Data/IntegratedReports/2024.pdf,172,unspecified,"Tüketilen toplam enerji (gigajoule) . Toplam enerji tüketimi 6.360.983 MWh, 22,9 milyon GJ",single value; assumed to belong to the report year
+total_energy_consumption,2024,False,6608141.0,mwh,2025,Data/IntegratedReports/2025.pdf,177,unspecified,Çimento Ham Madde Miktarı Toplam Enerji Tüketimi MWh 6.608.141 7.188.725,
+total_energy_consumption,2025,False,7188725.0,mwh,2025,Data/IntegratedReports/2025.pdf,177,unspecified,Çimento Ham Madde Miktarı Toplam Enerji Tüketimi MWh 6.608.141 7.188.725,
+total_energy_consumption,2025,True,,milyon mwh,2025,Data/IntegratedReports/2025.pdf,180,unspecified,"Tüketilen toplam enerji (gigajoule) . Toplam enerji tüketimi 7.2 milyon MWh, 26 milyon GJ",single value; assumed to belong to the report year; ambiguous format ('7.2'): unclear whether the dot is a decimal point or a thousands separator
+white_cement_production,2015,False,1007786.0,ton,2016,Data/IntegratedReports/2016.pdf,192,unspecified,Beyaz Çimento Üretimi (ton) 1.007.786 1.026.580,
+white_cement_production,2016,False,1026580.0,ton,2016,Data/IntegratedReports/2016.pdf,192,unspecified,Beyaz Çimento Üretimi (ton) 1.007.786 1.026.580,
+white_cement_production,2016,False,1026580.0,ton,2017,Data/IntegratedReports/2017.pdf,196,unspecified,Beyaz Çimento Üretimi (ton) 1.026.580 1.088.476,
+white_cement_production,2017,False,1088476.0,ton,2017,Data/IntegratedReports/2017.pdf,196,unspecified,Beyaz Çimento Üretimi (ton) 1.026.580 1.088.476,
+white_cement_production,2017,False,1088476.0,ton,2018,Data/IntegratedReports/2018.pdf,216,unspecified,Beyaz Çimento Üretimi (ton) 1.088.476 1.215.744,
+white_cement_production,2018,False,1215744.0,ton,2018,Data/IntegratedReports/2018.pdf,216,unspecified,Beyaz Çimento Üretimi (ton) 1.088.476 1.215.744,
+white_cement_production,2018,False,1.2,milyon ton,2019,Data/IntegratedReports/2019.pdf,108,total production,"Beyaz Çimento (milyon ton) 1,2 1,2 Üretilen Klinker 4.539.351 3.953.284",
+white_cement_production,2019,False,1.2,milyon ton,2019,Data/IntegratedReports/2019.pdf,108,total production,"Beyaz Çimento (milyon ton) 1,2 1,2 Üretilen Klinker 4.539.351 3.953.284",
+white_cement_production,2019,False,1.2,milyon ton,2020,Data/IntegratedReports/2020.pdf,129,total production,"Doğrudan İstihdam 0 0 Beyaz Çimento (milyon ton) 1,2 1,3",
+white_cement_production,2020,False,1.3,milyon ton,2020,Data/IntegratedReports/2020.pdf,129,total production,"Doğrudan İstihdam 0 0 Beyaz Çimento (milyon ton) 1,2 1,3",
+white_cement_production,2020,False,1.31,milyon ton,2021,Data/IntegratedReports/2021.pdf,134,total production,"Beyaz Çimento milyon ton 1,31 1,39 » Gelir getirici rollerde kadın yönetici oranı (%)",
+white_cement_production,2021,False,1.39,milyon ton,2021,Data/IntegratedReports/2021.pdf,134,total production,"Beyaz Çimento milyon ton 1,31 1,39 » Gelir getirici rollerde kadın yönetici oranı (%)",
+white_cement_production,2021,True,1393647.0,ton,2021,Data/IntegratedReports/2021.pdf,137,unspecified,"Beyaz Çimento Üretim 1.393.647 ton · Şebekeden Kullanım 700.974,23 MWh",single value; assumed to belong to the report year
+white_cement_production,2021,False,1.39,milyon ton,2022,Data/IntegratedReports/2022.pdf,124,total production,"Alıcı Ortam m3 10.800 - ✓ Beyaz Çimento milyon ton 1,39 1,25",
+white_cement_production,2022,False,1.25,milyon ton,2022,Data/IntegratedReports/2022.pdf,124,total production,"Alıcı Ortam m3 10.800 - ✓ Beyaz Çimento milyon ton 1,39 1,25",
+white_cement_production,2022,True,1.25,milyon ton,2022,Data/IntegratedReports/2022.pdf,127,unspecified,"Temel segmentler bazında raporlama Beyaz Çimento Üretim 1,25 milyon ton Geri Dönüşüme Gönderilen Su (%) . Deşarj Edilen Su Miktarı 21.900 m3",single value; assumed to belong to the report year
+white_cement_production,2022,False,3.23,milyon ton,2023,Data/IntegratedReports/2023.pdf,88,total production,"Alıcı Ortam milyon L - - Beyaz Çimento milyon ton 3,23 2,91",
+white_cement_production,2023,False,2.91,milyon ton,2023,Data/IntegratedReports/2023.pdf,88,total production,"Alıcı Ortam milyon L - - Beyaz Çimento milyon ton 3,23 2,91",
+white_cement_production,2023,True,2.91,milyon ton,2023,Data/IntegratedReports/2023.pdf,164,unspecified,"Temel segmentler bazında raporlama döneminde Beyaz çimento üretim 2,91 milyon ton Toplam Temiz Su Çekişi Toplam Yıllık Su Tüketimi 2.408 milyon L",single value; assumed to belong to the report year

@@ -1,0 +1,96 @@
+{
+ "meta": {
+  "series": "TP.TUFE1YI.T69",
+  "url_without_key": "https://evds3.tcmb.gov.tr/igmevdsms-dis/series=TP.TUFE1YI.T69&startDate=01-01-2017&endDate=31-12-2017&type=json",
+  "fetched_on": "2026-10-29"
+ },
+ "response": {
+  "totalCount": 12,
+  "items": [
+   {
+    "Tarih": "2017-1",
+    "TP_TUFE1YI_T69": "269.30000000",
+    "UNIXTIME": {
+     "$numberLong": "1483225200"
+    }
+   },
+   {
+    "Tarih": "2017-2",
+    "TP_TUFE1YI_T69": "275.24000000",
+    "UNIXTIME": {
+     "$numberLong": "1485903600"
+    }
+   },
+   {
+    "Tarih": "2017-3",
+    "TP_TUFE1YI_T69": "284.51000000",
+    "UNIXTIME": {
+     "$numberLong": "1488322800"
+    }
+   },
+   {
+    "Tarih": "2017-4",
+    "TP_TUFE1YI_T69": "288.94000000",
+    "UNIXTIME": {
+     "$numberLong": "1490997600"
+    }
+   },
+   {
+    "Tarih": "2017-5",
+    "TP_TUFE1YI_T69": "291.53000000",
+    "UNIXTIME": {
+     "$numberLong": "1493589600"
+    }
+   },
+   {
+    "Tarih": "2017-6",
+    "TP_TUFE1YI_T69": "292.45000000",
+    "UNIXTIME": {
+     "$numberLong": "1496268000"
+    }
+   },
+   {
+    "Tarih": "2017-7",
+    "TP_TUFE1YI_T69": "298.71000000",
+    "UNIXTIME": {
+     "$numberLong": "1498860000"
+    }
+   },
+   {
+    "Tarih": "2017-8",
+    "TP_TUFE1YI_T69": "298.13000000",
+    "UNIXTIME": {
+     "$numberLong": "1501538400"
+    }
+   },
+   {
+    "Tarih": "2017-9",
+    "TP_TUFE1YI_T69": "300.46000000",
+    "UNIXTIME": {
+     "$numberLong": "1504216800"
+    }
+   },
+   {
+    "Tarih": "2017-10",
+    "TP_TUFE1YI_T69": "307.01000000",
+    "UNIXTIME": {
+     "$numberLong": "1506808800"
+    }
+   },
+   {
+    "Tarih": "2017-11",
+    "TP_TUFE1YI_T69": "311.23000000",
+    "UNIXTIME": {
+     "$numberLong": "1509490800"
+    }
+   },
+   {
+    "Tarih": "2017-12",
+    "TP_TUFE1YI_T69": "315.36000000",
+    "UNIXTIME": {
+     "$numberLong": "1512082800"
+    }
+   }
+  ]
+ }
+}

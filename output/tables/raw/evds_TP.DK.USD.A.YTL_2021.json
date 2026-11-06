@@ -1,0 +1,2567 @@
+{
+ "meta": {
+  "series": "TP.DK.USD.A.YTL",
+  "url_without_key": "https://evds3.tcmb.gov.tr/igmevdsms-dis/series=TP.DK.USD.A.YTL&startDate=01-01-2021&endDate=31-12-2021&type=json",
+  "fetched_on": "2026-10-29"
+ },
+ "response": {
+  "totalCount": 365,
+  "items": [
+   {
+    "Tarih": "01-01-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1609455600"
+    }
+   },
+   {
+    "Tarih": "02-01-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1609542000"
+    }
+   },
+   {
+    "Tarih": "03-01-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1609628400"
+    }
+   },
+   {
+    "Tarih": "04-01-2021",
+    "TP_DK_USD_A_YTL": "7.41940000",
+    "UNIXTIME": {
+     "$numberLong": "1609714800"
+    }
+   },
+   {
+    "Tarih": "05-01-2021",
+    "TP_DK_USD_A_YTL": "7.36020000",
+    "UNIXTIME": {
+     "$numberLong": "1609801200"
+    }
+   },
+   {
+    "Tarih": "06-01-2021",
+    "TP_DK_USD_A_YTL": "7.38660000",
+    "UNIXTIME": {
+     "$numberLong": "1609887600"
+    }
+   },
+   {
+    "Tarih": "07-01-2021",
+    "TP_DK_USD_A_YTL": "7.33000000",
+    "UNIXTIME": {
+     "$numberLong": "1609974000"
+    }
+   },
+   {
+    "Tarih": "08-01-2021",
+    "TP_DK_USD_A_YTL": "7.27330000",
+    "UNIXTIME": {
+     "$numberLong": "1610060400"
+    }
+   },
+   {
+    "Tarih": "09-01-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1610146800"
+    }
+   },
+   {
+    "Tarih": "10-01-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1610233200"
+    }
+   },
+   {
+    "Tarih": "11-01-2021",
+    "TP_DK_USD_A_YTL": "7.34900000",
+    "UNIXTIME": {
+     "$numberLong": "1610319600"
+    }
+   },
+   {
+    "Tarih": "12-01-2021",
+    "TP_DK_USD_A_YTL": "7.44310000",
+    "UNIXTIME": {
+     "$numberLong": "1610406000"
+    }
+   },
+   {
+    "Tarih": "13-01-2021",
+    "TP_DK_USD_A_YTL": "7.46080000",
+    "UNIXTIME": {
+     "$numberLong": "1610492400"
+    }
+   },
+   {
+    "Tarih": "14-01-2021",
+    "TP_DK_USD_A_YTL": "7.42850000",
+    "UNIXTIME": {
+     "$numberLong": "1610578800"
+    }
+   },
+   {
+    "Tarih": "15-01-2021",
+    "TP_DK_USD_A_YTL": "7.38850000",
+    "UNIXTIME": {
+     "$numberLong": "1610665200"
+    }
+   },
+   {
+    "Tarih": "16-01-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1610751600"
+    }
+   },
+   {
+    "Tarih": "17-01-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1610838000"
+    }
+   },
+   {
+    "Tarih": "18-01-2021",
+    "TP_DK_USD_A_YTL": "7.38770000",
+    "UNIXTIME": {
+     "$numberLong": "1610924400"
+    }
+   },
+   {
+    "Tarih": "19-01-2021",
+    "TP_DK_USD_A_YTL": "7.49520000",
+    "UNIXTIME": {
+     "$numberLong": "1611010800"
+    }
+   },
+   {
+    "Tarih": "20-01-2021",
+    "TP_DK_USD_A_YTL": "7.44850000",
+    "UNIXTIME": {
+     "$numberLong": "1611097200"
+    }
+   },
+   {
+    "Tarih": "21-01-2021",
+    "TP_DK_USD_A_YTL": "7.43670000",
+    "UNIXTIME": {
+     "$numberLong": "1611183600"
+    }
+   },
+   {
+    "Tarih": "22-01-2021",
+    "TP_DK_USD_A_YTL": "7.38360000",
+    "UNIXTIME": {
+     "$numberLong": "1611270000"
+    }
+   },
+   {
+    "Tarih": "23-01-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1611356400"
+    }
+   },
+   {
+    "Tarih": "24-01-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1611442800"
+    }
+   },
+   {
+    "Tarih": "25-01-2021",
+    "TP_DK_USD_A_YTL": "7.39850000",
+    "UNIXTIME": {
+     "$numberLong": "1611529200"
+    }
+   },
+   {
+    "Tarih": "26-01-2021",
+    "TP_DK_USD_A_YTL": "7.37970000",
+    "UNIXTIME": {
+     "$numberLong": "1611615600"
+    }
+   },
+   {
+    "Tarih": "27-01-2021",
+    "TP_DK_USD_A_YTL": "7.38350000",
+    "UNIXTIME": {
+     "$numberLong": "1611702000"
+    }
+   },
+   {
+    "Tarih": "28-01-2021",
+    "TP_DK_USD_A_YTL": "7.35440000",
+    "UNIXTIME": {
+     "$numberLong": "1611788400"
+    }
+   },
+   {
+    "Tarih": "29-01-2021",
+    "TP_DK_USD_A_YTL": "7.37230000",
+    "UNIXTIME": {
+     "$numberLong": "1611874800"
+    }
+   },
+   {
+    "Tarih": "30-01-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1611961200"
+    }
+   },
+   {
+    "Tarih": "31-01-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1612047600"
+    }
+   },
+   {
+    "Tarih": "01-02-2021",
+    "TP_DK_USD_A_YTL": "7.32160000",
+    "UNIXTIME": {
+     "$numberLong": "1612134000"
+    }
+   },
+   {
+    "Tarih": "02-02-2021",
+    "TP_DK_USD_A_YTL": "7.21850000",
+    "UNIXTIME": {
+     "$numberLong": "1612220400"
+    }
+   },
+   {
+    "Tarih": "03-02-2021",
+    "TP_DK_USD_A_YTL": "7.13720000",
+    "UNIXTIME": {
+     "$numberLong": "1612306800"
+    }
+   },
+   {
+    "Tarih": "04-02-2021",
+    "TP_DK_USD_A_YTL": "7.14980000",
+    "UNIXTIME": {
+     "$numberLong": "1612393200"
+    }
+   },
+   {
+    "Tarih": "05-02-2021",
+    "TP_DK_USD_A_YTL": "7.13240000",
+    "UNIXTIME": {
+     "$numberLong": "1612479600"
+    }
+   },
+   {
+    "Tarih": "06-02-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1612566000"
+    }
+   },
+   {
+    "Tarih": "07-02-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1612652400"
+    }
+   },
+   {
+    "Tarih": "08-02-2021",
+    "TP_DK_USD_A_YTL": "7.07890000",
+    "UNIXTIME": {
+     "$numberLong": "1612738800"
+    }
+   },
+   {
+    "Tarih": "09-02-2021",
+    "TP_DK_USD_A_YTL": "7.06630000",
+    "UNIXTIME": {
+     "$numberLong": "1612825200"
+    }
+   },
+   {
+    "Tarih": "10-02-2021",
+    "TP_DK_USD_A_YTL": "7.08210000",
+    "UNIXTIME": {
+     "$numberLong": "1612911600"
+    }
+   },
+   {
+    "Tarih": "11-02-2021",
+    "TP_DK_USD_A_YTL": "7.05130000",
+    "UNIXTIME": {
+     "$numberLong": "1612998000"
+    }
+   },
+   {
+    "Tarih": "12-02-2021",
+    "TP_DK_USD_A_YTL": "7.04040000",
+    "UNIXTIME": {
+     "$numberLong": "1613084400"
+    }
+   },
+   {
+    "Tarih": "13-02-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1613170800"
+    }
+   },
+   {
+    "Tarih": "14-02-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1613257200"
+    }
+   },
+   {
+    "Tarih": "15-02-2021",
+    "TP_DK_USD_A_YTL": "7.01620000",
+    "UNIXTIME": {
+     "$numberLong": "1613343600"
+    }
+   },
+   {
+    "Tarih": "16-02-2021",
+    "TP_DK_USD_A_YTL": "6.97240000",
+    "UNIXTIME": {
+     "$numberLong": "1613430000"
+    }
+   },
+   {
+    "Tarih": "17-02-2021",
+    "TP_DK_USD_A_YTL": "6.91500000",
+    "UNIXTIME": {
+     "$numberLong": "1613516400"
+    }
+   },
+   {
+    "Tarih": "18-02-2021",
+    "TP_DK_USD_A_YTL": "7.00400000",
+    "UNIXTIME": {
+     "$numberLong": "1613602800"
+    }
+   },
+   {
+    "Tarih": "19-02-2021",
+    "TP_DK_USD_A_YTL": "6.95270000",
+    "UNIXTIME": {
+     "$numberLong": "1613689200"
+    }
+   },
+   {
+    "Tarih": "20-02-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1613775600"
+    }
+   },
+   {
+    "Tarih": "21-02-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1613862000"
+    }
+   },
+   {
+    "Tarih": "22-02-2021",
+    "TP_DK_USD_A_YTL": "6.96110000",
+    "UNIXTIME": {
+     "$numberLong": "1613948400"
+    }
+   },
+   {
+    "Tarih": "23-02-2021",
+    "TP_DK_USD_A_YTL": "6.99400000",
+    "UNIXTIME": {
+     "$numberLong": "1614034800"
+    }
+   },
+   {
+    "Tarih": "24-02-2021",
+    "TP_DK_USD_A_YTL": "7.02530000",
+    "UNIXTIME": {
+     "$numberLong": "1614121200"
+    }
+   },
+   {
+    "Tarih": "25-02-2021",
+    "TP_DK_USD_A_YTL": "7.13570000",
+    "UNIXTIME": {
+     "$numberLong": "1614207600"
+    }
+   },
+   {
+    "Tarih": "26-02-2021",
+    "TP_DK_USD_A_YTL": "7.19240000",
+    "UNIXTIME": {
+     "$numberLong": "1614294000"
+    }
+   },
+   {
+    "Tarih": "27-02-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1614380400"
+    }
+   },
+   {
+    "Tarih": "28-02-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1614466800"
+    }
+   },
+   {
+    "Tarih": "01-03-2021",
+    "TP_DK_USD_A_YTL": "7.37080000",
+    "UNIXTIME": {
+     "$numberLong": "1614553200"
+    }
+   },
+   {
+    "Tarih": "02-03-2021",
+    "TP_DK_USD_A_YTL": "7.30290000",
+    "UNIXTIME": {
+     "$numberLong": "1614639600"
+    }
+   },
+   {
+    "Tarih": "03-03-2021",
+    "TP_DK_USD_A_YTL": "7.31170000",
+    "UNIXTIME": {
+     "$numberLong": "1614726000"
+    }
+   },
+   {
+    "Tarih": "04-03-2021",
+    "TP_DK_USD_A_YTL": "7.33910000",
+    "UNIXTIME": {
+     "$numberLong": "1614812400"
+    }
+   },
+   {
+    "Tarih": "05-03-2021",
+    "TP_DK_USD_A_YTL": "7.45240000",
+    "UNIXTIME": {
+     "$numberLong": "1614898800"
+    }
+   },
+   {
+    "Tarih": "06-03-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1614985200"
+    }
+   },
+   {
+    "Tarih": "07-03-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1615071600"
+    }
+   },
+   {
+    "Tarih": "08-03-2021",
+    "TP_DK_USD_A_YTL": "7.50960000",
+    "UNIXTIME": {
+     "$numberLong": "1615158000"
+    }
+   },
+   {
+    "Tarih": "09-03-2021",
+    "TP_DK_USD_A_YTL": "7.59390000",
+    "UNIXTIME": {
+     "$numberLong": "1615244400"
+    }
+   },
+   {
+    "Tarih": "10-03-2021",
+    "TP_DK_USD_A_YTL": "7.64030000",
+    "UNIXTIME": {
+     "$numberLong": "1615330800"
+    }
+   },
+   {
+    "Tarih": "11-03-2021",
+    "TP_DK_USD_A_YTL": "7.59520000",
+    "UNIXTIME": {
+     "$numberLong": "1615417200"
+    }
+   },
+   {
+    "Tarih": "12-03-2021",
+    "TP_DK_USD_A_YTL": "7.44460000",
+    "UNIXTIME": {
+     "$numberLong": "1615503600"
+    }
+   },
+   {
+    "Tarih": "13-03-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1615590000"
+    }
+   },
+   {
+    "Tarih": "14-03-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1615676400"
+    }
+   },
+   {
+    "Tarih": "15-03-2021",
+    "TP_DK_USD_A_YTL": "7.57090000",
+    "UNIXTIME": {
+     "$numberLong": "1615762800"
+    }
+   },
+   {
+    "Tarih": "16-03-2021",
+    "TP_DK_USD_A_YTL": "7.53740000",
+    "UNIXTIME": {
+     "$numberLong": "1615849200"
+    }
+   },
+   {
+    "Tarih": "17-03-2021",
+    "TP_DK_USD_A_YTL": "7.50410000",
+    "UNIXTIME": {
+     "$numberLong": "1615935600"
+    }
+   },
+   {
+    "Tarih": "18-03-2021",
+    "TP_DK_USD_A_YTL": "7.49800000",
+    "UNIXTIME": {
+     "$numberLong": "1616022000"
+    }
+   },
+   {
+    "Tarih": "19-03-2021",
+    "TP_DK_USD_A_YTL": "7.45730000",
+    "UNIXTIME": {
+     "$numberLong": "1616108400"
+    }
+   },
+   {
+    "Tarih": "20-03-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1616194800"
+    }
+   },
+   {
+    "Tarih": "21-03-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1616281200"
+    }
+   },
+   {
+    "Tarih": "22-03-2021",
+    "TP_DK_USD_A_YTL": "7.26700000",
+    "UNIXTIME": {
+     "$numberLong": "1616367600"
+    }
+   },
+   {
+    "Tarih": "23-03-2021",
+    "TP_DK_USD_A_YTL": "7.90400000",
+    "UNIXTIME": {
+     "$numberLong": "1616454000"
+    }
+   },
+   {
+    "Tarih": "24-03-2021",
+    "TP_DK_USD_A_YTL": "7.80820000",
+    "UNIXTIME": {
+     "$numberLong": "1616540400"
+    }
+   },
+   {
+    "Tarih": "25-03-2021",
+    "TP_DK_USD_A_YTL": "7.96660000",
+    "UNIXTIME": {
+     "$numberLong": "1616626800"
+    }
+   },
+   {
+    "Tarih": "26-03-2021",
+    "TP_DK_USD_A_YTL": "7.94090000",
+    "UNIXTIME": {
+     "$numberLong": "1616713200"
+    }
+   },
+   {
+    "Tarih": "27-03-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1616799600"
+    }
+   },
+   {
+    "Tarih": "28-03-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1616886000"
+    }
+   },
+   {
+    "Tarih": "29-03-2021",
+    "TP_DK_USD_A_YTL": "7.98930000",
+    "UNIXTIME": {
+     "$numberLong": "1616968800"
+    }
+   },
+   {
+    "Tarih": "30-03-2021",
+    "TP_DK_USD_A_YTL": "8.11920000",
+    "UNIXTIME": {
+     "$numberLong": "1617055200"
+    }
+   },
+   {
+    "Tarih": "31-03-2021",
+    "TP_DK_USD_A_YTL": "8.32600000",
+    "UNIXTIME": {
+     "$numberLong": "1617152400"
+    }
+   },
+   {
+    "Tarih": "01-04-2021",
+    "TP_DK_USD_A_YTL": "8.32580000",
+    "UNIXTIME": {
+     "$numberLong": "1617224400"
+    }
+   },
+   {
+    "Tarih": "02-04-2021",
+    "TP_DK_USD_A_YTL": "8.17070000",
+    "UNIXTIME": {
+     "$numberLong": "1617310800"
+    }
+   },
+   {
+    "Tarih": "03-04-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1617397200"
+    }
+   },
+   {
+    "Tarih": "04-04-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1617483600"
+    }
+   },
+   {
+    "Tarih": "05-04-2021",
+    "TP_DK_USD_A_YTL": "8.03620000",
+    "UNIXTIME": {
+     "$numberLong": "1617570000"
+    }
+   },
+   {
+    "Tarih": "06-04-2021",
+    "TP_DK_USD_A_YTL": "8.13940000",
+    "UNIXTIME": {
+     "$numberLong": "1617656400"
+    }
+   },
+   {
+    "Tarih": "07-04-2021",
+    "TP_DK_USD_A_YTL": "8.14410000",
+    "UNIXTIME": {
+     "$numberLong": "1617742800"
+    }
+   },
+   {
+    "Tarih": "08-04-2021",
+    "TP_DK_USD_A_YTL": "8.16880000",
+    "UNIXTIME": {
+     "$numberLong": "1617829200"
+    }
+   },
+   {
+    "Tarih": "09-04-2021",
+    "TP_DK_USD_A_YTL": "8.15180000",
+    "UNIXTIME": {
+     "$numberLong": "1617915600"
+    }
+   },
+   {
+    "Tarih": "10-04-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1618002000"
+    }
+   },
+   {
+    "Tarih": "11-04-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1618088400"
+    }
+   },
+   {
+    "Tarih": "12-04-2021",
+    "TP_DK_USD_A_YTL": "8.13830000",
+    "UNIXTIME": {
+     "$numberLong": "1618174800"
+    }
+   },
+   {
+    "Tarih": "13-04-2021",
+    "TP_DK_USD_A_YTL": "8.16810000",
+    "UNIXTIME": {
+     "$numberLong": "1618261200"
+    }
+   },
+   {
+    "Tarih": "14-04-2021",
+    "TP_DK_USD_A_YTL": "8.13830000",
+    "UNIXTIME": {
+     "$numberLong": "1618347600"
+    }
+   },
+   {
+    "Tarih": "15-04-2021",
+    "TP_DK_USD_A_YTL": "8.07290000",
+    "UNIXTIME": {
+     "$numberLong": "1618434000"
+    }
+   },
+   {
+    "Tarih": "16-04-2021",
+    "TP_DK_USD_A_YTL": "8.05670000",
+    "UNIXTIME": {
+     "$numberLong": "1618520400"
+    }
+   },
+   {
+    "Tarih": "17-04-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1618606800"
+    }
+   },
+   {
+    "Tarih": "18-04-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1618693200"
+    }
+   },
+   {
+    "Tarih": "19-04-2021",
+    "TP_DK_USD_A_YTL": "8.05740000",
+    "UNIXTIME": {
+     "$numberLong": "1618779600"
+    }
+   },
+   {
+    "Tarih": "20-04-2021",
+    "TP_DK_USD_A_YTL": "8.05140000",
+    "UNIXTIME": {
+     "$numberLong": "1618866000"
+    }
+   },
+   {
+    "Tarih": "21-04-2021",
+    "TP_DK_USD_A_YTL": "8.10110000",
+    "UNIXTIME": {
+     "$numberLong": "1618952400"
+    }
+   },
+   {
+    "Tarih": "22-04-2021",
+    "TP_DK_USD_A_YTL": "8.14330000",
+    "UNIXTIME": {
+     "$numberLong": "1619038800"
+    }
+   },
+   {
+    "Tarih": "23-04-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1619125200"
+    }
+   },
+   {
+    "Tarih": "24-04-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1619211600"
+    }
+   },
+   {
+    "Tarih": "25-04-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1619298000"
+    }
+   },
+   {
+    "Tarih": "26-04-2021",
+    "TP_DK_USD_A_YTL": "8.26940000",
+    "UNIXTIME": {
+     "$numberLong": "1619384400"
+    }
+   },
+   {
+    "Tarih": "27-04-2021",
+    "TP_DK_USD_A_YTL": "8.32950000",
+    "UNIXTIME": {
+     "$numberLong": "1619470800"
+    }
+   },
+   {
+    "Tarih": "28-04-2021",
+    "TP_DK_USD_A_YTL": "8.23100000",
+    "UNIXTIME": {
+     "$numberLong": "1619557200"
+    }
+   },
+   {
+    "Tarih": "29-04-2021",
+    "TP_DK_USD_A_YTL": "8.18600000",
+    "UNIXTIME": {
+     "$numberLong": "1619643600"
+    }
+   },
+   {
+    "Tarih": "30-04-2021",
+    "TP_DK_USD_A_YTL": "8.17530000",
+    "UNIXTIME": {
+     "$numberLong": "1619730000"
+    }
+   },
+   {
+    "Tarih": "01-05-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1619816400"
+    }
+   },
+   {
+    "Tarih": "02-05-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1619902800"
+    }
+   },
+   {
+    "Tarih": "03-05-2021",
+    "TP_DK_USD_A_YTL": "8.23110000",
+    "UNIXTIME": {
+     "$numberLong": "1619989200"
+    }
+   },
+   {
+    "Tarih": "04-05-2021",
+    "TP_DK_USD_A_YTL": "8.29200000",
+    "UNIXTIME": {
+     "$numberLong": "1620075600"
+    }
+   },
+   {
+    "Tarih": "05-05-2021",
+    "TP_DK_USD_A_YTL": "8.30910000",
+    "UNIXTIME": {
+     "$numberLong": "1620162000"
+    }
+   },
+   {
+    "Tarih": "06-05-2021",
+    "TP_DK_USD_A_YTL": "8.34000000",
+    "UNIXTIME": {
+     "$numberLong": "1620248400"
+    }
+   },
+   {
+    "Tarih": "07-05-2021",
+    "TP_DK_USD_A_YTL": "8.30620000",
+    "UNIXTIME": {
+     "$numberLong": "1620334800"
+    }
+   },
+   {
+    "Tarih": "08-05-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1620421200"
+    }
+   },
+   {
+    "Tarih": "09-05-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1620507600"
+    }
+   },
+   {
+    "Tarih": "10-05-2021",
+    "TP_DK_USD_A_YTL": "8.27300000",
+    "UNIXTIME": {
+     "$numberLong": "1620594000"
+    }
+   },
+   {
+    "Tarih": "11-05-2021",
+    "TP_DK_USD_A_YTL": "8.24570000",
+    "UNIXTIME": {
+     "$numberLong": "1620680400"
+    }
+   },
+   {
+    "Tarih": "12-05-2021",
+    "TP_DK_USD_A_YTL": "8.28670000",
+    "UNIXTIME": {
+     "$numberLong": "1620766800"
+    }
+   },
+   {
+    "Tarih": "13-05-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1620853200"
+    }
+   },
+   {
+    "Tarih": "14-05-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1620939600"
+    }
+   },
+   {
+    "Tarih": "15-05-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1621026000"
+    }
+   },
+   {
+    "Tarih": "16-05-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1621112400"
+    }
+   },
+   {
+    "Tarih": "17-05-2021",
+    "TP_DK_USD_A_YTL": "8.28670000",
+    "UNIXTIME": {
+     "$numberLong": "1621198800"
+    }
+   },
+   {
+    "Tarih": "18-05-2021",
+    "TP_DK_USD_A_YTL": "8.34690000",
+    "UNIXTIME": {
+     "$numberLong": "1621285200"
+    }
+   },
+   {
+    "Tarih": "19-05-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1621371600"
+    }
+   },
+   {
+    "Tarih": "20-05-2021",
+    "TP_DK_USD_A_YTL": "8.32810000",
+    "UNIXTIME": {
+     "$numberLong": "1621458000"
+    }
+   },
+   {
+    "Tarih": "21-05-2021",
+    "TP_DK_USD_A_YTL": "8.36890000",
+    "UNIXTIME": {
+     "$numberLong": "1621544400"
+    }
+   },
+   {
+    "Tarih": "22-05-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1621630800"
+    }
+   },
+   {
+    "Tarih": "23-05-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1621717200"
+    }
+   },
+   {
+    "Tarih": "24-05-2021",
+    "TP_DK_USD_A_YTL": "8.35540000",
+    "UNIXTIME": {
+     "$numberLong": "1621803600"
+    }
+   },
+   {
+    "Tarih": "25-05-2021",
+    "TP_DK_USD_A_YTL": "8.38110000",
+    "UNIXTIME": {
+     "$numberLong": "1621890000"
+    }
+   },
+   {
+    "Tarih": "26-05-2021",
+    "TP_DK_USD_A_YTL": "8.39470000",
+    "UNIXTIME": {
+     "$numberLong": "1621976400"
+    }
+   },
+   {
+    "Tarih": "27-05-2021",
+    "TP_DK_USD_A_YTL": "8.43300000",
+    "UNIXTIME": {
+     "$numberLong": "1622062800"
+    }
+   },
+   {
+    "Tarih": "28-05-2021",
+    "TP_DK_USD_A_YTL": "8.43230000",
+    "UNIXTIME": {
+     "$numberLong": "1622149200"
+    }
+   },
+   {
+    "Tarih": "29-05-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1622235600"
+    }
+   },
+   {
+    "Tarih": "30-05-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1622322000"
+    }
+   },
+   {
+    "Tarih": "31-05-2021",
+    "TP_DK_USD_A_YTL": "8.54960000",
+    "UNIXTIME": {
+     "$numberLong": "1622408400"
+    }
+   },
+   {
+    "Tarih": "01-06-2021",
+    "TP_DK_USD_A_YTL": "8.49900000",
+    "UNIXTIME": {
+     "$numberLong": "1622494800"
+    }
+   },
+   {
+    "Tarih": "02-06-2021",
+    "TP_DK_USD_A_YTL": "8.50320000",
+    "UNIXTIME": {
+     "$numberLong": "1622581200"
+    }
+   },
+   {
+    "Tarih": "03-06-2021",
+    "TP_DK_USD_A_YTL": "8.60660000",
+    "UNIXTIME": {
+     "$numberLong": "1622667600"
+    }
+   },
+   {
+    "Tarih": "04-06-2021",
+    "TP_DK_USD_A_YTL": "8.62310000",
+    "UNIXTIME": {
+     "$numberLong": "1622754000"
+    }
+   },
+   {
+    "Tarih": "05-06-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1622840400"
+    }
+   },
+   {
+    "Tarih": "06-06-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1622926800"
+    }
+   },
+   {
+    "Tarih": "07-06-2021",
+    "TP_DK_USD_A_YTL": "8.68200000",
+    "UNIXTIME": {
+     "$numberLong": "1623013200"
+    }
+   },
+   {
+    "Tarih": "08-06-2021",
+    "TP_DK_USD_A_YTL": "8.62010000",
+    "UNIXTIME": {
+     "$numberLong": "1623099600"
+    }
+   },
+   {
+    "Tarih": "09-06-2021",
+    "TP_DK_USD_A_YTL": "8.58910000",
+    "UNIXTIME": {
+     "$numberLong": "1623186000"
+    }
+   },
+   {
+    "Tarih": "10-06-2021",
+    "TP_DK_USD_A_YTL": "8.57500000",
+    "UNIXTIME": {
+     "$numberLong": "1623272400"
+    }
+   },
+   {
+    "Tarih": "11-06-2021",
+    "TP_DK_USD_A_YTL": "8.53130000",
+    "UNIXTIME": {
+     "$numberLong": "1623358800"
+    }
+   },
+   {
+    "Tarih": "12-06-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1623445200"
+    }
+   },
+   {
+    "Tarih": "13-06-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1623531600"
+    }
+   },
+   {
+    "Tarih": "14-06-2021",
+    "TP_DK_USD_A_YTL": "8.35470000",
+    "UNIXTIME": {
+     "$numberLong": "1623618000"
+    }
+   },
+   {
+    "Tarih": "15-06-2021",
+    "TP_DK_USD_A_YTL": "8.33740000",
+    "UNIXTIME": {
+     "$numberLong": "1623704400"
+    }
+   },
+   {
+    "Tarih": "16-06-2021",
+    "TP_DK_USD_A_YTL": "8.54740000",
+    "UNIXTIME": {
+     "$numberLong": "1623790800"
+    }
+   },
+   {
+    "Tarih": "17-06-2021",
+    "TP_DK_USD_A_YTL": "8.52180000",
+    "UNIXTIME": {
+     "$numberLong": "1623877200"
+    }
+   },
+   {
+    "Tarih": "18-06-2021",
+    "TP_DK_USD_A_YTL": "8.62430000",
+    "UNIXTIME": {
+     "$numberLong": "1623963600"
+    }
+   },
+   {
+    "Tarih": "19-06-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1624050000"
+    }
+   },
+   {
+    "Tarih": "20-06-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1624136400"
+    }
+   },
+   {
+    "Tarih": "21-06-2021",
+    "TP_DK_USD_A_YTL": "8.66460000",
+    "UNIXTIME": {
+     "$numberLong": "1624222800"
+    }
+   },
+   {
+    "Tarih": "22-06-2021",
+    "TP_DK_USD_A_YTL": "8.74970000",
+    "UNIXTIME": {
+     "$numberLong": "1624309200"
+    }
+   },
+   {
+    "Tarih": "23-06-2021",
+    "TP_DK_USD_A_YTL": "8.72020000",
+    "UNIXTIME": {
+     "$numberLong": "1624395600"
+    }
+   },
+   {
+    "Tarih": "24-06-2021",
+    "TP_DK_USD_A_YTL": "8.61390000",
+    "UNIXTIME": {
+     "$numberLong": "1624482000"
+    }
+   },
+   {
+    "Tarih": "25-06-2021",
+    "TP_DK_USD_A_YTL": "8.65930000",
+    "UNIXTIME": {
+     "$numberLong": "1624568400"
+    }
+   },
+   {
+    "Tarih": "26-06-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1624654800"
+    }
+   },
+   {
+    "Tarih": "27-06-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1624741200"
+    }
+   },
+   {
+    "Tarih": "28-06-2021",
+    "TP_DK_USD_A_YTL": "8.67720000",
+    "UNIXTIME": {
+     "$numberLong": "1624827600"
+    }
+   },
+   {
+    "Tarih": "29-06-2021",
+    "TP_DK_USD_A_YTL": "8.72190000",
+    "UNIXTIME": {
+     "$numberLong": "1624914000"
+    }
+   },
+   {
+    "Tarih": "30-06-2021",
+    "TP_DK_USD_A_YTL": "8.70520000",
+    "UNIXTIME": {
+     "$numberLong": "1625000400"
+    }
+   },
+   {
+    "Tarih": "01-07-2021",
+    "TP_DK_USD_A_YTL": "8.68030000",
+    "UNIXTIME": {
+     "$numberLong": "1625086800"
+    }
+   },
+   {
+    "Tarih": "02-07-2021",
+    "TP_DK_USD_A_YTL": "8.67680000",
+    "UNIXTIME": {
+     "$numberLong": "1625173200"
+    }
+   },
+   {
+    "Tarih": "03-07-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1625259600"
+    }
+   },
+   {
+    "Tarih": "04-07-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1625346000"
+    }
+   },
+   {
+    "Tarih": "05-07-2021",
+    "TP_DK_USD_A_YTL": "8.67970000",
+    "UNIXTIME": {
+     "$numberLong": "1625432400"
+    }
+   },
+   {
+    "Tarih": "06-07-2021",
+    "TP_DK_USD_A_YTL": "8.66500000",
+    "UNIXTIME": {
+     "$numberLong": "1625518800"
+    }
+   },
+   {
+    "Tarih": "07-07-2021",
+    "TP_DK_USD_A_YTL": "8.65150000",
+    "UNIXTIME": {
+     "$numberLong": "1625605200"
+    }
+   },
+   {
+    "Tarih": "08-07-2021",
+    "TP_DK_USD_A_YTL": "8.66570000",
+    "UNIXTIME": {
+     "$numberLong": "1625691600"
+    }
+   },
+   {
+    "Tarih": "09-07-2021",
+    "TP_DK_USD_A_YTL": "8.68670000",
+    "UNIXTIME": {
+     "$numberLong": "1625778000"
+    }
+   },
+   {
+    "Tarih": "10-07-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1625864400"
+    }
+   },
+   {
+    "Tarih": "11-07-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1625950800"
+    }
+   },
+   {
+    "Tarih": "12-07-2021",
+    "TP_DK_USD_A_YTL": "8.67150000",
+    "UNIXTIME": {
+     "$numberLong": "1626037200"
+    }
+   },
+   {
+    "Tarih": "13-07-2021",
+    "TP_DK_USD_A_YTL": "8.63190000",
+    "UNIXTIME": {
+     "$numberLong": "1626123600"
+    }
+   },
+   {
+    "Tarih": "14-07-2021",
+    "TP_DK_USD_A_YTL": "8.60330000",
+    "UNIXTIME": {
+     "$numberLong": "1626210000"
+    }
+   },
+   {
+    "Tarih": "15-07-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1626296400"
+    }
+   },
+   {
+    "Tarih": "16-07-2021",
+    "TP_DK_USD_A_YTL": "8.61230000",
+    "UNIXTIME": {
+     "$numberLong": "1626382800"
+    }
+   },
+   {
+    "Tarih": "17-07-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1626469200"
+    }
+   },
+   {
+    "Tarih": "18-07-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1626555600"
+    }
+   },
+   {
+    "Tarih": "19-07-2021",
+    "TP_DK_USD_A_YTL": "8.50990000",
+    "UNIXTIME": {
+     "$numberLong": "1626642000"
+    }
+   },
+   {
+    "Tarih": "20-07-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1626728400"
+    }
+   },
+   {
+    "Tarih": "21-07-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1626814800"
+    }
+   },
+   {
+    "Tarih": "22-07-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1626901200"
+    }
+   },
+   {
+    "Tarih": "23-07-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1626987600"
+    }
+   },
+   {
+    "Tarih": "24-07-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1627074000"
+    }
+   },
+   {
+    "Tarih": "25-07-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1627160400"
+    }
+   },
+   {
+    "Tarih": "26-07-2021",
+    "TP_DK_USD_A_YTL": "8.50990000",
+    "UNIXTIME": {
+     "$numberLong": "1627246800"
+    }
+   },
+   {
+    "Tarih": "27-07-2021",
+    "TP_DK_USD_A_YTL": "8.57300000",
+    "UNIXTIME": {
+     "$numberLong": "1627333200"
+    }
+   },
+   {
+    "Tarih": "28-07-2021",
+    "TP_DK_USD_A_YTL": "8.56040000",
+    "UNIXTIME": {
+     "$numberLong": "1627419600"
+    }
+   },
+   {
+    "Tarih": "29-07-2021",
+    "TP_DK_USD_A_YTL": "8.54460000",
+    "UNIXTIME": {
+     "$numberLong": "1627506000"
+    }
+   },
+   {
+    "Tarih": "30-07-2021",
+    "TP_DK_USD_A_YTL": "8.49750000",
+    "UNIXTIME": {
+     "$numberLong": "1627592400"
+    }
+   },
+   {
+    "Tarih": "31-07-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1627678800"
+    }
+   },
+   {
+    "Tarih": "01-08-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1627765200"
+    }
+   },
+   {
+    "Tarih": "02-08-2021",
+    "TP_DK_USD_A_YTL": "8.41390000",
+    "UNIXTIME": {
+     "$numberLong": "1627851600"
+    }
+   },
+   {
+    "Tarih": "03-08-2021",
+    "TP_DK_USD_A_YTL": "8.38500000",
+    "UNIXTIME": {
+     "$numberLong": "1627938000"
+    }
+   },
+   {
+    "Tarih": "04-08-2021",
+    "TP_DK_USD_A_YTL": "8.32290000",
+    "UNIXTIME": {
+     "$numberLong": "1628024400"
+    }
+   },
+   {
+    "Tarih": "05-08-2021",
+    "TP_DK_USD_A_YTL": "8.41930000",
+    "UNIXTIME": {
+     "$numberLong": "1628110800"
+    }
+   },
+   {
+    "Tarih": "06-08-2021",
+    "TP_DK_USD_A_YTL": "8.52620000",
+    "UNIXTIME": {
+     "$numberLong": "1628197200"
+    }
+   },
+   {
+    "Tarih": "07-08-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1628283600"
+    }
+   },
+   {
+    "Tarih": "08-08-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1628370000"
+    }
+   },
+   {
+    "Tarih": "09-08-2021",
+    "TP_DK_USD_A_YTL": "8.56190000",
+    "UNIXTIME": {
+     "$numberLong": "1628456400"
+    }
+   },
+   {
+    "Tarih": "10-08-2021",
+    "TP_DK_USD_A_YTL": "8.64260000",
+    "UNIXTIME": {
+     "$numberLong": "1628542800"
+    }
+   },
+   {
+    "Tarih": "11-08-2021",
+    "TP_DK_USD_A_YTL": "8.62050000",
+    "UNIXTIME": {
+     "$numberLong": "1628629200"
+    }
+   },
+   {
+    "Tarih": "12-08-2021",
+    "TP_DK_USD_A_YTL": "8.62440000",
+    "UNIXTIME": {
+     "$numberLong": "1628715600"
+    }
+   },
+   {
+    "Tarih": "13-08-2021",
+    "TP_DK_USD_A_YTL": "8.57230000",
+    "UNIXTIME": {
+     "$numberLong": "1628802000"
+    }
+   },
+   {
+    "Tarih": "14-08-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1628888400"
+    }
+   },
+   {
+    "Tarih": "15-08-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1628974800"
+    }
+   },
+   {
+    "Tarih": "16-08-2021",
+    "TP_DK_USD_A_YTL": "8.53590000",
+    "UNIXTIME": {
+     "$numberLong": "1629061200"
+    }
+   },
+   {
+    "Tarih": "17-08-2021",
+    "TP_DK_USD_A_YTL": "8.46810000",
+    "UNIXTIME": {
+     "$numberLong": "1629147600"
+    }
+   },
+   {
+    "Tarih": "18-08-2021",
+    "TP_DK_USD_A_YTL": "8.41410000",
+    "UNIXTIME": {
+     "$numberLong": "1629234000"
+    }
+   },
+   {
+    "Tarih": "19-08-2021",
+    "TP_DK_USD_A_YTL": "8.46320000",
+    "UNIXTIME": {
+     "$numberLong": "1629320400"
+    }
+   },
+   {
+    "Tarih": "20-08-2021",
+    "TP_DK_USD_A_YTL": "8.51110000",
+    "UNIXTIME": {
+     "$numberLong": "1629406800"
+    }
+   },
+   {
+    "Tarih": "21-08-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1629493200"
+    }
+   },
+   {
+    "Tarih": "22-08-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1629579600"
+    }
+   },
+   {
+    "Tarih": "23-08-2021",
+    "TP_DK_USD_A_YTL": "8.52540000",
+    "UNIXTIME": {
+     "$numberLong": "1629666000"
+    }
+   },
+   {
+    "Tarih": "24-08-2021",
+    "TP_DK_USD_A_YTL": "8.45720000",
+    "UNIXTIME": {
+     "$numberLong": "1629752400"
+    }
+   },
+   {
+    "Tarih": "25-08-2021",
+    "TP_DK_USD_A_YTL": "8.41320000",
+    "UNIXTIME": {
+     "$numberLong": "1629838800"
+    }
+   },
+   {
+    "Tarih": "26-08-2021",
+    "TP_DK_USD_A_YTL": "8.37970000",
+    "UNIXTIME": {
+     "$numberLong": "1629925200"
+    }
+   },
+   {
+    "Tarih": "27-08-2021",
+    "TP_DK_USD_A_YTL": "8.35780000",
+    "UNIXTIME": {
+     "$numberLong": "1630011600"
+    }
+   },
+   {
+    "Tarih": "28-08-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1630098000"
+    }
+   },
+   {
+    "Tarih": "29-08-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1630184400"
+    }
+   },
+   {
+    "Tarih": "30-08-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1630270800"
+    }
+   },
+   {
+    "Tarih": "31-08-2021",
+    "TP_DK_USD_A_YTL": "8.37530000",
+    "UNIXTIME": {
+     "$numberLong": "1630357200"
+    }
+   },
+   {
+    "Tarih": "01-09-2021",
+    "TP_DK_USD_A_YTL": "8.30430000",
+    "UNIXTIME": {
+     "$numberLong": "1630443600"
+    }
+   },
+   {
+    "Tarih": "02-09-2021",
+    "TP_DK_USD_A_YTL": "8.28760000",
+    "UNIXTIME": {
+     "$numberLong": "1630530000"
+    }
+   },
+   {
+    "Tarih": "03-09-2021",
+    "TP_DK_USD_A_YTL": "8.26330000",
+    "UNIXTIME": {
+     "$numberLong": "1630616400"
+    }
+   },
+   {
+    "Tarih": "04-09-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1630702800"
+    }
+   },
+   {
+    "Tarih": "05-09-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1630789200"
+    }
+   },
+   {
+    "Tarih": "06-09-2021",
+    "TP_DK_USD_A_YTL": "8.29500000",
+    "UNIXTIME": {
+     "$numberLong": "1630875600"
+    }
+   },
+   {
+    "Tarih": "07-09-2021",
+    "TP_DK_USD_A_YTL": "8.27670000",
+    "UNIXTIME": {
+     "$numberLong": "1630962000"
+    }
+   },
+   {
+    "Tarih": "08-09-2021",
+    "TP_DK_USD_A_YTL": "8.29810000",
+    "UNIXTIME": {
+     "$numberLong": "1631048400"
+    }
+   },
+   {
+    "Tarih": "09-09-2021",
+    "TP_DK_USD_A_YTL": "8.40630000",
+    "UNIXTIME": {
+     "$numberLong": "1631134800"
+    }
+   },
+   {
+    "Tarih": "10-09-2021",
+    "TP_DK_USD_A_YTL": "8.46550000",
+    "UNIXTIME": {
+     "$numberLong": "1631221200"
+    }
+   },
+   {
+    "Tarih": "11-09-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1631307600"
+    }
+   },
+   {
+    "Tarih": "12-09-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1631394000"
+    }
+   },
+   {
+    "Tarih": "13-09-2021",
+    "TP_DK_USD_A_YTL": "8.40440000",
+    "UNIXTIME": {
+     "$numberLong": "1631480400"
+    }
+   },
+   {
+    "Tarih": "14-09-2021",
+    "TP_DK_USD_A_YTL": "8.44410000",
+    "UNIXTIME": {
+     "$numberLong": "1631566800"
+    }
+   },
+   {
+    "Tarih": "15-09-2021",
+    "TP_DK_USD_A_YTL": "8.43140000",
+    "UNIXTIME": {
+     "$numberLong": "1631653200"
+    }
+   },
+   {
+    "Tarih": "16-09-2021",
+    "TP_DK_USD_A_YTL": "8.42720000",
+    "UNIXTIME": {
+     "$numberLong": "1631739600"
+    }
+   },
+   {
+    "Tarih": "17-09-2021",
+    "TP_DK_USD_A_YTL": "8.44020000",
+    "UNIXTIME": {
+     "$numberLong": "1631826000"
+    }
+   },
+   {
+    "Tarih": "18-09-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1631912400"
+    }
+   },
+   {
+    "Tarih": "19-09-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1631998800"
+    }
+   },
+   {
+    "Tarih": "20-09-2021",
+    "TP_DK_USD_A_YTL": "8.56780000",
+    "UNIXTIME": {
+     "$numberLong": "1632085200"
+    }
+   },
+   {
+    "Tarih": "21-09-2021",
+    "TP_DK_USD_A_YTL": "8.66480000",
+    "UNIXTIME": {
+     "$numberLong": "1632171600"
+    }
+   },
+   {
+    "Tarih": "22-09-2021",
+    "TP_DK_USD_A_YTL": "8.63010000",
+    "UNIXTIME": {
+     "$numberLong": "1632258000"
+    }
+   },
+   {
+    "Tarih": "23-09-2021",
+    "TP_DK_USD_A_YTL": "8.63490000",
+    "UNIXTIME": {
+     "$numberLong": "1632344400"
+    }
+   },
+   {
+    "Tarih": "24-09-2021",
+    "TP_DK_USD_A_YTL": "8.65840000",
+    "UNIXTIME": {
+     "$numberLong": "1632430800"
+    }
+   },
+   {
+    "Tarih": "25-09-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1632517200"
+    }
+   },
+   {
+    "Tarih": "26-09-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1632603600"
+    }
+   },
+   {
+    "Tarih": "27-09-2021",
+    "TP_DK_USD_A_YTL": "8.82400000",
+    "UNIXTIME": {
+     "$numberLong": "1632690000"
+    }
+   },
+   {
+    "Tarih": "28-09-2021",
+    "TP_DK_USD_A_YTL": "8.83550000",
+    "UNIXTIME": {
+     "$numberLong": "1632776400"
+    }
+   },
+   {
+    "Tarih": "29-09-2021",
+    "TP_DK_USD_A_YTL": "8.85850000",
+    "UNIXTIME": {
+     "$numberLong": "1632862800"
+    }
+   },
+   {
+    "Tarih": "30-09-2021",
+    "TP_DK_USD_A_YTL": "8.84330000",
+    "UNIXTIME": {
+     "$numberLong": "1632949200"
+    }
+   },
+   {
+    "Tarih": "01-10-2021",
+    "TP_DK_USD_A_YTL": "8.87850000",
+    "UNIXTIME": {
+     "$numberLong": "1633035600"
+    }
+   },
+   {
+    "Tarih": "02-10-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1633122000"
+    }
+   },
+   {
+    "Tarih": "03-10-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1633208400"
+    }
+   },
+   {
+    "Tarih": "04-10-2021",
+    "TP_DK_USD_A_YTL": "8.84690000",
+    "UNIXTIME": {
+     "$numberLong": "1633294800"
+    }
+   },
+   {
+    "Tarih": "05-10-2021",
+    "TP_DK_USD_A_YTL": "8.85220000",
+    "UNIXTIME": {
+     "$numberLong": "1633381200"
+    }
+   },
+   {
+    "Tarih": "06-10-2021",
+    "TP_DK_USD_A_YTL": "8.84440000",
+    "UNIXTIME": {
+     "$numberLong": "1633467600"
+    }
+   },
+   {
+    "Tarih": "07-10-2021",
+    "TP_DK_USD_A_YTL": "8.90650000",
+    "UNIXTIME": {
+     "$numberLong": "1633554000"
+    }
+   },
+   {
+    "Tarih": "08-10-2021",
+    "TP_DK_USD_A_YTL": "8.86090000",
+    "UNIXTIME": {
+     "$numberLong": "1633640400"
+    }
+   },
+   {
+    "Tarih": "09-10-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1633726800"
+    }
+   },
+   {
+    "Tarih": "10-10-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1633813200"
+    }
+   },
+   {
+    "Tarih": "11-10-2021",
+    "TP_DK_USD_A_YTL": "8.89820000",
+    "UNIXTIME": {
+     "$numberLong": "1633899600"
+    }
+   },
+   {
+    "Tarih": "12-10-2021",
+    "TP_DK_USD_A_YTL": "8.93670000",
+    "UNIXTIME": {
+     "$numberLong": "1633986000"
+    }
+   },
+   {
+    "Tarih": "13-10-2021",
+    "TP_DK_USD_A_YTL": "8.99960000",
+    "UNIXTIME": {
+     "$numberLong": "1634072400"
+    }
+   },
+   {
+    "Tarih": "14-10-2021",
+    "TP_DK_USD_A_YTL": "9.02220000",
+    "UNIXTIME": {
+     "$numberLong": "1634158800"
+    }
+   },
+   {
+    "Tarih": "15-10-2021",
+    "TP_DK_USD_A_YTL": "9.14160000",
+    "UNIXTIME": {
+     "$numberLong": "1634245200"
+    }
+   },
+   {
+    "Tarih": "16-10-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1634331600"
+    }
+   },
+   {
+    "Tarih": "17-10-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1634418000"
+    }
+   },
+   {
+    "Tarih": "18-10-2021",
+    "TP_DK_USD_A_YTL": "9.19930000",
+    "UNIXTIME": {
+     "$numberLong": "1634504400"
+    }
+   },
+   {
+    "Tarih": "19-10-2021",
+    "TP_DK_USD_A_YTL": "9.26670000",
+    "UNIXTIME": {
+     "$numberLong": "1634590800"
+    }
+   },
+   {
+    "Tarih": "20-10-2021",
+    "TP_DK_USD_A_YTL": "9.28450000",
+    "UNIXTIME": {
+     "$numberLong": "1634677200"
+    }
+   },
+   {
+    "Tarih": "21-10-2021",
+    "TP_DK_USD_A_YTL": "9.31400000",
+    "UNIXTIME": {
+     "$numberLong": "1634763600"
+    }
+   },
+   {
+    "Tarih": "22-10-2021",
+    "TP_DK_USD_A_YTL": "9.28570000",
+    "UNIXTIME": {
+     "$numberLong": "1634850000"
+    }
+   },
+   {
+    "Tarih": "23-10-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1634936400"
+    }
+   },
+   {
+    "Tarih": "24-10-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1635022800"
+    }
+   },
+   {
+    "Tarih": "25-10-2021",
+    "TP_DK_USD_A_YTL": "9.58600000",
+    "UNIXTIME": {
+     "$numberLong": "1635109200"
+    }
+   },
+   {
+    "Tarih": "26-10-2021",
+    "TP_DK_USD_A_YTL": "9.73620000",
+    "UNIXTIME": {
+     "$numberLong": "1635195600"
+    }
+   },
+   {
+    "Tarih": "27-10-2021",
+    "TP_DK_USD_A_YTL": "9.45750000",
+    "UNIXTIME": {
+     "$numberLong": "1635282000"
+    }
+   },
+   {
+    "Tarih": "28-10-2021",
+    "TP_DK_USD_A_YTL": "9.48130000",
+    "UNIXTIME": {
+     "$numberLong": "1635368400"
+    }
+   },
+   {
+    "Tarih": "29-10-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1635454800"
+    }
+   },
+   {
+    "Tarih": "30-10-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1635541200"
+    }
+   },
+   {
+    "Tarih": "31-10-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1635627600"
+    }
+   },
+   {
+    "Tarih": "01-11-2021",
+    "TP_DK_USD_A_YTL": "9.48130000",
+    "UNIXTIME": {
+     "$numberLong": "1635714000"
+    }
+   },
+   {
+    "Tarih": "02-11-2021",
+    "TP_DK_USD_A_YTL": "9.52870000",
+    "UNIXTIME": {
+     "$numberLong": "1635800400"
+    }
+   },
+   {
+    "Tarih": "03-11-2021",
+    "TP_DK_USD_A_YTL": "9.51710000",
+    "UNIXTIME": {
+     "$numberLong": "1635886800"
+    }
+   },
+   {
+    "Tarih": "04-11-2021",
+    "TP_DK_USD_A_YTL": "9.65700000",
+    "UNIXTIME": {
+     "$numberLong": "1635973200"
+    }
+   },
+   {
+    "Tarih": "05-11-2021",
+    "TP_DK_USD_A_YTL": "9.68840000",
+    "UNIXTIME": {
+     "$numberLong": "1636059600"
+    }
+   },
+   {
+    "Tarih": "06-11-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1636146000"
+    }
+   },
+   {
+    "Tarih": "07-11-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1636232400"
+    }
+   },
+   {
+    "Tarih": "08-11-2021",
+    "TP_DK_USD_A_YTL": "9.70000000",
+    "UNIXTIME": {
+     "$numberLong": "1636318800"
+    }
+   },
+   {
+    "Tarih": "09-11-2021",
+    "TP_DK_USD_A_YTL": "9.68480000",
+    "UNIXTIME": {
+     "$numberLong": "1636405200"
+    }
+   },
+   {
+    "Tarih": "10-11-2021",
+    "TP_DK_USD_A_YTL": "9.70290000",
+    "UNIXTIME": {
+     "$numberLong": "1636491600"
+    }
+   },
+   {
+    "Tarih": "11-11-2021",
+    "TP_DK_USD_A_YTL": "9.78120000",
+    "UNIXTIME": {
+     "$numberLong": "1636578000"
+    }
+   },
+   {
+    "Tarih": "12-11-2021",
+    "TP_DK_USD_A_YTL": "9.91700000",
+    "UNIXTIME": {
+     "$numberLong": "1636664400"
+    }
+   },
+   {
+    "Tarih": "13-11-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1636750800"
+    }
+   },
+   {
+    "Tarih": "14-11-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1636837200"
+    }
+   },
+   {
+    "Tarih": "15-11-2021",
+    "TP_DK_USD_A_YTL": "9.91050000",
+    "UNIXTIME": {
+     "$numberLong": "1636923600"
+    }
+   },
+   {
+    "Tarih": "16-11-2021",
+    "TP_DK_USD_A_YTL": "9.98040000",
+    "UNIXTIME": {
+     "$numberLong": "1637010000"
+    }
+   },
+   {
+    "Tarih": "17-11-2021",
+    "TP_DK_USD_A_YTL": "10.16710000",
+    "UNIXTIME": {
+     "$numberLong": "1637096400"
+    }
+   },
+   {
+    "Tarih": "18-11-2021",
+    "TP_DK_USD_A_YTL": "10.39930000",
+    "UNIXTIME": {
+     "$numberLong": "1637182800"
+    }
+   },
+   {
+    "Tarih": "19-11-2021",
+    "TP_DK_USD_A_YTL": "10.69630000",
+    "UNIXTIME": {
+     "$numberLong": "1637269200"
+    }
+   },
+   {
+    "Tarih": "20-11-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1637355600"
+    }
+   },
+   {
+    "Tarih": "21-11-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1637442000"
+    }
+   },
+   {
+    "Tarih": "22-11-2021",
+    "TP_DK_USD_A_YTL": "11.02660000",
+    "UNIXTIME": {
+     "$numberLong": "1637528400"
+    }
+   },
+   {
+    "Tarih": "23-11-2021",
+    "TP_DK_USD_A_YTL": "11.17120000",
+    "UNIXTIME": {
+     "$numberLong": "1637614800"
+    }
+   },
+   {
+    "Tarih": "24-11-2021",
+    "TP_DK_USD_A_YTL": "12.15560000",
+    "UNIXTIME": {
+     "$numberLong": "1637701200"
+    }
+   },
+   {
+    "Tarih": "25-11-2021",
+    "TP_DK_USD_A_YTL": "12.60820000",
+    "UNIXTIME": {
+     "$numberLong": "1637787600"
+    }
+   },
+   {
+    "Tarih": "26-11-2021",
+    "TP_DK_USD_A_YTL": "12.00010000",
+    "UNIXTIME": {
+     "$numberLong": "1637874000"
+    }
+   },
+   {
+    "Tarih": "27-11-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1637960400"
+    }
+   },
+   {
+    "Tarih": "28-11-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1638046800"
+    }
+   },
+   {
+    "Tarih": "29-11-2021",
+    "TP_DK_USD_A_YTL": "12.07860000",
+    "UNIXTIME": {
+     "$numberLong": "1638133200"
+    }
+   },
+   {
+    "Tarih": "30-11-2021",
+    "TP_DK_USD_A_YTL": "12.65950000",
+    "UNIXTIME": {
+     "$numberLong": "1638219600"
+    }
+   },
+   {
+    "Tarih": "01-12-2021",
+    "TP_DK_USD_A_YTL": "12.93870000",
+    "UNIXTIME": {
+     "$numberLong": "1638306000"
+    }
+   },
+   {
+    "Tarih": "02-12-2021",
+    "TP_DK_USD_A_YTL": "13.33630000",
+    "UNIXTIME": {
+     "$numberLong": "1638392400"
+    }
+   },
+   {
+    "Tarih": "03-12-2021",
+    "TP_DK_USD_A_YTL": "13.40670000",
+    "UNIXTIME": {
+     "$numberLong": "1638478800"
+    }
+   },
+   {
+    "Tarih": "04-12-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1638565200"
+    }
+   },
+   {
+    "Tarih": "05-12-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1638651600"
+    }
+   },
+   {
+    "Tarih": "06-12-2021",
+    "TP_DK_USD_A_YTL": "13.68010000",
+    "UNIXTIME": {
+     "$numberLong": "1638738000"
+    }
+   },
+   {
+    "Tarih": "07-12-2021",
+    "TP_DK_USD_A_YTL": "13.77400000",
+    "UNIXTIME": {
+     "$numberLong": "1638824400"
+    }
+   },
+   {
+    "Tarih": "08-12-2021",
+    "TP_DK_USD_A_YTL": "13.66670000",
+    "UNIXTIME": {
+     "$numberLong": "1638910800"
+    }
+   },
+   {
+    "Tarih": "09-12-2021",
+    "TP_DK_USD_A_YTL": "13.62410000",
+    "UNIXTIME": {
+     "$numberLong": "1638997200"
+    }
+   },
+   {
+    "Tarih": "10-12-2021",
+    "TP_DK_USD_A_YTL": "13.74320000",
+    "UNIXTIME": {
+     "$numberLong": "1639083600"
+    }
+   },
+   {
+    "Tarih": "11-12-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1639170000"
+    }
+   },
+   {
+    "Tarih": "12-12-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1639256400"
+    }
+   },
+   {
+    "Tarih": "13-12-2021",
+    "TP_DK_USD_A_YTL": "13.83460000",
+    "UNIXTIME": {
+     "$numberLong": "1639342800"
+    }
+   },
+   {
+    "Tarih": "14-12-2021",
+    "TP_DK_USD_A_YTL": "14.24650000",
+    "UNIXTIME": {
+     "$numberLong": "1639429200"
+    }
+   },
+   {
+    "Tarih": "15-12-2021",
+    "TP_DK_USD_A_YTL": "14.17450000",
+    "UNIXTIME": {
+     "$numberLong": "1639515600"
+    }
+   },
+   {
+    "Tarih": "16-12-2021",
+    "TP_DK_USD_A_YTL": "14.63500000",
+    "UNIXTIME": {
+     "$numberLong": "1639602000"
+    }
+   },
+   {
+    "Tarih": "17-12-2021",
+    "TP_DK_USD_A_YTL": "15.21180000",
+    "UNIXTIME": {
+     "$numberLong": "1639688400"
+    }
+   },
+   {
+    "Tarih": "18-12-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1639774800"
+    }
+   },
+   {
+    "Tarih": "19-12-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1639861200"
+    }
+   },
+   {
+    "Tarih": "20-12-2021",
+    "TP_DK_USD_A_YTL": "16.33580000",
+    "UNIXTIME": {
+     "$numberLong": "1639947600"
+    }
+   },
+   {
+    "Tarih": "21-12-2021",
+    "TP_DK_USD_A_YTL": "17.47310000",
+    "UNIXTIME": {
+     "$numberLong": "1640034000"
+    }
+   },
+   {
+    "Tarih": "22-12-2021",
+    "TP_DK_USD_A_YTL": "13.02260000",
+    "UNIXTIME": {
+     "$numberLong": "1640120400"
+    }
+   },
+   {
+    "Tarih": "23-12-2021",
+    "TP_DK_USD_A_YTL": "12.45350000",
+    "UNIXTIME": {
+     "$numberLong": "1640206800"
+    }
+   },
+   {
+    "Tarih": "24-12-2021",
+    "TP_DK_USD_A_YTL": "11.45080000",
+    "UNIXTIME": {
+     "$numberLong": "1640293200"
+    }
+   },
+   {
+    "Tarih": "25-12-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1640379600"
+    }
+   },
+   {
+    "Tarih": "26-12-2021",
+    "TP_DK_USD_A_YTL": null,
+    "UNIXTIME": {
+     "$numberLong": "1640466000"
+    }
+   },
+   {
+    "Tarih": "27-12-2021",
+    "TP_DK_USD_A_YTL": "11.72780000",
+    "UNIXTIME": {
+     "$numberLong": "1640552400"
+    }
+   },
+   {
+    "Tarih": "28-12-2021",
+    "TP_DK_USD_A_YTL": "11.39000000",
+    "UNIXTIME": {
+     "$numberLong": "1640638800"
+    }
+   },
+   {
+    "Tarih": "29-12-2021",
+    "TP_DK_USD_A_YTL": "11.83020000",
+    "UNIXTIME": {
+     "$numberLong": "1640725200"
+    }
+   },
+   {
+    "Tarih": "30-12-2021",
+    "TP_DK_USD_A_YTL": "12.22190000",
+    "UNIXTIME": {
+     "$numberLong": "1640811600"
+    }
+   },
+   {
+    "Tarih": "31-12-2021",
+    "TP_DK_USD_A_YTL": "12.97750000",
+    "UNIXTIME": {
+     "$numberLong": "1640898000"
+    }
+   }
+  ]
+ }
+}
